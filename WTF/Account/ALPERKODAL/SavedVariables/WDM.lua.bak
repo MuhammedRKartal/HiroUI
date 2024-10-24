@@ -1,0 +1,10 @@
+
+WDMdb = {
+	["profileKeys"] = {
+		["Vardendi - Icecrown"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

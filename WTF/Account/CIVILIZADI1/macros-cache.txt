@@ -1,0 +1,46 @@
+MACRO 5 "Accept Invite" INV_Misc_QuestionMark
+/run AcceptGroup()
+END
+MACRO 3 "Alch" INV_Misc_QuestionMark
+#show Alchemy
+/cast Alchemy
+/run local skills = {"Transmute: Cardinal Ruby", "Transmute: King's Amber", "Transmute: Ametrine"} for i=1,GetNumTradeSkills() do if tContains(skills, GetTradeSkillInfo(i)) then DoTradeSkill(i) end end
+/script OpenAllBags()
+END
+MACRO 9 "Exit Vehicle" INV_Misc_QuestionMark
+/run VehicleExit()
+END
+MACRO 7 "Find Group" INV_Misc_QuestionMark
+/click LFDRoleCheckPopupAcceptButton
+/click LFDDungeonReadyDialogEnterDungeonButton
+/run LFGTeleport(IsInLFGDungeon())
+END
+MACRO 1 "flood" INV_Misc_QuestionMark
+/join global
+/floodmsg Direktori He fought a duel for 5k gold and lost, cursed and ran away. 
+/floodchan 5
+/floodrate 60
+/flood
+END
+MACRO 6 "Follow" INV_Misc_QuestionMark
+/follow Mayiascend
+END
+MACRO 8 "Invite" INV_Misc_QuestionMark
+/invite Mayikiss
+/invite Cezzarged
+/invite Fokzeynep
+/invite Fatalfire
+END
+MACRO 2 "Jewel" INV_Misc_QuestionMark
+#showtooltip Jewelcrafting
+/cast Jewelcrafting
+/run for i=1,GetNumTradeSkills() do if GetTradeSkillInfo(i)=="Icy Prism" then CloseTradeSkill() DoTradeSkill(i) break end end
+/use Icy Prism
+/script OpenAllBags();
+END
+MACRO 4 "ss" INV_Misc_QuestionMark
+/run local f = CreateFrame("frame",nil,UIParent); f:SetScript("OnUpdate",CombatLogClearEntries);
+END
+MACRO 10 "SSC" INV_Misc_QuestionMark
+/run SendChatMessage(format("[%s (Achievement)]",694),"say")
+END

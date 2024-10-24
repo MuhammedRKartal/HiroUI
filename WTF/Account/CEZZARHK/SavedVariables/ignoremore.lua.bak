@@ -1,0 +1,44 @@
+
+IgM_SV = {
+	["enabled"] = true,
+	["list"] = {
+		["Icecrown-Alliance"] = {
+			["C_3667436"] = {
+				["time"] = 1718555254,
+				["reason"] = "From Haydutkadri's system ignore list",
+			},
+			["Ninagodx"] = {
+				["time"] = 1718555254,
+				["reason"] = "From Haydutkadri's system ignore list",
+			},
+			["Azshera"] = {
+				["time"] = 1718555254,
+				["reason"] = "From Haydutkadri's system ignore list",
+			},
+			["Kuchiha"] = {
+				["time"] = 1718555254,
+				["reason"] = "From Haydutkadri's system ignore list",
+			},
+			["Slaagt"] = {
+				["time"] = 1718555254,
+				["reason"] = "From Haydutkadri's system ignore list",
+			},
+			["Wedri"] = {
+				["time"] = 1718555254,
+				["reason"] = "From Haydutkadri's system ignore list",
+			},
+			["Proedrarhs"] = {
+				["time"] = 1718555254,
+				["reason"] = "From Haydutkadri's system ignore list",
+			},
+			["Worldbestx"] = {
+				["time"] = 1718555254,
+				["reason"] = "From Haydutkadri's system ignore list",
+			},
+			["Luksa"] = {
+				["time"] = 1718555254,
+				["reason"] = "From Haydutkadri's system ignore list",
+			},
+		},
+	},
+}

@@ -1,0 +1,6 @@
+
+TidyPlatesOptions = {
+	["primary"] = "Grey/Tank",
+	["autohide"] = 1,
+	["secondary"] = "Grey/Tank",
+}

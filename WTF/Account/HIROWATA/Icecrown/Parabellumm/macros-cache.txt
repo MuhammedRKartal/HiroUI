@@ -1,0 +1,24 @@
+MACRO 16777217 "CDhunter" Ability_Hunter_RunningShot
+/cast Rapid Fire
+/cast Berserking(Racial)
+/cast Furious Howl
+/cast Kill Command
+/use Mark of Supremacy
+/cast Call of the Wild
+/petattackt
+/cast Rabid
+/cast !Auto Shot
+END
+MACRO 16777220 "md focus" Ability_Creature_Cursed_04
+/cast [@focus] Misdirectionw
+/cast Misdirection
+END
+MACRO 16777219 "MULTI" Ability_Mage_ArcaneBarrage
+/cast Multi-shot
+/cast !Auto Shot
+END
+MACRO 16777218 "Serpent" Ability_Hunter_Quickshot
+/run for i=1,GetNumTrackingTypes() do local n, t, a, c = GetTrackingInfo(i); if string.find(n, UnitCreatureType("target")) then if t~=GetTrackingTexture(i) then SetTracking(i); end end end
+/cast Serpent Sting
+/petdefensive
+END

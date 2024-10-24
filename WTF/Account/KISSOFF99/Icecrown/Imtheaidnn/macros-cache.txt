@@ -1,0 +1,11 @@
+MACRO 16777219 "VuhDoDCShieldData" Ability_Hunter_MasterMarksman
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1RM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+MACRO 16777220 "VuhDoDCShieldNames" Ability_Hunter_MasterMarksman
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Imt[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+MACRO 16777217 "x" INV_Misc_QuestionMark
+/cast [@mouseover] Tricks of the Trade
+END
+MACRO 16777218 "x" INV_Misc_QuestionMark
+END

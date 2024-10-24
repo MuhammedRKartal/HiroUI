@@ -1,0 +1,11 @@
+## Interface: 30300
+## Title: ToC_Assignments
+## Notes: Assign roles in Trial of the Crusader
+## Author: Druth
+## Version: 1.0
+## SavedVariables: ToC_AssignmentsDB
+## Dependencies:
+
+ToC_Assignments.lua
+core.lua
+minimap_button.lua

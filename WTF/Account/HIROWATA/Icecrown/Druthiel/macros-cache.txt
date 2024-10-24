@@ -1,0 +1,109 @@
+MACRO 16777227 "Bash" INV_Misc_QuestionMark
+#showtooltip Shield Bash
+/cancelaura Bladestorm
+/equipslot 16 Wrathful Gladiator's Cleaver
+/equipslot 17 Wrathful Gladiator's Shield Wall
+/cast Shield Bash
+END
+MACRO 16777232 "Block" INV_Misc_QuestionMark
+#showtooltip Shield Block
+/cast Defensive Stance
+/equip Wrathful Gladiator's Shield Wall
+/equip Wrathful Gladiator's Cleaver
+/cast Shield Block
+END
+MACRO 16777241 "Charge" INV_Misc_QuestionMark
+#showtooltip Charge
+/equip Shadowmourne
+/cast Battle Stance
+/cast Charge
+END
+MACRO 16777230 "Decurse" INV_Misc_QuestionMark
+#showtooltip Shield Slam
+/equipslot 16 Shadowmourne
+/equipslot 17 Wrathful Gladiator's Shield Wall
+/cast Shield Slam(Rank 8)
+END
+MACRO 16777219 "Disarm" INV_Misc_QuestionMark
+#showtooltip Disarm
+/cast Defensive Stance
+/cast Disarm
+END
+MACRO 16777236 "Focus" INV_Misc_QuestionMark
+#showtooltip Shield Bash
+/cancelaura Bladestorm
+/equipslot 16 Wrathful Gladiator's Cleaver
+/equipslot 17 Wrathful Gladiator's Shield Wall
+/cast [@focus, exists, nodead] [] Shield Bash
+END
+MACRO 16777225 "Focus" INV_Misc_QuestionMark
+#showtooltip Pummel
+/cast Berserker Stance
+/cast [@focus, exists, nodead] [] Pummel
+END
+MACRO 16777240 "Intercept" INV_Misc_QuestionMark
+#showtooltip Intercept
+/equip Shadowmourne
+/cast Berserker Stance
+/cast Intercept
+/cancelaura Chaos Bane
+/cancelaura BladeStorm
+/cast Heroic Throw
+END
+MACRO 16777239 "Intervene" INV_Misc_QuestionMark
+#showtooltip Intervene
+/cast Defensive Stance
+/cast [@party1] intervene
+END
+MACRO 16777228 "Mortal" INV_Misc_QuestionMark
+#showtooltip Mortal Strike
+/startattack
+/cast !Mortal Strike
+END
+MACRO 16777238 "Pummel" INV_Misc_QuestionMark
+#showtooltip Pummel
+/cast Berserker Stance
+/use Pummel
+/cancelaura BladeStorm
+END
+MACRO 16777231 "Recklessness" INV_Misc_QuestionMark
+#showtooltip Recklessness
+/cast Berserker Stance
+/cast Recklessness
+END
+MACRO 16777234 "Reflect" INV_Misc_QuestionMark
+#showtooltip Spell Reflection
+/equip Wrathful Gladiator's Shield Wall
+/cast Defensive Stance
+/cast Spell Reflection
+END
+MACRO 16777237 "Retaliation" INV_Misc_QuestionMark
+#showtooltip Retaliation
+/cast Battle Stance
+/cast Retaliation
+END
+MACRO 16777224 "Revenge" INV_Misc_QuestionMark
+#showtooltip Revenge(Rank 9)
+/cast Revenge(Rank 9)
+/cast Heroic Strike(Rank 13)
+/cancelaura Hand of Protection
+END
+MACRO 16777235 "Shattering" INV_Misc_QuestionMark
+#showtooltip Shattering Throw
+/cast Battle Stance
+/cast Shattering Throw
+END
+MACRO 16777218 "slam" INV_Misc_QuestionMark
+#showtooltip Slam(Rank 8)
+/cast Slam
+/use 10
+/cancelaura Hand of Protection
+/cancelaura Power World: Shield
+END
+MACRO 16777220 "Wall" INV_Misc_QuestionMark
+#showtooltip Shield Wall
+/cast Defensive Stance
+/equipslot 17 Neverending Winter
+/equipslot 16 Black Icicle 
+/cast Shield Wall
+END

@@ -1,0 +1,8 @@
+WeakAurasCompanion: enabled
+WeakAurasArchive: enabled
+XPerl_TeamSpeak: disabled
+XPerl_Options: enabled
+BuyEmAllClassic: disabled
+TellMeWhen: disabled
+Grid2: disabled
+NugComboBar: enabled

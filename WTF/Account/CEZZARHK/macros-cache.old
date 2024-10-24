@@ -1,0 +1,67 @@
+MACRO 19 "a" Ability_Creature_Disease_04
+/run local f = CreateFrame("frame",nil,UIParent); f:SetScript("OnUpdate",CombatLogClearEntries);
+END
+MACRO 38 "Accept" INV_Misc_QuestionMark
+#showtooltip Shadow Resistance
+/script AcceptGroup();
+/script AcceptQuest();
+/script AcceptTrade()
+END
+MACRO 37 "Assist" Ability_Suffocate
+/assist Oboxa
+END
+MACRO 43 "Dispell" INV_Misc_QuestionMark
+#showtooltip
+/cast [target=Gyomeii] Dispel Magic
+END
+MACRO 36 "Follow" INV_Misc_QuestionMark
+/follow Oboxa
+END
+MACRO 39 "Horn" INV_Misc_QuestionMark
+/cast Horn of Winter(Rank 2)
+/use Bone Shield
+END
+MACRO 35 "Invite" Ability_Vehicle_ElectroCharge
+/inv Oboxb
+/inv Oboxc
+/inv Oboxd
+END
+MACRO 31 "Lacerate" INV_Misc_QuestionMark
+/startattack
+/cast Lacerate
+/cast Maul
+END
+MACRO 32 "Mangle" INV_Misc_QuestionMark
+/startattack
+/cast Mangle (Bear)(Rank 5)
+/cast Maul
+END
+MACRO 30 "Maul" INV_Misc_QuestionMark
+/startattack
+/cast Faerie Fire (Feral)
+/cast Maul
+END
+MACRO 41 "Pain" INV_Misc_QuestionMark
+#showtooltip
+/cast [target=Reiila] Pain Suppression
+END
+MACRO 40 "Penance" INV_Misc_QuestionMark
+#showtooltip
+/use [@mouseover, help] Penance
+END
+MACRO 44 "PI" INV_Misc_QuestionMark
+#showtooltip
+/cast [target=Reiila] Power Infusion
+END
+MACRO 42 "Prayer" INV_Misc_QuestionMark
+#showtooltip
+/cast [@mouseover] Prayer of Healing
+END
+MACRO 45 "Rebirth" INV_Misc_QuestionMark
+#showtooltip Flash of Light
+/cast [@mouseover, help][@target, help][@player]  Rebirth(Rank 7)
+END
+MACRO 34 "Wicked" INV_Misc_QuestionMark
+/target Wicked spirit
+/cast Mind Sear
+END

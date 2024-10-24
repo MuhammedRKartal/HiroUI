@@ -1,0 +1,10 @@
+
+SkadaCharDB = {
+	[0] = {
+		["starttime"] = 1716742554,
+		["actors"] = {
+		},
+		["name"] = "Total",
+		["time"] = 0,
+	},
+}

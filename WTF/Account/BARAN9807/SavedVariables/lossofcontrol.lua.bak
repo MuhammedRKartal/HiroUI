@@ -1,0 +1,19 @@
+
+LossOfControlDB = {
+	["profileKeys"] = {
+		["Enayi - Icecrown"] = "Enayi - Icecrown",
+	},
+	["char"] = {
+		["Enayi - Icecrown"] = {
+			["myVal"] = {
+				["locale"] = "enUS",
+				["Root"] = 2,
+				["Disarm"] = 2,
+				["Silence"] = 2,
+				["Interrupt"] = 2,
+				["Full"] = 2,
+				["Loss Of Control Alerts"] = true,
+			},
+		},
+	},
+}

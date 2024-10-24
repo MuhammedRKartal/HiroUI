@@ -1,0 +1,10 @@
+
+PaladinBuffAssignerDB = {
+	["profileKeys"] = {
+		["Mayiread - Icecrown"] = "Mayiread - Icecrown",
+	},
+	["profiles"] = {
+		["Mayiread - Icecrown"] = {
+		},
+	},
+}

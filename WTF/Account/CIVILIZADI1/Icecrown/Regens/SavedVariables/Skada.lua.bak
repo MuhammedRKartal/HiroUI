@@ -1,0 +1,2226 @@
+
+SkadaCharDB = {
+	["total"] = {
+		["players"] = {
+			{
+				["id"] = "0x0700000000577559",
+				["class"] = "DRUID",
+				["mana"] = 20572,
+				["overkill"] = 955805,
+				["totaldamage"] = 967234,
+				["role"] = "DAMAGER",
+				["time"] = 138.67,
+				["flag"] = 1297,
+				["name"] = "Mayiride",
+				["spec"] = 102,
+				["damage"] = 967234,
+			}, -- [1]
+		},
+		["mana"] = 20572,
+		["overkill"] = 955805,
+		["totaldamage"] = 967234,
+		["time"] = 162,
+		["starttime"] = 1674142093,
+		["name"] = "Total",
+		["damage"] = 967234,
+	},
+	["sets"] = {
+		{
+			["mana"] = 556,
+			["enemies"] = {
+				{
+					["id"] = "0xF1300079A8001D8E",
+					["name"] = "Grandmaster's Training Dummy",
+					["totaldamagetaken"] = 8824,
+					["flag"] = 68136,
+					["class"] = "MONSTER",
+					["damagetaken"] = 8824,
+					["damagetakenspells"] = {
+						[48463] = {
+							["sources"] = {
+								["Mayiride"] = {
+									["total"] = 4823,
+									["overkill"] = 4811,
+									["amount"] = 4823,
+								},
+							},
+							["amount"] = 4823,
+							["school"] = 64,
+							["total"] = 4823,
+							["overkill"] = 4811,
+						},
+						[48468] = {
+							["sources"] = {
+								["Mayiride"] = {
+									["total"] = 4001,
+									["overkill"] = 3989,
+									["amount"] = 4001,
+								},
+							},
+							["amount"] = 4001,
+							["school"] = 8,
+							["total"] = 4001,
+							["overkill"] = 3989,
+						},
+					},
+				}, -- [1]
+			},
+			["totaldamage"] = 8824,
+			["time"] = 10,
+			["etotaldamagetaken"] = 8824,
+			["damage"] = 8824,
+			["players"] = {
+				{
+					["last"] = 132325.807,
+					["flag"] = 1297,
+					["mana"] = 556,
+					["auras"] = {
+						[75473] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 1,
+							["uptime"] = 4,
+						},
+						[48468] = {
+							["type"] = "DEBUFF",
+							["count"] = 1,
+							["school"] = 8,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["uptime"] = 9,
+									["count"] = 1,
+								},
+							},
+							["uptime"] = 9,
+						},
+						[24907] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 10,
+						},
+						[16886] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 3,
+						},
+						[48463] = {
+							["type"] = "DEBUFF",
+							["count"] = 1,
+							["school"] = 64,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["uptime"] = 10,
+									["count"] = 1,
+								},
+							},
+							["uptime"] = 10,
+						},
+						[71177] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 8,
+							["refresh"] = 2,
+							["uptime"] = 7,
+						},
+						[48421] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 10,
+						},
+						[24858] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 10,
+						},
+					},
+					["time"] = 9.23,
+					["damage"] = 8824,
+					["damagespells"] = {
+						["Insect Swarm (DoT)"] = {
+							["total"] = 4001,
+							["hitmin"] = 1000,
+							["id"] = 48468,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["total"] = 4001,
+									["overkill"] = 3989,
+									["amount"] = 4001,
+								},
+							},
+							["overkill"] = 3989,
+							["count"] = 4,
+							["hit"] = 4,
+							["school"] = 8,
+							["hitmax"] = 1001,
+							["amount"] = 4001,
+							["hitamount"] = 4001,
+						},
+						["Moonfire"] = {
+							["total"] = 645,
+							["criticalamount"] = 645,
+							["id"] = 48463,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["total"] = 645,
+									["overkill"] = 642,
+									["amount"] = 645,
+								},
+							},
+							["overkill"] = 642,
+							["casts"] = 1,
+							["count"] = 1,
+							["amount"] = 645,
+							["school"] = 64,
+							["criticalmin"] = 645,
+							["criticalmax"] = 645,
+							["critical"] = 1,
+						},
+						["Moonfire (DoT)"] = {
+							["total"] = 4178,
+							["hitmin"] = 1392,
+							["id"] = 48463,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["total"] = 4178,
+									["overkill"] = 4169,
+									["amount"] = 4178,
+								},
+							},
+							["overkill"] = 4169,
+							["count"] = 3,
+							["hit"] = 3,
+							["school"] = 64,
+							["hitmax"] = 1393,
+							["amount"] = 4178,
+							["hitamount"] = 4178,
+						},
+					},
+					["id"] = "0x0700000000577559",
+					["spec"] = 102,
+					["overkill"] = 8800,
+					["name"] = "Mayiride",
+					["totaldamage"] = 8824,
+					["class"] = "DRUID",
+					["manaspells"] = {
+						[53506] = 556,
+					},
+					["role"] = "DAMAGER",
+				}, -- [1]
+			},
+			["type"] = "none",
+			["overkill"] = 8800,
+			["edamagetaken"] = 8824,
+			["name"] = "Grandmaster's Training Dummy (9)",
+			["mobname"] = "Grandmaster's Training Dummy",
+			["starttime"] = 1674142703,
+			["last_action"] = 1674142713,
+			["endtime"] = 1674142713,
+		}, -- [1]
+		{
+			["mana"] = 10008,
+			["enemies"] = {
+				{
+					["id"] = "0xF1300079A8001D8E",
+					["name"] = "Grandmaster's Training Dummy",
+					["totaldamagetaken"] = 322203,
+					["flag"] = 68136,
+					["class"] = "MONSTER",
+					["damagetaken"] = 322203,
+					["damagetakenspells"] = {
+						[48461] = {
+							["sources"] = {
+								["Mayiride"] = {
+									["total"] = 263321,
+									["overkill"] = 263222,
+									["amount"] = 263321,
+								},
+							},
+							["amount"] = 263321,
+							["school"] = 8,
+							["total"] = 263321,
+							["overkill"] = 263222,
+						},
+						[48463] = {
+							["sources"] = {
+								["Mayiride"] = {
+									["total"] = 13160,
+									["overkill"] = 13133,
+									["amount"] = 13160,
+								},
+							},
+							["amount"] = 13160,
+							["school"] = 64,
+							["total"] = 13160,
+							["overkill"] = 13133,
+						},
+						[48465] = {
+							["sources"] = {
+								["Mayiride"] = {
+									["total"] = 25300,
+									["overkill"] = 25294,
+									["amount"] = 25300,
+								},
+							},
+							["amount"] = 25300,
+							["school"] = 64,
+							["total"] = 25300,
+							["overkill"] = 25294,
+						},
+						[71023] = {
+							["sources"] = {
+								["Mayiride"] = {
+									["total"] = 12637,
+									["overkill"] = 12604,
+									["amount"] = 12637,
+								},
+							},
+							["amount"] = 12637,
+							["school"] = 8,
+							["total"] = 12637,
+							["overkill"] = 12604,
+						},
+						[48468] = {
+							["sources"] = {
+								["Mayiride"] = {
+									["total"] = 7785,
+									["overkill"] = 7764,
+									["amount"] = 7785,
+								},
+							},
+							["amount"] = 7785,
+							["school"] = 8,
+							["total"] = 7785,
+							["overkill"] = 7764,
+						},
+					},
+				}, -- [1]
+				{
+					["id"] = "0xF130007F9A001D94",
+					["name"] = "Expert's Training Dummy",
+					["totaldamagetaken"] = 3671,
+					["flag"] = 68136,
+					["class"] = "MONSTER",
+					["damagetaken"] = 3671,
+					["damagetakenspells"] = {
+						[48468] = {
+							["sources"] = {
+								["Mayiride"] = {
+									["total"] = 3671,
+									["overkill"] = 3668,
+									["amount"] = 3671,
+								},
+							},
+							["amount"] = 3671,
+							["school"] = 8,
+							["total"] = 3671,
+							["overkill"] = 3668,
+						},
+					},
+				}, -- [2]
+			},
+			["totaldamage"] = 325874,
+			["time"] = 54,
+			["etotaldamagetaken"] = 325874,
+			["damage"] = 325874,
+			["players"] = {
+				{
+					["last"] = 132292.22,
+					["flag"] = 1297,
+					["mana"] = 10008,
+					["auras"] = {
+						[60433] = {
+							["type"] = "DEBUFF",
+							["count"] = 1,
+							["school"] = 64,
+							["refresh"] = 34,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["count"] = 1,
+									["refresh"] = 34,
+									["uptime"] = 50,
+								},
+							},
+							["uptime"] = 50,
+						},
+						[48463] = {
+							["type"] = "DEBUFF",
+							["count"] = 1,
+							["school"] = 64,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["uptime"] = 8,
+									["count"] = 1,
+								},
+							},
+							["uptime"] = 8,
+						},
+						[24858] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 54,
+						},
+						[24907] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 54,
+						},
+						[16886] = {
+							["type"] = "BUFF",
+							["count"] = 7,
+							["refresh"] = 11,
+							["school"] = 8,
+							["uptime"] = 40,
+						},
+						[48518] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 1,
+							["uptime"] = 15,
+						},
+						[48421] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 54,
+						},
+						[72416] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 64,
+							["uptime"] = 10,
+						},
+						[55637] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 2,
+							["uptime"] = 15,
+						},
+						[70721] = {
+							["type"] = "BUFF",
+							["count"] = 2,
+							["school"] = 32,
+							["refresh"] = 6,
+							["uptime"] = 30,
+						},
+						[48468] = {
+							["type"] = "DEBUFF",
+							["count"] = 2,
+							["school"] = 8,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["uptime"] = 15,
+									["count"] = 1,
+								},
+								["Expert's Training Dummy"] = {
+									["uptime"] = 7,
+									["count"] = 1,
+								},
+							},
+							["uptime"] = 22,
+						},
+						[48517] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 1,
+							["uptime"] = 15,
+						},
+						[75473] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 1,
+							["uptime"] = 15,
+						},
+						[16870] = {
+							["type"] = "BUFF",
+							["count"] = 8,
+							["school"] = 8,
+							["uptime"] = 4,
+						},
+						[71023] = {
+							["type"] = "DEBUFF",
+							["count"] = 1,
+							["school"] = 8,
+							["refresh"] = 15,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["count"] = 1,
+									["refresh"] = 15,
+									["uptime"] = 36,
+								},
+							},
+							["uptime"] = 36,
+						},
+						[71177] = {
+							["type"] = "BUFF",
+							["count"] = 2,
+							["refresh"] = 12,
+							["school"] = 8,
+							["uptime"] = 35,
+						},
+					},
+					["time"] = 52.92000000000002,
+					["damage"] = 325874,
+					["damagespells"] = {
+						["Insect Swarm (DoT)"] = {
+							["total"] = 11456,
+							["hitmin"] = 1000,
+							["id"] = 48468,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["total"] = 7785,
+									["overkill"] = 7764,
+									["amount"] = 7785,
+								},
+								["Expert's Training Dummy"] = {
+									["total"] = 3671,
+									["overkill"] = 3668,
+									["amount"] = 3671,
+								},
+							},
+							["overkill"] = 11432,
+							["casts"] = 2,
+							["count"] = 10,
+							["hit"] = 10,
+							["school"] = 8,
+							["hitmax"] = 1224,
+							["amount"] = 11456,
+							["hitamount"] = 11456,
+						},
+						["Wrath"] = {
+							["hitmax"] = 7943,
+							["total"] = 263321,
+							["hitmin"] = 4040,
+							["criticalamount"] = 163847,
+							["id"] = 48461,
+							["critical"] = 15,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["total"] = 263321,
+									["overkill"] = 263222,
+									["amount"] = 263321,
+								},
+							},
+							["overkill"] = 263222,
+							["hit"] = 18,
+							["casts"] = 32,
+							["count"] = 33,
+							["amount"] = 263321,
+							["school"] = 8,
+							["criticalmin"] = 7601,
+							["criticalmax"] = 16580,
+							["hitamount"] = 99474,
+						},
+						["Moonfire (DoT)"] = {
+							["total"] = 11561,
+							["hitmin"] = 1393,
+							["id"] = 48463,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["total"] = 11561,
+									["overkill"] = 11540,
+									["amount"] = 11561,
+								},
+							},
+							["overkill"] = 11540,
+							["count"] = 7,
+							["hit"] = 7,
+							["school"] = 64,
+							["hitmax"] = 1938,
+							["amount"] = 11561,
+							["hitamount"] = 11561,
+						},
+						["Languish (DoT)"] = {
+							["total"] = 12637,
+							["hitmin"] = 266,
+							["id"] = 71023,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["total"] = 12637,
+									["overkill"] = 12604,
+									["amount"] = 12637,
+								},
+							},
+							["overkill"] = 12604,
+							["count"] = 11,
+							["hit"] = 11,
+							["school"] = 8,
+							["hitmax"] = 1888,
+							["amount"] = 12637,
+							["hitamount"] = 12637,
+						},
+						["Moonfire"] = {
+							["total"] = 1599,
+							["criticalamount"] = 1599,
+							["id"] = 48463,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["total"] = 1599,
+									["overkill"] = 1593,
+									["amount"] = 1599,
+								},
+							},
+							["overkill"] = 1593,
+							["casts"] = 2,
+							["count"] = 2,
+							["amount"] = 1599,
+							["school"] = 64,
+							["criticalmin"] = 659,
+							["criticalmax"] = 940,
+							["critical"] = 2,
+						},
+						["Starfire"] = {
+							["hitmax"] = 8363,
+							["total"] = 25300,
+							["hitmin"] = 8363,
+							["criticalamount"] = 16937,
+							["id"] = 48465,
+							["critical"] = 1,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["total"] = 25300,
+									["overkill"] = 25294,
+									["amount"] = 25300,
+								},
+							},
+							["overkill"] = 25294,
+							["hit"] = 1,
+							["casts"] = 1,
+							["count"] = 2,
+							["amount"] = 25300,
+							["school"] = 64,
+							["criticalmin"] = 16937,
+							["criticalmax"] = 16937,
+							["hitamount"] = 8363,
+						},
+					},
+					["id"] = "0x0700000000577559",
+					["spec"] = 102,
+					["overkill"] = 325685,
+					["name"] = "Mayiride",
+					["totaldamage"] = 325874,
+					["class"] = "DRUID",
+					["manaspells"] = {
+						[53506] = 10008,
+					},
+					["role"] = "DAMAGER",
+				}, -- [1]
+			},
+			["type"] = "none",
+			["overkill"] = 325685,
+			["edamagetaken"] = 325874,
+			["name"] = "Grandmaster's Training Dummy (8)",
+			["mobname"] = "Grandmaster's Training Dummy",
+			["starttime"] = 1674142626,
+			["last_action"] = 1674142679,
+			["endtime"] = 1674142680,
+		}, -- [2]
+		{
+			["mana"] = 556,
+			["enemies"] = {
+				{
+					["id"] = "0xF1300079A8001D8E",
+					["name"] = "Grandmaster's Training Dummy",
+					["totaldamagetaken"] = 56143,
+					["flag"] = 68136,
+					["class"] = "MONSTER",
+					["damagetaken"] = 56143,
+					["damagetakenspells"] = {
+						[48463] = {
+							["sources"] = {
+								["Mayiride"] = {
+									["total"] = 12765,
+									["overkill"] = 12741,
+									["amount"] = 12765,
+								},
+							},
+							["amount"] = 12765,
+							["school"] = 64,
+							["total"] = 12765,
+							["overkill"] = 12741,
+						},
+						[53190] = {
+							["sources"] = {
+								["Mayiride"] = {
+									["total"] = 14294,
+									["overkill"] = 14267,
+									["amount"] = 14294,
+								},
+							},
+							["amount"] = 14294,
+							["school"] = 64,
+							["total"] = 14294,
+							["overkill"] = 14267,
+						},
+						[53195] = {
+							["sources"] = {
+								["Mayiride"] = {
+									["total"] = 29084,
+									["overkill"] = 29057,
+									["amount"] = 29084,
+								},
+							},
+							["amount"] = 29084,
+							["school"] = 64,
+							["total"] = 29084,
+							["overkill"] = 29057,
+						},
+					},
+				}, -- [1]
+				{
+					["id"] = "0xF130007F9B001D96",
+					["name"] = "Master's Training Dummy",
+					["totaldamagetaken"] = 14039,
+					["flag"] = 2600,
+					["class"] = "MONSTER",
+					["damagetaken"] = 14039,
+					["damagetakenspells"] = {
+						[53195] = {
+							["sources"] = {
+								["Mayiride"] = {
+									["total"] = 8637,
+									["overkill"] = 8631,
+									["amount"] = 8637,
+								},
+							},
+							["amount"] = 8637,
+							["school"] = 64,
+							["total"] = 8637,
+							["overkill"] = 8631,
+						},
+						[53190] = {
+							["sources"] = {
+								["Mayiride"] = {
+									["total"] = 5402,
+									["overkill"] = 5396,
+									["amount"] = 5402,
+								},
+							},
+							["amount"] = 5402,
+							["school"] = 64,
+							["total"] = 5402,
+							["overkill"] = 5396,
+						},
+					},
+				}, -- [2]
+				{
+					["id"] = "0xF130007F9A001D94",
+					["name"] = "Expert's Training Dummy",
+					["totaldamagetaken"] = 33972,
+					["flag"] = 2600,
+					["class"] = "MONSTER",
+					["damagetaken"] = 33972,
+					["damagetakenspells"] = {
+						[53195] = {
+							["sources"] = {
+								["Mayiride"] = {
+									["total"] = 23375,
+									["overkill"] = 23369,
+									["amount"] = 23375,
+								},
+							},
+							["amount"] = 23375,
+							["school"] = 64,
+							["total"] = 23375,
+							["overkill"] = 23369,
+						},
+						[53190] = {
+							["sources"] = {
+								["Mayiride"] = {
+									["total"] = 10597,
+									["overkill"] = 10591,
+									["amount"] = 10597,
+								},
+							},
+							["amount"] = 10597,
+							["school"] = 64,
+							["total"] = 10597,
+							["overkill"] = 10591,
+						},
+					},
+				}, -- [3]
+				{
+					["id"] = "0xF1300079AA001D93",
+					["name"] = "Heroic Training Dummy",
+					["totaldamagetaken"] = 10857,
+					["flag"] = 2600,
+					["class"] = "MONSTER",
+					["damagetaken"] = 10857,
+					["damagetakenspells"] = {
+						[53195] = {
+							["school"] = 64,
+							["total"] = 8159,
+							["sources"] = {
+								["Mayiride"] = {
+									["total"] = 8159,
+									["amount"] = 8159,
+								},
+							},
+							["amount"] = 8159,
+						},
+						[53190] = {
+							["school"] = 64,
+							["total"] = 2698,
+							["sources"] = {
+								["Mayiride"] = {
+									["total"] = 2698,
+									["amount"] = 2698,
+								},
+							},
+							["amount"] = 2698,
+						},
+					},
+				}, -- [4]
+			},
+			["totaldamage"] = 115011,
+			["time"] = 21,
+			["etotaldamagetaken"] = 115011,
+			["damage"] = 115011,
+			["players"] = {
+				{
+					["last"] = 132234.603,
+					["flag"] = 1297,
+					["class"] = "DRUID",
+					["auras"] = {
+						[71636] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 15,
+						},
+						[24858] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 21,
+						},
+						[24907] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 21,
+						},
+						[16886] = {
+							["type"] = "BUFF",
+							["count"] = 3,
+							["school"] = 8,
+							["refresh"] = 2,
+							["uptime"] = 13,
+						},
+						[54758] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 1,
+							["uptime"] = 12,
+						},
+						[71177] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["refresh"] = 3,
+							["uptime"] = 21,
+						},
+						[55637] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 7,
+						},
+						[48463] = {
+							["type"] = "DEBUFF",
+							["count"] = 1,
+							["school"] = 64,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["uptime"] = 6,
+									["count"] = 1,
+								},
+							},
+							["uptime"] = 6,
+						},
+						[72416] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 64,
+							["uptime"] = 10,
+						},
+						[53201] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 64,
+							["uptime"] = 10,
+						},
+						[75473] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 13,
+						},
+						[70721] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 32,
+							["refresh"] = 1,
+							["uptime"] = 7,
+						},
+						[16870] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 8,
+							["refresh"] = 1,
+							["uptime"] = 12,
+						},
+						[48421] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 21,
+						},
+					},
+					["time"] = 18.52,
+					["damage"] = 115011,
+					["damagespells"] = {
+						["Starfall"] = {
+							["hitmin"] = 940,
+							["criticalmin"] = 1570,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["total"] = 43378,
+									["overkill"] = 43324,
+									["amount"] = 43378,
+								},
+								["Master's Training Dummy"] = {
+									["total"] = 14039,
+									["overkill"] = 14027,
+									["amount"] = 14039,
+								},
+								["Expert's Training Dummy"] = {
+									["total"] = 33972,
+									["overkill"] = 33960,
+									["amount"] = 33972,
+								},
+								["Heroic Training Dummy"] = {
+									["total"] = 10857,
+									["amount"] = 10857,
+								},
+							},
+							["amount"] = 102246,
+							["resisted"] = 704,
+							["total"] = 102246,
+							["criticalamount"] = 46521,
+							["id"] = 53195,
+							["overkill"] = 91311,
+							["criticalmax"] = 6165,
+							["casts"] = 1,
+							["hitmax"] = 3105,
+							["hit"] = 25,
+							["school"] = 64,
+							["critical"] = 15,
+							["count"] = 40,
+							["hitamount"] = 55725,
+						},
+						["Moonfire"] = {
+							["criticalmin"] = 660,
+							["total"] = 1091,
+							["hitmin"] = 431,
+							["criticalamount"] = 660,
+							["id"] = 48463,
+							["criticalmax"] = 660,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["total"] = 1091,
+									["overkill"] = 1085,
+									["amount"] = 1091,
+								},
+							},
+							["overkill"] = 1085,
+							["critical"] = 1,
+							["casts"] = 2,
+							["count"] = 2,
+							["amount"] = 1091,
+							["school"] = 64,
+							["hitmax"] = 431,
+							["hit"] = 1,
+							["hitamount"] = 431,
+						},
+						["Moonfire (DoT)"] = {
+							["total"] = 11674,
+							["hitmin"] = 1393,
+							["id"] = 48463,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["total"] = 11674,
+									["overkill"] = 11656,
+									["amount"] = 11674,
+								},
+							},
+							["overkill"] = 11656,
+							["count"] = 6,
+							["hit"] = 6,
+							["school"] = 64,
+							["hitmax"] = 2057,
+							["amount"] = 11674,
+							["hitamount"] = 11674,
+						},
+					},
+					["id"] = "0x0700000000577559",
+					["spec"] = 102,
+					["overkill"] = 104052,
+					["name"] = "Mayiride",
+					["manaspells"] = {
+						[53506] = 556,
+					},
+					["mana"] = 556,
+					["totaldamage"] = 115011,
+					["role"] = "DAMAGER",
+				}, -- [1]
+			},
+			["type"] = "none",
+			["overkill"] = 104052,
+			["edamagetaken"] = 115011,
+			["name"] = "Grandmaster's Training Dummy (7)",
+			["mobname"] = "Grandmaster's Training Dummy",
+			["starttime"] = 1674142603,
+			["last_action"] = 1674142621,
+			["endtime"] = 1674142624,
+		}, -- [3]
+		{
+			["mana"] = 556,
+			["enemies"] = {
+				{
+					["id"] = "0xF1300079A8001D8E",
+					["name"] = "Grandmaster's Training Dummy",
+					["totaldamagetaken"] = 3459,
+					["flag"] = 68136,
+					["class"] = "MONSTER",
+					["damagetaken"] = 3459,
+					["damagetakenspells"] = {
+						[48463] = {
+							["sources"] = {
+								["Mayiride"] = {
+									["total"] = 3459,
+									["overkill"] = 3450,
+									["amount"] = 3459,
+								},
+							},
+							["amount"] = 3459,
+							["school"] = 64,
+							["total"] = 3459,
+							["overkill"] = 3450,
+						},
+					},
+				}, -- [1]
+			},
+			["totaldamage"] = 3459,
+			["time"] = 7,
+			["etotaldamagetaken"] = 3459,
+			["damage"] = 3459,
+			["players"] = {
+				{
+					["last"] = 132214.129,
+					["flag"] = 1297,
+					["mana"] = 556,
+					["auras"] = {
+						[71636] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 64,
+							["uptime"] = 4,
+						},
+						[24858] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 7,
+						},
+						[24907] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 7,
+						},
+						[16886] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 3,
+						},
+						[71177] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 8,
+							["uptime"] = 4,
+						},
+						[55637] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 2,
+							["uptime"] = 7,
+						},
+						[75473] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 1,
+							["uptime"] = 1,
+						},
+						[48421] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 7,
+						},
+						[48463] = {
+							["type"] = "DEBUFF",
+							["count"] = 1,
+							["school"] = 64,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["uptime"] = 7,
+									["count"] = 1,
+								},
+							},
+							["uptime"] = 7,
+						},
+					},
+					["time"] = 6.18,
+					["damage"] = 3459,
+					["damagespells"] = {
+						["Moonfire"] = {
+							["total"] = 673,
+							["criticalamount"] = 673,
+							["id"] = 48463,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["total"] = 673,
+									["overkill"] = 670,
+									["amount"] = 673,
+								},
+							},
+							["overkill"] = 670,
+							["casts"] = 1,
+							["count"] = 1,
+							["amount"] = 673,
+							["school"] = 64,
+							["criticalmin"] = 673,
+							["criticalmax"] = 673,
+							["critical"] = 1,
+						},
+						["Moonfire (DoT)"] = {
+							["total"] = 2786,
+							["hitmin"] = 1393,
+							["id"] = 48463,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["total"] = 2786,
+									["overkill"] = 2780,
+									["amount"] = 2786,
+								},
+							},
+							["overkill"] = 2780,
+							["count"] = 2,
+							["hit"] = 2,
+							["school"] = 64,
+							["hitmax"] = 1393,
+							["amount"] = 2786,
+							["hitamount"] = 2786,
+						},
+					},
+					["id"] = "0x0700000000577559",
+					["spec"] = 102,
+					["overkill"] = 3450,
+					["name"] = "Mayiride",
+					["totaldamage"] = 3459,
+					["class"] = "DRUID",
+					["manaspells"] = {
+						[53506] = 556,
+					},
+					["role"] = "DAMAGER",
+				}, -- [1]
+			},
+			["type"] = "none",
+			["overkill"] = 3450,
+			["edamagetaken"] = 3459,
+			["name"] = "Grandmaster's Training Dummy (6)",
+			["mobname"] = "Grandmaster's Training Dummy",
+			["starttime"] = 1674142595,
+			["last_action"] = 1674142601,
+			["endtime"] = 1674142602,
+		}, -- [4]
+		{
+			["mana"] = 556,
+			["enemies"] = {
+				{
+					["id"] = "0xF1300079A8001D8E",
+					["name"] = "Grandmaster's Training Dummy",
+					["totaldamagetaken"] = 4294,
+					["flag"] = 68136,
+					["class"] = "MONSTER",
+					["damagetaken"] = 4294,
+					["damagetakenspells"] = {
+						[48463] = {
+							["sources"] = {
+								["Mayiride"] = {
+									["total"] = 4294,
+									["overkill"] = 4282,
+									["amount"] = 4294,
+								},
+							},
+							["amount"] = 4294,
+							["school"] = 64,
+							["total"] = 4294,
+							["overkill"] = 4282,
+						},
+					},
+				}, -- [1]
+			},
+			["totaldamage"] = 4294,
+			["time"] = 11,
+			["etotaldamagetaken"] = 4294,
+			["damage"] = 4294,
+			["players"] = {
+				{
+					["last"] = 132149.716,
+					["flag"] = 1297,
+					["class"] = "DRUID",
+					["auras"] = {
+						[72416] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 5,
+						},
+						[24858] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 11,
+						},
+						[24907] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 11,
+						},
+						[16886] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 8,
+							["uptime"] = 3,
+						},
+						[48421] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 11,
+						},
+						[55637] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 4,
+						},
+						[75473] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 1,
+							["uptime"] = 8,
+						},
+						[70721] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 32,
+							["uptime"] = 6,
+						},
+						[16870] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 8,
+							["uptime"] = 6,
+						},
+						[71177] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 11,
+						},
+					},
+					["time"] = 8.239999999999998,
+					["damage"] = 4294,
+					["damagespells"] = {
+						["Moonfire"] = {
+							["criticalmin"] = 768,
+							["total"] = 1104,
+							["hitmin"] = 336,
+							["criticalamount"] = 768,
+							["id"] = 48463,
+							["criticalmax"] = 768,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["total"] = 1104,
+									["overkill"] = 1098,
+									["amount"] = 1104,
+								},
+							},
+							["overkill"] = 1098,
+							["critical"] = 1,
+							["casts"] = 2,
+							["count"] = 2,
+							["amount"] = 1104,
+							["school"] = 64,
+							["hitmax"] = 336,
+							["hit"] = 1,
+							["hitamount"] = 336,
+						},
+						["Moonfire (DoT)"] = {
+							["total"] = 3190,
+							["hitmin"] = 1556,
+							["id"] = 48463,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["total"] = 3190,
+									["overkill"] = 3184,
+									["amount"] = 3190,
+								},
+							},
+							["overkill"] = 3184,
+							["count"] = 2,
+							["hit"] = 2,
+							["school"] = 64,
+							["hitmax"] = 1634,
+							["amount"] = 3190,
+							["hitamount"] = 3190,
+						},
+					},
+					["id"] = "0x0700000000577559",
+					["spec"] = 102,
+					["overkill"] = 4282,
+					["name"] = "Mayiride",
+					["manaspells"] = {
+						[53506] = 556,
+					},
+					["mana"] = 556,
+					["totaldamage"] = 4294,
+					["role"] = "DAMAGER",
+				}, -- [1]
+			},
+			["type"] = "none",
+			["overkill"] = 4282,
+			["edamagetaken"] = 4294,
+			["name"] = "Grandmaster's Training Dummy (5)",
+			["mobname"] = "Grandmaster's Training Dummy",
+			["starttime"] = 1674142528,
+			["last_action"] = 1674142536,
+			["endtime"] = 1674142539,
+		}, -- [5]
+		{
+			["enemies"] = {
+				{
+					["id"] = "0xF1300079A8001D8E",
+					["name"] = "Grandmaster's Training Dummy",
+					["totaldamagetaken"] = 1702,
+					["flag"] = 68136,
+					["class"] = "MONSTER",
+					["damagetaken"] = 1702,
+					["damagetakenspells"] = {
+						[48463] = {
+							["sources"] = {
+								["Mayiride"] = {
+									["total"] = 1702,
+									["overkill"] = 1696,
+									["amount"] = 1702,
+								},
+							},
+							["amount"] = 1702,
+							["school"] = 64,
+							["total"] = 1702,
+							["overkill"] = 1696,
+						},
+					},
+				}, -- [1]
+			},
+			["totaldamage"] = 1702,
+			["time"] = 6,
+			["etotaldamagetaken"] = 1702,
+			["damage"] = 1702,
+			["players"] = {
+				{
+					["damagespells"] = {
+						["Moonfire"] = {
+							["total"] = 309,
+							["hitmin"] = 309,
+							["id"] = 48463,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["total"] = 309,
+									["overkill"] = 306,
+									["amount"] = 309,
+								},
+							},
+							["overkill"] = 306,
+							["casts"] = 1,
+							["count"] = 1,
+							["amount"] = 309,
+							["school"] = 64,
+							["hitmax"] = 309,
+							["hit"] = 1,
+							["hitamount"] = 309,
+						},
+						["Moonfire (DoT)"] = {
+							["total"] = 1393,
+							["hitmin"] = 1393,
+							["id"] = 48463,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["total"] = 1393,
+									["overkill"] = 1390,
+									["amount"] = 1393,
+								},
+							},
+							["overkill"] = 1390,
+							["count"] = 1,
+							["hit"] = 1,
+							["school"] = 64,
+							["hitmax"] = 1393,
+							["amount"] = 1393,
+							["hitamount"] = 1393,
+						},
+					},
+					["last"] = 132133.406,
+					["class"] = "DRUID",
+					["id"] = "0x0700000000577559",
+					["spec"] = 102,
+					["overkill"] = 1696,
+					["auras"] = {
+						[24907] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 6,
+						},
+						[71177] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 8,
+							["uptime"] = 3,
+						},
+						[48463] = {
+							["type"] = "DEBUFF",
+							["count"] = 1,
+							["school"] = 64,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["uptime"] = 6,
+									["count"] = 1,
+								},
+							},
+							["uptime"] = 6,
+						},
+						[55637] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 2,
+							["uptime"] = 6,
+						},
+						[48421] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 6,
+						},
+						[24858] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 6,
+						},
+					},
+					["totaldamage"] = 1702,
+					["role"] = "DAMAGER",
+					["name"] = "Mayiride",
+					["flag"] = 1297,
+					["time"] = 3.05,
+					["damage"] = 1702,
+				}, -- [1]
+			},
+			["type"] = "none",
+			["overkill"] = 1696,
+			["edamagetaken"] = 1702,
+			["name"] = "Grandmaster's Training Dummy (4)",
+			["mobname"] = "Grandmaster's Training Dummy",
+			["starttime"] = 1674142517,
+			["last_action"] = 1674142520,
+			["endtime"] = 1674142523,
+		}, -- [6]
+		{
+			["mana"] = 8340,
+			["enemies"] = {
+				{
+					["id"] = "0xF1300079A8001D8E",
+					["name"] = "Grandmaster's Training Dummy",
+					["totaldamagetaken"] = 407982,
+					["flag"] = 68136,
+					["class"] = "MONSTER",
+					["damagetaken"] = 407982,
+					["damagetakenspells"] = {
+						[48461] = {
+							["sources"] = {
+								["Mayiride"] = {
+									["total"] = 90701,
+									["overkill"] = 90677,
+									["amount"] = 90701,
+								},
+							},
+							["amount"] = 90701,
+							["school"] = 8,
+							["total"] = 90701,
+							["overkill"] = 90677,
+						},
+						[48463] = {
+							["sources"] = {
+								["Mayiride"] = {
+									["total"] = 16742,
+									["overkill"] = 16706,
+									["amount"] = 16742,
+								},
+							},
+							["amount"] = 16742,
+							["school"] = 64,
+							["total"] = 16742,
+							["overkill"] = 16706,
+						},
+						[48465] = {
+							["sources"] = {
+								["Mayiride"] = {
+									["total"] = 226577,
+									["overkill"] = 226547,
+									["amount"] = 226577,
+								},
+							},
+							["amount"] = 226577,
+							["school"] = 64,
+							["total"] = 226577,
+							["overkill"] = 226547,
+						},
+						[53190] = {
+							["sources"] = {
+								["Mayiride"] = {
+									["total"] = 10851,
+									["overkill"] = 10833,
+									["amount"] = 10851,
+								},
+							},
+							["amount"] = 10851,
+							["school"] = 64,
+							["total"] = 10851,
+							["overkill"] = 10833,
+						},
+						[71023] = {
+							["sources"] = {
+								["Mayiride"] = {
+									["total"] = 20712,
+									["overkill"] = 20694,
+									["amount"] = 20712,
+								},
+							},
+							["amount"] = 20712,
+							["school"] = 8,
+							["total"] = 20712,
+							["overkill"] = 20694,
+						},
+						[53195] = {
+							["sources"] = {
+								["Mayiride"] = {
+									["total"] = 30201,
+									["overkill"] = 30183,
+									["amount"] = 30201,
+								},
+							},
+							["amount"] = 30201,
+							["school"] = 64,
+							["total"] = 30201,
+							["overkill"] = 30183,
+						},
+						[48468] = {
+							["sources"] = {
+								["Mayiride"] = {
+									["total"] = 12198,
+									["overkill"] = 12168,
+									["amount"] = 12198,
+								},
+							},
+							["amount"] = 12198,
+							["school"] = 8,
+							["total"] = 12198,
+							["overkill"] = 12168,
+						},
+					},
+				}, -- [1]
+				{
+					["id"] = "0xF130007F9A001D94",
+					["name"] = "Expert's Training Dummy",
+					["totaldamagetaken"] = 32266,
+					["flag"] = 2600,
+					["class"] = "MONSTER",
+					["damagetaken"] = 32266,
+					["damagetakenspells"] = {
+						[53195] = {
+							["sources"] = {
+								["Mayiride"] = {
+									["total"] = 26307,
+									["overkill"] = 26301,
+									["amount"] = 26307,
+								},
+							},
+							["amount"] = 26307,
+							["school"] = 64,
+							["total"] = 26307,
+							["overkill"] = 26301,
+						},
+						[53190] = {
+							["sources"] = {
+								["Mayiride"] = {
+									["total"] = 5959,
+									["overkill"] = 5953,
+									["amount"] = 5959,
+								},
+							},
+							["amount"] = 5959,
+							["school"] = 64,
+							["total"] = 5959,
+							["overkill"] = 5953,
+						},
+					},
+				}, -- [2]
+				{
+					["id"] = "0xF130007F9B001D97",
+					["name"] = "Master's Training Dummy",
+					["totaldamagetaken"] = 48604,
+					["flag"] = 2600,
+					["class"] = "MONSTER",
+					["damagetaken"] = 48604,
+					["damagetakenspells"] = {
+						[53195] = {
+							["sources"] = {
+								["Mayiride"] = {
+									["total"] = 35750,
+									["overkill"] = 35734,
+									["amount"] = 35750,
+								},
+							},
+							["amount"] = 35750,
+							["school"] = 64,
+							["total"] = 35750,
+							["overkill"] = 35734,
+						},
+						[53190] = {
+							["sources"] = {
+								["Mayiride"] = {
+									["total"] = 12854,
+									["overkill"] = 12838,
+									["amount"] = 12854,
+								},
+							},
+							["amount"] = 12854,
+							["school"] = 64,
+							["total"] = 12854,
+							["overkill"] = 12838,
+						},
+					},
+				}, -- [3]
+			},
+			["totaldamage"] = 488852,
+			["time"] = 39,
+			["etotaldamagetaken"] = 488852,
+			["damage"] = 488852,
+			["players"] = {
+				{
+					["last"] = 132076.074,
+					["flag"] = 1297,
+					["class"] = "DRUID",
+					["auras"] = {
+						[770] = {
+							["type"] = "DEBUFF",
+							["count"] = 1,
+							["school"] = 8,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["uptime"] = 39,
+									["count"] = 1,
+								},
+							},
+							["uptime"] = 39,
+						},
+						[71023] = {
+							["type"] = "DEBUFF",
+							["count"] = 1,
+							["school"] = 8,
+							["refresh"] = 14,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["count"] = 1,
+									["refresh"] = 14,
+									["uptime"] = 30,
+								},
+							},
+							["uptime"] = 30,
+						},
+						[70721] = {
+							["type"] = "BUFF",
+							["count"] = 3,
+							["school"] = 32,
+							["refresh"] = 3,
+							["uptime"] = 26,
+						},
+						[55637] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 2,
+							["uptime"] = 15,
+						},
+						[24907] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 39,
+						},
+						[71636] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 64,
+							["uptime"] = 20,
+						},
+						[48421] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 39,
+						},
+						[71177] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 8,
+							["refresh"] = 15,
+							["uptime"] = 35,
+						},
+						[48517] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 1,
+							["uptime"] = 15,
+						},
+						[48518] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 1,
+							["uptime"] = 15,
+						},
+						[53201] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 64,
+							["uptime"] = 10,
+						},
+						[54758] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 1,
+							["uptime"] = 12,
+						},
+						[48463] = {
+							["type"] = "DEBUFF",
+							["count"] = 2,
+							["school"] = 64,
+							["refresh"] = 3,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["count"] = 2,
+									["refresh"] = 3,
+									["uptime"] = 32,
+								},
+							},
+							["uptime"] = 32,
+						},
+						[75473] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 1,
+							["uptime"] = 15,
+						},
+						[24858] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 39,
+						},
+						[16870] = {
+							["type"] = "BUFF",
+							["count"] = 6,
+							["school"] = 8,
+							["uptime"] = 6,
+						},
+						[16886] = {
+							["type"] = "BUFF",
+							["count"] = 2,
+							["school"] = 8,
+							["refresh"] = 20,
+							["uptime"] = 29,
+						},
+						[60433] = {
+							["type"] = "DEBUFF",
+							["count"] = 1,
+							["school"] = 64,
+							["refresh"] = 17,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["count"] = 1,
+									["refresh"] = 17,
+									["uptime"] = 34,
+								},
+							},
+							["uptime"] = 34,
+						},
+						[48468] = {
+							["type"] = "DEBUFF",
+							["count"] = 2,
+							["school"] = 8,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["uptime"] = 21,
+									["count"] = 2,
+								},
+							},
+							["uptime"] = 21,
+						},
+						[72416] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 64,
+							["uptime"] = 10,
+						},
+					},
+					["time"] = 37.86,
+					["damage"] = 488852,
+					["damagespells"] = {
+						["Insect Swarm (DoT)"] = {
+							["total"] = 12198,
+							["hitmin"] = 1067,
+							["id"] = 48468,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["total"] = 12198,
+									["overkill"] = 12168,
+									["amount"] = 12198,
+								},
+							},
+							["overkill"] = 12168,
+							["casts"] = 2,
+							["count"] = 10,
+							["hit"] = 10,
+							["school"] = 8,
+							["hitmax"] = 1301,
+							["amount"] = 12198,
+							["hitamount"] = 12198,
+						},
+						["Wrath"] = {
+							["hitmax"] = 6311,
+							["total"] = 90701,
+							["hitmin"] = 4329,
+							["criticalamount"] = 80061,
+							["id"] = 48461,
+							["critical"] = 6,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["total"] = 90701,
+									["overkill"] = 90677,
+									["amount"] = 90701,
+								},
+							},
+							["overkill"] = 90677,
+							["hit"] = 2,
+							["casts"] = 7,
+							["count"] = 8,
+							["amount"] = 90701,
+							["school"] = 8,
+							["criticalmin"] = 8077,
+							["criticalmax"] = 16594,
+							["hitamount"] = 10640,
+						},
+						["Moonfire (DoT)"] = {
+							["total"] = 16025,
+							["hitmin"] = 1392,
+							["id"] = 48463,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["total"] = 16025,
+									["overkill"] = 15995,
+									["amount"] = 16025,
+								},
+							},
+							["overkill"] = 15995,
+							["count"] = 10,
+							["hit"] = 10,
+							["school"] = 64,
+							["hitmax"] = 1810,
+							["amount"] = 16025,
+							["hitamount"] = 16025,
+						},
+						["Languish (DoT)"] = {
+							["total"] = 20712,
+							["hitmin"] = 282,
+							["id"] = 71023,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["total"] = 20712,
+									["overkill"] = 20694,
+									["amount"] = 20712,
+								},
+							},
+							["overkill"] = 20694,
+							["count"] = 6,
+							["hit"] = 6,
+							["school"] = 8,
+							["hitmax"] = 5828,
+							["amount"] = 20712,
+							["hitamount"] = 20712,
+						},
+						["Starfall"] = {
+							["hitmax"] = 3172,
+							["total"] = 121922,
+							["hitmin"] = 891,
+							["criticalamount"] = 88207,
+							["id"] = 53195,
+							["critical"] = 21,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["total"] = 41052,
+									["overkill"] = 41016,
+									["amount"] = 41052,
+								},
+								["Master's Training Dummy"] = {
+									["total"] = 48604,
+									["overkill"] = 48572,
+									["amount"] = 48604,
+								},
+								["Expert's Training Dummy"] = {
+									["total"] = 32266,
+									["overkill"] = 32254,
+									["amount"] = 32266,
+								},
+							},
+							["overkill"] = 121842,
+							["hit"] = 19,
+							["casts"] = 1,
+							["count"] = 40,
+							["amount"] = 121922,
+							["school"] = 64,
+							["criticalmin"] = 1861,
+							["criticalmax"] = 6276,
+							["hitamount"] = 33715,
+						},
+						["Moonfire"] = {
+							["total"] = 717,
+							["hitmin"] = 315,
+							["id"] = 48463,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["total"] = 717,
+									["overkill"] = 711,
+									["amount"] = 717,
+								},
+							},
+							["overkill"] = 711,
+							["casts"] = 2,
+							["count"] = 2,
+							["amount"] = 717,
+							["school"] = 64,
+							["hitmax"] = 402,
+							["hit"] = 2,
+							["hitamount"] = 717,
+						},
+						["Starfire"] = {
+							["hitmax"] = 10514,
+							["total"] = 226577,
+							["hitmin"] = 10514,
+							["criticalamount"] = 216063,
+							["id"] = 48465,
+							["critical"] = 9,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["total"] = 226577,
+									["overkill"] = 226547,
+									["amount"] = 226577,
+								},
+							},
+							["overkill"] = 226547,
+							["hit"] = 1,
+							["casts"] = 9,
+							["count"] = 10,
+							["amount"] = 226577,
+							["school"] = 64,
+							["criticalmin"] = 19146,
+							["criticalmax"] = 27594,
+							["hitamount"] = 10514,
+						},
+					},
+					["id"] = "0x0700000000577559",
+					["spec"] = 102,
+					["overkill"] = 488634,
+					["name"] = "Mayiride",
+					["manaspells"] = {
+						[53506] = 8340,
+					},
+					["mana"] = 8340,
+					["totaldamage"] = 488852,
+					["role"] = "DAMAGER",
+				}, -- [1]
+			},
+			["type"] = "none",
+			["overkill"] = 488634,
+			["edamagetaken"] = 488852,
+			["name"] = "Grandmaster's Training Dummy (3)",
+			["mobname"] = "Grandmaster's Training Dummy",
+			["starttime"] = 1674142425,
+			["last_action"] = 1674142463,
+			["endtime"] = 1674142464,
+		}, -- [7]
+		{
+			["enemies"] = {
+				{
+					["id"] = "0xF1300079A8001D8E",
+					["name"] = "Grandmaster's Training Dummy",
+					["totaldamagetaken"] = 13208,
+					["flag"] = 68136,
+					["class"] = "MONSTER",
+					["damagetaken"] = 13208,
+					["damagetakenspells"] = {
+						[48465] = {
+							["sources"] = {
+								["Mayiride"] = {
+									["total"] = 12344,
+									["overkill"] = 12341,
+									["amount"] = 12344,
+								},
+							},
+							["amount"] = 12344,
+							["school"] = 64,
+							["total"] = 12344,
+							["overkill"] = 12341,
+						},
+						[71023] = {
+							["sources"] = {
+								["Mayiride"] = {
+									["total"] = 864,
+									["overkill"] = 858,
+									["amount"] = 864,
+								},
+							},
+							["amount"] = 864,
+							["school"] = 8,
+							["total"] = 864,
+							["overkill"] = 858,
+						},
+					},
+				}, -- [1]
+			},
+			["totaldamage"] = 13208,
+			["time"] = 7,
+			["etotaldamagetaken"] = 13208,
+			["damage"] = 13208,
+			["players"] = {
+				{
+					["damagespells"] = {
+						["Starfire"] = {
+							["total"] = 12344,
+							["criticalamount"] = 12344,
+							["id"] = 48465,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["total"] = 12344,
+									["overkill"] = 12341,
+									["amount"] = 12344,
+								},
+							},
+							["overkill"] = 12341,
+							["casts"] = 1,
+							["count"] = 1,
+							["amount"] = 12344,
+							["school"] = 64,
+							["criticalmin"] = 12344,
+							["criticalmax"] = 12344,
+							["critical"] = 1,
+						},
+						["Languish (DoT)"] = {
+							["total"] = 864,
+							["hitmin"] = 432,
+							["id"] = 71023,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["total"] = 864,
+									["overkill"] = 858,
+									["amount"] = 864,
+								},
+							},
+							["overkill"] = 858,
+							["count"] = 2,
+							["hit"] = 2,
+							["school"] = 8,
+							["hitmax"] = 432,
+							["amount"] = 864,
+							["hitamount"] = 864,
+						},
+					},
+					["last"] = 131722.981,
+					["class"] = "DRUID",
+					["id"] = "0x0700000000577559",
+					["spec"] = 102,
+					["overkill"] = 13199,
+					["auras"] = {
+						[75473] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 1,
+							["uptime"] = 5,
+						},
+						[48517] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 1,
+							["uptime"] = 7,
+						},
+						[60433] = {
+							["type"] = "DEBUFF",
+							["count"] = 1,
+							["school"] = 64,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["uptime"] = 7,
+									["count"] = 1,
+								},
+							},
+							["uptime"] = 7,
+						},
+						[16886] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 3,
+						},
+						[55637] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 2,
+							["uptime"] = 3,
+						},
+						[71023] = {
+							["type"] = "DEBUFF",
+							["count"] = 1,
+							["school"] = 8,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["uptime"] = 4,
+									["count"] = 1,
+								},
+							},
+							["uptime"] = 4,
+						},
+						[71636] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 64,
+							["uptime"] = 3,
+						},
+						[48470] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 7,
+						},
+					},
+					["totaldamage"] = 13208,
+					["role"] = "DAMAGER",
+					["name"] = "Mayiride",
+					["flag"] = 1297,
+					["time"] = 4.01,
+					["damage"] = 13208,
+				}, -- [1]
+			},
+			["type"] = "none",
+			["overkill"] = 13199,
+			["edamagetaken"] = 13208,
+			["name"] = "Grandmaster's Training Dummy (2)",
+			["mobname"] = "Grandmaster's Training Dummy",
+			["starttime"] = 1674142106,
+			["last_action"] = 1674142110,
+			["endtime"] = 1674142113,
+		}, -- [8]
+		{
+			["players"] = {
+				{
+					["damagespells"] = {
+						["Starfire"] = {
+							["total"] = 6010,
+							["hitmin"] = 6010,
+							["id"] = 48465,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["total"] = 6010,
+									["overkill"] = 6007,
+									["amount"] = 6010,
+								},
+							},
+							["overkill"] = 6007,
+							["casts"] = 2,
+							["count"] = 1,
+							["amount"] = 6010,
+							["school"] = 64,
+							["hitmax"] = 6010,
+							["hit"] = 1,
+							["hitamount"] = 6010,
+						},
+					},
+					["last"] = 131705.886,
+					["class"] = "DRUID",
+					["id"] = "0x0700000000577559",
+					["spec"] = 102,
+					["overkill"] = 6007,
+					["auras"] = {
+						[48470] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 7,
+						},
+						[60433] = {
+							["type"] = "DEBUFF",
+							["count"] = 1,
+							["school"] = 64,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["uptime"] = 7,
+									["count"] = 1,
+								},
+							},
+							["uptime"] = 7,
+						},
+					},
+					["totaldamage"] = 6010,
+					["role"] = "DAMAGER",
+					["name"] = "Mayiride",
+					["flag"] = 1297,
+					["time"] = 0,
+					["damage"] = 6010,
+				}, -- [1]
+			},
+			["type"] = "none",
+			["etotaldamagetaken"] = 6010,
+			["endtime"] = 1674142100,
+			["starttime"] = 1674142093,
+			["enemies"] = {
+				{
+					["id"] = "0xF1300079A8001D8E",
+					["name"] = "Grandmaster's Training Dummy",
+					["totaldamagetaken"] = 6010,
+					["flag"] = 68136,
+					["class"] = "MONSTER",
+					["damagetaken"] = 6010,
+					["damagetakenspells"] = {
+						[48465] = {
+							["sources"] = {
+								["Mayiride"] = {
+									["total"] = 6010,
+									["overkill"] = 6007,
+									["amount"] = 6010,
+								},
+							},
+							["amount"] = 6010,
+							["school"] = 64,
+							["total"] = 6010,
+							["overkill"] = 6007,
+						},
+					},
+				}, -- [1]
+			},
+			["overkill"] = 6007,
+			["edamagetaken"] = 6010,
+			["totaldamage"] = 6010,
+			["time"] = 7,
+			["mobname"] = "Grandmaster's Training Dummy",
+			["name"] = "Grandmaster's Training Dummy",
+			["last_action"] = 1674142094,
+			["damage"] = 6010,
+		}, -- [9]
+	},
+	["version"] = 1877,
+}

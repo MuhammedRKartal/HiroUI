@@ -1,0 +1,13 @@
+
+SkadaStorageDB = {
+	["sets"] = {
+	},
+	["version"] = 1878,
+	["total"] = {
+		["time"] = 0,
+		["name"] = "Total",
+		["starttime"] = 1674935117,
+		["players"] = {
+		},
+	},
+}

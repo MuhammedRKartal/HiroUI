@@ -1,0 +1,69 @@
+MACRO 16777240 " " Spell_Fire_BurningSpeed
+/cast Avenging Wrath
+/use Treads of Impending Resurrection
+END
+MACRO 16777238 " " INV_Misc_QuestionMark
+#showtooltip
+/startattack
+/cast [nomod:Shift] Judgement of light
+/cast [mod:Shift] Judgement of justice
+/use 10
+END
+MACRO 16777237 " " INV_Misc_QuestionMark
+/cast [@mouseover,help,nodead] []  Lay on Hands; Lay on Hnds
+END
+MACRO 16777248 "All In" INV_Misc_QuestionMark
+/cast Avenging Wrath
+/cast Talisman of Resurgence
+/cast Divine Illumination
+/use 10
+END
+MACRO 16777226 "bea" INV_Misc_QuestionMark
+/cast [@mouseover,exists,help]Beacon of light; Beacon of light
+END
+MACRO 16777243 "Cancelaura" INV_Misc_QuestionMark
+#showtooltip
+/cast Divine Sacrifice
+/cancelaura Divine Sacrifice
+END
+MACRO 16777221 "Cleanse" INV_Misc_QuestionMark
+/cast [@mouseover,exists,help]Cleanse; Cleanse
+END
+MACRO 16777247 "Favor" INV_Misc_QuestionMark
+#showtooltip Divine Favor
+/use Bauble of True Blood
+/cast Divine Favor
+/cast Holy Shock(Rank 7)
+END
+MACRO 16777223 "fL" INV_Misc_QuestionMark
+#showtooltip Flash of Light(Rank 9)
+/cast [@mouseover,help,nodead][exists,nodead][@player,@target]Flash of Light(Rank 9)
+END
+MACRO 16777230 "hop" INV_Misc_QuestionMark
+/cast [@mouseover,exists,help]hand of protection; hand of protection
+END
+MACRO 16777232 "HS" INV_Misc_QuestionMark
+#showtooltip Holy Shock
+/cast [@mouseover,help,nodead][exists,nodead][@player,@target]Holy Shock(Rank 7)
+END
+MACRO 16777245 "Mana" INV_Misc_QuestionMark
+/cast Avenging Wrath
+/cast Divine Plea
+END
+MACRO 16777246 "Mana 2" INV_Misc_QuestionMark
+/use Meteorite Crystal
+/use Talisman of Resurgence
+/cast Divine Illumination
+END
+MACRO 16777228 "sac" INV_Misc_QuestionMark
+#showtooltip Hand of Sacrifice
+/cast [@mouseover,help,nodead][exists,nodead][@player,@target]Hand of Sacrifice
+END
+MACRO 16777235 "salva" INV_Misc_QuestionMark
+/cast [@mouseover,exists,help]hand of salvation; hand of salvation
+END
+MACRO 16777229 "st" INV_Misc_QuestionMark
+#showtooltip Hammer of Justice
+/stopcasting
+/cast Hammer of Justice
+END

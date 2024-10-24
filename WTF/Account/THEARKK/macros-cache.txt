@@ -1,0 +1,40 @@
+MACRO 8 "Accept" INV_Misc_QuestionMark
+/run AcceptGroup()
+END
+MACRO 1 "div" INV_Misc_QuestionMark
+/cast Divine Illumination
+/cast Meteorite Crystal
+/use Runic Mana Injector
+END
+MACRO 10 "Dungeon" INV_Misc_QuestionMark
+/click LFDRoleCheckPopupAcceptButton
+/click LFDDungeonReadyDialogEnterDungeonButton
+END
+MACRO 5 "flash" INV_Misc_QuestionMark
+/cast [@mouseover] Flash of Light(Rank 9)
+END
+MACRO 2 "Freedom" INV_Misc_QuestionMark
+/cast [@mouseover,exists,help]Hand of Freedom; Hand of Freedom
+END
+MACRO 3 "holylight" INV_Misc_QuestionMark
+/cast [@mouseover] Holy Light(Rank 13)
+END
+MACRO 6 "JC" INV_Misc_QuestionMark
+#showtooltip Jewelcrafting
+/cast Jewelcrafting
+/run for i=1,GetNumTradeSkills() do if GetTradeSkillInfo(i)=="Icy Prism" then CloseTradeSkill() DoTradeSkill(i) break end end
+/use Icy Prism
+END
+MACRO 7 "Living" INV_Misc_QuestionMark
+/assist Elziash
+/cast Ice Lance
+END
+MACRO 11 "Lootpass" INV_Misc_QuestionMark
+/run CloseLoot()
+END
+MACRO 4 "Sacred" INV_Misc_QuestionMark
+/cast [@mouseover] Sacred Shield(Rank 1)
+END
+MACRO 9 "Vehic" INV_Misc_QuestionMark
+/run VehicleExit()
+END

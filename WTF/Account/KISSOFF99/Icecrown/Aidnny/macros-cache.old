@@ -1,0 +1,25 @@
+MACRO 16777244 "s" INV_Misc_QuestionMark
+/target The Lich King
+END
+MACRO 16777239 "x" INV_Misc_QuestionMark
+#showtooltip Counterspell
+/stopcasting
+/cast Counterspell
+END
+MACRO 16777238 "x" INV_Misc_QuestionMark
+#showtooltip Blink
+/stopcasting
+/cast Blink
+END
+MACRO 16777240 "x" INV_Misc_QuestionMark
+#showtooltip Invisibility
+/stopcasting
+/cast Invisibility
+/cancelaura Invisibility
+END
+MACRO 16777237 "x" INV_Misc_QuestionMark
+#showtooltip Ice Block
+/stopcasting
+/cast Ice Block
+/cancelaura Ice Block
+END

@@ -1,0 +1,26 @@
+
+SkadaStorageDB = {
+	[0] = {
+		["actors"] = {
+			["Yarambank"] = {
+				["talent"] = "0/0/0",
+				["id"] = "0x0700000000B189C7",
+				["class"] = "ROGUE",
+				["damaged"] = 17,
+				["spec"] = 259,
+				["role"] = "DAMAGER",
+			},
+			["Decrepit Darkhound"] = {
+				["damage"] = 17,
+				["id"] = "0xF13000060B02A505",
+				["class"] = "MONSTER",
+				["enemy"] = true,
+			},
+		},
+		["time"] = 57,
+		["starttime"] = 1729713149,
+		["edamage"] = 17,
+		["damaged"] = 17,
+		["name"] = "Total",
+	},
+}

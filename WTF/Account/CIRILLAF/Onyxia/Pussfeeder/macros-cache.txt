@@ -1,0 +1,26 @@
+MACRO 16777224 "Aspect" INV_Misc_QuestionMark
+/cast Aspect of the Hawk
+/cast Aspect of the Cheetah
+END
+MACRO 16777218 "Attack Pet" Ability_GhoulFrenzy
+/petattack
+END
+MACRO 16777217 "Call Pet" Ability_Creature_Disease_04
+/petfollow
+END
+MACRO 16777219 "Disengage" INV_Misc_QuestionMark
+/cast Disengage
+/cast Auto Shot
+END
+MACRO 16777223 "Mongoose" INV_Misc_QuestionMark
+/cast Mongoose Bite
+/cast Raptor Strike
+END
+MACRO 16777220 "Raptor" INV_Misc_QuestionMark
+/cast Wing Clip
+/cast !Raptor Strike
+END
+MACRO 16777221 "Scorpid" INV_Misc_QuestionMark
+/cast Scorpid Sting
+/cast Rapor Strike
+END

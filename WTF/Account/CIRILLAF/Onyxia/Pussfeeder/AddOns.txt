@@ -1,0 +1,14 @@
+WeakAurasCompanion: enabled
+WeakAurasArchive: enabled
+XPerl_TeamSpeak: disabled
+!_VirtualPlate: enabled
+SkadaImprovement: enabled
+SkadaStorage: enabled
+XPerl_RaidAdmin: disabled
+XPerl_RaidFrames: disabled
+XPerl_RaidHelper: disabled
+XPerl_RaidPets: disabled
+Grid2AoeHeals: disabled
+Grid2Options: disabled
+Grid2: disabled
+XPerl_Options: enabled

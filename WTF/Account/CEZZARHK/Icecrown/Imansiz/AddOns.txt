@@ -1,0 +1,14 @@
+WeakAurasCompanion: enabled
+WeakAurasArchive: enabled
+XPerl_TeamSpeak: disabled
+XPerl_Options: enabled
+SkadaImprovement: enabled
+SkadaStorage: enabled
+SoundAlerter: enabled
+NugComboBar: enabled
+TellMeWhen: disabled
+xCT+: disabled
+SharedMedia: enabled
+HealBot: enabled
+lossofcontrol: disabled
+Clique: disabled

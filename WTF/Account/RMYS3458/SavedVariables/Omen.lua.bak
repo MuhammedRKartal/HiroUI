@@ -1,0 +1,89 @@
+
+Omen3DB = {
+	["profileKeys"] = {
+		["Reiila - Icecrown"] = "Main",
+	},
+	["profiles"] = {
+		["Main"] = {
+			["PositionW"] = 195.9366496174999,
+			["PositionH"] = 184.0000060180771,
+			["VGrip2"] = 112.6635317227063,
+			["PositionY"] = 307.6350312539942,
+			["Locked"] = true,
+			["Background"] = {
+				["Color"] = {
+					["r"] = 0,
+					["g"] = 0,
+					["b"] = 0,
+				},
+				["BorderColor"] = {
+					["r"] = 0,
+					["g"] = 0,
+				},
+				["Texture"] = "Solid",
+			},
+			["PositionX"] = 1367.288343237743,
+			["MinimapIcon"] = {
+				["minimapPos"] = 239.4667500111162,
+			},
+			["VGrip1"] = 83.27304518634811,
+			["TitleBar"] = {
+				["ShowTitleBar"] = false,
+			},
+			["Warnings"] = {
+				["Threshold"] = 85,
+				["Message"] = true,
+			},
+			["Autocollapse"] = true,
+			["Bar"] = {
+				["FontSize"] = 14,
+				["ShowValue"] = false,
+				["ShowTPS"] = false,
+				["TankBarColor"] = {
+					["r"] = 0.7607843137254902,
+					["b"] = 1,
+				},
+				["UseTankBarColor"] = true,
+				["Height"] = 16,
+				["Spacing"] = 2,
+			},
+		},
+		["Reiila - Icecrown"] = {
+			["PositionW"] = 195.9366496174999,
+			["PositionH"] = 141.9999993161276,
+			["VGrip2"] = 112.6635317227063,
+			["PositionY"] = 327.9524796221414,
+			["Background"] = {
+				["Color"] = {
+					["r"] = 0,
+					["g"] = 0,
+					["b"] = 0,
+				},
+				["BorderColor"] = {
+					["r"] = 0,
+					["g"] = 0,
+				},
+				["Texture"] = "Solid",
+			},
+			["Shown"] = true,
+			["PositionX"] = 1362.209033667106,
+			["MinimapIcon"] = {
+				["minimapPos"] = 239.4667500111162,
+			},
+			["VGrip1"] = 83.27304518634811,
+			["Autocollapse"] = true,
+			["Bar"] = {
+				["FontSize"] = 14,
+				["ShowValue"] = false,
+				["ShowTPS"] = false,
+				["TankBarColor"] = {
+					["r"] = 0.7607843137254902,
+					["b"] = 1,
+				},
+				["UseTankBarColor"] = true,
+				["Height"] = 16,
+				["Spacing"] = 2,
+			},
+		},
+	},
+}

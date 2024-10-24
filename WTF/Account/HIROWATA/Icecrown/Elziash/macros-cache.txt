@@ -1,0 +1,53 @@
+MACRO 16777222 "Assist" INV_Misc_QuestionMark
+#showtooltip Shadow Bolt
+/assist Gelkucama
+/cast Corruption
+END
+MACRO 16777218 "Demo" INV_Misc_QuestionMark
+#showtooltip Shadow Bolt(Rank 13)
+/cast Shadow Cleave(Demon)
+/cast Shadow Bolt(Rank 13)
+/cast Demonic Empowerment
+/use 10
+END
+MACRO 16777227 "Incinerate" INV_Misc_QuestionMark
+#showtooltip Incinerate
+/cast Shadow Cleave(Demon)
+/cast Incinerate
+/cast Demonic Empowerment
+/use 10
+END
+MACRO 16777221 "Inferno" INV_Misc_QuestionMark
+/target Living Inferno
+/cast Curse of Weakness
+END
+MACRO 16777217 "Intercept" INV_Misc_QuestionMark
+/cast Demon Charge(Demon)
+END
+MACRO 16777225 "Metamorphosis" INV_Misc_QuestionMark
+/cast Metamorphosis
+/cast Immolation Aura(Demon)
+/cast Shadow Cleave(Demon)
+/use 10
+END
+MACRO 16777224 "pet" INV_Misc_QuestionMark
+/cast Fel Domination
+/cast Summon Felguard
+END
+MACRO 16777223 "Petattack" Ability_DualWield
+/petattack
+END
+MACRO 16777220 "Petfollow" Ability_Druid_Berserk
+/petfollow
+END
+MACRO 16777219 "Seed" INV_Misc_QuestionMark
+/targetenemy
+/cast Seed of Corruption
+END
+MACRO 16777226 "Soulfire" INV_Misc_QuestionMark
+#showtooltip Soul Fire(Rank 6)
+/cast Shadow Cleave(Demon)
+/cast Soul Fire(Rank 6)
+/cast Demonic Empowerment
+/use 10
+END

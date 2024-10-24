@@ -1,0 +1,25 @@
+MACRO 16777222 "Assist" INV_Misc_QuestionMark
+/assist Mayishift
+/cast Ice Lance
+END
+MACRO 16777223 "Flamestrike" INV_Misc_QuestionMark
+/cast Flamestrike(Rank 8)
+END
+MACRO 16777219 "Focus" INV_Misc_QuestionMark
+/cast [@focus, exists, nodead] [] Polymorph
+END
+MACRO 16777218 "Focus" INV_Misc_QuestionMark
+/cast [@focus, exists, nodead] [] Counterspell
+END
+MACRO 16777221 "FÖ" INV_Misc_QuestionMark
+/cast [@Fokzeynep] Focus Magic
+END
+MACRO 16777217 "Ice" INV_Misc_QuestionMark
+/cast Ice Block
+/cancelaura Ice Block
+END
+MACRO 16777220 "Trinket" INV_Misc_QuestionMark
+#showtooltip Mirror Image
+/use Talisman of Resurgence
+/cast Mirror Image
+END

@@ -1,0 +1,46 @@
+MACRO 12 "Accept" INV_Misc_QuestionMark
+/run AcceptGroup()
+END
+MACRO 10 "Alch" INV_Misc_QuestionMark
+/cast Alchemy
+/run local skills = {"Transmute: Cardinal Ruby", "Transmute: King's Amber", "Transmute: Ametrine"} for i=1,GetNumTradeSkills() do if tContains(skills, GetTradeSkillInfo(i)) then DoTradeSkill(i) end end
+/script OpenAllBags()
+END
+MACRO 14 "Dungeon" INV_Misc_QuestionMark
+/click LFDRoleCheckPopupAcceptButton
+/click LFDDungeonReadyDialogEnterDungeonButton
+END
+MACRO 3 "Focus Fear" INV_Misc_QuestionMark
+/cast [@focus, exists, nodead] [] Fear
+END
+MACRO 1 "Focus Silence" Ability_Warrior_Revenge
+/cast [@focus, exists, nodead] [] Silence
+END
+MACRO 11 "Inferno" INV_Misc_QuestionMark
+/target Living Inferno
+/cast Vampiric Touch
+END
+MACRO 9 "JC" INV_Misc_QuestionMark
+#showtooltip Jewelcrafting
+/cast Jewelcrafting
+/run for i=1,GetNumTradeSkills() do if GetTradeSkillInfo(i)=="Icy Prism" then CloseTradeSkill() DoTradeSkill(i) break end end
+/use Icy Prism
+/script OpenAllBags();
+END
+MACRO 15 "Lootpass" INV_Misc_QuestionMark
+/run CloseLoot()
+END
+MACRO 7 "pettatck" INV_Misc_QuestionMark
+/petattack
+/cast Icy Touch(Rank 5)
+END
+MACRO 5 "Seduction" INV_Misc_QuestionMark
+/cast Seduction
+END
+MACRO 8 "ss" INV_Misc_QuestionMark
+#showtooltip 
+/use [@mouseover, help] Remove Curse
+END
+MACRO 13 "Vehicle" INV_Misc_QuestionMark
+/run VehicleExit()
+END

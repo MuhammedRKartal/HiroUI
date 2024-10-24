@@ -1,0 +1,85 @@
+MACRO 16777231 " " INV_Misc_QuestionMark
+/cast [@mouseover]Wild Growth(Rank 4)
+END
+MACRO 16777237 " " INV_Misc_QuestionMark
+#showtooltip 
+/cast !Dire Bear Form(Shapeshift)
+/cast Enrage
+/cast Bash(Rank 3)
+END
+MACRO 16777236 " " INV_Misc_QuestionMark
+#showtooltip barkskin
+/cast Shadowmeld(Racial)
+/cast Nature's Grasp
+/cast Barkskin
+/use Fel Healthstone
+END
+MACRO 16777238 " " INV_Misc_QuestionMark
+#showtooltip
+/castsequence reset=2 Cat Form(Shapeshift), Prowl
+END
+MACRO 16777241 " " INV_Misc_QuestionMark
+/cast Feral Charge - Cat
+/cast Shred(Rank 9)
+END
+MACRO 16777246 " " INV_Misc_QuestionMark
+#show Swift Flight Form(Shapeshift)
+/cast Shadowmeld(Racial)
+/cast Swift Flight Form(Shapeshift)
+END
+MACRO 16777247 " " INV_Misc_QuestionMark
+#show Shred(Rank 9)
+/startattack
+/use 10
+/cast Shred(Rank 9)
+END
+MACRO 16777250 " " INV_Misc_QuestionMark
+/cast [@mouseover,help,nodead] []  Remove Curse
+END
+MACRO 16777251 " " INV_Misc_QuestionMark
+/cast [@mouseover,help,nodead] [] Abolish Poison
+END
+MACRO 16777252 " " INV_Misc_QuestionMark
+#show Wild Growth
+/cast [@mouseover,help,nodead] [] Wild Growth
+END
+MACRO 16777254 " " INV_Misc_QuestionMark
+/cast [@mouseover,help,nodead] [] innervate
+/use Sliver of Pure Ice
+END
+MACRO 16777255 " " INV_Misc_QuestionMark
+#show dash
+/use 8
+/cast Dash(Rank 3)
+/cast Feral Charge - Bear
+END
+MACRO 16777256 " " INV_Misc_QuestionMark
+#showtooltip tiger's fury
+/cast Tiger's Fury(Rank 6)
+/cast Berserk
+END
+MACRO 16777257 " " INV_Misc_QuestionMark
+/dur
+/cast [@mouseover,exists,]Cyclone; Cyclone
+END
+MACRO 16777260 " " INV_Misc_QuestionMark
+#show Starfire(Rank 10)
+/startattack
+/use 10
+/cast Starfire(Rank 10)
+END
+MACRO 16777261 " " INV_Misc_QuestionMark
+#show moonfire
+/startattack
+/cast Moonfire(Rank 14)
+END
+MACRO 16777264 "DUR" INV_Misc_QuestionMark
+#show hurricane
+/dur
+/cast !Hurricane
+/cleartarget
+END
+MACRO 16777263 "Herb and mining" Ability_Rogue_FindWeakness
+/run if not THO then local f,t,c=CreateFrame("Frame","THO"),1,0 f:SetScript("OnUpdate", function(_, e) c=c+e if c>3 then c=0 SetTracking(t) if t==1 then t=2 else t=1 end end end) THO:Hide() end
+/run if THO:IsVisible() then THO:Hide() else THO:Show() end
+END

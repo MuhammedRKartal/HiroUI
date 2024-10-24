@@ -1,0 +1,57 @@
+MACRO 16777229 "Curse" INV_Misc_QuestionMark
+#showtooltip
+/cast [@mouseover,help,nodead] [help] [@player] Cure Disease
+END
+MACRO 16777228 "Dispel" INV_Misc_QuestionMark
+#showtooltip
+/cast [@mouseover,help,nodead] [help] [@player] Dispel Magic
+END
+MACRO 16777220 "Divine" INV_Misc_QuestionMark
+#showtooltip Divine Hymn
+/cast Inner Focus
+/cast Divine Hymn
+END
+MACRO 16777219 "Focus" Ability_Hunter_MarkedForDeath
+/focus target
+END
+MACRO 16777230 "Heal" INV_Misc_QuestionMark
+#showtooltip Bauble of True Blood
+/cast Inner Focus
+/use Bauble of True Blood
+END
+MACRO 16777223 "Mouse" INV_Misc_QuestionMark
+#showtooltip
+/cast [@mouseover] Power Infusion 
+END
+MACRO 16777227 "Mouse" INV_Misc_QuestionMark
+#showtooltip
+/use [@mouseover] Prayer of Healing(Rank 7)
+END
+MACRO 16777222 "Mouse" INV_Misc_QuestionMark
+#showtooltip
+/cast [@mouseover] Pain Suppression 
+END
+MACRO 16777224 "penance" INV_Misc_QuestionMark
+#showtooltip
+/cast [@mouseover] Penance(Rank 4) 
+END
+MACRO 16777218 "PI" INV_Misc_QuestionMark
+/cast [@player] Power Infusion
+END
+MACRO 16777221 "PS" INV_Misc_QuestionMark
+#showtooltip Pain Suppression
+/cast [@player] Pain Suppression
+END
+MACRO 16777225 "renew" INV_Misc_QuestionMark
+#showtooltip
+/use [@mouseover] Renew
+END
+MACRO 16777231 "Self Heal" INV_Misc_QuestionMark
+#showtooltip Desperate Prayer
+/cast Inner Focus
+/cast Desperate Prayer
+END
+MACRO 16777226 "ssss" INV_Misc_QuestionMark
+#showtooltip
+/use [@mouseover] Power Word: Shield
+END

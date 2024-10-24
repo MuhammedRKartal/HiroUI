@@ -1,0 +1,50 @@
+MACRO 16777232 "Cure" INV_Misc_QuestionMark
+#showtooltip
+/cast [@mouseover,help,nodead] [help] [@player] Cure Disease
+END
+MACRO 16777231 "Dispel Magic" INV_Misc_QuestionMark
+#showtooltip
+/cast [@mouseover,help,nodead] [help] [@player] Dispel Magic
+END
+MACRO 16777236 "Divine" INV_Misc_QuestionMark
+/cast Inner Focus
+/cast Divine Hymn
+END
+MACRO 16777233 "Fear" INV_Misc_QuestionMark
+#showtooltip Fear Ward
+/use [@mouseover, help] Fear Ward
+END
+MACRO 16777229 "Focus" Ability_Hunter_MarkedForDeath
+/focus target
+END
+MACRO 16777222 "Pain Supression" INV_Misc_QuestionMark
+#showtooltip Pain Suppression
+/use [@mouseover,help]  Pain Suppression 
+END
+MACRO 16777228 "Penance" INV_Misc_QuestionMark
+#showtooltip
+/use [@mouseover]  Penance(Rank 4)
+END
+MACRO 16777235 "PI" INV_Misc_QuestionMark
+/cast [target=focus] Power Infusion
+END
+MACRO 16777219 "Power Infusion" INV_Misc_QuestionMark
+#showtooltip Power Infusion
+/use [@mouseover, help] Power Infusion 
+END
+MACRO 16777224 "prayer" INV_Misc_QuestionMark
+#showtooltip
+/cast [@mouseover] Prayer of Healing
+END
+MACRO 16777225 "renew" INV_Misc_QuestionMark
+#showtooltip
+/use [@mouseover] Renew
+END
+MACRO 16777226 "Shield" INV_Misc_QuestionMark
+#showtooltip
+/use [@mouseover] Power Word: Shield
+END
+MACRO 16777234 "use" INV_Misc_QuestionMark
+/use Glowing Twilight Scale
+/cast Desperate Prayer(Rank 9)
+END

@@ -1,0 +1,48 @@
+MACRO 16777217 " " INV_Misc_QuestionMark
+/cast Starfall
+/use Sanctified Lasherweave Gloves
+END
+MACRO 16777226 "Assist" INV_Misc_QuestionMark
+#showtooltip Moonfire
+/assist Mayishift
+/cast Moonfire
+END
+MACRO 16777222 "focustarget" INV_Misc_QuestionMark
+/target focus
+END
+MACRO 16777221 "Inferno" INV_Misc_QuestionMark
+/target Living Inferno
+/cast Faerie Fire
+END
+MACRO 16777225 "MB1" INV_Misc_QuestionMark
+#showtooltip Insect Swarm
+/assist Mayiascend
+/cast Insect Swarm
+END
+MACRO 16777227 "MB3" INV_Misc_QuestionMark
+#showtooltip Starfire
+/assist Mayiascend
+/cast Starfire
+END
+MACRO 16777228 "MB4" INV_Misc_QuestionMark
+#showtooltip Wrath
+/assist Mayiascend
+/cast Wrath
+END
+MACRO 16777218 "Power Infusion" INV_Misc_QuestionMark
+/w Carbonat PI
+END
+MACRO 16777220 "rebirth" INV_Misc_QuestionMark
+#showtooltip 
+/use [@mouseover, help] Rebirth
+END
+MACRO 16777223 "VuhDoDCShieldData" Ability_Hunter_MasterMarksman
+R1PT1WM4HR3DM2RM1ET4WM3IR1PM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]4DR[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+MACRO 16777224 "VuhDoDCShieldNames" Ability_Hunter_MasterMarksman
+NDraLaiDapTheHenLazLodHicRyo[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Fok[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+MACRO 16777219 "Wrath" INV_Misc_QuestionMark
+/use Sanctified Lasherweave Gloves
+/cast Wrath
+END

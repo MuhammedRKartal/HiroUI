@@ -1,0 +1,107 @@
+MACRO 16777223 "Berserker Stance" INV_Misc_QuestionMark
+#showtooltip Berserker Stance
+/cast Berserker Stance
+/equipslot 16 Shadowmourne
+/equipslot 17 Glorenzelg, High-Blade of the Silver Hand
+/equipslot 18 Fal'inrush, Defender of Quel'thalas 
+END
+MACRO 16777238 "Cleave BT" INV_Misc_QuestionMark
+#showtooltip Bloodthirst
+/startattack
+/cast Bloodthirst
+/cast Cleave(Rank 8)
+/use 10
+/cancelaura Hand of Protection
+/cancelaura Divine Intervation
+END
+MACRO 16777237 "Cleave WW" INV_Misc_QuestionMark
+#showtooltip Whirlwind
+/cast !Whirlwind
+/cast Cleave
+/cancelaura Hand of Protection
+/cancelaura Divine Intervation
+END
+MACRO 16777219 "Disarm" INV_Misc_QuestionMark
+#showtooltip Disarm
+/cast Defensive Stance
+/cast Disarm
+END
+MACRO 16777241 "Execute" INV_Misc_QuestionMark
+/cast Execute(Rank 9)
+/cast Heroic Strike(Rank 13)
+END
+MACRO 16777240 "Heroic BT" INV_Misc_QuestionMark
+#showtooltip Bloodthirst
+/startattack
+/cast Bloodthirst
+/cast Heroic Strike(Rank 13)
+/use 10
+/cancelaura Hand of Protecion
+/cancelaura Divine Intervation
+END
+MACRO 16777239 "Heroic WW" INV_Misc_QuestionMark
+#showtooltip Whirlwind
+/cast !Whirlwind
+/cast Heroic Strike
+/cancelaura Hand of Protection
+/cancelaura Divine Intervation
+END
+MACRO 16777236 "Intercept" INV_Misc_QuestionMark
+#showtooltip Intercept
+/cast Berserker Stance
+/cast Intercept
+/equipslot 16 Shadowmourne
+/equipslot 17 Glorenzelg, High-Blade of the Silver Hand
+END
+MACRO 16777242 "Intervene" INV_Misc_QuestionMark
+#showtooltip Intervene
+/cast Defensive Stance
+/cast [@mouseover,exists,help]Intervene; Intervene
+END
+MACRO 16777225 "Pummel Focus" INV_Misc_QuestionMark
+#showtooltip Pummel
+/cast Berserker Stance
+/cast  [@focus] Pummel
+END
+MACRO 16777217 "Rend" INV_Misc_QuestionMark
+#showtooltip Rend
+/cast Battle Stance
+/cast Rend
+/cast Berserker Stance
+END
+MACRO 16777243 "Retaliation" INV_Misc_QuestionMark
+#showtooltip Retaliation
+/cast Battle Stance
+/cast Retaliation
+/cast Challenging Shout
+END
+MACRO 16777224 "Revenge" INV_Misc_QuestionMark
+#showtooltip Revenge(Rank 9)
+/cast Revenge(Rank 9)
+/cast Heroic Strike(Rank 13)
+/cancelaura Hand of Protection
+END
+MACRO 16777235 "Shattering" INV_Misc_QuestionMark
+#showtooltip Shattering Throw
+/cast Battle Stance
+/cast Shattering Throw
+END
+MACRO 16777232 "Shield Block" INV_Misc_QuestionMark
+#showtooltip Shield Block
+/equipslot 17 Icecrown Glacial Wall
+/equipslot 16 Scourgeborne Waraxe
+/cast Defensive Stance
+/cast Shield Block
+END
+MACRO 16777244 "Sunder" INV_Misc_QuestionMark
+/cast Sunder Armor
+/cast Heroic Strike(Rank 13)
+END
+MACRO 16777220 "Wall" INV_Misc_QuestionMark
+#showtooltip Shield Wall
+/cast Defensive Stance
+/equipslot 17 Icecrown Glacial Wall
+/equipslot 16 Scourgeborne Waraxe
+/cast Shield Wall
+/cast Shield Block
+END

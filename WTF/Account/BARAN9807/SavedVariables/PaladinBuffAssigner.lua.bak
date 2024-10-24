@@ -1,0 +1,10 @@
+
+PaladinBuffAssignerDB = {
+	["profileKeys"] = {
+		["Enayi - Icecrown"] = "Enayi - Icecrown",
+	},
+	["profiles"] = {
+		["Enayi - Icecrown"] = {
+		},
+	},
+}

@@ -1,0 +1,17 @@
+XPerl_TeamSpeak: disabled
+XPerl_Options: enabled
+Doom_CooldownPulse: enabled
+RedRange: disabled
+OmniCC: enabled
+OmniCC_Config: disabled
+PallyPower: disabled
+NugComboBar: enabled
+LoseControl: enabled
+Auctionator: enabled
+AutoRepair: disabled
+AutoFlood: disabled
+DressMe: enabled
+LootHog: disabled
+MessageQueue: disabled
+WeakAurasCompanion: enabled
+WeakAurasArchive: enabled

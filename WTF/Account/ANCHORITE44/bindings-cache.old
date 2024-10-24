@@ -1,0 +1,27 @@
+BINDINGMODE 0
+bind BUTTON3 CLICK BT4Button66:LeftButton
+bind X NONE
+bind Z ACTIONBUTTON9
+bind BUTTON4 ACTIONBUTTON12
+bind 9 NONE
+bind 0 NONE
+bind - NONE
+bind = NONE
+bind SHIFT-1 CLICK BT4Button37:LeftButton
+bind SHIFT-2 CLICK BT4Button38:LeftButton
+bind SHIFT-3 CLICK BT4Button39:LeftButton
+bind SHIFT-4 CLICK BT4Button40:LeftButton
+bind F1 CLICK BT4Button61:LeftButton
+bind F2 CLICK BT4Button62:LeftButton
+bind F3 CLICK BT4Button63:LeftButton
+bind F4 CLICK BT4Button64:LeftButton
+bind F5 CLICK BT4Button65:LeftButton
+bind V ACTIONBUTTON10
+bind M TOGGLEWORLDMAP
+bind BUTTON5 ACTIONBUTTON11
+bind ALT-1 CLICK BT4Button13:LeftButton
+bind ALT-2 CLICK BT4Button14:LeftButton
+bind ALT-3 CLICK BT4Button15:LeftButton
+bind ALT-4 CLICK BT4Button16:LeftButton
+bind ALT-5 CLICK BT4Button17:LeftButton
+bind " TOGGLEWORLDMAP

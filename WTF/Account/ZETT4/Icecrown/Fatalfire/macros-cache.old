@@ -1,0 +1,15 @@
+MACRO 16777218 "Focus" INV_Misc_QuestionMark
+/cast [@focus, exists, nodead] [] Counterspell
+END
+MACRO 16777219 "Focus" INV_Misc_QuestionMark
+/cast [@focus, exists, nodead] [] Polymorph
+END
+MACRO 16777217 "Ice" INV_Misc_QuestionMark
+/cast Ice Block
+/cancelaura Ice Block
+END
+MACRO 16777220 "Trinket" INV_Misc_QuestionMark
+#showtooltip Mirror Image
+/use Talisman of Resurgence
+/cast Mirror Image
+END

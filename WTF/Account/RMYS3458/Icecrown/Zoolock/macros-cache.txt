@@ -1,0 +1,60 @@
+MACRO 16777224 "Affli" INV_Misc_QuestionMark
+/cast Shadow Bolt
+/petattack
+/use Sanctified Dark Coven Gloves
+END
+MACRO 16777230 "Armor" INV_Misc_QuestionMark
+/castsequence Fel Armor, Demon Armor
+END
+MACRO 16777222 "Demo" INV_Misc_QuestionMark
+#showtooltip Metamorphosis
+/cast Metamorphosis
+/cast Immolation Aura(Demon)
+/cast Blood Fury(Racial)
+/use 10
+END
+MACRO 16777217 "Demo" INV_Misc_QuestionMark
+#showtooltip Shadow Bolt(Rank 13)
+/cast Shadow Cleave(Demon)
+/cast Shadow Bolt(Rank 13)
+/cast Demonic Empowerment
+/use 10
+END
+MACRO 16777232 "Felhunter" INV_Misc_QuestionMark
+#showtooltip Summon Felhunter
+/cast Fel Domination
+/cast Summon Felhunter
+END
+MACRO 16777231 "Follow" Ability_Hunter_Longevity
+/petfollow
+END
+MACRO 16777233 "Incinerate" INV_Misc_QuestionMark
+#showtooltip Incinerate
+/cast Shadow Cleave(Demon)
+/cast Incinerate
+/cast Demonic Empowerment
+/use 10
+END
+MACRO 16777228 "Pet Attack" Ability_Hunter_Assassinate2
+/petattack
+END
+MACRO 16777229 "Pet Summon" INV_Misc_QuestionMark
+/cast Fel Domination
+/cast Summon Felguard
+END
+MACRO 16777227 "Seed" INV_Misc_QuestionMark
+/targetenemy
+/cast Seed of Corruption
+END
+MACRO 16777225 "sham" INV_Misc_QuestionMark
+/target Shambling Horror
+/cast Curse of Weakness
+/targetlasttarget
+END
+MACRO 16777221 "Soul Fire" INV_Misc_QuestionMark
+#showtooltip Soul Fire(Rank 6)
+/cast Shadow Cleave(Demon)
+/cast Soul Fire(Rank 6)
+/cast Demonic Empowerment
+/use 10
+END

@@ -1,0 +1,29 @@
+MACRO 16777219 " " INV_Misc_QuestionMark
+/cast Sinister Strike
+/startattack
+/use 10
+END
+MACRO 16777218 " Slice" INV_Misc_QuestionMark
+/cast Premeditation
+/cast Slice and Dice
+END
+MACRO 16777217 " SSap" INV_Misc_QuestionMark
+/cast Shadowstep
+/cast Sap
+END
+MACRO 16777223 "Ambush" INV_Misc_QuestionMark
+/cast Ambush
+/cast Deadly Throw
+END
+MACRO 16777222 "Focus" Ability_Hunter_MarkedForDeath
+/focus Target
+END
+MACRO 16777224 "Mouse" INV_Misc_QuestionMark
+/cast [@mouseover] Tricks of the Trade
+END
+MACRO 16777220 "Tot" INV_Misc_QuestionMark
+/cast [target=focus] Tricks of the Trade
+END
+MACRO 16777225 "Tot Healbot" INV_Misc_QuestionMark
+/cast [target=Altheriux] Tricks of the Trade
+END

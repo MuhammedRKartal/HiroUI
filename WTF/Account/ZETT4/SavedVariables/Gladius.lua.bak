@@ -1,0 +1,12 @@
+
+Gladius2DB = {
+	["profileKeys"] = {
+		["Reiila - Icecrown"] = "Reiila - Icecrown",
+	},
+	["profiles"] = {
+		["Reiila - Icecrown"] = {
+			["tagsVersion"] = 4,
+			["auraVersion"] = 1,
+		},
+	},
+}

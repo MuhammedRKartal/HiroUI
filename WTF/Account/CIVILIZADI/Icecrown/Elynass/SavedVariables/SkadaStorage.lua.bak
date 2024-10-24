@@ -1,0 +1,2619 @@
+
+SkadaStorageDB = {
+	["sets"] = {
+		{
+			["mana"] = 704,
+			["enemies"] = {
+				{
+					["id"] = "0xF1300079AA0049F0",
+					["name"] = "Heroic Training Dummy",
+					["totaldamagetaken"] = 789580,
+					["flag"] = 68136,
+					["class"] = "MONSTER",
+					["damagetaken"] = 789580,
+					["damagetakenspells"] = {
+						[53353] = {
+							["school"] = 8,
+							["sources"] = {
+								["Fliktah"] = {
+									["amount"] = 41134,
+								},
+							},
+							["amount"] = 41134,
+						},
+						[6603] = {
+							["school"] = 1,
+							["sources"] = {
+								["Fliktah"] = {
+									["amount"] = 36408,
+								},
+							},
+							["amount"] = 36408,
+						},
+						[49050] = {
+							["school"] = 1,
+							["sources"] = {
+								["Fliktah"] = {
+									["amount"] = 64181,
+								},
+							},
+							["amount"] = 64181,
+						},
+						[34655] = {
+							["school"] = 8,
+							["sources"] = {
+								["Fliktah"] = {
+									["amount"] = 429,
+								},
+							},
+							["amount"] = 429,
+						},
+						[49065] = {
+							["school"] = 4,
+							["sources"] = {
+								["Fliktah"] = {
+									["amount"] = 34909,
+								},
+							},
+							["amount"] = 34909,
+						},
+						[49052] = {
+							["school"] = 1,
+							["sources"] = {
+								["Fliktah"] = {
+									["amount"] = 161764,
+								},
+							},
+							["amount"] = 161764,
+						},
+						[53254] = {
+							["school"] = 8,
+							["sources"] = {
+								["Fliktah"] = {
+									["amount"] = 23630,
+								},
+							},
+							["amount"] = 23630,
+						},
+						[63468] = {
+							["school"] = 1,
+							["sources"] = {
+								["Fliktah"] = {
+									["amount"] = 63519,
+								},
+							},
+							["amount"] = 63519,
+						},
+						[49001] = {
+							["school"] = 8,
+							["sources"] = {
+								["Fliktah"] = {
+									["amount"] = 26665,
+								},
+							},
+							["amount"] = 26665,
+						},
+						[53209] = {
+							["school"] = 8,
+							["sources"] = {
+								["Fliktah"] = {
+									["amount"] = 63912,
+								},
+							},
+							["amount"] = 63912,
+						},
+						[52474] = {
+							["school"] = 1,
+							["sources"] = {
+								["Fliktah"] = {
+									["amount"] = 27475,
+								},
+							},
+							["amount"] = 27475,
+						},
+						[34490] = {
+							["school"] = 1,
+							["sources"] = {
+								["Fliktah"] = {
+									["amount"] = 12218,
+								},
+							},
+							["amount"] = 12218,
+						},
+						[75] = {
+							["school"] = 1,
+							["sources"] = {
+								["Fliktah"] = {
+									["amount"] = 233336,
+								},
+							},
+							["amount"] = 233336,
+						},
+					},
+				}, -- [1]
+				{
+					["id"] = "0xF1300079A80049EF",
+					["name"] = "Grandmaster's Training Dummy",
+					["totaldamagetaken"] = 69662,
+					["flag"] = 2600,
+					["class"] = "MONSTER",
+					["damagetaken"] = 69662,
+					["damagetakenspells"] = {
+						[49065] = {
+							["school"] = 4,
+							["sources"] = {
+								["Fliktah"] = {
+									["overkill"] = 69536,
+									["amount"] = 69662,
+								},
+							},
+							["overkill"] = 69536,
+							["amount"] = 69662,
+						},
+					},
+				}, -- [2]
+			},
+			["totaldamage"] = 859242,
+			["time"] = 106,
+			["etotaldamagetaken"] = 859242,
+			["last_time"] = 1018509.983,
+			["players"] = {
+				{
+					["last"] = 1018509.501,
+					["flag"] = 4369,
+					["class"] = "HUNTER",
+					["auras"] = {
+						[34074] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 8,
+							["uptime"] = 5,
+						},
+						[75456] = {
+							["type"] = "BUFF",
+							["count"] = 3,
+							["school"] = 64,
+							["uptime"] = 43,
+						},
+						[34490] = {
+							["type"] = "DEBUFF",
+							["count"] = 5,
+							["school"] = 1,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["uptime"] = 15,
+									["count"] = 5,
+								},
+							},
+							["uptime"] = 15,
+						},
+						[53401] = {
+							["type"] = "BUFF",
+							["count"] = 3,
+							["school"] = 1,
+							["uptime"] = 56,
+						},
+						[34027] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 106,
+						},
+						[53434] = {
+							["type"] = "BUFF",
+							["count"] = 2,
+							["school"] = 1,
+							["uptime"] = 20,
+						},
+						[34026] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 1,
+							["uptime"] = 22,
+						},
+						[49065] = {
+							["type"] = "DEBUFF",
+							["count"] = 6,
+							["school"] = 4,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["uptime"] = 41,
+									["count"] = 4,
+								},
+								["Heroic Training Dummy"] = {
+									["uptime"] = 41,
+									["count"] = 2,
+								},
+							},
+							["uptime"] = 41,
+						},
+						[53220] = {
+							["type"] = "BUFF",
+							["count"] = 6,
+							["school"] = 1,
+							["uptime"] = 22,
+						},
+						[25810] = {
+							["type"] = "DEBUFF",
+							["count"] = 4,
+							["school"] = 8,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["uptime"] = 51,
+									["count"] = 4,
+								},
+							},
+							["uptime"] = 51,
+						},
+						[61685] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 1,
+							["uptime"] = 4,
+						},
+						[30981] = {
+							["type"] = "DEBUFF",
+							["count"] = 4,
+							["school"] = 8,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["uptime"] = 54,
+									["count"] = 4,
+								},
+							},
+							["uptime"] = 54,
+						},
+						[34655] = {
+							["type"] = "DEBUFF",
+							["count"] = 1,
+							["school"] = 8,
+							["refresh"] = 14,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["count"] = 1,
+									["refresh"] = 14,
+									["uptime"] = 57,
+								},
+							},
+							["uptime"] = 57,
+						},
+						[70728] = {
+							["type"] = "BUFF",
+							["count"] = 4,
+							["school"] = 32,
+							["uptime"] = 20,
+						},
+						[3045] = {
+							["type"] = "BUFF",
+							["count"] = 2,
+							["school"] = 1,
+							["uptime"] = 30,
+						},
+						[72412] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 1,
+							["uptime"] = 10,
+						},
+						[57399] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 106,
+						},
+						[61847] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 101,
+						},
+						[70893] = {
+							["type"] = "BUFF",
+							["count"] = 8,
+							["school"] = 1,
+							["refresh"] = 2,
+							["uptime"] = 47,
+						},
+						[13168] = {
+							["type"] = "BUFF",
+							["count"] = 3,
+							["school"] = 1,
+							["refresh"] = 7,
+							["uptime"] = 53,
+						},
+						[54131] = {
+							["type"] = "BUFF",
+							["count"] = 6,
+							["school"] = 1,
+							["refresh"] = 4,
+							["uptime"] = 38,
+						},
+						[53403] = {
+							["type"] = "BUFF",
+							["count"] = 3,
+							["school"] = 1,
+							["refresh"] = 10,
+							["uptime"] = 48,
+						},
+						[20572] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 1,
+							["uptime"] = 15,
+						},
+						[49050] = {
+							["type"] = "DEBUFF",
+							["uptime"] = 75,
+							["school"] = 1,
+							["refresh"] = 1,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["count"] = 8,
+									["refresh"] = 1,
+									["uptime"] = 75,
+								},
+							},
+							["count"] = 8,
+						},
+						[71007] = {
+							["type"] = "BUFF",
+							["count"] = 2,
+							["school"] = 8,
+							["uptime"] = 20,
+						},
+						[6150] = {
+							["type"] = "BUFF",
+							["count"] = 3,
+							["school"] = 1,
+							["refresh"] = 3,
+							["uptime"] = 52,
+						},
+						[63468] = {
+							["type"] = "DEBUFF",
+							["count"] = 1,
+							["school"] = 1,
+							["refresh"] = 26,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["count"] = 1,
+									["refresh"] = 26,
+									["uptime"] = 83,
+								},
+							},
+							["uptime"] = 83,
+						},
+						[54758] = {
+							["type"] = "BUFF",
+							["count"] = 2,
+							["school"] = 1,
+							["uptime"] = 24,
+						},
+						[53148] = {
+							["type"] = "DEBUFF",
+							["count"] = 1,
+							["school"] = 1,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["uptime"] = 1,
+									["count"] = 1,
+								},
+							},
+							["uptime"] = 1,
+						},
+						[19506] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 106,
+						},
+						[64495] = {
+							["type"] = "BUFF",
+							["count"] = 6,
+							["school"] = 1,
+							["uptime"] = 60,
+						},
+						[49001] = {
+							["type"] = "DEBUFF",
+							["count"] = 1,
+							["school"] = 8,
+							["refresh"] = 9,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["count"] = 1,
+									["refresh"] = 9,
+									["uptime"] = 106,
+								},
+							},
+							["uptime"] = 106,
+						},
+					},
+					["energyspells"] = {
+						[34952] = 2500,
+						[54131] = 735,
+					},
+					["time"] = 105.23,
+					["damage"] = 859242,
+					["damagespells"] = {
+						["Deadly Poison (Venomous Snake) (DoT)"] = {
+							["hitmin"] = 30,
+							["id"] = 34655,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 429,
+								},
+							},
+							["hitmax"] = 75,
+							["count"] = 7,
+							["hit"] = 7,
+							["school"] = 8,
+							["resisted"] = 36,
+							["amount"] = 429,
+							["hitamount"] = 429,
+						},
+						["Chimera Shot"] = {
+							["criticalmin"] = 10620,
+							["hitmin"] = 3328,
+							["criticalamount"] = 38270,
+							["id"] = 53209,
+							["criticalmax"] = 15685,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 63912,
+								},
+							},
+							["critical"] = 3,
+							["hitmax"] = 5183,
+							["casts"] = 9,
+							["count"] = 9,
+							["hit"] = 6,
+							["school"] = 8,
+							["resisted"] = 2306,
+							["amount"] = 63912,
+							["hitamount"] = 25642,
+						},
+						["Serpent Sting (DoT)"] = {
+							["hitmin"] = 616,
+							["id"] = 49001,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 26665,
+								},
+							},
+							["hitmax"] = 1044,
+							["count"] = 35,
+							["hit"] = 35,
+							["school"] = 8,
+							["resisted"] = 1366,
+							["amount"] = 26665,
+							["hitamount"] = 26665,
+						},
+						["Auto Shot"] = {
+							["hitmin"] = 2738,
+							["criticalamount"] = 173435,
+							["id"] = 75,
+							["hitmax"] = 4091,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 233336,
+								},
+							},
+							["count"] = 45,
+							["hit"] = 18,
+							["casts"] = 1,
+							["critical"] = 27,
+							["amount"] = 233336,
+							["school"] = 1,
+							["criticalmin"] = 5498,
+							["criticalmax"] = 8040,
+							["hitamount"] = 59901,
+						},
+						["Silencing Shot"] = {
+							["hitmin"] = 1484,
+							["criticalamount"] = 7531,
+							["id"] = 34490,
+							["criticalmin"] = 3637,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 12218,
+								},
+							},
+							["criticalmax"] = 3894,
+							["critical"] = 2,
+							["casts"] = 5,
+							["count"] = 5,
+							["hit"] = 3,
+							["school"] = 1,
+							["hitmax"] = 1674,
+							["amount"] = 12218,
+							["hitamount"] = 4687,
+						},
+						["Deadly Poison (Venomous Snake)"] = {
+							["casts"] = 1,
+							["count"] = 2,
+							["amount"] = 0,
+							["school"] = 8,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 0,
+								},
+							},
+							["MISS"] = 2,
+							["id"] = 34655,
+						},
+						["Explosive Trap Effect"] = {
+							["hitmin"] = 1472,
+							["id"] = 49065,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["overkill"] = 2968,
+									["amount"] = 2974,
+								},
+								["Heroic Training Dummy"] = {
+									["amount"] = 3038,
+								},
+							},
+							["overkill"] = 2968,
+							["casts"] = 1,
+							["count"] = 4,
+							["hit"] = 4,
+							["school"] = 4,
+							["hitmax"] = 1535,
+							["amount"] = 6012,
+							["hitamount"] = 6012,
+						},
+						["Melee (Venomous Snake)"] = {
+							["DODGE"] = 2,
+							["glance"] = 128,
+							["hitmin"] = 10,
+							["id"] = 6603,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 526,
+								},
+							},
+							["glancemax"] = 10,
+							["hitmax"] = 14,
+							["glancing"] = 15,
+							["hitamount"] = 398,
+							["count"] = 53,
+							["amount"] = 526,
+							["school"] = 1,
+							["hit"] = 32,
+							["MISS"] = 4,
+							["glancemin"] = 7,
+						},
+						["Aimed Shot"] = {
+							["hitmin"] = 3367,
+							["criticalamount"] = 49613,
+							["id"] = 49050,
+							["criticalmin"] = 8696,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 64181,
+								},
+							},
+							["criticalmax"] = 11420,
+							["critical"] = 5,
+							["casts"] = 9,
+							["count"] = 9,
+							["hit"] = 4,
+							["school"] = 1,
+							["hitmax"] = 3998,
+							["amount"] = 64181,
+							["hitamount"] = 14568,
+						},
+						["Piercing Shots (DoT)"] = {
+							["hitmin"] = 295,
+							["id"] = 63468,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 63519,
+								},
+							},
+							["count"] = 69,
+							["hit"] = 69,
+							["school"] = 1,
+							["hitmax"] = 1704,
+							["amount"] = 63519,
+							["hitamount"] = 63519,
+						},
+						["Wild Quiver Auto Shot"] = {
+							["criticalmin"] = 4720,
+							["hitmin"] = 2283,
+							["criticalamount"] = 12245,
+							["id"] = 53254,
+							["hitmax"] = 3098,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 23630,
+								},
+							},
+							["count"] = 6,
+							["hit"] = 4,
+							["casts"] = 1,
+							["critical"] = 2,
+							["amount"] = 23630,
+							["school"] = 8,
+							["resisted"] = 1463,
+							["criticalmax"] = 7525,
+							["hitamount"] = 11385,
+						},
+						["Melee (Battle Chicken)"] = {
+							["DODGE"] = 4,
+							["glance"] = 1926,
+							["hitmin"] = 1,
+							["id"] = 6603,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 3951,
+								},
+							},
+							["glancemin"] = 1,
+							["glancing"] = 22,
+							["glancemax"] = 113,
+							["count"] = 71,
+							["hit"] = 45,
+							["school"] = 1,
+							["hitmax"] = 67,
+							["amount"] = 3951,
+							["hitamount"] = 2025,
+						},
+						["Steady Shot"] = {
+							["hitmin"] = 2407,
+							["criticalamount"] = 124471,
+							["id"] = 49052,
+							["criticalmin"] = 5662,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 161764,
+								},
+							},
+							["criticalmax"] = 7888,
+							["critical"] = 19,
+							["casts"] = 33,
+							["count"] = 33,
+							["hit"] = 14,
+							["school"] = 1,
+							["hitmax"] = 3027,
+							["amount"] = 161764,
+							["hitamount"] = 37293,
+						},
+						["Melee (Viper)"] = {
+							["DODGE"] = 1,
+							["glance"] = 154,
+							["hitmin"] = 19,
+							["amount"] = 591,
+							["id"] = 6603,
+							["glancemin"] = 15,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 591,
+								},
+							},
+							["glancemax"] = 18,
+							["glancing"] = 10,
+							["PARRY"] = 1,
+							["count"] = 35,
+							["hit"] = 20,
+							["school"] = 1,
+							["hitmax"] = 25,
+							["MISS"] = 3,
+							["hitamount"] = 437,
+						},
+						["Melee (Wolf)"] = {
+							["glance"] = 4279,
+							["hitmin"] = 309,
+							["criticalmin"] = 716,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 31340,
+								},
+							},
+							["glancing"] = 13,
+							["amount"] = 31340,
+							["glancemin"] = 233,
+							["criticalamount"] = 9652,
+							["id"] = 6603,
+							["glancemax"] = 496,
+							["criticalmax"] = 1388,
+							["critical"] = 10,
+							["hit"] = 41,
+							["school"] = 1,
+							["hitmax"] = 695,
+							["count"] = 64,
+							["hitamount"] = 17409,
+						},
+						["Chimera Shot - Serpent"] = {
+							["criticalmin"] = 3985,
+							["hitmin"] = 2079,
+							["criticalamount"] = 36919,
+							["id"] = 53353,
+							["hitmax"] = 2136,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 41134,
+								},
+							},
+							["count"] = 9,
+							["hit"] = 2,
+							["casts"] = 1,
+							["critical"] = 7,
+							["amount"] = 41134,
+							["school"] = 8,
+							["resisted"] = 3876,
+							["criticalmax"] = 7090,
+							["hitamount"] = 4215,
+						},
+						["Bite (Wolf)"] = {
+							["hitmin"] = 276,
+							["criticalamount"] = 4422,
+							["id"] = 52474,
+							["criticalmin"] = 652,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 27475,
+								},
+							},
+							["criticalmax"] = 1146,
+							["critical"] = 5,
+							["casts"] = 1,
+							["count"] = 63,
+							["hit"] = 58,
+							["school"] = 1,
+							["hitmax"] = 710,
+							["amount"] = 27475,
+							["hitamount"] = 23053,
+						},
+						["Explosive Trap Effect (DoT)"] = {
+							["hit"] = 25,
+							["hitmin"] = 992,
+							["criticalamount"] = 67636,
+							["id"] = 49065,
+							["hitmax"] = 1568,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["overkill"] = 66568,
+									["amount"] = 66688,
+								},
+								["Heroic Training Dummy"] = {
+									["amount"] = 31871,
+								},
+							},
+							["overkill"] = 66568,
+							["count"] = 60,
+							["criticalmax"] = 2305,
+							["critical"] = 35,
+							["amount"] = 98559,
+							["school"] = 4,
+							["resisted"] = 2598,
+							["criticalmin"] = 1533,
+							["hitamount"] = 30923,
+						},
+					},
+					["mana"] = 704,
+					["id"] = "0x07000000001BC237",
+					["spec"] = 254,
+					["healspells"] = {
+						[54131] = {
+							["overheal"] = 5495,
+							["count"] = 35,
+							["amount"] = 0,
+							["school"] = 1,
+							["ishot"] = true,
+							["targets"] = {
+								["Wolf"] = {
+									["overheal"] = 5495,
+									["amount"] = 0,
+								},
+							},
+						},
+					},
+					["overkill"] = 69536,
+					["manaspells"] = {
+						[34074] = 704,
+					},
+					["heal"] = 0,
+					["name"] = "Fliktah",
+					["overheal"] = 5495,
+					["totaldamage"] = 859242,
+					["energy"] = 3235,
+					["role"] = "DAMAGER",
+				}, -- [1]
+			},
+			["type"] = "none",
+			["energy"] = 3235,
+			["starttime"] = 1675161530,
+			["overheal"] = 5495,
+			["overkill"] = 69536,
+			["edamagetaken"] = 859242,
+			["heal"] = 0,
+			["name"] = "Heroic Training Dummy (4)",
+			["mobname"] = "Heroic Training Dummy",
+			["damage"] = 859242,
+			["last_action"] = 1675161636,
+			["endtime"] = 1675161636,
+		}, -- [1]
+		{
+			["mana"] = 17072,
+			["enemies"] = {
+				{
+					["id"] = "0xF1300079AA0049F0",
+					["name"] = "Heroic Training Dummy",
+					["totaldamagetaken"] = 1352841,
+					["flag"] = 68136,
+					["class"] = "MONSTER",
+					["damagetaken"] = 1352841,
+					["damagetakenspells"] = {
+						[53353] = {
+							["school"] = 8,
+							["sources"] = {
+								["Fliktah"] = {
+									["amount"] = 72723,
+								},
+							},
+							["amount"] = 72723,
+						},
+						[6603] = {
+							["school"] = 1,
+							["sources"] = {
+								["Fliktah"] = {
+									["amount"] = 45236,
+								},
+							},
+							["amount"] = 45236,
+						},
+						[49050] = {
+							["school"] = 1,
+							["sources"] = {
+								["Fliktah"] = {
+									["amount"] = 115041,
+								},
+							},
+							["amount"] = 115041,
+						},
+						[34655] = {
+							["school"] = 8,
+							["sources"] = {
+								["Fliktah"] = {
+									["amount"] = 473,
+								},
+							},
+							["amount"] = 473,
+						},
+						[49065] = {
+							["school"] = 4,
+							["sources"] = {
+								["Fliktah"] = {
+									["amount"] = 66159,
+								},
+							},
+							["amount"] = 66159,
+						},
+						[49052] = {
+							["school"] = 1,
+							["sources"] = {
+								["Fliktah"] = {
+									["amount"] = 271306,
+								},
+							},
+							["amount"] = 271306,
+						},
+						[53254] = {
+							["school"] = 8,
+							["sources"] = {
+								["Fliktah"] = {
+									["amount"] = 31779,
+								},
+							},
+							["amount"] = 31779,
+						},
+						[63468] = {
+							["school"] = 1,
+							["sources"] = {
+								["Fliktah"] = {
+									["amount"] = 139862,
+								},
+							},
+							["amount"] = 139862,
+						},
+						[49001] = {
+							["school"] = 8,
+							["sources"] = {
+								["Fliktah"] = {
+									["amount"] = 44712,
+								},
+							},
+							["amount"] = 44712,
+						},
+						[52474] = {
+							["school"] = 1,
+							["sources"] = {
+								["Fliktah"] = {
+									["amount"] = 47466,
+								},
+							},
+							["amount"] = 47466,
+						},
+						[53209] = {
+							["school"] = 8,
+							["sources"] = {
+								["Fliktah"] = {
+									["amount"] = 151888,
+								},
+							},
+							["amount"] = 151888,
+						},
+						[34490] = {
+							["school"] = 1,
+							["sources"] = {
+								["Fliktah"] = {
+									["amount"] = 24909,
+								},
+							},
+							["amount"] = 24909,
+						},
+						[75] = {
+							["school"] = 1,
+							["sources"] = {
+								["Fliktah"] = {
+									["amount"] = 341287,
+								},
+							},
+							["amount"] = 341287,
+						},
+					},
+				}, -- [1]
+				{
+					["id"] = "0xF1300079A80049EF",
+					["name"] = "Grandmaster's Training Dummy",
+					["totaldamagetaken"] = 138280,
+					["flag"] = 2600,
+					["class"] = "MONSTER",
+					["damagetaken"] = 138280,
+					["damagetakenspells"] = {
+						[49065] = {
+							["school"] = 4,
+							["sources"] = {
+								["Fliktah"] = {
+									["overkill"] = 138028,
+									["amount"] = 138280,
+								},
+							},
+							["overkill"] = 138028,
+							["amount"] = 138280,
+						},
+					},
+				}, -- [2]
+			},
+			["totaldamage"] = 1491121,
+			["time"] = 170,
+			["etotaldamagetaken"] = 1491121,
+			["last_time"] = 1018022.925,
+			["players"] = {
+				{
+					["last"] = 1018021.12,
+					["flag"] = 4369,
+					["class"] = "HUNTER",
+					["auras"] = {
+						[53760] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 170,
+						},
+						[63468] = {
+							["type"] = "DEBUFF",
+							["count"] = 3,
+							["school"] = 1,
+							["refresh"] = 60,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["count"] = 3,
+									["refresh"] = 60,
+									["uptime"] = 156,
+								},
+							},
+							["uptime"] = 156,
+						},
+						[34490] = {
+							["type"] = "DEBUFF",
+							["uptime"] = 24,
+							["school"] = 1,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["uptime"] = 24,
+									["count"] = 8,
+								},
+							},
+							["count"] = 8,
+						},
+						[71556] = {
+							["type"] = "BUFF",
+							["count"] = 2,
+							["school"] = 1,
+							["uptime"] = 60,
+						},
+						[53148] = {
+							["type"] = "DEBUFF",
+							["count"] = 1,
+							["school"] = 1,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["uptime"] = 1,
+									["count"] = 1,
+								},
+							},
+							["uptime"] = 1,
+						},
+						[6150] = {
+							["type"] = "BUFF",
+							["count"] = 3,
+							["school"] = 1,
+							["uptime"] = 36,
+						},
+						[49065] = {
+							["type"] = "DEBUFF",
+							["uptime"] = 80,
+							["school"] = 4,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["uptime"] = 80,
+									["count"] = 8,
+								},
+								["Heroic Training Dummy"] = {
+									["uptime"] = 80,
+									["count"] = 4,
+								},
+							},
+							["count"] = 12,
+						},
+						[20572] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 1,
+							["uptime"] = 15,
+						},
+						[3045] = {
+							["type"] = "BUFF",
+							["count"] = 2,
+							["school"] = 1,
+							["uptime"] = 30,
+						},
+						[34026] = {
+							["type"] = "BUFF",
+							["count"] = 2,
+							["school"] = 1,
+							["uptime"] = 53,
+						},
+						[19506] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 170,
+						},
+						[54131] = {
+							["type"] = "BUFF",
+							["count"] = 11,
+							["school"] = 1,
+							["refresh"] = 15,
+							["uptime"] = 92,
+						},
+						[25810] = {
+							["type"] = "DEBUFF",
+							["count"] = 3,
+							["school"] = 8,
+							["refresh"] = 1,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["count"] = 3,
+									["refresh"] = 1,
+									["uptime"] = 39,
+								},
+							},
+							["uptime"] = 39,
+						},
+						[72412] = {
+							["type"] = "BUFF",
+							["count"] = 2,
+							["school"] = 1,
+							["uptime"] = 20,
+						},
+						[30981] = {
+							["type"] = "DEBUFF",
+							["count"] = 3,
+							["school"] = 8,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["uptime"] = 33,
+									["count"] = 3,
+								},
+							},
+							["uptime"] = 33,
+						},
+						[75456] = {
+							["type"] = "BUFF",
+							["count"] = 4,
+							["school"] = 64,
+							["uptime"] = 60,
+						},
+						[49050] = {
+							["type"] = "DEBUFF",
+							["count"] = 14,
+							["school"] = 1,
+							["refresh"] = 1,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["count"] = 14,
+									["refresh"] = 1,
+									["uptime"] = 146,
+								},
+							},
+							["uptime"] = 146,
+						},
+						[53401] = {
+							["type"] = "BUFF",
+							["count"] = 4,
+							["school"] = 1,
+							["uptime"] = 80,
+						},
+						[71007] = {
+							["type"] = "BUFF",
+							["uptime"] = 29,
+							["school"] = 8,
+							["refresh"] = 1,
+							["count"] = 2,
+						},
+						[61847] = {
+							["type"] = "BUFF",
+							["count"] = 5,
+							["school"] = 8,
+							["uptime"] = 143,
+						},
+						[64495] = {
+							["type"] = "BUFF",
+							["count"] = 10,
+							["school"] = 1,
+							["uptime"] = 90,
+						},
+						[70893] = {
+							["type"] = "BUFF",
+							["count"] = 14,
+							["school"] = 1,
+							["refresh"] = 14,
+							["uptime"] = 94,
+						},
+						[49001] = {
+							["type"] = "DEBUFF",
+							["count"] = 1,
+							["school"] = 8,
+							["refresh"] = 16,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["count"] = 1,
+									["refresh"] = 16,
+									["uptime"] = 170,
+								},
+							},
+							["uptime"] = 170,
+						},
+						[34074] = {
+							["type"] = "BUFF",
+							["count"] = 4,
+							["school"] = 8,
+							["uptime"] = 27,
+						},
+						[70728] = {
+							["type"] = "BUFF",
+							["uptime"] = 33,
+							["school"] = 32,
+							["refresh"] = 2,
+							["count"] = 6,
+						},
+						[62305] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 1,
+							["uptime"] = 4,
+						},
+						[34655] = {
+							["type"] = "DEBUFF",
+							["count"] = 1,
+							["school"] = 8,
+							["refresh"] = 16,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["count"] = 1,
+									["refresh"] = 16,
+									["uptime"] = 39,
+								},
+							},
+							["uptime"] = 39,
+						},
+						[34027] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 170,
+						},
+						[54216] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 1,
+							["uptime"] = 4,
+						},
+						[54758] = {
+							["type"] = "BUFF",
+							["count"] = 3,
+							["school"] = 1,
+							["uptime"] = 36,
+						},
+						[57399] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 170,
+						},
+						[53220] = {
+							["type"] = "BUFF",
+							["uptime"] = 9,
+							["school"] = 1,
+							["refresh"] = 1,
+							["count"] = 5,
+						},
+						[61685] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 1,
+							["uptime"] = 4,
+						},
+						[53403] = {
+							["type"] = "BUFF",
+							["count"] = 4,
+							["school"] = 1,
+							["refresh"] = 16,
+							["uptime"] = 72,
+						},
+					},
+					["energyspells"] = {
+						[34952] = 5275,
+						[54131] = 1743,
+					},
+					["time"] = 168.18,
+					["damage"] = 1491121,
+					["damagespells"] = {
+						["Deadly Poison (Venomous Snake) (DoT)"] = {
+							["hitmin"] = 45,
+							["id"] = 34655,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 473,
+								},
+							},
+							["hitmax"] = 75,
+							["count"] = 7,
+							["hit"] = 7,
+							["school"] = 8,
+							["resisted"] = 22,
+							["amount"] = 473,
+							["hitamount"] = 473,
+						},
+						["Chimera Shot"] = {
+							["hitmax"] = 4872,
+							["hitmin"] = 4035,
+							["criticalamount"] = 138466,
+							["id"] = 53209,
+							["criticalmin"] = 8535,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 151888,
+								},
+							},
+							["criticalmax"] = 14401,
+							["critical"] = 13,
+							["casts"] = 16,
+							["count"] = 16,
+							["hit"] = 3,
+							["school"] = 8,
+							["resisted"] = 6402,
+							["amount"] = 151888,
+							["hitamount"] = 13422,
+						},
+						["Mind-numbing Poison (Viper)"] = {
+							["casts"] = 1,
+							["count"] = 1,
+							["amount"] = 0,
+							["school"] = 8,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 0,
+								},
+							},
+							["MISS"] = 1,
+							["id"] = 25810,
+						},
+						["Melee (Wolf)"] = {
+							["glance"] = 10322,
+							["hitmin"] = 316,
+							["criticalmin"] = 628,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 44041,
+								},
+							},
+							["glancing"] = 32,
+							["amount"] = 44041,
+							["glancemin"] = 238,
+							["criticalamount"] = 6238,
+							["id"] = 6603,
+							["glancemax"] = 424,
+							["criticalmax"] = 1104,
+							["critical"] = 7,
+							["hit"] = 65,
+							["school"] = 1,
+							["hitmax"] = 571,
+							["count"] = 104,
+							["hitamount"] = 27481,
+						},
+						["Auto Shot"] = {
+							["hitmin"] = 1505,
+							["criticalamount"] = 253094,
+							["id"] = 75,
+							["hitmax"] = 4006,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 341287,
+								},
+							},
+							["count"] = 70,
+							["hit"] = 28,
+							["casts"] = 1,
+							["critical"] = 42,
+							["amount"] = 341287,
+							["school"] = 1,
+							["criticalmin"] = 2774,
+							["criticalmax"] = 8172,
+							["hitamount"] = 88193,
+						},
+						["Silencing Shot"] = {
+							["hitmin"] = 1484,
+							["criticalamount"] = 20064,
+							["id"] = 34490,
+							["hitmax"] = 1702,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 24909,
+								},
+							},
+							["count"] = 8,
+							["hit"] = 3,
+							["casts"] = 8,
+							["critical"] = 5,
+							["amount"] = 24909,
+							["school"] = 1,
+							["criticalmin"] = 3892,
+							["criticalmax"] = 4184,
+							["hitamount"] = 4845,
+						},
+						["Melee (Viper)"] = {
+							["DODGE"] = 3,
+							["glance"] = 68,
+							["hitmin"] = 19,
+							["id"] = 6603,
+							["amount"] = 679,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 679,
+								},
+							},
+							["glancemin"] = 15,
+							["glancing"] = 4,
+							["glancemax"] = 18,
+							["count"] = 39,
+							["hit"] = 28,
+							["school"] = 1,
+							["hitmax"] = 25,
+							["MISS"] = 4,
+							["hitamount"] = 611,
+						},
+						["Explosive Trap Effect"] = {
+							["hitmin"] = 1447,
+							["id"] = 49065,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["overkill"] = 6861,
+									["amount"] = 6873,
+								},
+								["Heroic Training Dummy"] = {
+									["amount"] = 6932,
+								},
+							},
+							["overkill"] = 6861,
+							["hitmax"] = 2014,
+							["casts"] = 1,
+							["count"] = 8,
+							["hit"] = 8,
+							["school"] = 4,
+							["resisted"] = 160,
+							["amount"] = 13805,
+							["hitamount"] = 13805,
+						},
+						["Melee (Venomous Snake)"] = {
+							["DODGE"] = 4,
+							["glance"] = 119,
+							["hitmin"] = 10,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 516,
+								},
+							},
+							["id"] = 6603,
+							["hitmax"] = 14,
+							["glancemax"] = 10,
+							["hitamount"] = 397,
+							["glancing"] = 13,
+							["PARRY"] = 1,
+							["count"] = 55,
+							["amount"] = 516,
+							["school"] = 1,
+							["hit"] = 32,
+							["MISS"] = 5,
+							["glancemin"] = 8,
+						},
+						["Aimed Shot"] = {
+							["hitmin"] = 3591,
+							["criticalamount"] = 90336,
+							["id"] = 49050,
+							["criticalmin"] = 8989,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 115041,
+								},
+							},
+							["criticalmax"] = 11279,
+							["critical"] = 9,
+							["casts"] = 15,
+							["count"] = 15,
+							["hit"] = 6,
+							["school"] = 1,
+							["hitmax"] = 4604,
+							["amount"] = 115041,
+							["hitamount"] = 24705,
+						},
+						["Piercing Shots (DoT)"] = {
+							["hitmin"] = 255,
+							["id"] = 63468,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 139862,
+								},
+							},
+							["count"] = 124,
+							["hit"] = 124,
+							["school"] = 1,
+							["hitmax"] = 1654,
+							["amount"] = 139862,
+							["hitamount"] = 139862,
+						},
+						["Wild Quiver Auto Shot"] = {
+							["hitmax"] = 2573,
+							["hitmin"] = 2573,
+							["criticalamount"] = 29206,
+							["id"] = 53254,
+							["count"] = 8,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 31779,
+								},
+							},
+							["hit"] = 1,
+							["criticalmin"] = 2803,
+							["casts"] = 1,
+							["critical"] = 7,
+							["amount"] = 31779,
+							["school"] = 8,
+							["resisted"] = 2602,
+							["criticalmax"] = 5720,
+							["hitamount"] = 2573,
+						},
+						["Steady Shot"] = {
+							["hitmin"] = 1145,
+							["criticalamount"] = 238835,
+							["id"] = 49052,
+							["hitmax"] = 3065,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 271306,
+								},
+							},
+							["count"] = 54,
+							["hit"] = 13,
+							["casts"] = 55,
+							["critical"] = 41,
+							["amount"] = 271306,
+							["school"] = 1,
+							["criticalmin"] = 2793,
+							["criticalmax"] = 7745,
+							["hitamount"] = 32471,
+						},
+						["Deadly Poison (Venomous Snake)"] = {
+							["casts"] = 1,
+							["count"] = 3,
+							["amount"] = 0,
+							["school"] = 8,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 0,
+								},
+							},
+							["MISS"] = 3,
+							["id"] = 34655,
+						},
+						["Serpent Sting (DoT)"] = {
+							["hitmin"] = 609,
+							["id"] = 49001,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 44712,
+								},
+							},
+							["hitmax"] = 965,
+							["count"] = 56,
+							["hit"] = 56,
+							["school"] = 8,
+							["resisted"] = 2424,
+							["amount"] = 44712,
+							["hitamount"] = 44712,
+						},
+						["Chimera Shot - Serpent"] = {
+							["hitmax"] = 2560,
+							["hitmin"] = 2259,
+							["criticalamount"] = 60816,
+							["id"] = 53353,
+							["criticalmin"] = 4124,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 72723,
+								},
+							},
+							["criticalmax"] = 6277,
+							["critical"] = 11,
+							["casts"] = 1,
+							["count"] = 16,
+							["hit"] = 5,
+							["school"] = 8,
+							["resisted"] = 4011,
+							["amount"] = 72723,
+							["hitamount"] = 11907,
+						},
+						["Bite (Wolf)"] = {
+							["hitmin"] = 291,
+							["criticalamount"] = 11956,
+							["id"] = 52474,
+							["hitmax"] = 691,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 47466,
+								},
+							},
+							["count"] = 106,
+							["hit"] = 92,
+							["casts"] = 1,
+							["critical"] = 14,
+							["amount"] = 47466,
+							["school"] = 1,
+							["criticalmin"] = 582,
+							["criticalmax"] = 1362,
+							["hitamount"] = 35510,
+						},
+						["Explosive Trap Effect (DoT)"] = {
+							["hit"] = 37,
+							["hitmin"] = 476,
+							["criticalamount"] = 146459,
+							["id"] = 49065,
+							["hitmax"] = 1631,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["overkill"] = 131167,
+									["amount"] = 131407,
+								},
+								["Heroic Training Dummy"] = {
+									["amount"] = 59227,
+								},
+							},
+							["overkill"] = 131167,
+							["count"] = 120,
+							["criticalmax"] = 2718,
+							["critical"] = 83,
+							["amount"] = 190634,
+							["school"] = 4,
+							["resisted"] = 4429,
+							["criticalmin"] = 769,
+							["hitamount"] = 44175,
+						},
+					},
+					["mana"] = 17072,
+					["id"] = "0x07000000001BC237",
+					["spec"] = 254,
+					["healspells"] = {
+						[54131] = {
+							["overheal"] = 13031,
+							["count"] = 83,
+							["amount"] = 0,
+							["school"] = 1,
+							["ishot"] = true,
+							["targets"] = {
+								["Wolf"] = {
+									["overheal"] = 13031,
+									["amount"] = 0,
+								},
+							},
+						},
+					},
+					["overkill"] = 138028,
+					["manaspells"] = {
+						[34075] = 12144,
+						[34074] = 4928,
+					},
+					["heal"] = 0,
+					["name"] = "Fliktah",
+					["overheal"] = 13031,
+					["totaldamage"] = 1491121,
+					["energy"] = 7018,
+					["role"] = "DAMAGER",
+				}, -- [1]
+			},
+			["type"] = "none",
+			["damage"] = 1491121,
+			["starttime"] = 1675160979,
+			["overheal"] = 13031,
+			["overkill"] = 138028,
+			["edamagetaken"] = 1491121,
+			["heal"] = 0,
+			["name"] = "Heroic Training Dummy (3)",
+			["mobname"] = "Heroic Training Dummy",
+			["energy"] = 7018,
+			["last_action"] = 1675161149,
+			["endtime"] = 1675161149,
+		}, -- [2]
+		{
+			["enemies"] = {
+				{
+					["id"] = "0xF1300079AA0049F0",
+					["name"] = "Heroic Training Dummy",
+					["totaldamagetaken"] = 115500,
+					["flag"] = 68136,
+					["class"] = "MONSTER",
+					["damagetaken"] = 115500,
+					["damagetakenspells"] = {
+						[53254] = {
+							["school"] = 8,
+							["sources"] = {
+								["Fliktah"] = {
+									["amount"] = 7519,
+								},
+							},
+							["amount"] = 7519,
+						},
+						[53209] = {
+							["school"] = 8,
+							["sources"] = {
+								["Fliktah"] = {
+									["amount"] = 10606,
+								},
+							},
+							["amount"] = 10606,
+						},
+						[52474] = {
+							["school"] = 1,
+							["sources"] = {
+								["Fliktah"] = {
+									["amount"] = 8242,
+								},
+							},
+							["amount"] = 8242,
+						},
+						[63468] = {
+							["school"] = 1,
+							["sources"] = {
+								["Fliktah"] = {
+									["amount"] = 5691,
+								},
+							},
+							["amount"] = 5691,
+						},
+						[6603] = {
+							["school"] = 1,
+							["sources"] = {
+								["Fliktah"] = {
+									["amount"] = 18486,
+								},
+							},
+							["amount"] = 18486,
+						},
+						[34490] = {
+							["school"] = 1,
+							["sources"] = {
+								["Fliktah"] = {
+									["amount"] = 1388,
+								},
+							},
+							["amount"] = 1388,
+						},
+						[75] = {
+							["school"] = 1,
+							["sources"] = {
+								["Fliktah"] = {
+									["amount"] = 55158,
+								},
+							},
+							["amount"] = 55158,
+						},
+						[49050] = {
+							["school"] = 1,
+							["sources"] = {
+								["Fliktah"] = {
+									["amount"] = 8410,
+								},
+							},
+							["amount"] = 8410,
+						},
+					},
+				}, -- [1]
+			},
+			["totaldamage"] = 115500,
+			["time"] = 76,
+			["etotaldamagetaken"] = 115500,
+			["last_time"] = 1017681.356,
+			["players"] = {
+				{
+					["last"] = 1017673.884,
+					["flag"] = 4369,
+					["class"] = "HUNTER",
+					["auras"] = {
+						[75456] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 64,
+							["uptime"] = 15,
+						},
+						[34490] = {
+							["type"] = "DEBUFF",
+							["count"] = 1,
+							["school"] = 1,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["uptime"] = 3,
+									["count"] = 1,
+								},
+							},
+							["uptime"] = 3,
+						},
+						[53401] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 1,
+							["uptime"] = 20,
+						},
+						[71558] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 1,
+							["uptime"] = 30,
+						},
+						[3045] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 13,
+						},
+						[61847] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 76,
+						},
+						[6150] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 1,
+							["refresh"] = 1,
+							["uptime"] = 17,
+						},
+						[34026] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 1,
+							["uptime"] = 30,
+						},
+						[54131] = {
+							["type"] = "BUFF",
+							["count"] = 2,
+							["school"] = 1,
+							["refresh"] = 1,
+							["uptime"] = 11,
+						},
+						[53760] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 76,
+						},
+						[20572] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 13,
+						},
+						[49050] = {
+							["type"] = "DEBUFF",
+							["count"] = 1,
+							["school"] = 1,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["uptime"] = 10,
+									["count"] = 1,
+								},
+							},
+							["uptime"] = 10,
+						},
+						[70728] = {
+							["type"] = "BUFF",
+							["count"] = 2,
+							["school"] = 32,
+							["uptime"] = 10,
+						},
+						[57399] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 76,
+						},
+						[63468] = {
+							["type"] = "DEBUFF",
+							["count"] = 1,
+							["school"] = 1,
+							["refresh"] = 1,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["count"] = 1,
+									["refresh"] = 1,
+									["uptime"] = 9,
+								},
+							},
+							["uptime"] = 9,
+						},
+						[54758] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 1,
+							["uptime"] = 12,
+						},
+						[53403] = {
+							["type"] = "BUFF",
+							["count"] = 2,
+							["school"] = 1,
+							["refresh"] = 7,
+							["uptime"] = 25,
+						},
+						[19506] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 76,
+						},
+						[64495] = {
+							["type"] = "BUFF",
+							["count"] = 3,
+							["school"] = 1,
+							["uptime"] = 38,
+						},
+						[53434] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 18,
+						},
+					},
+					["energyspells"] = {
+						[54131] = 231,
+						[34952] = 200,
+					},
+					["time"] = 29.17,
+					["damage"] = 115500,
+					["damagespells"] = {
+						["Silencing Shot"] = {
+							["hitmin"] = 1388,
+							["id"] = 34490,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 1388,
+								},
+							},
+							["casts"] = 1,
+							["count"] = 1,
+							["hit"] = 1,
+							["school"] = 1,
+							["hitmax"] = 1388,
+							["amount"] = 1388,
+							["hitamount"] = 1388,
+						},
+						["Chimera Shot"] = {
+							["criticalamount"] = 10606,
+							["id"] = 53209,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 10606,
+								},
+							},
+							["casts"] = 1,
+							["critical"] = 1,
+							["amount"] = 10606,
+							["school"] = 8,
+							["criticalmin"] = 10606,
+							["criticalmax"] = 10606,
+							["count"] = 1,
+						},
+						["Wild Quiver Auto Shot"] = {
+							["hitmax"] = 2135,
+							["hitmin"] = 2135,
+							["criticalamount"] = 5384,
+							["id"] = 53254,
+							["count"] = 2,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 7519,
+								},
+							},
+							["hit"] = 1,
+							["criticalmin"] = 5384,
+							["casts"] = 1,
+							["critical"] = 1,
+							["amount"] = 7519,
+							["school"] = 8,
+							["resisted"] = 1131,
+							["criticalmax"] = 5384,
+							["hitamount"] = 2135,
+						},
+						["Melee (Wolf)"] = {
+							["glance"] = 4579,
+							["hitmin"] = 316,
+							["criticalmin"] = 912,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 18486,
+								},
+							},
+							["glancing"] = 15,
+							["amount"] = 18486,
+							["glancemin"] = 235,
+							["criticalamount"] = 912,
+							["id"] = 6603,
+							["glancemax"] = 409,
+							["criticalmax"] = 912,
+							["hitmax"] = 558,
+							["hit"] = 30,
+							["school"] = 1,
+							["critical"] = 1,
+							["count"] = 46,
+							["hitamount"] = 12995,
+						},
+						["Auto Shot"] = {
+							["hitmin"] = 2861,
+							["criticalamount"] = 31678,
+							["id"] = 75,
+							["hitmax"] = 3908,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 55158,
+								},
+							},
+							["count"] = 12,
+							["hit"] = 7,
+							["casts"] = 1,
+							["critical"] = 5,
+							["amount"] = 55158,
+							["school"] = 1,
+							["criticalmin"] = 5586,
+							["criticalmax"] = 7611,
+							["hitamount"] = 23480,
+						},
+						["Piercing Shots (DoT)"] = {
+							["hitmin"] = 315,
+							["id"] = 63468,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 5691,
+								},
+							},
+							["count"] = 9,
+							["hit"] = 9,
+							["school"] = 1,
+							["hitmax"] = 672,
+							["amount"] = 5691,
+							["hitamount"] = 5691,
+						},
+						["Bite (Wolf)"] = {
+							["hitmin"] = 276,
+							["id"] = 52474,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 8242,
+								},
+							},
+							["casts"] = 1,
+							["count"] = 22,
+							["hit"] = 22,
+							["school"] = 1,
+							["hitmax"] = 516,
+							["amount"] = 8242,
+							["hitamount"] = 8242,
+						},
+						["Aimed Shot"] = {
+							["criticalamount"] = 8410,
+							["id"] = 49050,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 8410,
+								},
+							},
+							["casts"] = 1,
+							["critical"] = 1,
+							["amount"] = 8410,
+							["school"] = 1,
+							["criticalmin"] = 8410,
+							["criticalmax"] = 8410,
+							["count"] = 1,
+						},
+					},
+					["id"] = "0x07000000001BC237",
+					["spec"] = 254,
+					["healspells"] = {
+						[54131] = {
+							["overheal"] = 1727,
+							["count"] = 11,
+							["amount"] = 0,
+							["school"] = 1,
+							["ishot"] = true,
+							["targets"] = {
+								["Wolf"] = {
+									["overheal"] = 1727,
+									["amount"] = 0,
+								},
+							},
+						},
+					},
+					["heal"] = 0,
+					["name"] = "Fliktah",
+					["overheal"] = 1727,
+					["totaldamage"] = 115500,
+					["energy"] = 431,
+					["role"] = "DAMAGER",
+				}, -- [1]
+			},
+			["type"] = "none",
+			["damage"] = 115500,
+			["overheal"] = 1727,
+			["energy"] = 431,
+			["edamagetaken"] = 115500,
+			["heal"] = 0,
+			["name"] = "Heroic Training Dummy (2)",
+			["mobname"] = "Heroic Training Dummy",
+			["starttime"] = 1675160732,
+			["last_action"] = 1675160807,
+			["endtime"] = 1675160808,
+		}, -- [3]
+		{
+			["enemies"] = {
+				{
+					["id"] = "0xF1300079AA0049F0",
+					["name"] = "Heroic Training Dummy",
+					["totaldamagetaken"] = 66312,
+					["flag"] = 2600,
+					["class"] = "MONSTER",
+					["damagetaken"] = 66312,
+					["damagetakenspells"] = {
+						[49054] = {
+							["school"] = 4,
+							["sources"] = {
+								["Fliktah"] = {
+									["amount"] = 3212,
+								},
+							},
+							["amount"] = 3212,
+						},
+						[49065] = {
+							["school"] = 4,
+							["sources"] = {
+								["Fliktah"] = {
+									["amount"] = 18147,
+								},
+							},
+							["amount"] = 18147,
+						},
+						[6603] = {
+							["school"] = 1,
+							["sources"] = {
+								["Fliktah"] = {
+									["amount"] = 27317,
+								},
+							},
+							["amount"] = 27317,
+						},
+						[34655] = {
+							["school"] = 8,
+							["sources"] = {
+								["Fliktah"] = {
+									["amount"] = 488,
+								},
+							},
+							["amount"] = 488,
+						},
+						[75] = {
+							["school"] = 1,
+							["sources"] = {
+								["Fliktah"] = {
+									["amount"] = 5057,
+								},
+							},
+							["amount"] = 5057,
+						},
+						[52474] = {
+							["school"] = 1,
+							["sources"] = {
+								["Fliktah"] = {
+									["amount"] = 12091,
+								},
+							},
+							["amount"] = 12091,
+						},
+					},
+				}, -- [1]
+				{
+					["id"] = "0xF1300079A80049EE",
+					["name"] = "Grandmaster's Training Dummy",
+					["totaldamagetaken"] = 32472,
+					["flag"] = 2600,
+					["class"] = "MONSTER",
+					["damagetaken"] = 32472,
+					["damagetakenspells"] = {
+						[49065] = {
+							["school"] = 4,
+							["sources"] = {
+								["Fliktah"] = {
+									["overkill"] = 32412,
+									["amount"] = 32472,
+								},
+							},
+							["overkill"] = 32412,
+							["amount"] = 32472,
+						},
+					},
+				}, -- [2]
+			},
+			["totaldamage"] = 98784,
+			["time"] = 103,
+			["etotaldamagetaken"] = 98784,
+			["last_time"] = 1017492.709,
+			["players"] = {
+				{
+					["last"] = 1017460.333,
+					["flag"] = 4369,
+					["class"] = "HUNTER",
+					["auras"] = {
+						[75456] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 64,
+							["uptime"] = 15,
+						},
+						[57399] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 103,
+						},
+						[53401] = {
+							["type"] = "BUFF",
+							["count"] = 3,
+							["school"] = 1,
+							["uptime"] = 53,
+						},
+						[53403] = {
+							["type"] = "BUFF",
+							["count"] = 3,
+							["school"] = 1,
+							["refresh"] = 9,
+							["uptime"] = 47,
+						},
+						[49065] = {
+							["type"] = "DEBUFF",
+							["count"] = 3,
+							["school"] = 4,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["uptime"] = 20,
+									["count"] = 2,
+								},
+								["Heroic Training Dummy"] = {
+									["uptime"] = 20,
+									["count"] = 1,
+								},
+							},
+							["uptime"] = 20,
+						},
+						[30981] = {
+							["type"] = "DEBUFF",
+							["count"] = 2,
+							["school"] = 8,
+							["refresh"] = 1,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["count"] = 2,
+									["refresh"] = 1,
+									["uptime"] = 28,
+								},
+							},
+							["uptime"] = 28,
+						},
+						[61685] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 1,
+							["uptime"] = 4,
+						},
+						[34655] = {
+							["type"] = "DEBUFF",
+							["count"] = 1,
+							["school"] = 8,
+							["refresh"] = 21,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["count"] = 1,
+									["refresh"] = 21,
+									["uptime"] = 32,
+								},
+							},
+							["uptime"] = 32,
+						},
+						[61847] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 103,
+						},
+						[54131] = {
+							["type"] = "BUFF",
+							["count"] = 4,
+							["school"] = 1,
+							["refresh"] = 4,
+							["uptime"] = 31,
+						},
+						[53760] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 103,
+						},
+						[25810] = {
+							["type"] = "DEBUFF",
+							["count"] = 4,
+							["school"] = 8,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["uptime"] = 31,
+									["count"] = 4,
+								},
+							},
+							["uptime"] = 31,
+						},
+						[70893] = {
+							["type"] = "BUFF",
+							["count"] = 4,
+							["school"] = 1,
+							["refresh"] = 4,
+							["uptime"] = 31,
+						},
+						[49054] = {
+							["type"] = "DEBUFF",
+							["count"] = 1,
+							["school"] = 4,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["uptime"] = 15,
+									["count"] = 1,
+								},
+							},
+							["uptime"] = 15,
+						},
+						[53148] = {
+							["type"] = "DEBUFF",
+							["count"] = 1,
+							["school"] = 1,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["uptime"] = 1,
+									["count"] = 1,
+								},
+							},
+							["uptime"] = 1,
+						},
+						[19506] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 103,
+						},
+						[64495] = {
+							["type"] = "BUFF",
+							["count"] = 6,
+							["school"] = 1,
+							["uptime"] = 59,
+						},
+						[71558] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 1,
+							["uptime"] = 30,
+						},
+					},
+					["energyspells"] = {
+						[34952] = 425,
+						[54131] = 609,
+					},
+					["time"] = 39.3,
+					["damage"] = 98784,
+					["damagespells"] = {
+						["Deadly Poison (Venomous Snake) (DoT)"] = {
+							["hitmin"] = 45,
+							["id"] = 34655,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 488,
+								},
+							},
+							["hitmax"] = 75,
+							["count"] = 7,
+							["hit"] = 7,
+							["school"] = 8,
+							["resisted"] = 7,
+							["amount"] = 488,
+							["hitamount"] = 488,
+						},
+						["Mind-numbing Poison (Viper)"] = {
+							["casts"] = 1,
+							["count"] = 1,
+							["amount"] = 0,
+							["school"] = 8,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 0,
+								},
+							},
+							["MISS"] = 1,
+							["id"] = 25810,
+						},
+						["Explosive Trap Effect (DoT)"] = {
+							["hit"] = 14,
+							["hitmin"] = 1131,
+							["criticalamount"] = 30595,
+							["id"] = 49065,
+							["hitmax"] = 1481,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["overkill"] = 32412,
+									["amount"] = 32472,
+								},
+								["Heroic Training Dummy"] = {
+									["amount"] = 16687,
+								},
+							},
+							["overkill"] = 32412,
+							["count"] = 30,
+							["criticalmax"] = 2289,
+							["critical"] = 16,
+							["amount"] = 49159,
+							["school"] = 4,
+							["resisted"] = 1427,
+							["criticalmin"] = 1573,
+							["hitamount"] = 18564,
+						},
+						["Auto Shot"] = {
+							["criticalamount"] = 5057,
+							["id"] = 75,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 5057,
+								},
+							},
+							["casts"] = 1,
+							["critical"] = 1,
+							["amount"] = 5057,
+							["school"] = 1,
+							["criticalmin"] = 5057,
+							["criticalmax"] = 5057,
+							["count"] = 1,
+						},
+						["Melee (Viper)"] = {
+							["DODGE"] = 2,
+							["glance"] = 191,
+							["hitmin"] = 19,
+							["id"] = 6603,
+							["glancemin"] = 14,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 680,
+								},
+							},
+							["glancemax"] = 18,
+							["glancing"] = 12,
+							["amount"] = 680,
+							["count"] = 38,
+							["hit"] = 22,
+							["school"] = 1,
+							["hitmax"] = 25,
+							["MISS"] = 2,
+							["hitamount"] = 489,
+						},
+						["Explosive Trap Effect"] = {
+							["hitmin"] = 1460,
+							["id"] = 49065,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 1460,
+								},
+							},
+							["casts"] = 1,
+							["count"] = 1,
+							["hit"] = 1,
+							["school"] = 4,
+							["hitmax"] = 1460,
+							["amount"] = 1460,
+							["hitamount"] = 1460,
+						},
+						["Melee (Venomous Snake)"] = {
+							["DODGE"] = 4,
+							["glance"] = 105,
+							["hitmin"] = 10,
+							["id"] = 6603,
+							["glancemin"] = 7,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 520,
+								},
+							},
+							["glancemax"] = 10,
+							["glancing"] = 12,
+							["amount"] = 520,
+							["count"] = 54,
+							["hit"] = 34,
+							["school"] = 1,
+							["hitmax"] = 14,
+							["MISS"] = 4,
+							["hitamount"] = 415,
+						},
+						["Deadly Poison (Venomous Snake)"] = {
+							["casts"] = 1,
+							["count"] = 1,
+							["amount"] = 0,
+							["school"] = 8,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 0,
+								},
+							},
+							["MISS"] = 1,
+							["id"] = 34655,
+						},
+						["Melee (Wolf)"] = {
+							["glance"] = 2205,
+							["hitmin"] = 315,
+							["criticalmin"] = 632,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 26117,
+								},
+							},
+							["glancing"] = 7,
+							["amount"] = 26117,
+							["glancemin"] = 279,
+							["criticalamount"] = 4750,
+							["id"] = 6603,
+							["glancemax"] = 366,
+							["criticalmax"] = 884,
+							["hitmax"] = 548,
+							["hit"] = 49,
+							["school"] = 1,
+							["critical"] = 6,
+							["count"] = 62,
+							["hitamount"] = 19162,
+						},
+						["Bite (Wolf)"] = {
+							["hitmin"] = 289,
+							["criticalamount"] = 2832,
+							["id"] = 52474,
+							["criticalmin"] = 606,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 12091,
+								},
+							},
+							["criticalmax"] = 852,
+							["critical"] = 4,
+							["casts"] = 1,
+							["count"] = 32,
+							["hit"] = 28,
+							["school"] = 1,
+							["hitmax"] = 394,
+							["amount"] = 12091,
+							["hitamount"] = 9259,
+						},
+						["Immolation Trap (DoT)"] = {
+							["hitmin"] = 559,
+							["id"] = 49054,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 3212,
+								},
+							},
+							["hitmax"] = 698,
+							["count"] = 5,
+							["hit"] = 5,
+							["school"] = 4,
+							["resisted"] = 278,
+							["amount"] = 3212,
+							["hitamount"] = 3212,
+						},
+					},
+					["id"] = "0x07000000001BC237",
+					["spec"] = 254,
+					["healspells"] = {
+						[54131] = {
+							["overheal"] = 4553,
+							["count"] = 29,
+							["amount"] = 0,
+							["school"] = 1,
+							["ishot"] = true,
+							["targets"] = {
+								["Wolf"] = {
+									["overheal"] = 4553,
+									["amount"] = 0,
+								},
+							},
+						},
+					},
+					["overkill"] = 32412,
+					["heal"] = 0,
+					["name"] = "Fliktah",
+					["overheal"] = 4553,
+					["totaldamage"] = 98784,
+					["energy"] = 1034,
+					["role"] = "DAMAGER",
+				}, -- [1]
+			},
+			["type"] = "none",
+			["damage"] = 98784,
+			["starttime"] = 1675160516,
+			["overheal"] = 4553,
+			["overkill"] = 32412,
+			["edamagetaken"] = 98784,
+			["heal"] = 0,
+			["name"] = "Heroic Training Dummy",
+			["mobname"] = "Heroic Training Dummy",
+			["energy"] = 1034,
+			["last_action"] = 1675160618,
+			["endtime"] = 1675160619,
+		}, -- [4]
+	},
+	["version"] = 1878,
+	["total"] = {
+		["starttime"] = 1675160491,
+		["players"] = {
+			{
+				["overheal"] = 24806,
+				["mana"] = 17776,
+				["totaldamage"] = 2564647,
+				["id"] = "0x07000000001BC237",
+				["class"] = "HUNTER",
+				["heal"] = 0,
+				["overkill"] = 239976,
+				["flag"] = 1297,
+				["role"] = "DAMAGER",
+				["time"] = 341.0500000000001,
+				["spec"] = 254,
+				["name"] = "Fliktah",
+				["energy"] = 11718,
+				["damage"] = 2564647,
+			}, -- [1]
+		},
+		["overheal"] = 24806,
+		["mana"] = 17776,
+		["heal"] = 0,
+		["overkill"] = 239976,
+		["totaldamage"] = 2564647,
+		["name"] = "Total",
+		["time"] = 455,
+		["energy"] = 11718,
+		["damage"] = 2564647,
+	},
+}

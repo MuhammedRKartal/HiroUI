@@ -1,0 +1,4 @@
+WeakAurasCompanion: enabled
+WeakAurasArchive: enabled
+XPerl_Options: enabled
+XPerl_TeamSpeak: disabled

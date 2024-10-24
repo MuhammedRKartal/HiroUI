@@ -1,0 +1,75 @@
+MACRO 16777241 "Chaos" INV_Misc_QuestionMark
+/cast Chaos Bolt
+/use Relentless Gladiator's Felweave Handguards
+END
+MACRO 16777217 "Demo" INV_Misc_QuestionMark
+#showtooltip Shadow Bolt
+/cast Shadow Cleave(Demon)
+/cast Shadow Bolt(Rank 13)
+/cast Demonic Empowerment
+/use Sanctified Dark Coven Gloves
+END
+MACRO 16777245 "Devour Magic" INV_Misc_QuestionMark
+/cast Devour Magic
+END
+MACRO 16777238 "Fear" INV_Misc_QuestionMark
+/cast [@focus, exists, nodead] [] Fear
+END
+MACRO 16777248 "Felguard" INV_Misc_QuestionMark
+/cast Fel Domination
+/cast Summon Felguard
+END
+MACRO 16777244 "Felhunter" INV_Misc_QuestionMark
+/cast Fel Domination
+/cast Summon Felhunter
+END
+MACRO 16777242 "Fire Shield" INV_Misc_QuestionMark
+/cast Fire Shield
+END
+MACRO 16777247 "Metamorphosis" INV_Misc_QuestionMark
+/cast Metamorphosis
+/cast Immolation Aura(Demon)
+/cast Shadow Cleave(Demon)
+END
+MACRO 16777228 "Pet Attack" Ability_GhoulFrenzy
+/petattack
+END
+MACRO 16777237 "Petfollow" Ability_Tracking
+/petfollow
+END
+MACRO 16777243 "Sacrifice" INV_Misc_QuestionMark
+#showtooltip Summon Succubus
+/cast Sacrifice
+/cast Summon Succubus
+END
+MACRO 16777240 "Sed" INV_Misc_QuestionMark
+#showtooltip Seduction
+/cast Seduction
+/cast Spell Lock
+END
+MACRO 16777236 "Seduction" INV_Misc_QuestionMark
+/petpassive
+/cast [@focus, exists, nodead] [] Seduction
+/cast [@focus, exists, nodead] [] Spell Lock
+END
+MACRO 16777227 "Seed" INV_Misc_QuestionMark
+/targetenemy
+/cast Seed of Corruption
+END
+MACRO 16777225 "sham" INV_Misc_QuestionMark
+/cast [target=Shambling Horror] Curse of Weakness
+END
+MACRO 16777246 "Silence" INV_Misc_QuestionMark
+/cast Spell Lock
+END
+MACRO 16777221 "Soul Fire" INV_Misc_QuestionMark
+#showtooltip Soul Fire(Rank 6)
+/cast Shadow Cleave(Demon)
+/cast Soul Fire(Rank 6)
+/cast Demonic Empowerment
+/use 10
+END
+MACRO 16777239 "Summon Pet" INV_Misc_QuestionMark
+/cast Fel Domination
+/cast Summon Succubus
+END

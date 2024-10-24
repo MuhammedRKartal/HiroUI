@@ -1,0 +1,217 @@
+MACRO 44 "Agony" INV_Misc_QuestionMark
+#showtooltip Curse of Agony
+/petattack
+/cast Curse of Agony
+END
+MACRO 29 "Blood" INV_Misc_QuestionMark
+#showtooltip 
+/cast Blood Strike
+/cast Rune Strike
+/cancelaura Icy Talons
+/cancelaura Hand of Protection
+/cancelaura Divine Intervation
+END
+MACRO 57 "Charge" Ability_Warrior_Charge
+/cast Battle Stance
+/equipslot 16 Shadowmourne
+/cast Charge(Rank 3)
+/startattack
+END
+MACRO 50 "Cleave" INV_Misc_QuestionMark
+#showtooltip Bloodthirst
+/startattack
+/cast Bloodthirst
+/cast Cleave
+/use Scourge Stranglers
+/cancelaura Hand of Protection
+/cancelaura Power Word: Shield
+END
+MACRO 43 "Corruption" INV_Misc_QuestionMark
+#showtooltip Corruption
+/petattack
+/cast Corruption
+END
+MACRO 31 "Death" INV_Misc_QuestionMark
+#showtooltip 
+/cast Death Strike
+/cast Runestrike
+/cancelaura Hand of Salvation
+/cancelaura Icy Talons
+/cancelaura Hand of Protection
+/cancelaura Divine Intervation
+END
+MACRO 59 "DISARM" Ability_Warrior_Disarm
+/cast Defensive Stance
+/cast Disarm
+/cast Battle Stance
+/startattackwwww
+END
+MACRO 33 "DkCD" INV_Misc_QuestionMark
+/cast Vampiric Blood
+/cast Rune Tap
+END
+MACRO 55 "Execute" INV_Misc_QuestionMark
+#showtooltip Execute
+/cast Execute(Rank 9)
+END
+MACRO 11 "focus" Ability_CheapShot
+/focus target
+END
+MACRO 42 "Haunt" INV_Misc_QuestionMark
+#showtooltip Haunt
+/petattack
+/cast Haunt
+END
+MACRO 49 "Heroic" INV_Misc_QuestionMark
+#showtooltip Bloodthirst
+/startattack
+/use Scourge Stranglers
+/cast Bloodthirst
+/cast !Heroic Strike(Rank 13)
+/cancelaura Hand of Protecion
+/cancelaura Power Word: Shield
+END
+MACRO 9 "Hysteria" Ability_Druid_FlightForm
+/cast [target=focus,help][help] Hysteria
+END
+MACRO 30 "Icy" INV_Misc_QuestionMark
+#showtooltip Icy Touch(Rank 5)
+/cast Icy Touch(Rank 5)
+/cast Rune Strike
+/cancelaura Icy Talons
+/cancelaura Hand of Protection
+/cancelaura Divine Intervation
+END
+MACRO 54 "INTERCEPT" Ability_Rogue_Sprint
+#showtooltip Intercept
+/equipslot 16 Shadowmourne
+/equipslot 17 Glorenzelg, High-Blade of the Silver Hand
+/cast Berserker Stance
+/cancelaura Hand of Protection
+/cast Heroic Throw
+/cast Intercept
+/cancelaura Power World: Shield
+END
+MACRO 37 "LockCD" INV_Misc_QuestionMark
+/cast Metamorphosis
+/cast Immolation Aura
+/cast Cleave
+/cast Demonic Empowerment
+END
+MACRO 8 "MDOT" Ability_Creature_Cursed_05
+#showtooltip md
+/cast [target=Tinkerrdk] Misdirection
+END
+MACRO 20 "mouseover rand" INV_Misc_QuestionMark
+/stopcasting
+/cast [target=mouseover,nomod] Cleanse Spirit;  [target=mouseover,mod:ctrl] Cleanse Spirit; [target=mouseover,mod:shift] Cleanse Spirit: [target=mouseover,mod:alt] Cleanse Spirit
+END
+MACRO 64 "mouth" Ability_Mount_PolarBear_Black
+/cancelaura Power of the Taunka
+/cancelaura Speed of the Vrykul
+/cancelaura Agility of the Vrykul
+/cancelaura Aim of the Iron Dwarves
+#showtooltip Black War Bear
+/cast Black War Bear
+END
+MACRO 65 "mouth 2" Ability_Mount_GoldenGryphon
+/cancelaura Power of the Taunka
+/cancelaura Speed of the Vrykul
+/cancelaura Agility of the Vrykul
+/cancelaura Aim of the Iron Dwarves
+#showtooltip Armored Snowy Gryphonr
+/cast Armored Snowy Gryphon
+END
+MACRO 32 "Plague" INV_Misc_QuestionMark
+#showtooltip 
+/cast Plague Strike
+/cast Runestrike
+/cancelaura Icy Talons
+/cancelaura Hand of Protection
+/cancelaura Divine Intervation
+END
+MACRO 62 "PVP INTER" Ability_BullRush
+#showtooltip Intercept
+/equipslot 16 Shadowmourne
+/equipslot 17 Glorenzelg, High-Blade of the Silver Hand
+/cast Berserker Stance
+/cancelaura Hand of Protection
+/cast Intercept
+/cancelaura Power World: Shield
+END
+MACRO 61 "pvp inter" INV_Misc_QuestionMark
+END
+MACRO 23 "Refresh" Ability_Creature_Disease_04
+/run local f = CreateFrame("frame",nil,UIParent); f:SetScript("OnUpdate",CombatLogClearEntries);
+END
+MACRO 60 "S.REFLECT" Ability_Warrior_DefensiveStance
+#showtooltip  Intervene
+/equip [noequipped:shields] Rimefang's Claw
+/equip [noequipped:shields] Barricade of Eternity
+/cast [stance:3] Battle stance
+/cast [stance:1/2] Spell reflection
+/equip [modifier:shift] Shadow's Edge
+END
+MACRO 35 "Scourge" INV_Misc_QuestionMark
+#showtooltip 
+/cast Scourge Strike
+/cast Rune Strike
+/cancelaura Icy Talons
+/cancelaura Hand of Protection
+/cancelaura Divine Intervation
+END
+MACRO 58 "serpent" Ability_Hunter_Quickshot
+END
+MACRO 38 "Shadow Bolt" INV_Misc_QuestionMark
+/petattack
+/cast Shadow Bolt
+END
+MACRO 36 "ShamanCD" INV_Misc_QuestionMark
+/cast Tidal Force
+/use Talisman of Resurgence
+END
+MACRO 63 "SLAM" Ability_Warrior_DecisiveStrike
+#showtooltip Slam
+/targetenemy [noexists][dead]
+/cast Slam
+/cast Victory Rush
+/use Aldriana's Gloves of Secrecy
+END
+MACRO 56 "Sunder" INV_Misc_QuestionMark
+#showtooltip Sunder Armor
+/startattack
+/cast Sunder Armor
+/cast Heroic Strike(Rank 13)
+/cancelaura Hand of Protection
+/cancelaura Power Word: Shield
+END
+MACRO 21 "TOT" Ability_Creature_Cursed_05
+#showtooltip
+/cast [target=focus] Tricks of the Trade
+END
+MACRO 41 "Unstable Afflica" INV_Misc_QuestionMark
+#showtooltip Unstable Affliction(Rank 5)
+/petattack
+/cast Unstable Affliction(Rank 5)
+END
+MACRO 47 "WARRCD" Ability_Warrior_SecondWind
+/cast Bloodrage
+/cast Death Wish
+/use Aldriana's Gloves of SecrecY
+END
+MACRO 46 "WhiCLAV" Ability_Whirlwind
+#showtooltip Whirlwind
+/startattack
+/cast Whirlwind
+/cast Cleave(Rank 8)
+/cancelaura Hand of Protection
+/cancelaura Power Word: Shield
+END
+MACRO 45 "WhirOnE" Ability_Whirlwind
+#showtooltip Whirlwind
+/startattack
+/cast Whirlwind
+/cast !Heroic Strike(Rank 13)
+/cancelaura Hand of Protection
+/cancelaura Power Word: Shield
+END

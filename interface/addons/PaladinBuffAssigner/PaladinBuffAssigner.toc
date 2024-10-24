@@ -1,0 +1,11 @@
+## Interface: 30300
+## Title: Paladin Buff Assigner
+## Notes: Assigns paladin buffs based on raid roles and thresholds.
+## Author: Druth
+## Version: 1.0
+## SavedVariables: PaladinBuffAssignerDB
+## Dependencies:
+
+PaladinBuffAssigner.lua
+core.lua
+minimap_button.lua

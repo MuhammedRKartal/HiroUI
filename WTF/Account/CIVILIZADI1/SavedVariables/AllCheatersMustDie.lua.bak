@@ -1,0 +1,9 @@
+
+AllCheatersMustDieDB = {
+	["cheaters"] = {
+	},
+	["settings"] = {
+		["debugEnabled"] = false,
+		["whisperOnly"] = false,
+	},
+}

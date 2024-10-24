@@ -1,0 +1,15 @@
+MACRO 16777219 " " INV_Misc_QuestionMark
+/cast Sinister Strike
+/startattack
+END
+MACRO 16777218 " " INV_Misc_QuestionMark
+/cast Premeditation
+/cast Slice and Dice
+END
+MACRO 16777217 " " INV_Misc_QuestionMark
+/cast Shadowstep
+/cast Sap
+END
+MACRO 16777220 "Tot" INV_Misc_QuestionMark
+/cast [target=focus] Tricks of the Trade
+END

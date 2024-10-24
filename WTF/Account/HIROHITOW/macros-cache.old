@@ -1,0 +1,86 @@
+MACRO 18 "aa" Ability_Creature_Disease_04
+/run local f = CreateFrame("frame",nil,UIParent); f:SetScript("OnUpdate",CombatLogClearEntries);
+END
+MACRO 24 "Accept" INV_Misc_QuestionMark
+#showtooltip Shadow Resistance
+/script AcceptGroup();
+/script AcceptQuest();
+/script AcceptTrade()
+END
+MACRO 27 "adada" INV_Misc_QuestionMark
+/cast Divine Illumination
+/use Meteorite Crystal
+/use Stormbringer Gloves
+END
+MACRO 23 "Assist" INV_Misc_QuestionMark
+#showtooltip Gemcutting
+/assist Oboxa
+END
+MACRO 21 "CD" INV_Misc_QuestionMark
+#showtooltip Meteorite Crystal
+/cast Divine Illumination
+/use Meteorite Crystal
+/use Stormbringer Gloves
+END
+MACRO 17 "Cleanse" INV_Misc_QuestionMark
+/stopcasting
+/cast [target=mouseover,nomod] Cleanse;  [target=mouseover,mod:ctrl] Cleanse; [target=mouseover,mod:shift] Cleanse
+END
+MACRO 28 "crusader" INV_Misc_QuestionMark
+#showtooltip Crusader Aura
+/cast !Crusader Aura
+/cast Aura Mastery 
+END
+MACRO 1 "Decursive" Ability_Druid_EmpoweredTouch
+#showtooltip Hand of Salvation /cast [@mouseover,help,nodead][help,nodead] Cleanse
+END
+MACRO 29 "Fire" INV_Misc_QuestionMark
+#showtooltip Fire Resistance Aura
+/cast !Fire Resistance Aura(Rank 5)
+/cast Aura Mastery
+/y Fire Auramastery
+END
+MACRO 14 "Foküs" Spell_Arcane_TeleportThunderBluff
+/focus target
+END
+MACRO 22 "Follow" INV_Misc_QuestionMark
+/follow Oboxa
+END
+MACRO 12 "Freedom" INV_Misc_QuestionMark
+/stopcasting
+/cast [target=mouseover,nomod] Hand of Freedom;  [target=mouseover,mod:ctrl] Hand of Freedom; [target=mouseover,mod:shift] Hand of Freedom
+END
+MACRO 30 "Frost" INV_Misc_QuestionMark
+#showtooltip Frost Resistance Aura
+/cast !Frost Resistance Aura(Rank 5)
+/cast Aura Mastery
+/y Frost mastery Up
+END
+MACRO 31 "Maus over sacrif" INV_Misc_QuestionMark
+#showtooltip
+/use [@mouseover, help] Hand of Sacrifice
+END
+MACRO 19 "reset" Ability_Ambush
+/run local f = CreateFrame("frame",nil,UIParent); f:SetScript("OnUpdate",CombatLogClearEntries);wa
+END
+MACRO 26 "SAcriface" INV_Misc_QuestionMark
+#showtooltip Divine Sacrifice
+/cast Divine Sacrifice
+/cancelaura Divine Sacrifice
+/y Divine Sacrifice Up
+END
+MACRO 15 "tank" INV_Misc_QuestionMark
+/cast [target=focus,help][help] Hand of Sacrifice  
+END
+MACRO 20 "TARA TARA TARA" INV_Misc_QuestionMark
+#showtooltip Divine Plea
+/cast Divine Plea
+/use Talisman of Resurgence
+/cast Avenging Wrath
+/use Stormbringer Gloves
+END
+MACRO 25 "Tricks" INV_Misc_QuestionMark
+/target Focus
+/cast Tricks of the Trade
+/targetlasttarget
+END

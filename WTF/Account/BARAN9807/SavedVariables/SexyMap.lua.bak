@@ -1,0 +1,202 @@
+
+SexyMapDB = {
+	["namespaces"] = {
+		["Ping"] = {
+		},
+		["Coordinates"] = {
+			["profiles"] = {
+				["Reiila - Icecrown"] = {
+					["enabled"] = true,
+				},
+			},
+		},
+		["Buttons"] = {
+			["profiles"] = {
+				["Main"] = {
+					["MiniMapRecordingButton"] = {
+						["hide"] = "hover",
+					},
+					["LibDBIcon10_Omen"] = {
+						["hide"] = "hover",
+					},
+					["LibDBIcon10_Skada"] = {
+						["hide"] = "hover",
+					},
+					["FuBarPluginAtlasLootFuFrameMinimapButton"] = {
+						["hide"] = "always",
+					},
+					["LibDBIcon10_DBM"] = {
+						["hide"] = "hover",
+					},
+					["lfg"] = {
+						["hide"] = "always",
+					},
+					["LibDBIcon10_Bartender4"] = {
+						["hide"] = "hover",
+					},
+					["zoom"] = {
+						["hide"] = "hover",
+					},
+					["difficulty"] = {
+						["hide"] = "always",
+					},
+					["mapclock"] = {
+						["hide"] = "always",
+					},
+					["HealBot_ButtonFrame"] = {
+						["hide"] = "always",
+					},
+					["pvp"] = {
+						["hide"] = "always",
+					},
+					["mail"] = {
+						["hide"] = "always",
+					},
+					["dragPositions"] = {
+						["LibDBIcon10_Bartender4"] = 150.6953155926052,
+						["MiniMapTrackingButton"] = 165.7945729144758,
+					},
+					["tracking"] = {
+						["hide"] = "always",
+					},
+				},
+				["Reiila - Icecrown"] = {
+					["zoom"] = {
+						["hide"] = "hover",
+					},
+					["lfg"] = {
+						["hide"] = "always",
+					},
+					["difficulty"] = {
+						["hide"] = "always",
+					},
+					["mapclock"] = {
+						["hide"] = "always",
+					},
+					["pvp"] = {
+						["hide"] = "always",
+					},
+					["mail"] = {
+						["hide"] = "always",
+					},
+					["dragPositions"] = {
+						["LibDBIcon10_Bartender4"] = 150.6953155926052,
+						["MiniMapTrackingButton"] = 165.7945729144758,
+					},
+					["tracking"] = {
+						["hide"] = "always",
+					},
+				},
+			},
+		},
+		["AutoZoom"] = {
+		},
+		["Shapes"] = {
+			["profiles"] = {
+				["Main"] = {
+					["shape"] = "Interface\\BUTTONS\\WHITE8X8",
+				},
+				["Reiila - Icecrown"] = {
+					["shape"] = "Interface\\BUTTONS\\WHITE8X8",
+				},
+			},
+		},
+		["Fader"] = {
+			["profiles"] = {
+				["Reiila - Icecrown"] = {
+					["enabled"] = false,
+					["hoverOpacity"] = 1,
+					["normalOpacity"] = 0.0001,
+				},
+			},
+		},
+		["Movers"] = {
+			["profiles"] = {
+				["Main"] = {
+					["scale"] = 1.5,
+				},
+				["Reiila - Icecrown"] = {
+					["scale"] = 1.5,
+				},
+			},
+		},
+		["Borders"] = {
+			["profiles"] = {
+				["Main"] = {
+					["applyPreset"] = false,
+					["backdrop"] = {
+						["show"] = true,
+						["settings"] = {
+							["edgeSize"] = 17,
+						},
+						["scale"] = 1.07,
+					},
+				},
+				["Reiila - Icecrown"] = {
+					["applyPreset"] = false,
+					["borders"] = {
+						{
+							["a"] = 1,
+							["hNudge"] = 0,
+							["rotSpeed"] = 10,
+							["r"] = 0.3411764705882353,
+							["scale"] = 0.73,
+							["g"] = 0.4705882352941176,
+							["vNudge"] = 0,
+							["disableRotation"] = true,
+							["name"] = "Square Overlay",
+							["blendMode"] = "ADD",
+							["b"] = 1,
+							["drawLayer"] = "ARTWORK",
+							["rotation"] = 66,
+							["texture"] = "World\\GENERIC\\ACTIVEDOODADS\\WORLDTREEPORTALS\\TWISTEDNETHER8.BLP",
+						}, -- [1]
+						{
+							["a"] = 1,
+							["hNudge"] = 0,
+							["rotSpeed"] = -14,
+							["b"] = 1,
+							["scale"] = 1.9,
+							["g"] = 0.7215686274509804,
+							["vNudge"] = 5,
+							["disableRotation"] = true,
+							["name"] = "Circle 2",
+							["drawLayer"] = "BACKGROUND",
+							["r"] = 0.3607843137254902,
+							["blendMode"] = "ADD",
+							["texture"] = "World\\GENERIC\\ACTIVEDOODADS\\INSTANCEPORTAL\\GENERICGLOW2.BLP",
+						}, -- [2]
+					},
+				},
+			},
+		},
+		["HudMap"] = {
+			["profiles"] = {
+				["Main"] = {
+					["setNewScale"] = true,
+					["scale"] = 1.4,
+				},
+				["Reiila - Icecrown"] = {
+					["setNewScale"] = true,
+					["scale"] = 1.4,
+				},
+			},
+		},
+		["ZoneText"] = {
+			["profiles"] = {
+				["Main"] = {
+					["show"] = "hover",
+				},
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Reiila - Icecrown"] = "Main",
+	},
+	["profiles"] = {
+		["Main"] = {
+		},
+		["Reiila - Icecrown"] = {
+		},
+	},
+}

@@ -1,0 +1,16 @@
+MACRO 16777217 "Lava Lash" INV_Misc_QuestionMark
+#showtooltip Lava Lash(Rank 1)
+/cast Lava Lash(Rank 1)
+/use 10
+/cancelaura Hand of Protection
+END
+MACRO 16777219 "Rage" INV_Misc_QuestionMark
+/cast Shamanistic Rage
+/cast Blood Fury
+END
+MACRO 16777218 "Stormstrike" INV_Misc_QuestionMark
+#showtooltip Stormstrike
+/cast Stormstrike
+/use 10
+/cancelaura Hand of Protection
+END

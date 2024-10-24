@@ -1,0 +1,37 @@
+MACRO 7 "becon" INV_Misc_QuestionMark
+/rr1
+END
+MACRO 8 "cc" INV_Misc_QuestionMark
+/vv1
+END
+MACRO 4 "div plea" INV_Misc_QuestionMark
+/cast Divine Plea
+/cast Avenging Wrath
+/cast Talisman of Resurgence
+END
+MACRO 6 "flash" INV_Misc_QuestionMark
+/cast [@mouseover] Flash of Light(Rank 9)
+END
+MACRO 5 "fredom" INV_Misc_QuestionMark
+/cast [@mouseover,exists,help]Hand of Freedom; Hand of Freedom
+END
+MACRO 9 "holy light" INV_Misc_QuestionMark
+/cast [@mouseover] Holy Light(Rank 13)
+END
+MACRO 11 "holy shock" INV_Misc_QuestionMark
+#showtooltip Holy Shock
+/cast [@mouseover,help,nodead][exists,nodead][@player,@target]Holy Shock(Rank 7)
+END
+MACRO 12 "Jc" INV_Misc_QuestionMark
+#showtooltip Jewelcrafting
+/cast Jewelcrafting
+/run for i=1,GetNumTradeSkills() do if GetTradeSkillInfo(i)=="Icy Prism" then CloseTradeSkill() DoTradeSkill(i) break end end
+/use Icy Prism
+/script OpenAllBags();
+END
+MACRO 10 "sacred" INV_Misc_QuestionMark
+/cast [@mouseover] Sacred Shield(Rank 1)
+END
+MACRO 13 "ss" INV_Misc_QuestionMark
+/run local f = CreateFrame("frame",nil,UIParent); f:SetScript("OnUpdate",CombatLogClearEntries);
+END

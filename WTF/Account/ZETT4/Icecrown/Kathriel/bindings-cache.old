@@ -1,0 +1,12 @@
+BINDINGMODE 0
+bind A TURNLEFT
+bind LEFT NONE
+bind Q CLICK BT4Button55:LeftButton
+bind E CLICK BT4Button60:LeftButton
+bind BUTTON4 ACTIONBUTTON12
+bind - NONE
+bind = NONE
+bind F CLICK BT4Button46:LeftButton
+bind C CLICK BT4Button53:LeftButton
+bind BUTTON5 ACTIONBUTTON11
+bind " NONE

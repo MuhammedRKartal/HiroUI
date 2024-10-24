@@ -1,0 +1,10 @@
+
+KRUDB = {
+	["profileKeys"] = {
+		["Vardendi - Icecrown"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

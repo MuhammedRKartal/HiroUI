@@ -1,0 +1,21 @@
+MACRO 16777223 " " INV_Misc_QuestionMark
+/cast [target=focus] Hysteria
+END
+MACRO 16777221 "1" INV_Misc_QuestionMark
+/1 TOC .25 NM  NEED lock and hunter 5.2K+ / w CLASS+ACHI/ BOE PATTERNS-ORBS RESERVEDZ
+END
+MACRO 16777219 "GLO" INV_Misc_QuestionMark
+/6 . TOC .25 NM NEED dps last spot 5.2K+ / w CLASS+ACHI/ BOE -PATTERNS-ORBS RESERVED
+END
+MACRO 16777222 "rw " INV_Misc_QuestionMark
+/rw heal abom heal abom
+END
+MACRO 16777217 "VuhDoDCShieldData" Ability_Hunter_MasterMarksman
+P[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]1EM[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+MACRO 16777218 "VuhDoDCShieldNames" Ability_Hunter_MasterMarksman
+N[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]Aid[x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x][x]
+END
+MACRO 16777220 "YEL" INV_Misc_QuestionMark
+/Y TOC .25 NM  NEED lock and hunter 5.2K+ / w CLASS+ACHI/ BOE -PATTERNS-ORBS RESERVED
+END

@@ -1,0 +1,67 @@
+MACRO 76 "ACCEPT" INV_Misc_QuestionMark
+/run AcceptGroup()
+END
+MACRO 75 "Alch" INV_Misc_QuestionMark
+/cast Alchemy
+/run local skills = {"Transmute: Cardinal Ruby", "Transmute: King's Amber", "Transmute: Ametrine"} for i=1,GetNumTradeSkills() do if tContains(skills, GetTradeSkillInfo(i)) then DoTradeSkill(i) end end
+/script OpenAllBags()
+END
+MACRO 65 "Callpet" Ability_Druid_Berserk
+#showtooltip Track Beasts
+/petfollow
+/petpassive
+/petfollow
+END
+MACRO 78 "Dungeon" INV_Misc_QuestionMark
+/click LFDRoleCheckPopupAcceptButton
+/click LFDDungeonReadyDialogEnterDungeonButton
+END
+MACRO 77 "Exit Veh" INV_Misc_QuestionMark
+/run VehicleExit()
+END
+MACRO 67 "Focus" INV_Misc_QuestionMark
+/cast [@focus, exists, nodead] [] Strangulate
+END
+MACRO 66 "Focus" INV_Misc_QuestionMark
+/cast [@focus, exists, nodead] [] Mind Freeze
+END
+MACRO 68 "Heal" INV_Misc_QuestionMark
+#showtooltip
+/cast [@pet,dead][nopet]Raise Dead;Death Pact
+/use Fel Healthstone
+END
+MACRO 69 "Lichborne" INV_Misc_QuestionMark
+/cast Lichborne
+/cancelaura Lichborne
+END
+MACRO 79 "Lootpass" INV_Misc_QuestionMark
+/run CloseLoot()
+END
+MACRO 71 "Scourge" INV_Misc_QuestionMark
+#showtooltip
+/cast Scourge Strike
+/petdefensive
+/petautocaston Claw
+END
+MACRO 72 "Self" INV_Misc_QuestionMark
+#showtooltip Death Coil
+/cast Lichborne
+/cast [@player] Death Coil
+END
+MACRO 73 "Stun" INV_Misc_QuestionMark
+#showtooltip Gnaw
+/petautocastoff Claw
+/petattack [@focus, exists, nodead] [@target]
+/cast [@focus,exists, nodead] [@target]Gnaw
+/cast [@focus,exists, nodead] [@target]Leap
+/cast [@focus,exists, nodead] [@target]Gnaw
+END
+MACRO 74 "Target" INV_Misc_QuestionMark
+/petattack
+/cast Gnaw
+END
+MACRO 70 "Unholy" INV_Misc_QuestionMark
+#showtooltip
+/cast Unholy Presence
+/cast Frost Presence
+END

@@ -1,0 +1,86 @@
+MACRO 16777217 "aim" INV_Misc_QuestionMark
+#showtooltip Aimed Shot
+/cast Aimed Shot(Rank 9)
+/cast !Auto Shot
+/cast !silencing Shot
+/cast !Kill Command
+/use 10
+/run UIErrorsFrame:Clear()
+END
+MACRO 16777218 "arc" INV_Misc_QuestionMark
+#showtooltip Arcane Shot
+/cast !Kill Command
+/cast !Silencing Shot
+/cast Arcane Shot
+/run UIErrorsFrame:Clear()
+END
+MACRO 16777219 "aspec" INV_Misc_QuestionMark
+#showtooltip
+/cast [aspect:2] Aspect of the Dragonhawk
+/cast Aspect of the Viper
+/cast Trueshot Aura
+END
+MACRO 16777220 "chimera" INV_Misc_QuestionMark
+#showtooltip Chimera Shot
+/cast !auto shot
+/cast Chimera Shot
+/cast !Kill Command
+/cast !silencing shot
+/use 10
+/run UIErrorsFrame:Clear()
+END
+MACRO 16777227 "det" INV_Misc_QuestionMark
+#showtooltip Deterrence
+/cast Deterrence
+/cancelaura Deterrence
+END
+MACRO 16777222 "enrage" INV_Misc_QuestionMark
+#showtooltip Tranquilizing shot
+/target Shambling horror
+/cast Tranquilizing shot
+/targetlasttarget
+END
+MACRO 16777228 "jmp" INV_Misc_QuestionMark
+#showtooltip Disengage
+/cast Disengage
+/use Recovered Scarlet Onslaught Cape
+END
+MACRO 16777223 "ks" INV_Misc_QuestionMark
+#showtooltip Kill Shot
+/cancelaura Deterrence
+/cancelaura Hand of Protection
+/cast Kill Shot(Rank 3)
+/cast !Kill Command
+/cast !Silencing Shot
+/use 10
+/petattack
+/run UIErrorsFrame:Clear()
+END
+MACRO 16777226 "md" INV_Misc_QuestionMark
+#showtooltip Misdirection
+/Use [target=focus] Misdirection
+/target lasttarget
+END
+MACRO 16777221 "rapid" INV_Misc_QuestionMark
+#showtooltip Rapid Fire
+/cast Rapid Fire
+/cast Call of the Wild
+/petattack
+/cast Blood Fury(Racial)
+END
+MACRO 16777224 "serpent" INV_Misc_QuestionMark
+#showtooltip Serpent Sting
+/cast Serpent Sting(Rank 12)
+/cast !Auto Shot
+/cast !Kill Command
+/use 10
+/run UIErrorsFrame:Clear()
+END
+MACRO 16777225 "steady" INV_Misc_QuestionMark
+#showtooltip Steady Shot
+/cast !auto shot
+/cast Steady Shot(Rank 4)
+/cast !Kill Command
+/use 10
+/run UIErrorsFrame:Clear()
+END

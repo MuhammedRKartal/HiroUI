@@ -1,0 +1,25 @@
+MACRO 16777219 " " INV_Misc_QuestionMark
+/cast Hammer of the Righteous
+/cancelaura Hand of Protection
+/calcelaura Divine Intervene
+END
+MACRO 16777220 " Salv" INV_Misc_QuestionMark
+/use Satrina's Impeding Scarab
+/cast [target=Itadori] Hand of Salvation
+END
+MACRO 16777221 "Aura Cancel" Spell_Holy_PowerWordShield
+/cancelaura Hand of Salvation
+/cancelaura Hand of Protection
+END
+MACRO 16777217 "Cancel" INV_Misc_QuestionMark
+/cast Divine Shield
+/cancelaura Divine Shield
+END
+MACRO 16777218 "Cancel" INV_Misc_QuestionMark
+/cast Divine Sacrifice
+/cancelaura Divine Sacrifice
+END
+MACRO 16777222 "Taunt" INV_Misc_QuestionMark
+#showtooltip Righteous Defense
+/cast [@targettarget] Righteous Defense
+END

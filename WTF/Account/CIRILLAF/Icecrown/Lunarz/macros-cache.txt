@@ -1,0 +1,40 @@
+MACRO 16777217 "Fall" INV_Misc_QuestionMark
+#show Starfall
+/use Sanctified Lasherweave Gloves
+/cast Starfall
+END
+MACRO 16777226 "Follow" INV_Misc_QuestionMark
+/follow Mayiascend
+END
+MACRO 16777221 "Inferno" INV_Misc_QuestionMark
+/target Living Inferno
+/cast Faerie Fire
+END
+MACRO 16777222 "MB1" INV_Misc_QuestionMark
+#showtooltip Insect Swarm
+/assist Mayiascend
+/cast Insect Swarm
+END
+MACRO 16777223 "MB2" INV_Misc_QuestionMark
+#showtooltip Moonfire
+/assist Mayiascend
+/cast Moonfire
+END
+MACRO 16777224 "MB3" INV_Misc_QuestionMark
+#showtooltip Starfire
+/assist Mayiascend
+/cast Starfire
+END
+MACRO 16777225 "MB4" INV_Misc_QuestionMark
+#showtooltip Wrath
+/assist Mayiascend
+/cast Wrath
+END
+MACRO 16777220 "rebirth" INV_Misc_QuestionMark
+#showtooltip 
+/use [@mouseover, help] Rebirth
+END
+MACRO 16777219 "Wrath" INV_Misc_QuestionMark
+/use Sanctified Lasherweave Gloves
+/cast Wrath
+END

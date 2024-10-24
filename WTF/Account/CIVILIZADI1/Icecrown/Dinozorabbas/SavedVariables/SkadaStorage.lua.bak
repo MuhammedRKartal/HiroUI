@@ -1,0 +1,895 @@
+
+SkadaStorageDB = {
+	["sets"] = {
+		{
+			["mana"] = 29077,
+			["enemies"] = {
+				{
+					["id"] = "0xF1300079AA0049F0",
+					["name"] = "Heroic Training Dummy",
+					["totaldamagetaken"] = 680341,
+					["flag"] = 68136,
+					["class"] = "MONSTER",
+					["damagetaken"] = 680341,
+					["damagetakenspells"] = {
+						[60103] = {
+							["school"] = 4,
+							["sources"] = {
+								["Enkzoxoxo"] = {
+									["amount"] = 4172,
+								},
+							},
+							["amount"] = 4172,
+						},
+						[6603] = {
+							["school"] = 1,
+							["sources"] = {
+								["Enkzoxoxo"] = {
+									["amount"] = 270677,
+								},
+							},
+							["amount"] = 270677,
+						},
+						[33750] = {
+							["school"] = 1,
+							["sources"] = {
+								["Enkzoxoxo"] = {
+									["amount"] = 57249,
+								},
+							},
+							["amount"] = 57249,
+						},
+						[32175] = {
+							["school"] = 1,
+							["sources"] = {
+								["Enkzoxoxo"] = {
+									["amount"] = 18980,
+								},
+							},
+							["amount"] = 18980,
+						},
+						[49231] = {
+							["school"] = 8,
+							["sources"] = {
+								["Enkzoxoxo"] = {
+									["amount"] = 22795,
+								},
+							},
+							["amount"] = 22795,
+						},
+						[32176] = {
+							["school"] = 1,
+							["sources"] = {
+								["Enkzoxoxo"] = {
+									["amount"] = 13679,
+								},
+							},
+							["amount"] = 13679,
+						},
+						[10444] = {
+							["school"] = 4,
+							["sources"] = {
+								["Enkzoxoxo"] = {
+									["amount"] = 70771,
+								},
+							},
+							["amount"] = 70771,
+						},
+						[49271] = {
+							["school"] = 8,
+							["sources"] = {
+								["Enkzoxoxo"] = {
+									["amount"] = 10819,
+								},
+							},
+							["amount"] = 10819,
+						},
+						[61654] = {
+							["school"] = 4,
+							["sources"] = {
+								["Enkzoxoxo"] = {
+									["amount"] = 53612,
+								},
+							},
+							["amount"] = 53612,
+						},
+						[49279] = {
+							["school"] = 8,
+							["sources"] = {
+								["Enkzoxoxo"] = {
+									["amount"] = 2761,
+								},
+							},
+							["amount"] = 2761,
+						},
+						[49238] = {
+							["school"] = 8,
+							["sources"] = {
+								["Enkzoxoxo"] = {
+									["amount"] = 109037,
+								},
+							},
+							["amount"] = 109037,
+						},
+						[49233] = {
+							["school"] = 4,
+							["sources"] = {
+								["Enkzoxoxo"] = {
+									["amount"] = 45789,
+								},
+							},
+							["amount"] = 45789,
+						},
+					},
+				}, -- [1]
+				{
+					["id"] = "0xF1300079A80049EE",
+					["name"] = "Grandmaster's Training Dummy",
+					["totaldamagetaken"] = 61449,
+					["flag"] = 2600,
+					["class"] = "MONSTER",
+					["damagetaken"] = 61449,
+					["damagetakenspells"] = {
+						[61654] = {
+							["school"] = 4,
+							["sources"] = {
+								["Enkzoxoxo"] = {
+									["overkill"] = 58569,
+									["amount"] = 58611,
+								},
+							},
+							["overkill"] = 58569,
+							["amount"] = 58611,
+						},
+						[49271] = {
+							["school"] = 8,
+							["sources"] = {
+								["Enkzoxoxo"] = {
+									["overkill"] = 2835,
+									["amount"] = 2838,
+								},
+							},
+							["overkill"] = 2835,
+							["amount"] = 2838,
+						},
+					},
+				}, -- [2]
+			},
+			["totaldamage"] = 741790,
+			["time"] = 111,
+			["etotaldamagetaken"] = 741790,
+			["last_time"] = 7992.900000000001,
+			["players"] = {
+				{
+					["last"] = 7991.577,
+					["flag"] = 1297,
+					["class"] = "SHAMAN",
+					["auras"] = {
+						[75456] = {
+							["type"] = "BUFF",
+							["count"] = 3,
+							["school"] = 64,
+							["uptime"] = 45,
+						},
+						[30823] = {
+							["type"] = "BUFF",
+							["count"] = 2,
+							["school"] = 1,
+							["uptime"] = 30,
+						},
+						[16280] = {
+							["type"] = "BUFF",
+							["count"] = 10,
+							["refresh"] = 65,
+							["school"] = 1,
+							["uptime"] = 111,
+						},
+						[49281] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 8,
+							["uptime"] = 7,
+						},
+						[8515] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 111,
+						},
+						[58646] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 111,
+						},
+						[67385] = {
+							["type"] = "BUFF",
+							["count"] = 3,
+							["school"] = 8,
+							["refresh"] = 4,
+							["uptime"] = 72,
+						},
+						[53817] = {
+							["type"] = "BUFF",
+							["count"] = 15,
+							["school"] = 1,
+							["refresh"] = 64,
+							["uptime"] = 92,
+						},
+						[70831] = {
+							["type"] = "BUFF",
+							["count"] = 2,
+							["school"] = 8,
+							["uptime"] = 20,
+						},
+						[58655] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 111,
+						},
+						[72412] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 1,
+							["uptime"] = 10,
+						},
+						[49233] = {
+							["type"] = "DEBUFF",
+							["count"] = 4,
+							["school"] = 4,
+							["refresh"] = 6,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["count"] = 4,
+									["refresh"] = 6,
+									["uptime"] = 96,
+								},
+							},
+							["uptime"] = 96,
+						},
+						[58875] = {
+							["type"] = "BUFF",
+							["count"] = 7,
+							["school"] = 1,
+							["uptime"] = 94,
+						},
+						[59620] = {
+							["type"] = "BUFF",
+							["count"] = 5,
+							["school"] = 2,
+							["refresh"] = 8,
+							["uptime"] = 85,
+						},
+						[17364] = {
+							["type"] = "DEBUFF",
+							["count"] = 1,
+							["school"] = 1,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["uptime"] = 107,
+									["count"] = 1,
+								},
+							},
+							["uptime"] = 107,
+						},
+						[16246] = {
+							["type"] = "BUFF",
+							["count"] = 12,
+							["school"] = 64,
+							["refresh"] = 3,
+							["uptime"] = 73,
+						},
+						[75473] = {
+							["type"] = "BUFF",
+							["count"] = 2,
+							["school"] = 1,
+							["uptime"] = 30,
+						},
+						[49231] = {
+							["type"] = "DEBUFF",
+							["count"] = 3,
+							["school"] = 8,
+							["refresh"] = 1,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["count"] = 3,
+									["refresh"] = 1,
+									["uptime"] = 31,
+								},
+							},
+							["uptime"] = 31,
+						},
+						[30809] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 111,
+						},
+						[70829] = {
+							["type"] = "BUFF",
+							["count"] = 2,
+							["school"] = 8,
+							["uptime"] = 30,
+						},
+						[29178] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 1,
+							["refresh"] = 24,
+							["uptime"] = 101,
+						},
+						[58861] = {
+							["type"] = "DEBUFF",
+							["count"] = 1,
+							["school"] = 1,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["uptime"] = 2,
+									["count"] = 1,
+								},
+							},
+							["uptime"] = 2,
+						},
+						[57399] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 111,
+						},
+					},
+					["time"] = 108.9,
+					["damage"] = 741790,
+					["damagespells"] = {
+						["Flametongue Attack"] = {
+							["hitmax"] = 534,
+							["hitmin"] = 307,
+							["criticalamount"] = 34520,
+							["id"] = 10444,
+							["criticalmin"] = 642,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 70771,
+								},
+							},
+							["criticalmax"] = 1116,
+							["critical"] = 39,
+							["casts"] = 1,
+							["count"] = 129,
+							["hit"] = 90,
+							["school"] = 4,
+							["resisted"] = 4324,
+							["amount"] = 70771,
+							["hitamount"] = 36251,
+						},
+						["Windfury Attack"] = {
+							["PARRY"] = 3,
+							["hitmin"] = 1058,
+							["criticalamount"] = 35969,
+							["id"] = 33750,
+							["hitmax"] = 1532,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 57249,
+								},
+							},
+							["count"] = 32,
+							["hit"] = 16,
+							["casts"] = 1,
+							["critical"] = 13,
+							["amount"] = 57249,
+							["school"] = 1,
+							["criticalmin"] = 2204,
+							["criticalmax"] = 3160,
+							["hitamount"] = 21280,
+						},
+						["Melee"] = {
+							["glance"] = 25873,
+							["hitmin"] = 578,
+							["criticalmin"] = 1192,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 243700,
+								},
+							},
+							["glancing"] = 41,
+							["amount"] = 243700,
+							["MISS"] = 16,
+							["glancemin"] = 441,
+							["criticalamount"] = 191847,
+							["id"] = 6603,
+							["glancemax"] = 890,
+							["PARRY"] = 17,
+							["criticalmax"] = 2397,
+							["critical"] = 109,
+							["hit"] = 31,
+							["school"] = 1,
+							["hitmax"] = 1185,
+							["count"] = 214,
+							["hitamount"] = 25980,
+						},
+						["Lava Lash"] = {
+							["criticalmin"] = 1696,
+							["hitmin"] = 1071,
+							["criticalamount"] = 1696,
+							["id"] = 60103,
+							["criticalmax"] = 1696,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 4172,
+								},
+							},
+							["critical"] = 1,
+							["hitmax"] = 1405,
+							["casts"] = 3,
+							["count"] = 3,
+							["hit"] = 2,
+							["school"] = 4,
+							["resisted"] = 455,
+							["amount"] = 4172,
+							["hitamount"] = 2476,
+						},
+						["Lightning Bolt"] = {
+							["criticalmin"] = 8126,
+							["hitmin"] = 5307,
+							["criticalamount"] = 81015,
+							["id"] = 49238,
+							["hitmax"] = 5921,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 109037,
+								},
+							},
+							["count"] = 13,
+							["hit"] = 5,
+							["casts"] = 15,
+							["critical"] = 8,
+							["amount"] = 109037,
+							["school"] = 8,
+							["resisted"] = 9026,
+							["criticalmax"] = 13839,
+							["hitamount"] = 28022,
+						},
+						["Flame Shock"] = {
+							["criticalmin"] = 2866,
+							["hitmin"] = 1098,
+							["criticalamount"] = 6075,
+							["id"] = 49233,
+							["criticalmax"] = 3209,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 18028,
+								},
+							},
+							["critical"] = 2,
+							["hitmax"] = 1875,
+							["casts"] = 10,
+							["count"] = 10,
+							["hit"] = 8,
+							["school"] = 4,
+							["resisted"] = 944,
+							["amount"] = 18028,
+							["hitamount"] = 11953,
+						},
+						["Lightning Shield"] = {
+							["hitmin"] = 2761,
+							["id"] = 49279,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 2761,
+								},
+							},
+							["casts"] = 1,
+							["count"] = 1,
+							["hit"] = 1,
+							["school"] = 8,
+							["hitmax"] = 2761,
+							["amount"] = 2761,
+							["hitamount"] = 2761,
+						},
+						["Flame Shock (DoT)"] = {
+							["hitmin"] = 436,
+							["criticalamount"] = 9427,
+							["id"] = 49233,
+							["criticalmin"] = 905,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 27761,
+								},
+							},
+							["hitmax"] = 764,
+							["critical"] = 8,
+							["criticalmax"] = 1366,
+							["count"] = 39,
+							["hit"] = 31,
+							["school"] = 4,
+							["resisted"] = 1848,
+							["amount"] = 27761,
+							["hitamount"] = 18334,
+						},
+						["Fire Nova"] = {
+							["criticalmin"] = 3860,
+							["hitmax"] = 2896,
+							["hitmin"] = 2128,
+							["criticalamount"] = 82229,
+							["id"] = 61654,
+							["count"] = 28,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["overkill"] = 58569,
+									["amount"] = 58611,
+								},
+								["Heroic Training Dummy"] = {
+									["amount"] = 53612,
+								},
+							},
+							["overkill"] = 58569,
+							["hit"] = 12,
+							["casts"] = 14,
+							["critical"] = 16,
+							["amount"] = 112223,
+							["school"] = 4,
+							["resisted"] = 4863,
+							["criticalmax"] = 6415,
+							["hitamount"] = 29994,
+						},
+						["Stormstrike"] = {
+							["hitmin"] = 645,
+							["criticalamount"] = 24702,
+							["id"] = 32175,
+							["hitmax"] = 1056,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 32659,
+								},
+							},
+							["count"] = 24,
+							["hit"] = 10,
+							["casts"] = 12,
+							["critical"] = 14,
+							["amount"] = 32659,
+							["school"] = 1,
+							["criticalmin"] = 1227,
+							["criticalmax"] = 2348,
+							["hitamount"] = 7957,
+						},
+						["Melee (Spirit Wolf)"] = {
+							["DODGE"] = 1,
+							["glance"] = 6545,
+							["hitmin"] = 367,
+							["id"] = 6603,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 26977,
+								},
+							},
+							["glancemin"] = 282,
+							["glancing"] = 21,
+							["glancemax"] = 344,
+							["count"] = 72,
+							["hit"] = 50,
+							["school"] = 1,
+							["hitmax"] = 456,
+							["amount"] = 26977,
+							["hitamount"] = 20432,
+						},
+						["Chain Lightning"] = {
+							["hitmax"] = 2838,
+							["hitmin"] = 2838,
+							["criticalamount"] = 10819,
+							["id"] = 49271,
+							["count"] = 2,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["overkill"] = 2835,
+									["amount"] = 2838,
+								},
+								["Heroic Training Dummy"] = {
+									["amount"] = 10819,
+								},
+							},
+							["overkill"] = 2835,
+							["hit"] = 1,
+							["casts"] = 1,
+							["critical"] = 1,
+							["amount"] = 13657,
+							["school"] = 8,
+							["criticalmin"] = 10819,
+							["criticalmax"] = 10819,
+							["hitamount"] = 2838,
+						},
+						["Earth Shock"] = {
+							["criticalmin"] = 6644,
+							["hitmin"] = 2527,
+							["criticalamount"] = 20268,
+							["id"] = 49231,
+							["criticalmax"] = 6855,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 22795,
+								},
+							},
+							["critical"] = 3,
+							["hitmax"] = 2527,
+							["casts"] = 4,
+							["count"] = 4,
+							["hit"] = 1,
+							["school"] = 8,
+							["resisted"] = 2121,
+							["amount"] = 22795,
+							["hitamount"] = 2527,
+						},
+					},
+					["id"] = "0x0700000000745182",
+					["spec"] = 263,
+					["healspells"] = {
+						[58879] = {
+							["overheal"] = 79717,
+							["count"] = 142,
+							["amount"] = 1175,
+							["school"] = 32,
+							["max"] = 589,
+							["targets"] = {
+								["Enkzoxoxo"] = {
+									["overheal"] = 39271,
+									["amount"] = 1175,
+								},
+								["Spirit Wolf"] = {
+									["overheal"] = 40446,
+									["amount"] = 0,
+								},
+							},
+							["min"] = 586,
+						},
+						[52042] = {
+							["overheal"] = 36032,
+							["targets"] = {
+								["Enkzoxoxo"] = {
+									["overheal"] = 19606,
+									["amount"] = 238,
+								},
+								["Spirit Wolf"] = {
+									["overheal"] = 16426,
+									["amount"] = 0,
+								},
+							},
+							["count"] = 101,
+							["amount"] = 238,
+							["school"] = 8,
+							["max"] = 238,
+							["ishot"] = true,
+							["min"] = 238,
+						},
+					},
+					["overkill"] = 61404,
+					["manaspells"] = {
+						[30824] = 29077,
+					},
+					["heal"] = 1413,
+					["name"] = "Enkzoxoxo",
+					["mana"] = 29077,
+					["overheal"] = 115749,
+					["totaldamage"] = 741790,
+					["role"] = "DAMAGER",
+				}, -- [1]
+			},
+			["type"] = "none",
+			["overheal"] = 115749,
+			["overkill"] = 61404,
+			["edamagetaken"] = 741790,
+			["heal"] = 1413,
+			["name"] = "Heroic Training Dummy (2)",
+			["mobname"] = "Heroic Training Dummy",
+			["starttime"] = 1675206270,
+			["damage"] = 741790,
+			["last_action"] = 1675206381,
+			["endtime"] = 1675206381,
+		}, -- [1]
+		{
+			["enemies"] = {
+				{
+					["id"] = "0xF1300079AA0049F0",
+					["name"] = "Heroic Training Dummy",
+					["totaldamagetaken"] = 45935,
+					["flag"] = 68136,
+					["class"] = "MONSTER",
+					["damagetaken"] = 45935,
+					["damagetakenspells"] = {
+						[6603] = {
+							["school"] = 1,
+							["sources"] = {
+								["Enkzoxoxo"] = {
+									["amount"] = 34307,
+								},
+							},
+							["amount"] = 34307,
+						},
+						[10444] = {
+							["school"] = 4,
+							["sources"] = {
+								["Enkzoxoxo"] = {
+									["amount"] = 9237,
+								},
+							},
+							["amount"] = 9237,
+						},
+						[33750] = {
+							["school"] = 1,
+							["sources"] = {
+								["Enkzoxoxo"] = {
+									["amount"] = 2391,
+								},
+							},
+							["amount"] = 2391,
+						},
+					},
+				}, -- [1]
+			},
+			["totaldamage"] = 45935,
+			["time"] = 29,
+			["etotaldamagetaken"] = 45935,
+			["last_time"] = 7848.379,
+			["players"] = {
+				{
+					["damagespells"] = {
+						["Flametongue Attack"] = {
+							["criticalmin"] = 758,
+							["hitmin"] = 291,
+							["criticalamount"] = 3335,
+							["id"] = 10444,
+							["criticalmax"] = 977,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 9237,
+								},
+							},
+							["critical"] = 4,
+							["hitmax"] = 467,
+							["casts"] = 1,
+							["count"] = 19,
+							["hit"] = 15,
+							["school"] = 4,
+							["resisted"] = 499,
+							["amount"] = 9237,
+							["hitamount"] = 5902,
+						},
+						["Windfury Attack"] = {
+							["criticalamount"] = 2391,
+							["id"] = 33750,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 2391,
+								},
+							},
+							["PARRY"] = 1,
+							["casts"] = 1,
+							["critical"] = 1,
+							["amount"] = 2391,
+							["school"] = 1,
+							["criticalmin"] = 2391,
+							["criticalmax"] = 2391,
+							["count"] = 2,
+						},
+						["Melee"] = {
+							["glance"] = 6998,
+							["hitmin"] = 632,
+							["criticalmin"] = 1363,
+							["targets"] = {
+								["Heroic Training Dummy"] = {
+									["amount"] = 34307,
+								},
+							},
+							["glancing"] = 12,
+							["amount"] = 34307,
+							["MISS"] = 1,
+							["glancemin"] = 443,
+							["criticalamount"] = 19638,
+							["id"] = 6603,
+							["glancemax"] = 735,
+							["critical"] = 12,
+							["criticalmax"] = 1909,
+							["hitmax"] = 883,
+							["hit"] = 10,
+							["school"] = 1,
+							["PARRY"] = 3,
+							["count"] = 38,
+							["hitamount"] = 7671,
+						},
+					},
+					["last"] = 7842.333000000001,
+					["id"] = "0x0700000000745182",
+					["spec"] = 263,
+					["class"] = "SHAMAN",
+					["auras"] = {
+						[59620] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 2,
+							["uptime"] = 15,
+						},
+						[16280] = {
+							["type"] = "BUFF",
+							["count"] = 6,
+							["refresh"] = 3,
+							["school"] = 1,
+							["uptime"] = 29,
+						},
+						[75456] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 64,
+							["uptime"] = 15,
+						},
+						[30809] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 29,
+						},
+						[57399] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 29,
+						},
+						[53817] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 1,
+							["refresh"] = 12,
+							["uptime"] = 29,
+						},
+						[72412] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 1,
+							["uptime"] = 10,
+						},
+						[75473] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 1,
+							["uptime"] = 15,
+						},
+					},
+					["totaldamage"] = 45935,
+					["role"] = "DAMAGER",
+					["name"] = "Enkzoxoxo",
+					["flag"] = 1297,
+					["time"] = 22.93000000000001,
+					["damage"] = 45935,
+				}, -- [1]
+			},
+			["type"] = "none",
+			["edamagetaken"] = 45935,
+			["damage"] = 45935,
+			["name"] = "Heroic Training Dummy",
+			["mobname"] = "Heroic Training Dummy",
+			["starttime"] = 1675206207,
+			["last_action"] = 1675206236,
+			["endtime"] = 1675206236,
+		}, -- [2]
+	},
+	["version"] = 1878,
+	["total"] = {
+		["starttime"] = 1675206207,
+		["mana"] = 29077,
+		["overkill"] = 61404,
+		["players"] = {
+			{
+				["overheal"] = 115749,
+				["heal"] = 1413,
+				["id"] = "0x0700000000745182",
+				["class"] = "SHAMAN",
+				["mana"] = 29077,
+				["overkill"] = 61404,
+				["totaldamage"] = 787725,
+				["role"] = "DAMAGER",
+				["time"] = 131.6599999999999,
+				["flag"] = 1297,
+				["name"] = "Enkzoxoxo",
+				["spec"] = 263,
+				["damage"] = 787725,
+			}, -- [1]
+		},
+		["heal"] = 1413,
+		["name"] = "Total",
+		["overheal"] = 115749,
+		["totaldamage"] = 787725,
+		["time"] = 140,
+		["damage"] = 787725,
+	},
+}

@@ -1,0 +1,35 @@
+MACRO 16777229 "Dispel" INV_Misc_QuestionMark
+#showtooltip
+/cast [@mouseover,help,nodead] [help] [@player] Dispel Magic
+END
+MACRO 16777240 "Dispersion" INV_Misc_QuestionMark
+/cast Dispersion
+/cancelaura Dispersion
+END
+MACRO 16777237 "Flash" INV_Misc_QuestionMark
+#show Flash Heal
+/use 10
+/cast Flash Heal
+END
+MACRO 16777236 "Hymn" INV_Misc_QuestionMark
+#show Divine Hymn
+/cast Inner Focus
+/cast Divine Hymn
+END
+MACRO 16777226 "Inferno" INV_Misc_QuestionMark
+/target Living Inferno
+/cast Vampiric Touch
+END
+MACRO 16777238 "Mind Blast" INV_Misc_QuestionMark
+#showtooltip Mind Blast
+/cast Inner Focus
+/cast Mind Blast
+END
+MACRO 16777239 "PI Call" Spell_Holy_PowerInfusion
+#show Power Infusion
+/p Power Infusion
+END
+MACRO 16777223 "Wicked" INV_Misc_QuestionMark
+/target Wicked Spirit
+/cast Mind Sear
+END

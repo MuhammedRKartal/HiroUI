@@ -1,0 +1,16 @@
+
+IgM_SV = {
+	["enabled"] = true,
+	["list"] = {
+		["Icecrown-Alliance"] = {
+			["Nazzyx"] = {
+				["time"] = 1718562911,
+				["reason"] = "From Enayi's system ignore list",
+			},
+			["C_5485648"] = {
+				["time"] = 1718562911,
+				["reason"] = "From Enayi's system ignore list",
+			},
+		},
+	},
+}

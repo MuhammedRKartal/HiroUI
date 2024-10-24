@@ -1,0 +1,65 @@
+
+KRUDB = {
+	["profileKeys"] = {
+		["Mayiascend - Icecrown"] = "Default",
+		["Malescula - Icecrown"] = "Default",
+		["Pussfeeder - Onyxia"] = "Default",
+		["Cezzarged - Icecrown"] = "Default",
+		["Mayistab - Icecrown"] = "Default",
+		["Erindan - Icecrown"] = "Default",
+		["Mayicurse - Icecrown"] = "Default",
+		["Makiio - Icecrown"] = "Default",
+		["Ajjde - Blackrock [PvP only]"] = "Default",
+		["Ancaz - Icecrown"] = "Default",
+		["Plaacebo - Icecrown"] = "Default",
+		["Duhht - Blackrock [PvP only]"] = "Default",
+		["Elynass - Icecrown"] = "Default",
+		["Fatnkz - Icecrown"] = "Default",
+		["Hirobank - Icecrown"] = "Default",
+		["Yaramiem - Blackrock [PvP only]"] = "Default",
+		["Fliktah - Icecrown"] = "Default",
+		["Itadori - Icecrown"] = "Default",
+		["Fareci - Icecrown"] = "Default",
+		["Mirreila - Blackrock [PvP only]"] = "Default",
+		["Reiila - Icecrown"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["menu"] = {
+				["enabled"] = false,
+			},
+			["cooldowns"] = {
+				["yOfs"] = 822.7144519675726,
+				["xOfs"] = 1573.206852975847,
+				["spacing"] = 2,
+				["locked"] = true,
+				["spells"] = {
+					[16190] = true,
+					[10060] = true,
+					[1038] = true,
+				},
+				["height"] = 17,
+				["fontSize"] = 12,
+				["scale"] = 1.2,
+			},
+			["mana"] = {
+				["hideTitle"] = true,
+				["iconSize"] = 15,
+				["yOfs"] = 309.5556338057547,
+				["xOfs"] = 1914.221551814515,
+				["width"] = 152,
+				["locked"] = true,
+				["enabled"] = false,
+			},
+			["sunders"] = {
+				["enabled"] = false,
+			},
+			["auras"] = {
+				["enabled"] = false,
+				["xOfs"] = 1669.015522330451,
+				["yOfs"] = 195.8412532481374,
+				["locked"] = true,
+			},
+		},
+	},
+}

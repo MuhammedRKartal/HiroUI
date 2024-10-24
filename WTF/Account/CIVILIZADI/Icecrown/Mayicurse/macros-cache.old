@@ -1,0 +1,40 @@
+MACRO 16777222 "cd" INV_Misc_QuestionMark
+#showtooltip Metamorphosis
+/cast Metamorphosis
+/cast Blood Fury(Racial)
+/use 10
+END
+MACRO 16777218 "corru" INV_Misc_QuestionMark
+#showtooltip Corruption(Rank 10)
+/cast Corruption(Rank 10)
+/cast Demonic Empowerment
+END
+MACRO 16777219 "immo" INV_Misc_QuestionMark
+#showtooltip Immolate(Rank 11)
+/cast Immolate(Rank 11)
+/cast Demonic Empowerment
+END
+MACRO 16777217 "sb" INV_Misc_QuestionMark
+#showtooltip Shadow Bolt(Rank 13)
+/cast Shadow Cleave(Demon)
+/cast Shadow Bolt(Rank 13)
+/cast Demonic Empowerment
+/use Sanctified Dark Coven Gloves
+END
+MACRO 16777220 "sb1" INV_Misc_QuestionMark
+#showtooltip Shadow Bolt(Rank 13)
+/cast [@mouseover] Shadow Bolt(Rank 1)
+END
+MACRO 16777221 "sf" INV_Misc_QuestionMark
+#showtooltip Soul Fire(Rank 6)
+/cast Shadow Cleave(Demon)
+/cast Soul Fire(Rank 6)
+/cast Demonic Empowerment
+/use 10
+END
+MACRO 16777223 "t" INV_Misc_QuestionMark
+#showtooltip Incinerate(Rank 4)
+/cast Demonic Empowerment
+/cast Incinerate(Rank 4)
+/use 10
+END

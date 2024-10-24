@@ -1,0 +1,86 @@
+MACRO 16777232 "Aoe" INV_Misc_QuestionMark
+#showtooltip Blood Boil
+/cast Blood Boil
+/cast [target=arena1] Dark Command
+/cast [target=arena2] Dark Command
+/cast [target=arena3] Dark Command
+/cast [target=arenapet1] Dark Command
+/cast [target=arenapet2] Dark Command 
+END
+MACRO 16777218 "Callpet" Ability_Tracking
+#showtooltip Track Beasts
+/petfollow
+/petpassive
+/petfollow
+END
+MACRO 16777219 "Exp" INV_Misc_QuestionMark
+#showtooltip Corpse Explosion
+/petstay
+/cast [@pet] Corpse Explosion
+END
+MACRO 16777234 "Focus" INV_Misc_QuestionMark
+/cast [@focus, exists, nodead] [] Mind Freeze
+END
+MACRO 16777220 "Focus" INV_Misc_QuestionMark
+/cast [@focus, exists, nodead] [] Strangulate
+END
+MACRO 16777223 "Heal" INV_Misc_QuestionMark
+#showtooltip
+/cast [@pet,dead][nopet]Raise Dead;Death Pact
+/use Fel Healthstone
+END
+MACRO 16777226 "Healpet" INV_Misc_QuestionMark
+#showtooltip Death Coil
+/cast [@pet] Death Coil
+END
+MACRO 16777230 "Lichborne" INV_Misc_QuestionMark
+/cast Lichborne
+/cancelaura Lichborne
+END
+MACRO 16777228 "Petattack" Ability_Creature_Poison_03
+#showtooltip Attack
+/cast Auto Attack
+/petattack
+END
+MACRO 16777233 "PreIBF" INV_Misc_QuestionMark
+#showtooltip Icebound Fortitude
+/cancelaura Swift Zulian Tiger
+/petattack
+/use [@player]Death and Decay
+/cast Blood Tap
+/cast Icebound Fortitude
+END
+MACRO 16777222 "Presence" INV_Misc_QuestionMark
+#showtooltip
+/cast Unholy Presence
+/cast Frost Presence
+END
+MACRO 16777229 "PresenceB" INV_Misc_QuestionMark
+#showtooltip
+/cast Blood Presence
+/cast Frost Presence
+END
+MACRO 16777224 "Scourge" INV_Misc_QuestionMark
+#showtooltip
+/startattack
+/cast Scourge Strike
+END
+MACRO 16777225 "Self Heal" INV_Misc_QuestionMark
+#showtooltip Death Coil
+/cast Lichborne
+/cast [@player] Death Coil
+END
+MACRO 16777217 "Stun" INV_Misc_QuestionMark
+#showtooltip Gnaw
+/petautocastoff Claw
+/petattack [@focus, exists, nodead] [@target]
+/cast [@focus,exists, nodead] [@target]Gnaw
+/cast [@focus,exists, nodead] [@target]Leap
+/cast [@focus,exists, nodead] [@target]Gnaw
+END
+MACRO 16777231 "Target" INV_Misc_QuestionMark
+/petattack
+/cast Gnaw
+/cast Leap
+/cast Gnaw
+END

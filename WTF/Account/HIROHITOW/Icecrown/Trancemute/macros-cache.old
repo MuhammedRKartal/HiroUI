@@ -1,0 +1,3 @@
+MACRO 16777217 "Primo" INV_Misc_QuestionMark
+/run for i=1, GetNumMacroIcons() do if GetMacroIconInfo(i):find("inv_tradeskillitem") then print(i) end end
+END

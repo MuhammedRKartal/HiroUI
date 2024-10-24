@@ -1,0 +1,9 @@
+MACRO 16777266 "Shred" INV_Misc_QuestionMark
+#showtooltip Shred
+/startattack
+/cast Shred
+END
+MACRO 16777265 "Starfall" INV_Misc_QuestionMark
+/cast Starfall
+/use Sanctified Lasherweave Gloves
+END

@@ -1,0 +1,63 @@
+MACRO 16777237 " " INV_Misc_QuestionMark
+/cast [@mouseover,help,nodead] []  Lay on Hands; Lay on Hnds
+END
+MACRO 16777236 " All in" INV_Misc_QuestionMark
+/cast Avenging Wrath
+/cast Talisman of Resurgence
+/cast Divine Illumination
+/use 10
+END
+MACRO 16777226 "bea" INV_Misc_QuestionMark
+/cast [@mouseover,exists,help]Beacon of light; Beacon of light
+END
+MACRO 16777243 "Cancel" INV_Misc_QuestionMark
+#showtooltip
+/cast Divine Sacrifice
+/cancelaura Divine Sacrifice
+END
+MACRO 16777249 "cleanse" INV_Misc_QuestionMark
+/cast [@mouseover,exists,help]Cleanse; Cleanse
+END
+MACRO 16777246 "Favor" INV_Misc_QuestionMark
+#showtooltip Holy Shock
+/use Bauble of True Blood
+/cast Divine Favor
+/cast Holy Shock(Rank 7)
+END
+MACRO 16777247 "Focus" INV_Misc_QuestionMark
+#showtooltip Hammer of Justice
+/stopcasting
+/cast [@focus,exists,nodead] Hammer of Justice; Hammer of Justice
+END
+MACRO 16777230 "hop" INV_Misc_QuestionMark
+/cast [@mouseover,exists,help]hand of protection; hand of protection
+END
+MACRO 16777250 "Innervate" INV_Misc_QuestionMark
+/s Innervate Me
+END
+MACRO 16777244 "Mana" INV_Misc_QuestionMark
+/cast Avenging Wrath
+/cast Divine Plea
+/use Talisman of Resurgence
+/use 10
+END
+MACRO 16777245 "Mana 2" INV_Misc_QuestionMark
+/use Meteorite Crystal
+/cast Divine Illumination
+/use 10
+END
+MACRO 16777228 "sac" INV_Misc_QuestionMark
+#showtooltip Hand of Sacrifice
+/cast [@mouseover,help,nodead][exists,nodead][@player,@target]Hand of Sacrifice
+END
+MACRO 16777235 "salva" INV_Misc_QuestionMark
+/cast [@mouseover,exists,help]hand of salvation; hand of salvation
+END
+MACRO 16777248 "Self" INV_Misc_QuestionMark
+/cast [@player] Beacon of Light
+END
+MACRO 16777229 "Stun" INV_Misc_QuestionMark
+#showtooltip Hammer of Justice
+/stopcasting
+/cast Hammer of Justice
+END

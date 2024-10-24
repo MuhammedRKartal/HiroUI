@@ -1,0 +1,14 @@
+
+SmartTrackDB = {
+	["profileKeys"] = {
+		["Mayiascend - Icecrown"] = "Mayiascend - Icecrown",
+	},
+	["char"] = {
+		["Mayiascend - Icecrown"] = {
+			["handle"] = {
+				["DamageBonusOnly"] = true,
+				["EnableInPVP"] = true,
+			},
+		},
+	},
+}

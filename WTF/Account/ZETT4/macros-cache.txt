@@ -1,0 +1,16 @@
+MACRO 3 "Accept" INV_Misc_QuestionMark
+/run AcceptGroup()
+END
+MACRO 2 "Dungeon" INV_Misc_QuestionMark
+/click LFDRoleCheckPopupAcceptButton
+/click LFDDungeonReadyDialogEnterDungeonButton
+/run LFGTeleport(IsInLFGDungeon())
+END
+MACRO 4 "ExitVehicle" INV_Misc_QuestionMark
+/run VehicleExit()
+END
+MACRO 1 "Transmute" INV_Misc_QuestionMark
+/cast Alchemy
+/run local skills = {"Transmute: Cardinal Ruby", "Transmute: King's Amber", "Transmute: Ametrine"} for i=1,GetNumTradeSkills() do if tContains(skills, GetTradeSkillInfo(i)) then DoTradeSkill(i) end end
+/script OpenAllBags()
+END

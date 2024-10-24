@@ -1,0 +1,10 @@
+MACRO 16777218 "Ds" INV_Misc_QuestionMark
+#sohwtooltip Divine Sacrifice
+/use Divine Sacrifice
+/cancelaura Divine Sacrifice
+END
+MACRO 16777217 "s" Ability_Creature_Disease_02
+#showtooltip Divine Shield
+/cast Divine Shield
+/cancelaura Divine Shield
+END

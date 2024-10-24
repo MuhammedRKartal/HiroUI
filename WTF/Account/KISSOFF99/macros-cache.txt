@@ -1,0 +1,30 @@
+MACRO 35 "PUMMEL" INV_Misc_QuestionMark
+#showtooltip Shield Bash
+/cancelaura Bladestorm
+/cast [stance:3] Pummel; [stance:1/2,equipped:shield] Shield Bash
+/stopmacro [stance:3] 
+/equipslot 16 Relentless Gladiator's Longblade
+/equipslot 17 Relentless Gladiator's Shield Wall
+END
+MACRO 33 "s" INV_Misc_QuestionMark
+#Showtooltip Mortal Strike
+/Startattack
+/Cast Mortal Strike
+END
+MACRO 34 "s" INV_Misc_QuestionMark
+#Showtooltip Overpower
+/Startattack
+/Cast Overpower
+END
+MACRO 36 "s" INV_Misc_QuestionMark
+#showtooltip Shield Slam(Rank 8)
+/cast Shield Slam(Rank 8)
+/equipslot 16 Relentless Gladiator's Longblade
+/equipslot 17 Relentless Gladiator's Shield Wall
+END
+MACRO 37 "s" INV_Misc_QuestionMark
+#showtooltip
+/startattack
+/cast Bladestorm
+/startattack
+END

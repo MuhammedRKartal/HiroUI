@@ -1,0 +1,90 @@
+MACRO 16777227 " " INV_Misc_QuestionMark
+#shadowtooltip Death Whis
+/cast Death Wish
+/cast Recklessness
+/cast Blood Fury
+END
+MACRO 16777223 " " INV_Misc_QuestionMark
+#showtooltip Intercept
+/cast Berserker Stance
+/cast Intercept
+/equipslot 16  Glorenzelg, High-Blade of the Silver Hand
+/equipslot 17  Cryptmaker
+END
+MACRO 16777229 "Berserker" INV_Misc_QuestionMark
+#showtooltip Berserker Stance
+/cast Berserker Stance
+/equipslot 16  Glorenzelg, High-Blade of the Silver Hand
+/equipslot 17  Cryptmaker
+/equipslot 18 Shrapnel Star
+END
+MACRO 16777219 "charge" INV_Misc_QuestionMark
+#shadowtooltip charge
+/cast charge
+/cast rend 
+END
+MACRO 16777222 "Cleave" INV_Misc_QuestionMark
+#showtooltip Bloodthirst
+/cast Cleave(Rank 8)
+/cast Bloodthirst
+END
+MACRO 16777221 "Cleave" INV_Misc_QuestionMark
+#showtooltip Whirlwind
+/targetenemy [noexists][dead]
+/startattack
+/cast Whirlwind
+/cast Cleave(Rank 8)
+/cancelaura Hand of Protection
+/cancelaura Power Word: Shield
+/use Aldriana's Gloves of Secrecy
+END
+MACRO 16777224 "disarm" INV_Misc_QuestionMark
+#showtooltip Disarm
+/cast Defensive Stance
+/cast Disarm
+END
+MACRO 16777217 "Heroic" INV_Misc_QuestionMark
+#showtooltip Bloodthirst
+/targetenemy [noexists][dead]
+/startattack
+/cast Bloodthirst
+/cast !Heroic Strike(Rank 13)
+/use Aldriana's Gloves of Secrecy
+/cancelaura Hand of Protection
+/cancelaura Power Word: Shield
+END
+MACRO 16777218 "Heroic" INV_Misc_QuestionMark
+#showtooltip Whirlwind
+/targetenemy [noexists][dead]
+/startattack
+/cast Whirlwind
+/cast !Heroic Strike(Rank 13)
+/cancelaura Hand of Protection
+/cancelaura Power Word: Shield
+END
+MACRO 16777226 "intervene" INV_Misc_QuestionMark
+#showtooltip Intervene
+/cast Defensive Stance
+/cast [@mouseover, help, nodead] Intervene
+END
+MACRO 16777220 "shieldwall" INV_Misc_QuestionMark
+#showtooltip Shield Wall
+/cast Defensive Stance
+/equipslot 16 Bonebreaker Scepter
+/equipslot 17  Neverending Winter
+/cast Shield Wall
+END
+MACRO 16777225 "slam" INV_Misc_QuestionMark
+#showtooltip Slam
+/targetenemy [noexists][dead]
+/cast !Slam
+/use Aldriana's Gloves of Secrecy
+END
+MACRO 16777228 "sunder" INV_Misc_QuestionMark
+#showtooltip Sunder Armor
+/startattack
+/cast Sunder Armor
+/cast !Heroic Strike
+/cancelaura Hand of Protection
+/cancelaura Power Word: Shield
+END

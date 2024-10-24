@@ -1,0 +1,15 @@
+MACRO 16777219 "Chain Heal" INV_Misc_QuestionMark
+/cast [@mouseover,help,nodead][] Chain Heal(Rank 7)
+END
+MACRO 16777220 "Earth Shield" INV_Misc_QuestionMark
+/cast [@mouseover,help,nodead][] Earth Shield(Rank 5)
+END
+MACRO 16777217 "Heal 1" INV_Misc_QuestionMark
+/cast [@mouseover,help,nodead][] Healing Wave
+END
+MACRO 16777218 "KÜÇÜK" INV_Misc_QuestionMark
+/cast [@mouseover,help,nodead][] Lesser Healing Wave(Rank 9)
+END
+MACRO 16777221 "Riptide" INV_Misc_QuestionMark
+/cast [@mouseover,help,nodead][] Riptide(Rank 4)
+END

@@ -1,0 +1,35 @@
+
+SkadaStorageDB = {
+	["sets"] = {
+	},
+	["version"] = 1878,
+	["total"] = {
+		["starttime"] = 1674818498,
+		["mana"] = 15828,
+		["overkill"] = 487932,
+		["players"] = {
+			{
+				["overheal"] = 118094,
+				["last"] = 675414.041,
+				["mana"] = 15828,
+				["id"] = "0x07000000000B63E0",
+				["class"] = "PRIEST",
+				["totaldamage"] = 488349,
+				["overkill"] = 487932,
+				["flag"] = 1297,
+				["role"] = "DAMAGER",
+				["time"] = 56.55,
+				["heal"] = 0,
+				["name"] = "Plaacebo",
+				["spec"] = 258,
+				["damage"] = 488349,
+			}, -- [1]
+		},
+		["heal"] = 0,
+		["name"] = "Total",
+		["totaldamage"] = 488349,
+		["time"] = 0,
+		["overheal"] = 118094,
+		["damage"] = 488349,
+	},
+}

@@ -1,0 +1,12 @@
+
+CliqueDB = {
+	["char"] = {
+	},
+	["profileKeys"] = {
+		["Hirowata - Icecrown"] = "Hirowata - Icecrown",
+	},
+	["profiles"] = {
+		["Hirowata - Icecrown"] = {
+		},
+	},
+}

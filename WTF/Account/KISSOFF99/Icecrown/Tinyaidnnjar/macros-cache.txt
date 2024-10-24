@@ -1,0 +1,56 @@
+MACRO 16777225 "<" INV_Misc_QuestionMark
+/cast [@mouseover] Flash of Light
+END
+MACRO 16777223 "<" INV_Misc_QuestionMark
+/cast [@mouseover] Hand of Freedom
+END
+MACRO 16777226 "<" INV_Misc_QuestionMark
+/cast [@mouseover] Holy Light
+END
+MACRO 16777219 "HoP" INV_Misc_QuestionMark
+/cast [@mouseover] Hand of Protection
+END
+MACRO 16777221 "HoS" INV_Misc_QuestionMark
+/cast [@mouseover] Hand of Sacrifice
+END
+MACRO 16777239 "judgement" INV_Misc_QuestionMark
+/cast [@mouseover] Lay on Hands
+END
+MACRO 16777220 "Salvo" INV_Misc_QuestionMark
+/cast [@mouseover] Hand of Salvation
+END
+MACRO 16777229 "x" INV_Misc_QuestionMark
+/cancelaura Divine Plea
+/cast Divine Plea
+END
+MACRO 16777228 "x" INV_Misc_QuestionMark
+/cast [@mouseover] Cleanse
+END
+MACRO 16777231 "x" INV_Misc_QuestionMark
+/cast [@mouseover] Beacon of Light
+END
+MACRO 16777230 "x" INV_Misc_QuestionMark
+/cast [@mouseover] Sacred Shield
+END
+MACRO 16777224 "x" INV_Misc_QuestionMark
+/cast Divine Shield
+/cancelaura Divine Shield
+END
+MACRO 16777235 "xd" INV_Misc_QuestionMark
+/cast [@party1] Hand of Freedom
+END
+MACRO 16777237 "xs" INV_Misc_QuestionMark
+/cast [@party1] Cleanse
+END
+MACRO 16777236 "xs" INV_Misc_QuestionMark
+/cast [@party1] Sacred Shield
+END
+MACRO 16777238 "xsxs" INV_Misc_QuestionMark
+/cast [@party1] Flash of Light
+END
+MACRO 16777227 "z" INV_Misc_QuestionMark
+/cast [@mouseover] Holy Shock
+END
+MACRO 16777232 "z" INV_Misc_QuestionMark
+/cast [@Tinyaidnnjar] Sacred Shield
+END

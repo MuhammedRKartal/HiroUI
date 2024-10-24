@@ -1,0 +1,38 @@
+MACRO 16777221 "Hamstring" INV_Misc_QuestionMark
+/startattack
+/cast Hamstring
+END
+MACRO 16777217 "Mortal" INV_Misc_QuestionMark
+/startattack
+/cast Mortal Strike
+/autoattack
+END
+MACRO 16777218 "Mount" INV_Misc_QuestionMark
+/use Cenarion War Hippogryph
+/cancelaura Agility of the Vrykul
+/cancelaura Strength of the Vrykul
+/cancelaura Speed of the Vrykul
+/cancelaura Aim of the Iron Dwarves
+/cancelaura Precision of the Iron Dwarves
+/cancelaura Strength of the Taunka
+END
+MACRO 16777219 "Mount2" INV_Misc_QuestionMark
+/use Swift Horde Wolf
+/cancelaura Agility of the Vrykul
+/cancelaura Strength of the Vrykul
+/cancelaura Speed of the Vrykul
+/cancelaura Aim of the Iron Dwarves
+/cancelaura Precision of the Iron Dwarves
+/cancelaura Strength of the Taunka
+END
+MACRO 16777220 "Rend" INV_Misc_QuestionMark
+END
+MACRO 16777222 "Trinket" INV_Misc_QuestionMark
+/use Sindragosa's Flawless Fang
+/cast Shield Block
+END
+MACRO 16777223 "W.CD" Ability_Warrior_Rampage
+/cast Bloodrage
+/cast Death Wish
+/cast Recklessness
+END

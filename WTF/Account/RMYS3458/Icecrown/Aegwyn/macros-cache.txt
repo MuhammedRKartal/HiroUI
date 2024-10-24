@@ -1,0 +1,57 @@
+MACRO 16777228 "Armor" INV_Misc_QuestionMark
+#showtooltip
+/castsequence Mage Armor, Ice Armor
+END
+MACRO 16777229 "Assist" INV_Misc_QuestionMark
+/assist Elziash
+/cast Ice Lance
+END
+MACRO 16777217 "Blast" INV_Misc_QuestionMark
+#showtooltip Arcane Blast
+/cast [nochanneling : Arcane Missiles] Arcane Blast(Rank 4) 
+END
+MACRO 16777219 "fireball" INV_Misc_QuestionMark
+/cast Berserking(Racial)
+/cast Mirror Image
+/cast Combustion
+/cast Fireball
+END
+MACRO 16777224 "Focus" INV_Misc_QuestionMark
+/cast [@focus, exists, nodead] [] Counterspell
+END
+MACRO 16777226 "Freeze" INV_Misc_QuestionMark
+#showtooltip
+/cast [@pet,dead][nopet]Summon Water Elemental;Freeze
+END
+MACRO 16777227 "Frostbolt" INV_Misc_QuestionMark
+/cast Frostbolt(Rank 1)
+/petattack
+END
+MACRO 16777221 "Ice" INV_Misc_QuestionMark
+/cast Ice Block
+/cancelaura Ice Block
+END
+MACRO 16777222 "Inferno" INV_Misc_QuestionMark
+/target Living Inferno
+/cast Living Bomb
+END
+MACRO 16777218 "Missile" INV_Misc_QuestionMark
+#showtooltip Arcane Missiles
+/cast [nochanneling:Arcane Missiles] Arcane Missiles(Rank 13)
+END
+MACRO 16777223 "PI" Spell_Holy_PowerInfusion
+/w Blanna Power Infusion
+END
+MACRO 16777230 "Rank 8" INV_Misc_QuestionMark
+/cast Flamestrike(Rank 8)
+END
+MACRO 16777231 "Salvation" Spell_Holy_GreaterBlessingofSalvation
+Salvation Me Please!
+END
+MACRO 16777225 "Sheep" INV_Misc_QuestionMark
+/cast [@focus, exists, nodead] [] Polymorph
+END
+MACRO 16777220 "Wicked" INV_Misc_QuestionMark
+/target Wicked Spirit
+/cast Fire Blast
+END

@@ -1,0 +1,14 @@
+
+BankStackDB = {
+	["namespaces"] = {
+		["LDB"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Mayiascend - Icecrown"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

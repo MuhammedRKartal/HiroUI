@@ -1,0 +1,216 @@
+MACRO 49 "Bash" INV_Misc_QuestionMark
+#showtooltip Shield Bash
+/equipslot 16 Frost Giant's Cleaver
+/equipslot 17 Wrathful Gladiator's Shield Wall
+/cast  [@focus] Shield Bash
+END
+MACRO 48 "BAsh" INV_Misc_QuestionMark
+#showtooltip Intercept
+/cast Berserker Stance
+/cancelaura Hand of Protection
+/startattack
+/cast auto attack [harm]
+/use [@mouseover] Intercept
+/cast hamstring
+  
+END
+MACRO 42 "Berserker Stance" INV_Misc_QuestionMark
+#showtooltip Berserker Stance
+/cast Berserker Stance
+/equipslot 16  Shadowmourne
+/equipslot 17  Glorenzelg, High-Blade of the Silver Hand
+/equipslot 18 Fal'inrush, Defender of Quel'thalas
+END
+MACRO 52 "Blade Storm" INV_Misc_QuestionMark
+#showtooltip Bladestorm
+/stopcasting
+/cancelaura Bladestorm
+/cast Bladestorm
+END
+MACRO 37 "Bladestorm" INV_Misc_QuestionMark
+/cast Bladestorm
+/cast Blood Fury
+END
+MACRO 23 "CD" INV_Misc_QuestionMark
+/cast Death Wish
+/cast Bloodrage
+/cast Blood Fury
+END
+MACRO 31 "Charge" INV_Misc_QuestionMark
+#showtooltip Charge
+/equipslot 16 Shadowmourne
+/cast Battle Stance
+/cast Charge
+/cancelaura Chaos Bane
+/cancelaurra BladeStorm
+END
+MACRO 18 "Cleave" INV_Misc_QuestionMark
+#showtooltip Bloodthirst
+/targetenemy [noexists][dead]
+/startattack
+/cast Bloodthirst
+/cast Cleave
+/use Aldriana's Gloves of Secrecy
+/cancelaura Hand of Protection
+/cancelaura Power Word: Shield
+END
+MACRO 39 "Cleave Clap" INV_Misc_QuestionMark
+/cast Battle Stance
+/cast Thunder Clap
+END
+MACRO 40 "Devastate" INV_Misc_QuestionMark
+/cast Devastate
+/cast Heroic Strike
+END
+MACRO 28 "Disarm" INV_Misc_QuestionMark
+#showtooltip Disarm
+/cast Defensive Stance
+/cast Disarm
+END
+MACRO 26 "Execute" INV_Misc_QuestionMark
+#showtooltip
+/cast Execute(Rank 9)
+/cast Heroic Strike(Rank 13)
+/cancelaura Hand of Protection
+/cancelaura Power Word: Shield
+END
+MACRO 30 "Fix" Ability_Creature_Disease_04
+/run local f = CreateFrame("frame",nil, UIParent); f:SetScript("OnUpdate", CombatLogClearEntries);
+END
+MACRO 50 "Focus" INV_Misc_QuestionMark
+/focus
+END
+MACRO 41 "Follow" INV_Misc_QuestionMark
+/follow Oboxa
+END
+MACRO 19 "Heroic" INV_Misc_QuestionMark
+#showtooltip Bloodthirst
+/targetenemy [noexists][dead]
+/startattack
+/cast Bloodthirst
+/cast Heroic Strike(Rank 13)
+/use Aldriana's Gloves of Secrecy
+END
+MACRO 25 "Intercept" INV_Misc_QuestionMark
+#showtooltip Intercept
+/cast Berserker Stance
+/cancelaura Bladestorm
+/startattack
+/cast auto attack [harm]
+/cast Intercept
+/cast hamstring
+END
+MACRO 34 "Intercept" INV_Misc_QuestionMark
+/cast Heroic Throw
+/cast Intercept
+END
+MACRO 55 "intercept" INV_Misc_QuestionMark
+#showtooltip
+/cast  [@focus] Intercept
+END
+MACRO 36 "Intervene" INV_Misc_QuestionMark
+#showtooltip Intervene
+/equipslot 16 The Facelifter
+/equipslot 17 Wrathful Gladiator's Shield Wall
+/cast [@target,help] Intervene;
+/stopmacro [help]
+/targetfr
+/cast Intervene
+/targetlasttarget
+END
+MACRO 32 "Mortal" INV_Misc_QuestionMark
+/startattack
+/cast !Mortal Strike
+END
+MACRO 33 "Overpower" INV_Misc_QuestionMark
+/startattack
+/cast !Overpower
+END
+MACRO 47 "Pummel" INV_Misc_QuestionMark
+/cast Berserker Stance
+/cast Pummel
+END
+MACRO 56 "Pummel" INV_Misc_QuestionMark
+/cast [target=focus] /cast Berserker Stance
+/cast Pummel
+ 
+END
+MACRO 45 "Retaliton" INV_Misc_QuestionMark
+/cass battle stance
+/cast Retaliation
+END
+MACRO 54 "Revenge" INV_Misc_QuestionMark
+/cast !Revenge
+/cast Heroic Strike
+END
+MACRO 43 "Shattered" INV_Misc_QuestionMark
+#showtooltip Shattering Throw
+/cast Battle Stance
+/cast Shattering Throw
+END
+MACRO 38 "Shield Slam" INV_Misc_QuestionMark
+#showtooltip Shield Slam
+/equipslot 16 Shadowmourne 
+/equipslot 17 Wrathful Gladiator's Shield Wall
+/cast Shield Slam
+END
+MACRO 29 "Shield Wall" INV_Misc_QuestionMark
+#showtooltip Shield Wall
+/equipslot 16 Frost Giant's Cleaver
+/equipslot 17 Wrathful Gladiator's Shield Wall
+/cast Defensive Stance
+/cast Shield Wall
+/cast Shield Block
+END
+MACRO 51 "Spell" INV_Misc_QuestionMark
+#showtooltip Spell reflection
+/cast Defensive Stance
+/equipslot 16 Troggbane, Axe of the Frostborne King
+/equipslot 17 Wrathful Gladiator's Shield Wall
+/cast Spell Reflection
+END
+MACRO 46 "Spell Reflect" INV_Misc_QuestionMark
+#showtooltip Spell reflection
+/equipslot 16 Frost Giant's Cleaver
+/equipslot 17 Wrathful Gladiator's Shield Wall
+/cast Spell Reflection
+END
+MACRO 24 "Sunder" INV_Misc_QuestionMark
+#showtooltip Sunder Armor
+/startattack
+/cast Sunder Armor
+/cast Heroic Strike
+/cancelaura Hand of Protection
+/cancelaura Power Word: Shield
+END
+MACRO 53 "Whirlwind" INV_Misc_QuestionMark
+#showtooltip Berserker Stance
+/cast Berserker Stance
+/cast Whirlwind
+END
+MACRO 21 "Whirlwind" INV_Misc_QuestionMark
+#showtooltip Whirlwind
+/targetenemy [noexists][dead]
+/startattack
+/cast !Whirlwind
+/cast Heroic Strike(Rank 13)
+/cancelaura Hand of Protection
+/cancelaura Power Word: Shield
+/use Aldriana's Gloves of Secrecy
+END
+MACRO 20 "Wwcleave" INV_Misc_QuestionMark
+#showtooltip Whirlwind
+/targetenemy [noexists][dead]
+/startattack
+/cast !Whirlwind
+/cast Cleave(Rank 8)
+/cancelaura Hand of Protection
+/cancelaura Power Word: Shield
+END
+MACRO 44 "İNTERVANE" INV_Misc_QuestionMark
+#showtooltip Intervene
+/equipslot 16 Troggbane, Axe of the Frostborne King
+/equipslot 17 Wrathful Gladiator's Shield Wall
+/cast Defensive Stance
+/cast /cast [@party1] intervene
+END

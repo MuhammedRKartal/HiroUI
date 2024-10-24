@@ -1,0 +1,40 @@
+MACRO 16777226 "Assst" INV_Misc_QuestionMark
+/assist Mayiascend
+/cast Devouring Plague
+END
+MACRO 16777223 "Desperate " INV_Misc_QuestionMark
+/use !Talisman of Resurgence
+/use Binding Light
+/cast [@mouseover] Desperate Prayer(Rank 9)
+END
+MACRO 16777225 "dispel" INV_Misc_QuestionMark
+/cast [@mouseover] Dispel Magic(Rank 2)
+END
+MACRO 16777222 "Penance" INV_Misc_QuestionMark
+#showtooltip
+/cast [@mouseover] Penance(Rank 4) 
+END
+MACRO 16777218 "PI" INV_Misc_QuestionMark
+#showtooltip
+/cast [@mouseover] Power Infusion 
+END
+MACRO 16777219 "Prayer" INV_Misc_QuestionMark
+#showtooltip
+/use [@mouseover] Prayer of Healing(Rank 7)
+END
+MACRO 16777217 "PS" INV_Misc_QuestionMark
+#showtooltip
+/cast [@mouseover] Pain Suppression 
+END
+MACRO 16777221 "Renew" INV_Misc_QuestionMark
+#showtooltip
+/use [@mouseover] Renew
+END
+MACRO 16777220 "Shield" INV_Misc_QuestionMark
+#showtooltip
+/use [@mouseover] Power Word: Shield
+END
+MACRO 16777224 "ss" INV_Misc_QuestionMark
+#showtooltip
+/use [@mouseover] 
+END

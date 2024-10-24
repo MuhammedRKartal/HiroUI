@@ -1,0 +1,60 @@
+MACRO 18 " ChargeCA" INV_Misc_QuestionMark
+#showtooltip Charge
+/equipslot 16 Shadowmourne
+/cast Battle Stance
+/cast Charge(Rank 3)
+/cancelaura Chaos Bane
+/cancelaura Hand of Protection
+/cancelaura Bladestorm
+/startattack [Harm]
+/cast Hamstring
+/cast Battle Stance 
+END
+MACRO 5 " Focus Intercept" INV_Misc_QuestionMark
+/cast Berserker Stance
+/cancelaura Hand of Protection
+/cast [@focus] Intercept
+END
+MACRO 44 " Pummel" INV_Misc_QuestionMark
+#showtooltip Pummel
+/cast Berserker Stance
+/use Pummel
+/cancelaura BladeStorm
+END
+MACRO 69 "1Tem" INV_Misc_QuestionMark
+/1 LFM |cffffff00|Hachievement:696:0700000000726223:1:10:15:24:0:0:0:0|h[Tempest Keep]|h|r  |cffa335ee|Hitem:32458:0:0:0:0:0:0:0:80|h[Ashes of Al'ar]|h|r Run Need All (Warrior Shoulder Token Reserved)
+END
+MACRO 68 "2Tem" INV_Misc_QuestionMark
+/2 LFM |cffffff00|Hachievement:696:0700000000726223:1:10:15:24:0:0:0:0|h[Tempest Keep]|h|r  |cffa335ee|Hitem:32458:0:0:0:0:0:0:0:80|h[Ashes of Al'ar]|h|r Run Need All (Warrior Shoulder Token Reserved)
+END
+MACRO 67 "Accept" INV_Misc_QuestionMark
+/run AcceptGroup()
+END
+MACRO 62 "Alchemy" INV_Misc_QuestionMark
+/cast Alchemy
+/run local skills = {"Transmute: Cardinal Ruby", "Transmute: King's Amber", "Transmute: Ametrine"} for i=1,GetNumTradeSkills() do if tContains(skills, GetTradeSkillInfo(i)) then DoTradeSkill(i) end end
+/script OpenAllBags()
+END
+MACRO 33 "Focus" INV_Misc_QuestionMark
+/cast [@focus] Intimidating Shout
+END
+MACRO 49 "InsertItem" Spell_Nature_Swiftness
+/script MacroFrameText:Insert("")
+END
+MACRO 39 "Intimidating" INV_Misc_QuestionMark
+/cast Intimidating shout
+/cancelaura sweeping strikes
+END
+MACRO 59 "JC" INV_Misc_QuestionMark
+#show Jewelcrafting
+/cast Jewelcrafting
+/run for i=1,GetNumTradeSkills() do if GetTradeSkillInfo(i)=="Icy Prism" then CloseTradeSkill() DoTradeSkill(i) break end end
+/use Icy Prism
+/script OpenAllBags();
+END
+MACRO 70 "SSC" INV_Misc_QuestionMark
+/2 LFM |cffffff00|Hachievement:694:0700000000726223:1:3:23:22:0:0:0:0|h[Serpentshrine Cavern]|h|r TMOG RUN NEED ALL, (|cffa335ee|Hitem:30090:0:0:0:0:0:0:0:80|h[World Breaker]|h|r Reserved)
+END
+MACRO 71 "SSC1" INV_Misc_QuestionMark
+/1 LFM |cffffff00|Hachievement:694:0700000000726223:1:3:23:22:0:0:0:0|h[Serpentshrine Cavern]|h|r TMOG RUN NEED ALL, (  |cffa335ee|Hitem:30090:0:0:0:0:0:0:0:80|h[World Breaker]|h|r Reserved)
+END

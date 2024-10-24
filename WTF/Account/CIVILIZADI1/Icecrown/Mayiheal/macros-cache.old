@@ -1,0 +1,21 @@
+MACRO 16777217 " " INV_Misc_QuestionMark
+#showltooltip Heroism
+/stopcasting
+/cast Heroism
+END
+MACRO 16777218 " " INV_Misc_QuestionMark
+#showtooltip Earth Shield
+/cast [@focus] Earth Shield
+END
+MACRO 16777220 "22" INV_Misc_QuestionMark
+/cast [@mouseover] Riptide(Rank 4)
+END
+MACRO 16777221 "222" INV_Misc_QuestionMark
+/cast [@mouseover] Chain Heal(Rank 7)
+END
+MACRO 16777219 "Pull" Ability_BullRush
+/dbm pull 15
+END
+MACRO 16777222 "Purge" INV_Misc_QuestionMark
+/cast [@mouseover] Purge
+END

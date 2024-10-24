@@ -1,0 +1,1051 @@
+
+SkadaStorageDB = {
+	["sets"] = {
+		{
+			["mana"] = 27849,
+			["enemies"] = {
+				{
+					["id"] = "0xF1300079A8001D32",
+					["name"] = "Grandmaster's Training Dummy",
+					["totaldamagetaken"] = 501399,
+					["flag"] = 68136,
+					["class"] = "MONSTER",
+					["damagetaken"] = 501399,
+					["damagetakenspells"] = {
+						[47864] = {
+							["school"] = 32,
+							["sources"] = {
+								["Elziash"] = {
+									["overkill"] = 31127,
+									["amount"] = 31220,
+								},
+							},
+							["overkill"] = 31127,
+							["amount"] = 31220,
+						},
+						[59164] = {
+							["school"] = 32,
+							["sources"] = {
+								["Elziash"] = {
+									["overkill"] = 25189,
+									["amount"] = 25201,
+								},
+							},
+							["overkill"] = 25189,
+							["amount"] = 25201,
+						},
+						[47843] = {
+							["school"] = 32,
+							["sources"] = {
+								["Elziash"] = {
+									["overkill"] = 60151,
+									["amount"] = 60208,
+								},
+							},
+							["overkill"] = 60151,
+							["amount"] = 60208,
+						},
+						[6603] = {
+							["school"] = 1,
+							["sources"] = {
+								["Elziash"] = {
+									["overkill"] = 13268,
+									["amount"] = 13364,
+								},
+							},
+							["overkill"] = 13268,
+							["amount"] = 13364,
+						},
+						[47809] = {
+							["school"] = 32,
+							["sources"] = {
+								["Elziash"] = {
+									["overkill"] = 184858,
+									["amount"] = 184936,
+								},
+							},
+							["overkill"] = 184858,
+							["amount"] = 184936,
+						},
+						[47813] = {
+							["school"] = 32,
+							["sources"] = {
+								["Elziash"] = {
+									["overkill"] = 146207,
+									["amount"] = 146300,
+								},
+							},
+							["overkill"] = 146207,
+							["amount"] = 146300,
+						},
+						[54053] = {
+							["school"] = 32,
+							["sources"] = {
+								["Elziash"] = {
+									["overkill"] = 40071,
+									["amount"] = 40170,
+								},
+							},
+							["overkill"] = 40071,
+							["amount"] = 40170,
+						},
+					},
+				}, -- [1]
+			},
+			["totaldamage"] = 501399,
+			["time"] = 71,
+			["etotaldamagetaken"] = 501399,
+			["last_time"] = 104127.051,
+			["players"] = {
+				{
+					["ccdonespells"] = {
+						[24259] = {
+							["count"] = 2,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = 2,
+							},
+						},
+					},
+					["last"] = 104126.452,
+					["flag"] = 4369,
+					["mana"] = 27849,
+					["auras"] = {
+						[59164] = {
+							["type"] = "DEBUFF",
+							["count"] = 3,
+							["school"] = 32,
+							["refresh"] = 1,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["count"] = 3,
+									["refresh"] = 1,
+									["uptime"] = 47,
+								},
+							},
+							["uptime"] = 47,
+						},
+						[63321] = {
+							["type"] = "BUFF",
+							["count"] = 2,
+							["school"] = 4,
+							["uptime"] = 68,
+						},
+						[32391] = {
+							["type"] = "DEBUFF",
+							["count"] = 1,
+							["school"] = 32,
+							["refresh"] = 28,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["count"] = 1,
+									["refresh"] = 28,
+									["uptime"] = 70,
+								},
+							},
+							["uptime"] = 70,
+						},
+						[71572] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 1,
+							["refresh"] = 99,
+							["uptime"] = 70,
+						},
+						[47893] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 71,
+						},
+						[57567] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 71,
+						},
+						[24259] = {
+							["type"] = "DEBUFF",
+							["count"] = 2,
+							["school"] = 32,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["uptime"] = 5,
+									["count"] = 2,
+								},
+							},
+							["uptime"] = 5,
+						},
+						[70840] = {
+							["type"] = "BUFF",
+							["count"] = 4,
+							["school"] = 32,
+							["uptime"] = 20,
+						},
+						[47864] = {
+							["type"] = "DEBUFF",
+							["count"] = 3,
+							["school"] = 32,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["uptime"] = 64,
+									["count"] = 3,
+								},
+							},
+							["uptime"] = 64,
+						},
+						[72416] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 64,
+							["uptime"] = 10,
+						},
+						[47843] = {
+							["type"] = "DEBUFF",
+							["count"] = 3,
+							["school"] = 32,
+							["refresh"] = 1,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["count"] = 3,
+									["refresh"] = 1,
+									["uptime"] = 60,
+								},
+							},
+							["uptime"] = 60,
+						},
+						[47813] = {
+							["type"] = "DEBUFF",
+							["count"] = 1,
+							["school"] = 32,
+							["refresh"] = 29,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["count"] = 1,
+									["refresh"] = 29,
+									["uptime"] = 69,
+								},
+							},
+							["uptime"] = 69,
+						},
+						[17800] = {
+							["type"] = "DEBUFF",
+							["count"] = 4,
+							["school"] = 32,
+							["refresh"] = 21,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["count"] = 4,
+									["refresh"] = 21,
+									["uptime"] = 65,
+								},
+							},
+							["uptime"] = 65,
+						},
+						[64371] = {
+							["type"] = "BUFF",
+							["count"] = 2,
+							["school"] = 32,
+							["uptime"] = 20,
+						},
+						[75473] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 1,
+							["uptime"] = 15,
+						},
+						[17941] = {
+							["type"] = "BUFF",
+							["count"] = 2,
+							["school"] = 32,
+							["uptime"] = 4,
+						},
+						[55637] = {
+							["type"] = "BUFF",
+							["count"] = 2,
+							["school"] = 2,
+							["uptime"] = 21,
+						},
+					},
+					["time"] = 70.59000000000003,
+					["damage"] = 501399,
+					["damagespells"] = {
+						["Corruption (DoT)"] = {
+							["casts"] = 2,
+							["hitmin"] = 2661,
+							["criticalamount"] = 103494,
+							["id"] = 47813,
+							["hitmax"] = 3512,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["overkill"] = 146207,
+									["amount"] = 146300,
+								},
+							},
+							["overkill"] = 146207,
+							["count"] = 31,
+							["criticalmax"] = 7340,
+							["critical"] = 17,
+							["amount"] = 146300,
+							["school"] = 32,
+							["hit"] = 14,
+							["criticalmin"] = 5056,
+							["hitamount"] = 42806,
+						},
+						["Shadow Bite (Fzuunam)"] = {
+							["criticalmin"] = 1718,
+							["hitmin"] = 756,
+							["criticalamount"] = 4032,
+							["id"] = 54053,
+							["criticalmax"] = 2314,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["overkill"] = 40071,
+									["amount"] = 40170,
+								},
+							},
+							["overkill"] = 40071,
+							["critical"] = 2,
+							["casts"] = 1,
+							["count"] = 33,
+							["hit"] = 31,
+							["school"] = 32,
+							["hitmax"] = 1338,
+							["amount"] = 40170,
+							["hitamount"] = 36138,
+						},
+						["Melee (Fzuunam)"] = {
+							["hitmin"] = 365,
+							["id"] = 6603,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["overkill"] = 13268,
+									["amount"] = 13364,
+								},
+							},
+							["overkill"] = 13268,
+							["count"] = 32,
+							["hit"] = 32,
+							["school"] = 1,
+							["hitmax"] = 468,
+							["amount"] = 13364,
+							["hitamount"] = 13364,
+						},
+						["Haunt"] = {
+							["criticalmin"] = 6995,
+							["hitmin"] = 3288,
+							["criticalamount"] = 21913,
+							["id"] = 59164,
+							["criticalmax"] = 7813,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["overkill"] = 25189,
+									["amount"] = 25201,
+								},
+							},
+							["overkill"] = 25189,
+							["critical"] = 3,
+							["casts"] = 4,
+							["count"] = 4,
+							["hit"] = 1,
+							["school"] = 32,
+							["hitmax"] = 3288,
+							["amount"] = 25201,
+							["hitamount"] = 3288,
+						},
+						["Curse of Agony (DoT)"] = {
+							["hitmin"] = 776,
+							["id"] = 47864,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["overkill"] = 31127,
+									["amount"] = 31220,
+								},
+							},
+							["overkill"] = 31127,
+							["casts"] = 3,
+							["count"] = 31,
+							["hit"] = 31,
+							["school"] = 32,
+							["hitmax"] = 1304,
+							["amount"] = 31220,
+							["hitamount"] = 31220,
+						},
+						["Unstable Affliction (DoT)"] = {
+							["casts"] = 4,
+							["hitmin"] = 2057,
+							["criticalamount"] = 32717,
+							["id"] = 47843,
+							["hitmax"] = 2726,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["overkill"] = 60151,
+									["amount"] = 60208,
+								},
+							},
+							["overkill"] = 60151,
+							["count"] = 19,
+							["criticalmax"] = 5697,
+							["critical"] = 7,
+							["amount"] = 60208,
+							["school"] = 32,
+							["hit"] = 12,
+							["criticalmin"] = 4300,
+							["hitamount"] = 27491,
+						},
+						["Shadow Bolt"] = {
+							["criticalmin"] = 11863,
+							["hitmin"] = 5479,
+							["criticalamount"] = 51260,
+							["id"] = 47809,
+							["criticalmax"] = 13173,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["overkill"] = 184858,
+									["amount"] = 184936,
+								},
+							},
+							["overkill"] = 184858,
+							["critical"] = 4,
+							["casts"] = 28,
+							["count"] = 26,
+							["hit"] = 22,
+							["school"] = 32,
+							["hitmax"] = 6691,
+							["amount"] = 184936,
+							["hitamount"] = 133676,
+						},
+					},
+					["id"] = "0x070000000054111F",
+					["spec"] = 265,
+					["healspells"] = {
+						[47893] = {
+							["overheal"] = 5124,
+							["targets"] = {
+								["Elziash"] = {
+									["overheal"] = 5124,
+									["amount"] = 854,
+								},
+							},
+							["count"] = 14,
+							["amount"] = 854,
+							["school"] = 32,
+							["max"] = 427,
+							["ishot"] = true,
+							["min"] = 427,
+						},
+						[63106] = {
+							["overheal"] = 50080,
+							["count"] = 31,
+							["amount"] = 8428,
+							["school"] = 32,
+							["max"] = 2453,
+							["targets"] = {
+								["Elziash"] = {
+									["overheal"] = 50080,
+									["amount"] = 8428,
+								},
+							},
+							["min"] = 1685,
+						},
+					},
+					["overkill"] = 500871,
+					["overheal"] = 55204,
+					["heal"] = 9282,
+					["name"] = "Elziash",
+					["ccdone"] = 2,
+					["totaldamage"] = 501399,
+					["class"] = "WARLOCK",
+					["manaspells"] = {
+						[54425] = 24024,
+						[31818] = 3825,
+					},
+					["role"] = "DAMAGER",
+				}, -- [1]
+			},
+			["type"] = "none",
+			["damage"] = 501399,
+			["ccdone"] = 2,
+			["overheal"] = 55204,
+			["overkill"] = 500871,
+			["edamagetaken"] = 501399,
+			["heal"] = 9282,
+			["name"] = "Grandmaster's Training Dummy (2)",
+			["mobname"] = "Grandmaster's Training Dummy",
+			["starttime"] = 1668284511,
+			["last_action"] = 1668284582,
+			["endtime"] = 1668284582,
+		}, -- [1]
+		{
+			["mana"] = 45011,
+			["enemies"] = {
+				{
+					["id"] = "0xF1300079A8001D32",
+					["name"] = "Grandmaster's Training Dummy",
+					["totaldamagetaken"] = 1403064,
+					["flag"] = 68136,
+					["class"] = "MONSTER",
+					["damagetaken"] = 1403064,
+					["damagetakenspells"] = {
+						[47867] = {
+							["school"] = 32,
+							["sources"] = {
+								["Elziash"] = {
+									["overkill"] = 38234,
+									["amount"] = 38240,
+								},
+							},
+							["overkill"] = 38234,
+							["amount"] = 38240,
+						},
+						[47838] = {
+							["school"] = 4,
+							["sources"] = {
+								["Elziash"] = {
+									["overkill"] = 166151,
+									["amount"] = 166199,
+								},
+							},
+							["overkill"] = 166151,
+							["amount"] = 166199,
+						},
+						[47994] = {
+							["school"] = 1,
+							["sources"] = {
+								["Elziash"] = {
+									["overkill"] = 48637,
+									["amount"] = 48733,
+								},
+							},
+							["overkill"] = 48637,
+							["amount"] = 48733,
+						},
+						[47809] = {
+							["school"] = 32,
+							["sources"] = {
+								["Elziash"] = {
+									["overkill"] = 716130,
+									["amount"] = 716331,
+								},
+							},
+							["overkill"] = 716130,
+							["amount"] = 716331,
+						},
+						[6603] = {
+							["school"] = 1,
+							["sources"] = {
+								["Elziash"] = {
+									["overkill"] = 135454,
+									["amount"] = 135748,
+								},
+							},
+							["overkill"] = 135454,
+							["amount"] = 135748,
+						},
+						[47811] = {
+							["school"] = 4,
+							["sources"] = {
+								["Elziash"] = {
+									["overkill"] = 173408,
+									["amount"] = 173618,
+								},
+							},
+							["overkill"] = 173408,
+							["amount"] = 173618,
+						},
+						[47995] = {
+							["school"] = 1,
+							["sources"] = {
+								["Jhuuthun"] = {
+									["overkill"] = 321,
+									["amount"] = 324,
+								},
+							},
+							["overkill"] = 321,
+							["amount"] = 324,
+						},
+						[47813] = {
+							["school"] = 32,
+							["sources"] = {
+								["Elziash"] = {
+									["overkill"] = 123625,
+									["amount"] = 123871,
+								},
+							},
+							["overkill"] = 123625,
+							["amount"] = 123871,
+						},
+					},
+				}, -- [1]
+			},
+			["totaldamage"] = 1403064,
+			["time"] = 198,
+			["etotaldamagetaken"] = 1403064,
+			["last_time"] = 103904.377,
+			["players"] = {
+				{
+					["ccdonespells"] = {
+						[47995] = {
+							["count"] = 1,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = 1,
+							},
+						},
+					},
+					["last"] = 103903.621,
+					["flag"] = 1297,
+					["class"] = "WARLOCK",
+					["auras"] = {
+						[72416] = {
+							["type"] = "BUFF",
+							["count"] = 3,
+							["school"] = 64,
+							["uptime"] = 29,
+						},
+						[63321] = {
+							["type"] = "BUFF",
+							["count"] = 3,
+							["refresh"] = 8,
+							["school"] = 4,
+							["uptime"] = 190,
+						},
+						[63167] = {
+							["type"] = "BUFF",
+							["count"] = 2,
+							["school"] = 1,
+							["refresh"] = 81,
+							["uptime"] = 193,
+						},
+						[32851] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 1,
+							["refresh"] = 124,
+							["uptime"] = 197,
+						},
+						[55637] = {
+							["type"] = "BUFF",
+							["count"] = 4,
+							["school"] = 2,
+							["uptime"] = 50,
+						},
+						[35706] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 198,
+						},
+						[71165] = {
+							["type"] = "BUFF",
+							["count"] = 5,
+							["school"] = 1,
+							["uptime"] = 31,
+						},
+						[71572] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 1,
+							["refresh"] = 230,
+							["uptime"] = 198,
+						},
+						[47893] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 198,
+						},
+						[47865] = {
+							["type"] = "DEBUFF",
+							["count"] = 1,
+							["school"] = 32,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["uptime"] = 67,
+									["count"] = 1,
+								},
+							},
+							["uptime"] = 67,
+						},
+						[70840] = {
+							["type"] = "BUFF",
+							["count"] = 16,
+							["school"] = 32,
+							["refresh"] = 14,
+							["uptime"] = 123,
+						},
+						[50589] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 4,
+							["uptime"] = 11,
+						},
+						[47995] = {
+							["type"] = "DEBUFF",
+							["count"] = 1,
+							["school"] = 1,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["uptime"] = 3,
+									["count"] = 1,
+								},
+							},
+							["uptime"] = 3,
+						},
+						[54508] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 1,
+							["uptime"] = 15,
+						},
+						[47811] = {
+							["type"] = "DEBUFF",
+							["count"] = 7,
+							["school"] = 4,
+							["refresh"] = 1,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["count"] = 7,
+									["refresh"] = 1,
+									["uptime"] = 190,
+								},
+							},
+							["uptime"] = 190,
+						},
+						[75473] = {
+							["type"] = "BUFF",
+							["count"] = 4,
+							["school"] = 1,
+							["uptime"] = 60,
+						},
+						[47813] = {
+							["type"] = "DEBUFF",
+							["count"] = 13,
+							["school"] = 32,
+							["refresh"] = 1,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["count"] = 13,
+									["refresh"] = 1,
+									["uptime"] = 188,
+								},
+							},
+							["uptime"] = 188,
+						},
+						[17800] = {
+							["type"] = "DEBUFF",
+							["count"] = 1,
+							["school"] = 32,
+							["refresh"] = 66,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["count"] = 1,
+									["refresh"] = 66,
+									["uptime"] = 193,
+								},
+							},
+							["uptime"] = 193,
+						},
+						[47241] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["school"] = 1,
+							["uptime"] = 30,
+						},
+						[48090] = {
+							["type"] = "BUFF",
+							["count"] = 7,
+							["school"] = 1,
+							["refresh"] = 5,
+							["uptime"] = 185,
+						},
+						[35696] = {
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 198,
+						},
+						[47867] = {
+							["type"] = "DEBUFF",
+							["count"] = 2,
+							["school"] = 32,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["uptime"] = 120,
+									["count"] = 2,
+								},
+							},
+							["uptime"] = 120,
+						},
+					},
+					["time"] = 198.01,
+					["damage"] = 1403064,
+					["overheal"] = 189036,
+					["id"] = "0x070000000054111F",
+					["spec"] = 266,
+					["healspells"] = {
+						[54181] = {
+							["overheal"] = 182625,
+							["count"] = 237,
+							["amount"] = 0,
+							["school"] = 2,
+							["targets"] = {
+								["Jhuuthun"] = {
+									["overheal"] = 182625,
+									["amount"] = 0,
+								},
+							},
+						},
+						[47893] = {
+							["overheal"] = 6411,
+							["targets"] = {
+								["Elziash"] = {
+									["overheal"] = 6411,
+									["amount"] = 17989,
+								},
+							},
+							["count"] = 40,
+							["amount"] = 17989,
+							["school"] = 32,
+							["max"] = 610,
+							["ishot"] = true,
+							["min"] = 129,
+						},
+					},
+					["overkill"] = 1401960,
+					["manaspells"] = {
+						[31818] = 45011,
+					},
+					["heal"] = 17989,
+					["name"] = "Elziash",
+					["ccdone"] = 1,
+					["mana"] = 45011,
+					["damagespells"] = {
+						["Corruption (DoT)"] = {
+							["hitmin"] = 1109,
+							["id"] = 47813,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["overkill"] = 123625,
+									["amount"] = 123871,
+								},
+							},
+							["overkill"] = 123625,
+							["casts"] = 14,
+							["count"] = 82,
+							["hit"] = 82,
+							["school"] = 32,
+							["hitmax"] = 1997,
+							["amount"] = 123871,
+							["hitamount"] = 123871,
+						},
+						["Melee (Jhuuthun)"] = {
+							["hitmin"] = 699,
+							["criticalamount"] = 28576,
+							["id"] = 6603,
+							["criticalmin"] = 2360,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["overkill"] = 135454,
+									["amount"] = 135748,
+								},
+							},
+							["overkill"] = 135454,
+							["critical"] = 11,
+							["criticalmax"] = 2918,
+							["count"] = 98,
+							["hit"] = 87,
+							["school"] = 1,
+							["hitmax"] = 1489,
+							["amount"] = 135748,
+							["hitamount"] = 107172,
+						},
+						["Immolate"] = {
+							["criticalmin"] = 3606,
+							["hitmin"] = 1429,
+							["criticalamount"] = 19578,
+							["id"] = 47811,
+							["criticalmax"] = 4609,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["overkill"] = 25210,
+									["amount"] = 25234,
+								},
+							},
+							["overkill"] = 25210,
+							["critical"] = 5,
+							["casts"] = 8,
+							["count"] = 8,
+							["hit"] = 3,
+							["school"] = 4,
+							["hitmax"] = 2459,
+							["amount"] = 25234,
+							["hitamount"] = 5656,
+						},
+						["Shadow Bolt"] = {
+							["hitmax"] = 9381,
+							["hitmin"] = 5785,
+							["criticalamount"] = 463629,
+							["id"] = 47809,
+							["count"] = 67,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["overkill"] = 716130,
+									["amount"] = 716331,
+								},
+							},
+							["overkill"] = 716130,
+							["hit"] = 35,
+							["casts"] = 66,
+							["critical"] = 32,
+							["amount"] = 716331,
+							["school"] = 32,
+							["criticalmin"] = 10975,
+							["criticalmax"] = 18727,
+							["hitamount"] = 252702,
+						},
+						["Intercept (Jhuuthun)"] = {
+							["hitmin"] = 324,
+							["id"] = 47995,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["overkill"] = 321,
+									["amount"] = 324,
+								},
+							},
+							["overkill"] = 321,
+							["casts"] = 1,
+							["count"] = 1,
+							["hit"] = 1,
+							["school"] = 1,
+							["hitmax"] = 324,
+							["amount"] = 324,
+							["hitamount"] = 324,
+						},
+						["Curse of Doom (DoT)"] = {
+							["hitmin"] = 17445,
+							["id"] = 47867,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["overkill"] = 38234,
+									["amount"] = 38240,
+								},
+							},
+							["overkill"] = 38234,
+							["casts"] = 2,
+							["count"] = 2,
+							["hit"] = 2,
+							["school"] = 32,
+							["hitmax"] = 20795,
+							["amount"] = 38240,
+							["hitamount"] = 38240,
+						},
+						["Immolate (DoT)"] = {
+							["hitmin"] = 1142,
+							["criticalamount"] = 95727,
+							["id"] = 47811,
+							["hitmax"] = 2117,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["overkill"] = 148198,
+									["amount"] = 148384,
+								},
+							},
+							["overkill"] = 148198,
+							["count"] = 62,
+							["criticalmax"] = 4423,
+							["critical"] = 29,
+							["amount"] = 148384,
+							["school"] = 4,
+							["hit"] = 33,
+							["criticalmin"] = 2388,
+							["hitamount"] = 52657,
+						},
+						["Cleave (Jhuuthun)"] = {
+							["criticalmin"] = 2744,
+							["hitmin"] = 803,
+							["criticalamount"] = 11562,
+							["id"] = 47994,
+							["criticalmax"] = 3014,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["overkill"] = 48637,
+									["amount"] = 48733,
+								},
+							},
+							["overkill"] = 48637,
+							["critical"] = 4,
+							["casts"] = 1,
+							["count"] = 32,
+							["hit"] = 28,
+							["school"] = 1,
+							["hitmax"] = 1584,
+							["amount"] = 48733,
+							["hitamount"] = 37171,
+						},
+						["Incinerate"] = {
+							["hitmax"] = 7976,
+							["hitmin"] = 6120,
+							["criticalamount"] = 110494,
+							["id"] = 47838,
+							["count"] = 16,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["overkill"] = 166151,
+									["amount"] = 166199,
+								},
+							},
+							["overkill"] = 166151,
+							["hit"] = 8,
+							["casts"] = 16,
+							["critical"] = 8,
+							["amount"] = 166199,
+							["school"] = 4,
+							["criticalmin"] = 10305,
+							["criticalmax"] = 16685,
+							["hitamount"] = 55705,
+						},
+					},
+					["totaldamage"] = 1403064,
+					["role"] = "DAMAGER",
+				}, -- [1]
+			},
+			["type"] = "none",
+			["overheal"] = 189036,
+			["ccdone"] = 1,
+			["overkill"] = 1401960,
+			["edamagetaken"] = 1403064,
+			["heal"] = 17989,
+			["name"] = "Grandmaster's Training Dummy",
+			["mobname"] = "Grandmaster's Training Dummy",
+			["starttime"] = 1668284161,
+			["damage"] = 1403064,
+			["last_action"] = 1668284359,
+			["endtime"] = 1668284359,
+		}, -- [2]
+	},
+	["version"] = 1878,
+	["total"] = {
+		["starttime"] = 1668284161,
+		["mana"] = 72860,
+		["players"] = {
+			{
+				["overheal"] = 244240,
+				["mana"] = 72860,
+				["heal"] = 27271,
+				["id"] = "0x070000000054111F",
+				["class"] = "WARLOCK",
+				["totaldamage"] = 1904463,
+				["overkill"] = 1902831,
+				["flag"] = 1297,
+				["role"] = "DAMAGER",
+				["time"] = 268.18,
+				["ccdone"] = 3,
+				["name"] = "Elziash",
+				["spec"] = 266,
+				["damage"] = 1904463,
+			}, -- [1]
+		},
+		["overkill"] = 1902831,
+		["totaldamage"] = 1904463,
+		["heal"] = 27271,
+		["name"] = "Total",
+		["ccdone"] = 3,
+		["time"] = 269,
+		["overheal"] = 244240,
+		["damage"] = 1904463,
+	},
+}

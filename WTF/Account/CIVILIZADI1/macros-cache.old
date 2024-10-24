@@ -1,0 +1,19 @@
+MACRO 3 "asd" INV_Misc_QuestionMark
+/cancelaura Hand of Protection
+END
+MACRO 5 "BF_Mount" Ability_Mount_Charger
+/bfmount
+END
+MACRO 1 "Decursive" INV_Misc_QuestionMark
+/stopcasting
+/cast [target=mouseover,nomod,exists] Purge;  [target=mouseover,exists,mod:ctrl] Cure Toxins; [target=mouseover,exists,mod:shift] Hex
+END
+MACRO 2 "kamera" INV_Misc_QuestionMark
+/script SetCVar("cameraDistanceMax",75)
+END
+MACRO 4 "Mount" Ability_Mount_Charger
+/RandomMount
+END
+MACRO 6 "坐骑" Ability_Mount_Charger
+/RandomMount
+END

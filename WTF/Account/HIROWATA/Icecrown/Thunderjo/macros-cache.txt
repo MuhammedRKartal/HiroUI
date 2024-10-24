@@ -1,0 +1,72 @@
+MACRO 16777242 "Elemental" INV_Misc_QuestionMark
+#showtooltip
+/cast Elemental Mastery
+/use Wrathful Gladiator's Mail Gauntlets
+END
+MACRO 16777226 "Ev" INV_Misc_QuestionMark
+/cast Tidal Force
+/use Unclean Surgical Gloves
+END
+MACRO 16777237 "Gift of Naaru" INV_Misc_QuestionMark
+/cast Healing Wave
+/cast Gift of the Naaru
+END
+MACRO 16777239 "Heal" INV_Misc_QuestionMark
+/cast Nature's Swiftness
+/cast Tidal Force
+/cast Healing Wave
+END
+MACRO 16777232 "Heal" INV_Misc_QuestionMark
+/cast Stoneclaw Totem
+/use Fel Healthstone
+END
+MACRO 16777245 "Heal2" INV_Misc_QuestionMark
+/cast Nature's Swiftness
+/cast Tidal Force
+END
+MACRO 16777244 "Insta Hex" INV_Misc_QuestionMark
+/cast Nature's Swiftness
+/cast Hex
+END
+MACRO 16777243 "Lb" INV_Misc_QuestionMark
+#showtooltip Lightning Bolt
+/use Wrathful Gladiator's Mail Gauntlets
+/cast Lightning Bolt
+END
+MACRO 16777230 "Lesser" INV_Misc_QuestionMark
+/cast [@party1] Lesser Healing Wave
+END
+MACRO 16777222 "Purge" INV_Misc_QuestionMark
+#showtooltip Purge
+/cast [harm]Purge;{help]Cleanse Spirit
+END
+MACRO 16777235 "Purge Ele" INV_Misc_QuestionMark
+#showtooltip Purge
+/cast [harm] Purge;{help] Cure Toxins
+END
+MACRO 16777234 "Pyro" INV_Misc_QuestionMark
+/cast Flame Shock(Rank 9)
+/use Wrathful Gladiator's Ringmail Gauntlets
+END
+MACRO 16777240 "Self" INV_Misc_QuestionMark
+/cast Gift of the Naaru
+/use Fel Healthstone
+END
+MACRO 16777241 "Shear Focus" INV_Misc_QuestionMark
+/cast [@focus, exists, nodead] [] Wind Shear
+END
+MACRO 16777233 "Target" INV_Misc_QuestionMark
+/cast [@targettarget,harm,nodead][] Purge
+END
+MACRO 16777225 "Tidal" INV_Misc_QuestionMark
+/cast Tidal Force
+/use Unclean Surgical Gloves
+END
+MACRO 16777246 "Tide" INV_Misc_QuestionMark
+/yell MANA TIDE DOWN
+/p MANA TIDE DOWN
+/cast Mana Tide Totem
+END
+MACRO 16777236 "Trinket" INV_Misc_QuestionMark
+/use 13
+END

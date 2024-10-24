@@ -1,0 +1,151 @@
+
+LossOfControlDB = {
+	["profileKeys"] = {
+		["Aegwyn - Icecrown"] = "Aegwyn - Icecrown",
+		["Gelkucama - Icecrown"] = "Gelkucama - Icecrown",
+		["Canavi - Icecrown"] = "Canavi - Icecrown",
+		["Aidnn - Icecrown"] = "Aidnn - Icecrown",
+		["Imtheaidnn - Icecrown"] = "Imtheaidnn - Icecrown",
+		["Zoolock - Icecrown"] = "Zoolock - Icecrown",
+		["Aidnny - Icecrown"] = "Aidnny - Icecrown",
+		["Kirikox - Icecrown"] = "Kirikox - Icecrown",
+		["Mayijudge - Icecrown"] = "Mayijudge - Icecrown",
+		["Tinyaidnnjar - Icecrown"] = "Tinyaidnnjar - Icecrown",
+		["Theaidnn - Icecrown"] = "Theaidnn - Icecrown",
+		["Tokatlarim - Icecrown"] = "Tokatlarim - Icecrown",
+	},
+	["char"] = {
+		["Aegwyn - Icecrown"] = {
+			["myVal"] = {
+				["locale"] = "enUS",
+				["Disarm"] = 2,
+				["Root"] = 2,
+				["Silence"] = 2,
+				["Interrupt"] = 2,
+				["Full"] = 2,
+				["Loss Of Control Alerts"] = true,
+			},
+		},
+		["Gelkucama - Icecrown"] = {
+			["myVal"] = {
+				["locale"] = "enUS",
+				["Root"] = 2,
+				["Disarm"] = 2,
+				["Silence"] = 2,
+				["Interrupt"] = 2,
+				["Full"] = 2,
+				["Loss Of Control Alerts"] = true,
+			},
+		},
+		["Canavi - Icecrown"] = {
+			["myVal"] = {
+				["locale"] = "enUS",
+				["Loss Of Control Alerts"] = true,
+				["Silence"] = 2,
+				["Disarm"] = 2,
+				["Interrupt"] = 2,
+				["Full"] = 2,
+				["Root"] = 2,
+			},
+		},
+		["Aidnn - Icecrown"] = {
+			["myVal"] = {
+				["locale"] = "enUS",
+				["Disarm"] = 2,
+				["Root"] = 2,
+				["Silence"] = 2,
+				["Interrupt"] = 2,
+				["Full"] = 2,
+				["Loss Of Control Alerts"] = true,
+			},
+		},
+		["Imtheaidnn - Icecrown"] = {
+			["myVal"] = {
+				["locale"] = "enUS",
+				["Loss Of Control Alerts"] = true,
+				["Silence"] = 2,
+				["Root"] = 2,
+				["Interrupt"] = 2,
+				["Full"] = 2,
+				["Disarm"] = 2,
+			},
+		},
+		["Zoolock - Icecrown"] = {
+			["myVal"] = {
+				["locale"] = "enUS",
+				["Disarm"] = 2,
+				["Root"] = 2,
+				["Silence"] = 2,
+				["Interrupt"] = 2,
+				["Full"] = 2,
+				["Loss Of Control Alerts"] = true,
+			},
+		},
+		["Aidnny - Icecrown"] = {
+			["myVal"] = {
+				["locale"] = "enUS",
+				["Loss Of Control Alerts"] = true,
+				["Silence"] = 2,
+				["Root"] = 2,
+				["Interrupt"] = 2,
+				["Full"] = 2,
+				["Disarm"] = 2,
+			},
+		},
+		["Kirikox - Icecrown"] = {
+			["myVal"] = {
+				["locale"] = "enUS",
+				["Loss Of Control Alerts"] = true,
+				["Silence"] = 2,
+				["Disarm"] = 2,
+				["Interrupt"] = 2,
+				["Full"] = 2,
+				["Root"] = 2,
+			},
+		},
+		["Mayijudge - Icecrown"] = {
+			["myVal"] = {
+				["locale"] = "enUS",
+				["Loss Of Control Alerts"] = true,
+				["Silence"] = 2,
+				["Root"] = 2,
+				["Interrupt"] = 2,
+				["Full"] = 2,
+				["Disarm"] = 2,
+			},
+		},
+		["Tinyaidnnjar - Icecrown"] = {
+			["myVal"] = {
+				["locale"] = "enUS",
+				["Root"] = 2,
+				["Disarm"] = 2,
+				["Silence"] = 2,
+				["Interrupt"] = 2,
+				["Full"] = 2,
+				["Loss Of Control Alerts"] = true,
+			},
+		},
+		["Theaidnn - Icecrown"] = {
+			["myVal"] = {
+				["locale"] = "enUS",
+				["Loss Of Control Alerts"] = true,
+				["Silence"] = 2,
+				["Root"] = 2,
+				["Interrupt"] = 2,
+				["Full"] = 2,
+				["Disarm"] = 2,
+			},
+		},
+		["Tokatlarim - Icecrown"] = {
+			["myVal"] = {
+				["locale"] = "enUS",
+				["Root"] = 2,
+				["Disarm"] = 2,
+				["Silence"] = 2,
+				["Interrupt"] = 2,
+				["Full"] = 2,
+				["Loss Of Control Alerts"] = true,
+			},
+		},
+	},
+}

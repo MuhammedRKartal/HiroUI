@@ -1,0 +1,109 @@
+MACRO 65 "1" INV_Misc_QuestionMark
+/1  VOA 10 NEED 1 TANK CLASS RUN 
+END
+MACRO 66 "5" INV_Misc_QuestionMark
+/6  VOA 10 NEED 1 TANK CLASS RUN 
+END
+MACRO 52 "Adrenaline" INV_Misc_QuestionMark
+#showtooltip Adrenaline Rush
+/use Aldriana's Gloves of Secrecy
+/cast Adrenaline Rush
+END
+MACRO 15 "Berserker" Ability_Warrior_BullRush
+#showtooltip Recklessness
+/cast Recklessness
+END
+MACRO 55 "btc" INV_Misc_QuestionMark
+#showtooltip
+/startattack
+/cast Bloodthirst
+/cast Cleave(Rank 8)
+END
+MACRO 54 "bthc" INV_Misc_QuestionMark
+#showtooltip Bloodthirst
+/startattack
+/cast Bloodthirst
+/cast Heroic Strike(Rank 13)
+END
+MACRO 61 "DBM" Spell_Shaman_ThunderStorm
+/run local f = CreateFrame("frame",nil, UIParent); f:SetScript("OnUpdate", CombatLogClearEntries);
+END
+MACRO 46 "Frost Mourne" Ability_Vehicle_ElectroCharge
+/target wicked spirit
+/cast Multi-Shot
+/cast Chimera Shot
+/cast Arcane Shot
+/cast Auto shot
+/startattack
+/target lasttarget
+END
+MACRO 51 "Fury+Flurry" INV_Misc_QuestionMark
+#showtooltip Blade Flurry
+/cast Blood Fury(Racial)
+/cast Blade Flurry
+END
+MACRO 34 "Misdirection" INV_Misc_QuestionMark
+#showtooltip Misdirection
+/cast [@focus,help][help][@pet,exists] Misdirection
+END
+MACRO 68 "Shieldwall" INV_Misc_QuestionMark
+#showtooltip Shield Wall
+/cast Defensive Stance
+/equipslot 16 Mithrios, Bronzebeard's Legacy
+/equipslot 17 Icecrown Glacial Wall
+/cast Shield Wall
+END
+MACRO 10 "Slam" Spell_Deathknight_ClassIcon
+#shadowtooltip Slam
+/stopcasting
+/cast Slam
+/cast Heroic Strike
+/stopcasting
+/startattack
+END
+MACRO 58 "Sunder Armor" INV_Misc_QuestionMark
+#showtooltip
+/cast sunder armor
+/cast heroic strike(Rank 13)
+END
+MACRO 59 "Tap" INV_Misc_QuestionMark
+#showtooltip
+/cancelaura Blood Tap
+/cast Blood Tap
+END
+MACRO 63 "Target" INV_Misc_QuestionMark
+/tar Living Inferno
+END
+MACRO 64 "Target Halion" INV_Misc_QuestionMark
+/tar Halion
+END
+MACRO 35 "Tranq Shot" Ability_Rogue_FocusedAttacks
+#showtooltip Tranquilizing shot
+/tar Shambling horror
+/cast Tranquilizing shot
+/targetlasttarget
+END
+MACRO 8 "Whirlwind" Ability_Warrior_WeaponMastery
+#shadowtooltip Whirlwind
+/startattack
+/castsequence reset=target whirlwind,bloodthirst
+/cast heroic strike
+END
+MACRO 62 "Wish" INV_Misc_QuestionMark
+#showtooltip Death Wish
+/cast Berserking(Racial)
+/cast Death Wish
+END
+MACRO 56 "wwc" INV_Misc_QuestionMark
+#showtooltip
+/cast Whirlwind
+/cast Cleave(Rank 8)
+END
+MACRO 57 "wwhc" INV_Misc_QuestionMark
+#showtooltip Whirlwind
+/cast Whirlwind
+/cast Heroic Strike(Rank 13)
+END
+MACRO 67 "Yell" INV_Misc_QuestionMark
+/YELL VOA 10 NEED 1 TANK CLASS RUN
+END

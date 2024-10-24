@@ -1,0 +1,704 @@
+
+xCTSavedDB = {
+	["profileKeys"] = {
+		["Lqui - Icecrown"] = "Lqui - Icecrown",
+	},
+	["profiles"] = {
+		["Lqui - Icecrown"] = {
+			["spells"] = {
+				["items"] = {
+					["Quiver"] = {
+						["Quiver"] = false,
+						["Ammo Pouch"] = false,
+					},
+					["Quest"] = {
+						["Quest"] = false,
+					},
+					["Gem"] = {
+						["Simple"] = false,
+						["Blue"] = false,
+						["Meta"] = false,
+						["Prismatic"] = false,
+						["Purple"] = false,
+						["Green"] = false,
+						["Yellow"] = false,
+						["Orange"] = false,
+						["Red"] = false,
+					},
+					["Trade Goods"] = {
+						["Other"] = false,
+						["Elemental"] = false,
+						["Weapon Enchantment"] = false,
+						["Jewelcrafting"] = false,
+						["Parts"] = false,
+						["Materials"] = false,
+						["Devices"] = false,
+						["Leather"] = false,
+						["Armor Enchantment"] = false,
+						["Explosives"] = false,
+						["Enchanting"] = false,
+						["Cloth"] = false,
+						["Meat"] = false,
+						["Metal & Stone"] = false,
+						["Herb"] = false,
+					},
+					["Miscellaneous"] = {
+						["Other"] = false,
+						["Reagent"] = false,
+						["Mount"] = false,
+						["Holiday"] = false,
+						["Pet"] = false,
+						["Junk"] = false,
+					},
+					["Recipe"] = {
+						["Tailoring"] = false,
+						["Blacksmithing"] = false,
+						["Alchemy"] = false,
+						["First Aid"] = false,
+						["Book"] = false,
+						["Cooking"] = false,
+						["Inscription"] = false,
+						["Jewelcrafting"] = false,
+						["Engineering"] = false,
+						["Leatherworking"] = false,
+						["Fishing"] = false,
+						["Enchanting"] = false,
+					},
+					["Consumable"] = {
+						["Other"] = false,
+						["Elixir"] = false,
+						["Food & Drink"] = false,
+						["Item Enhancement"] = false,
+						["Scroll"] = false,
+						["Flask"] = false,
+						["Bandage"] = false,
+						["Potion"] = false,
+					},
+					["version"] = 1,
+					["Projectile"] = {
+						["Bullet"] = false,
+						["Arrow"] = false,
+					},
+					["Armor"] = {
+						["Totems"] = false,
+						["Shields"] = false,
+						["Librams"] = false,
+						["Miscellaneous"] = false,
+						["Leather"] = false,
+						["Idols"] = false,
+						["Mail"] = false,
+						["Plate"] = false,
+						["Sigils"] = false,
+						["Cloth"] = false,
+					},
+					["Container"] = {
+						["Bag"] = false,
+						["Mining Bag"] = false,
+						["Soul Bag"] = false,
+						["Gem Bag"] = false,
+						["Engineering Bag"] = false,
+						["Herb Bag"] = false,
+						["Inscription Bag"] = false,
+						["Leatherworking Bag"] = false,
+						["Enchanting Bag"] = false,
+					},
+					["Glyph"] = {
+						["Warrior"] = false,
+						["Paladin"] = false,
+						["Shaman"] = false,
+						["Rogue"] = false,
+						["Mage"] = false,
+						["Warlock"] = false,
+						["Priest"] = false,
+						["Hunter"] = false,
+						["Druid"] = false,
+						["Death Knight"] = false,
+					},
+					["Weapon"] = {
+						["One-Handed Axes"] = false,
+						["One-Handed Swords"] = false,
+						["Staves"] = false,
+						["Crossbows"] = false,
+						["Polearms"] = false,
+						["One-Handed Maces"] = false,
+						["Bows"] = false,
+						["Two-Handed Swords"] = false,
+						["Miscellaneous"] = false,
+						["Fishing Poles"] = false,
+						["Two-Handed Maces"] = false,
+						["Guns"] = false,
+						["Fist Weapons"] = false,
+						["Thrown"] = false,
+						["Wands"] = false,
+						["Daggers"] = false,
+						["Two-Handed Axes"] = false,
+					},
+				},
+				["merge"] = {
+					[71829] = {
+						["enabled"] = true,
+						["prep"] = 0,
+						["interval"] = 0.5,
+						["class"] = "ITEM",
+						["desc"] = "Arctic Cold (Valithria trash Mind controlled mob)",
+					},
+					[72672] = {
+						["enabled"] = true,
+						["prep"] = 0,
+						["interval"] = 0.5,
+						["class"] = "ITEM",
+						["desc"] = "Mutated Plague (Putricide)",
+					},
+					[20424] = {
+						["interval"] = 1,
+						["class"] = "PALADIN",
+						["prep"] = 0,
+						["enabled"] = true,
+					},
+					[2812] = {
+						["interval"] = 0.5,
+						["class"] = "PALADIN",
+						["prep"] = 0,
+						["enabled"] = true,
+					},
+					[56350] = {
+						["enabled"] = true,
+						["prep"] = 0,
+						["interval"] = 5,
+						["class"] = "ITEM",
+						["desc"] = "Saronite Bomb (Explosion)",
+					},
+					[69766] = {
+						["enabled"] = true,
+						["prep"] = 0,
+						["interval"] = 0.5,
+						["class"] = "ITEM",
+						["desc"] = "Unchained Magic (Sindragosa)",
+					},
+					[48819] = {
+						["interval"] = 8,
+						["class"] = "PALADIN",
+						["prep"] = 0,
+						["enabled"] = true,
+					},
+					[61840] = {
+						["interval"] = 3,
+						["class"] = "PALADIN",
+						["prep"] = 0,
+						["enabled"] = true,
+					},
+					[53595] = {
+						["interval"] = 3,
+						["class"] = "PALADIN",
+						["prep"] = 0,
+						["enabled"] = true,
+					},
+					[20167] = {
+						["interval"] = 3,
+						["class"] = "PALADIN",
+						["prep"] = 0,
+						["enabled"] = true,
+					},
+					[54968] = {
+						["interval"] = 1,
+						["class"] = "PALADIN",
+						["prep"] = 0,
+						["enabled"] = true,
+					},
+					[56488] = {
+						["enabled"] = true,
+						["prep"] = 0,
+						["interval"] = 3.5,
+						["class"] = "ITEM",
+						["desc"] = "Global Sapper Charge (Explosion)",
+					},
+					[71904] = {
+						["enabled"] = true,
+						["prep"] = 0,
+						["interval"] = 3.5,
+						["class"] = "ITEM",
+						["desc"] = "Chaos Bane (Shadowmourne)",
+					},
+					[42463] = {
+						["interval"] = 3,
+						["class"] = "PALADIN",
+						["prep"] = 0,
+						["enabled"] = true,
+					},
+					[31935] = {
+						["interval"] = 3,
+						["class"] = "PALADIN",
+						["prep"] = 0,
+						["enabled"] = true,
+					},
+					[20267] = {
+						["interval"] = 5,
+						["class"] = "PALADIN",
+						["prep"] = 0,
+						["enabled"] = true,
+					},
+					[20187] = {
+						["interval"] = 3,
+						["class"] = "PALADIN",
+						["prep"] = 0,
+						["enabled"] = true,
+					},
+					[31803] = {
+						["interval"] = 6,
+						["class"] = "PALADIN",
+						["prep"] = 0,
+						["enabled"] = true,
+					},
+					[53385] = {
+						["interval"] = 0.5,
+						["class"] = "PALADIN",
+						["prep"] = 0,
+						["enabled"] = true,
+					},
+					[54172] = {
+						["interval"] = 3,
+						["class"] = "PALADIN",
+						["prep"] = 0,
+						["enabled"] = true,
+					},
+					[53652] = {
+						["interval"] = 3,
+						["class"] = "PALADIN",
+						["prep"] = 0,
+						["enabled"] = true,
+					},
+				},
+			},
+			["frames"] = {
+				["general"] = {
+					["colors"] = {
+						["auras"] = {
+							["colors"] = {
+								["debuffsGained"] = {
+									["color"] = {
+										1, -- [1]
+										0.1, -- [2]
+										0.1, -- [3]
+									},
+								},
+								["buffsGained"] = {
+									["color"] = {
+										1, -- [1]
+										0.5, -- [2]
+										0.5, -- [3]
+									},
+								},
+								["buffsFaded"] = {
+									["color"] = {
+										0.5, -- [1]
+										0.5, -- [2]
+										0.5, -- [3]
+									},
+								},
+								["debuffsFaded"] = {
+									["color"] = {
+										0.5, -- [1]
+										0.5, -- [2]
+										0.5, -- [3]
+									},
+								},
+							},
+						},
+						["killingBlow"] = {
+							["color"] = {
+								0.2, -- [1]
+								1, -- [2]
+								0.2, -- [3]
+							},
+						},
+						["combat"] = {
+							["colors"] = {
+								["combatLeaving"] = {
+									["color"] = {
+										0.1, -- [1]
+										1, -- [2]
+										0.1, -- [3]
+									},
+								},
+								["combatEntering"] = {
+									["color"] = {
+										1, -- [1]
+										0.1, -- [2]
+										0.1, -- [3]
+									},
+								},
+							},
+						},
+						["interrupts"] = {
+							["color"] = {
+								1, -- [1]
+								0.5, -- [2]
+								0, -- [3]
+							},
+						},
+						["reputation"] = {
+							["colors"] = {
+								["reputationGain"] = {
+									["color"] = {
+										0.1, -- [1]
+										0.1, -- [2]
+										1, -- [3]
+									},
+								},
+								["reputationLoss"] = {
+									["color"] = {
+										1, -- [1]
+										0.1, -- [2]
+										0.1, -- [3]
+									},
+								},
+							},
+						},
+						["lowResources"] = {
+							["colors"] = {
+								["lowResourcesMana"] = {
+									["color"] = {
+										1, -- [1]
+										0.1, -- [2]
+										0.1, -- [3]
+									},
+								},
+								["lowResourcesHealth"] = {
+									["color"] = {
+										1, -- [1]
+										0.1, -- [2]
+										0.1, -- [3]
+									},
+								},
+							},
+						},
+						["honorGains"] = {
+							["color"] = {
+								0.1, -- [1]
+								0.1, -- [2]
+								1, -- [3]
+							},
+						},
+						["dispells"] = {
+							["colors"] = {
+								["dispellBuffs"] = {
+									["color"] = {
+										0, -- [1]
+										1, -- [2]
+										0.5, -- [3]
+									},
+								},
+								["dispellStolen"] = {
+									["color"] = {
+										0.31, -- [1]
+										0.71, -- [2]
+										1, -- [3]
+									},
+								},
+								["dispellDebuffs"] = {
+									["color"] = {
+										1, -- [1]
+										0, -- [2]
+										0.5, -- [3]
+									},
+								},
+							},
+						},
+					},
+				},
+				["healing"] = {
+					["colors"] = {
+						["healingTakenCritical"] = {
+							["color"] = {
+								0.1, -- [1]
+								1, -- [2]
+								0.1, -- [3]
+							},
+						},
+						["healingTaken"] = {
+							["color"] = {
+								0.1, -- [1]
+								0.75, -- [2]
+								0.1, -- [3]
+							},
+						},
+						["shieldTaken"] = {
+							["color"] = {
+								0.6, -- [1]
+								0.65, -- [2]
+								1, -- [3]
+							},
+						},
+						["healingTakenPeriodic"] = {
+							["color"] = {
+								0.1, -- [1]
+								0.5, -- [2]
+								0.1, -- [3]
+							},
+						},
+					},
+				},
+				["outgoing"] = {
+					["colors"] = {
+						["genericDamage"] = {
+							["color"] = {
+								1, -- [1]
+								0.82, -- [2]
+								0, -- [3]
+							},
+						},
+						["healingSpells"] = {
+							["colors"] = {
+								["healingOut"] = {
+									["color"] = {
+										0.1, -- [1]
+										0.75, -- [2]
+										0.1, -- [3]
+									},
+								},
+								["shieldOut"] = {
+									["color"] = {
+										0.6, -- [1]
+										0.65, -- [2]
+										1, -- [3]
+									},
+								},
+								["healingOutPeriodic"] = {
+									["color"] = {
+										0.1, -- [1]
+										0.5, -- [2]
+										0.1, -- [3]
+									},
+								},
+							},
+						},
+						["spellSchools"] = {
+							["colors"] = {
+								["SpellSchool_Nature"] = {
+									["color"] = {
+										0.3, -- [1]
+										1, -- [2]
+										0.3, -- [3]
+									},
+								},
+								["SpellSchool_Arcane"] = {
+									["color"] = {
+										1, -- [1]
+										0.5, -- [2]
+										1, -- [3]
+									},
+								},
+								["SpellSchool_Frost"] = {
+									["color"] = {
+										0.5, -- [1]
+										1, -- [2]
+										1, -- [3]
+									},
+								},
+								["SpellSchool_Physical"] = {
+									["color"] = {
+										1, -- [1]
+										1, -- [2]
+										0, -- [3]
+									},
+								},
+								["SpellSchool_Shadow"] = {
+									["color"] = {
+										0.5, -- [1]
+										0.5, -- [2]
+										1, -- [3]
+									},
+								},
+								["SpellSchool_Holy"] = {
+									["color"] = {
+										1, -- [1]
+										0.9, -- [2]
+										0.5, -- [3]
+									},
+								},
+								["SpellSchool_Fire"] = {
+									["color"] = {
+										1, -- [1]
+										0.5, -- [2]
+										0, -- [3]
+									},
+								},
+							},
+						},
+						["misstypesOut"] = {
+							["color"] = {
+								0.5, -- [1]
+								0.5, -- [2]
+								0.5, -- [3]
+							},
+						},
+					},
+				},
+				["critical"] = {
+					["colors"] = {
+						["genericDamageCritical"] = {
+							["color"] = {
+								1, -- [1]
+								1, -- [2]
+								0, -- [3]
+							},
+						},
+						["healingSpells"] = {
+							["colors"] = {
+								["healingOutCritical"] = {
+									["color"] = {
+										0.1, -- [1]
+										1, -- [2]
+										0.1, -- [3]
+									},
+								},
+							},
+						},
+					},
+				},
+				["procs"] = {
+					["colors"] = {
+						["spellReactive"] = {
+							["color"] = {
+								1, -- [1]
+								0.82, -- [2]
+								0, -- [3]
+							},
+						},
+						["spellProc"] = {
+							["color"] = {
+								1, -- [1]
+								0.82, -- [2]
+								0, -- [3]
+							},
+						},
+					},
+				},
+				["class"] = {
+					["colors"] = {
+						["comboPoints"] = {
+							["color"] = {
+								1, -- [1]
+								0.82, -- [2]
+								0, -- [3]
+							},
+						},
+						["comboPointsMax"] = {
+							["color"] = {
+								0, -- [1]
+								0.82, -- [2]
+								1, -- [3]
+							},
+						},
+					},
+				},
+				["damage"] = {
+					["colors"] = {
+						["missTypesTaken"] = {
+							["colors"] = {
+								["missTypeBlock"] = {
+									["color"] = {
+										0.5, -- [1]
+										0.5, -- [2]
+										0.5, -- [3]
+									},
+								},
+								["missTypeMiss"] = {
+									["color"] = {
+										0.5, -- [1]
+										0.5, -- [2]
+										0.5, -- [3]
+									},
+								},
+								["missTypeImmune"] = {
+									["color"] = {
+										0.5, -- [1]
+										0.5, -- [2]
+										0.5, -- [3]
+									},
+								},
+								["missTypeDodge"] = {
+									["color"] = {
+										0.5, -- [1]
+										0.5, -- [2]
+										0.5, -- [3]
+									},
+								},
+								["missTypeParry"] = {
+									["color"] = {
+										0.5, -- [1]
+										0.5, -- [2]
+										0.5, -- [3]
+									},
+								},
+								["missTypeReflect"] = {
+									["color"] = {
+										0.5, -- [1]
+										0.5, -- [2]
+										0.5, -- [3]
+									},
+								},
+								["missTypeResist"] = {
+									["color"] = {
+										0.5, -- [1]
+										0.5, -- [2]
+										0.5, -- [3]
+									},
+								},
+								["missTypeAbsorb"] = {
+									["color"] = {
+										0.5, -- [1]
+										0.5, -- [2]
+										0.5, -- [3]
+									},
+								},
+								["missTypeDeflect"] = {
+									["color"] = {
+										0.5, -- [1]
+										0.5, -- [2]
+										0.5, -- [3]
+									},
+								},
+								["missTypeEvade"] = {
+									["color"] = {
+										0.5, -- [1]
+										0.5, -- [2]
+										0.5, -- [3]
+									},
+								},
+							},
+						},
+						["damageTakenCritical"] = {
+							["color"] = {
+								1, -- [1]
+								0.1, -- [2]
+								0.1, -- [3]
+							},
+						},
+						["spellDamageTaken"] = {
+							["color"] = {
+								0.75, -- [1]
+								0.3, -- [2]
+								0.85, -- [3]
+							},
+						},
+						["damageTaken"] = {
+							["color"] = {
+								0.75, -- [1]
+								0.1, -- [2]
+								0.1, -- [3]
+							},
+						},
+						["spellDamageTakenCritical"] = {
+							["color"] = {
+								0.75, -- [1]
+								0.3, -- [2]
+								0.85, -- [3]
+							},
+						},
+					},
+				},
+			},
+		},
+	},
+}

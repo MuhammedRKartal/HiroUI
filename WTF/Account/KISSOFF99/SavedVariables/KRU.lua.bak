@@ -1,0 +1,42 @@
+
+KRUDB = {
+	["profileKeys"] = {
+		["Reiila - Icecrown"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["sunders"] = {
+				["enabled"] = false,
+			},
+			["cooldowns"] = {
+				["xOfs"] = 1412.476215089084,
+				["locked"] = true,
+				["maxbars"] = 35,
+				["spells"] = {
+					[1044] = true,
+					[45438] = true,
+					[6346] = true,
+					[10060] = true,
+					[642] = true,
+					[498] = true,
+					[20066] = true,
+					[1038] = true,
+					[48817] = true,
+				},
+				["yOfs"] = 790.2062404586978,
+			},
+			["mana"] = {
+				["yOfs"] = 310.6667065136315,
+				["xOfs"] = 1737.555248922371,
+				["width"] = 152,
+				["hideTitle"] = true,
+				["iconSize"] = 15,
+			},
+			["auras"] = {
+				["xOfs"] = 1587.904693628245,
+				["yOfs"] = 193.619125339517,
+				["locked"] = true,
+			},
+		},
+	},
+}

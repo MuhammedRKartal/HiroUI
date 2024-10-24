@@ -1,0 +1,83 @@
+MACRO 46 " " INV_Misc_QuestionMark
+/use Bauble of True Blood
+/use Runic Healing Potion
+END
+MACRO 19 "a" Ability_Creature_Disease_04
+/run local f = CreateFrame("frame",nil,UIParent); f:SetScript("OnUpdate",CombatLogClearEntries);
+END
+MACRO 53 "Accept" INV_Misc_QuestionMark
+/run AcceptGroup()
+END
+MACRO 52 "Alchemy" INV_Misc_QuestionMark
+#show Alchemy
+/cast Alchemy
+/run local skills = {"Transmute: Cardinal Ruby", "Transmute: King's Amber", "Transmute: Ametrine"} for i=1,GetNumTradeSkills() do if tContains(skills, GetTradeSkillInfo(i)) then DoTradeSkill(i) end end
+/script OpenAllBags()
+END
+MACRO 51 "Cha" INV_Misc_QuestionMark
+#showtooltip Chalcedony
+/run local tab = 5; SetCurrentGuildBankTab(tab); for slot = 1, 7 do UseContainerItem(0, slot) end
+END
+MACRO 43 "Dispell" INV_Misc_QuestionMark
+#showtooltip
+/cast [target=Gyomeii] Dispel Magic
+END
+MACRO 57 "Dungeon" INV_Misc_QuestionMark
+/click LFDRoleCheckPopupAcceptButton
+/click LFDDungeonReadyDialogEnterDungeonButton
+END
+MACRO 56 "Exit Veh" INV_Misc_QuestionMark
+/run VehicleExit()
+END
+MACRO 54 "Follow" INV_Misc_QuestionMark
+/follow Mayiascend
+END
+MACRO 48 "inner" INV_Misc_QuestionMark
+/cast [@mouseover, help][@target, help][@player] Innervate
+END
+MACRO 49 "JC" INV_Misc_QuestionMark
+#showtooltip Jewelcrafting
+/cast Jewelcrafting
+/run for i=1,GetNumTradeSkills() do if GetTradeSkillInfo(i)=="Icy Prism" then CloseTradeSkill() DoTradeSkill(i) break end end
+/use Icy Prism
+/script OpenAllBags();
+END
+MACRO 31 "Lacerate" INV_Misc_QuestionMark
+/startattack
+/cast Lacerate
+/cast Maul
+END
+MACRO 32 "Mangle" INV_Misc_QuestionMark
+/startattack
+/cast Mangle (Bear)(Rank 5)
+/cast Maul
+END
+MACRO 30 "Maul" INV_Misc_QuestionMark
+/startattack
+/cast Faerie Fire (Feral)
+/cast Maul
+END
+MACRO 50 "Orb" INV_Misc_QuestionMark
+#showtooltip Frozen Orb
+/run local tab = 5; SetCurrentGuildBankTab(tab); for slot = 1, 4 do AutoStoreGuildBankItem(tab, slot) end
+END
+MACRO 41 "Pain" INV_Misc_QuestionMark
+/cast [@target=Reiila] Pain Supression
+END
+MACRO 40 "Penance" INV_Misc_QuestionMark
+#showtooltip
+/use [@mouseover, help] Penance
+END
+MACRO 44 "PI" INV_Misc_QuestionMark
+END
+MACRO 45 "Rebirth" INV_Misc_QuestionMark
+#showtooltip Flash of Light
+/cast [@mouseover, help][@target, help][@player]  Rebirth(Rank 7)
+END
+MACRO 47 "sdas" INV_Misc_QuestionMark
+/cast [@mouseover, help][@target, help][@player] Cyclone
+END
+MACRO 34 "Wicked" INV_Misc_QuestionMark
+/target Living Inferno
+/cast Vampiric Touch
+END

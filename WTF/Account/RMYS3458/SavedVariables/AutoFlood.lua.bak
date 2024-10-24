@@ -1,0 +1,10 @@
+
+AF_config = {
+	["Icecrown-Reiila"] = {
+		["message"] = "WTS \"Erindan\" DK with SM and Trinkets, can add/remove items /w for more",
+		["channel"] = "5",
+		["idChannel"] = "5",
+		["rate"] = 30,
+		["system"] = "CHANNEL",
+	},
+}

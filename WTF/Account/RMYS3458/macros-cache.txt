@@ -1,0 +1,66 @@
+MACRO 16 "ce" INV_Misc_QuestionMark
+/run local f = CreateFrame("frame",nil,UIParent); f:SetScript("OnUpdate",CombatLogClearEntries);
+END
+MACRO 1 "div" INV_Misc_QuestionMark
+/cast Divine Illumination
+/cast Meteorite Crystal
+/cast Divine Favor
+END
+MACRO 9 "divine" INV_Misc_QuestionMark
+/cast Divine Storm
+/use 10
+END
+MACRO 5 "flash" INV_Misc_QuestionMark
+/cast [@mouseover] Flash of Light(Rank 9)
+END
+MACRO 15 "focus" INV_Misc_QuestionMark
+/cast [@Boomeranga] Focus Magic
+END
+MACRO 2 "Freedom" INV_Misc_QuestionMark
+/cast [@mouseover,exists,help]Hand of Freedom; Hand of Freedom
+END
+MACRO 14 "gems" INV_Misc_QuestionMark
+/script BuyMerchantItem(1 , {1})
+/script BuyMerchantItem(2 , {1})
+/script BuyMerchantItem(3 , {1})
+END
+MACRO 3 "holylight" INV_Misc_QuestionMark
+/cast [@mouseover] Holy Light(Rank 13)
+END
+MACRO 11 "Invite" INV_Misc_QuestionMark
+/invite Elziash
+/invite Mayiflash
+/invite Mayiread
+/invite Diamondtema
+END
+MACRO 6 "JC" INV_Misc_QuestionMark
+#showtooltip Jewelcrafting
+/cast Jewelcrafting
+/run for i=1,GetNumTradeSkills() do if GetTradeSkillInfo(i)=="Icy Prism" then CloseTradeSkill() DoTradeSkill(i) break end end
+/use Icy Prism
+/script OpenAllBags();
+END
+MACRO 8 "mana" INV_Misc_QuestionMark
+/p mana combo pls
+END
+MACRO 13 "nakro" INV_Misc_QuestionMark
+/run VehicleExit()
+END
+MACRO 12 "partyinv" INV_Misc_QuestionMark
+/inv Diamondtema
+/inv Mayiflash
+/inv Elziash
+/inv eladiel
+END
+MACRO 4 "Sacred" INV_Misc_QuestionMark
+/cast [@mouseover] Sacred Shield(Rank 1)
+END
+MACRO 10 "ss" INV_Misc_QuestionMark
+/run local f = CreateFrame("frame",nil,UIParent); f:SetScript("OnUpdate",CombatLogClearEntries);
+END
+MACRO 7 "Transmute" INV_Misc_QuestionMark
+#show Alchemy
+/cast Alchemy
+/run local skills = {"Transmute: Cardinal Ruby", "Transmute: King's Amber", "Transmute: Ametrine"} for i=1,GetNumTradeSkills() do if tContains(skills, GetTradeSkillInfo(i)) then DoTradeSkill(i) end end
+/script OpenAllBags()
+END

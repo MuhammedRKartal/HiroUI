@@ -1,0 +1,63 @@
+MACRO 16777225 "All-in" INV_Misc_QuestionMark
+/cast Avenging Wrath
+/cast Divine Illumination
+/use 10
+/use Talisman of Resurgence
+END
+MACRO 16777221 "Aura" INV_Misc_QuestionMark
+#showtooltip Aura Mastery
+/cast !Concentration Aura
+/cast Aura Mastery
+END
+MACRO 16777234 "Cleanse" INV_Misc_QuestionMark
+#showtooltip Cleanse
+/use [@mouseover, help] Cleanse
+END
+MACRO 16777227 "div" INV_Misc_QuestionMark
+/cast Divine Illumination
+/use Talisman of Resurgence
+/use Stormbringer Gloves
+END
+MACRO 16777241 "Favor" INV_Misc_QuestionMark
+#showtooltip Divine Favor
+/use Bauble of True Blood
+/cast Divine Favor
+/cast Holy Shock
+END
+MACRO 16777235 "Flash" INV_Misc_QuestionMark
+#showtooltip Holy Shock
+/cast Divine Favor
+/use [@mouseover, help] Holy Shock
+END
+MACRO 16777230 "freedom" INV_Misc_QuestionMark
+#showtooltip
+/cast [@mouseover] Hand of Freedom
+END
+MACRO 16777240 "Hop" INV_Misc_QuestionMark
+/cast [@Cezzarged, exists, nodead] [] Hand of Protection
+END
+MACRO 16777238 "Justice" INV_Misc_QuestionMark
+/cast [@Focus, exists, nodead] [] Hammer of Justice
+END
+MACRO 16777229 "lay" INV_Misc_QuestionMark
+#showtooltip
+/cast [@mouseover] Lay on Hands
+END
+MACRO 16777239 "Light" INV_Misc_QuestionMark
+/cast [@targettarget,harm,nodead][] Judgement of Light
+/targetlasttarget
+END
+MACRO 16777233 "Mouseover" INV_Misc_QuestionMark
+#showtooltip Sacred Shield
+/use [@mouseover, help] Sacred Shield
+END
+MACRO 16777222 "MouseOver" INV_Misc_QuestionMark
+#showtooltip Beacon of Light
+/use [@mouseover, help] Beacon of Light
+END
+MACRO 16777237 "Sacrifice" INV_Misc_QuestionMark
+/cast [@Cezzarged, exists, nodead] [] Hand of Sacrifice
+END
+MACRO 16777228 "Self" INV_Misc_QuestionMark
+/cast [@player] Beacon of Light
+END

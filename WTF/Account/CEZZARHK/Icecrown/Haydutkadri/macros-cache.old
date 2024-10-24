@@ -1,0 +1,36 @@
+MACRO 16777217 "Buff" Ability_Mage_LivingBomb
+/cast Blood Fury(Racial)
+/use Sanctified Scourgelord Gauntlets
+END
+MACRO 16777223 "cccc" INV_Misc_QuestionMark
+/RW STOP DPS
+END
+MACRO 16777222 "cd" INV_Misc_QuestionMark
+/use Sindragosa's Flawless Fang
+END
+MACRO 16777221 "Gargoyle" INV_Misc_QuestionMark
+#showtooltip Summon Gargoyle
+/cast Blood Fury(Racial)
+/use Sanctified Scourgelord Gauntlets
+/cast Summon Gargoyle
+END
+MACRO 16777218 "Hysteria" INV_Misc_QuestionMark
+#showtooltip
+/cast [@Remoresless] Hysteria
+/cast Blood Fury(Racial)
+/use Sanctified Scourgelord Gauntlets
+END
+MACRO 16777224 "push" INV_Misc_QuestionMark
+/rw pushhh
+END
+MACRO 16777220 "TRADE" INV_Misc_QuestionMark
+/tar Atsumu
+/trade Atsumu
+END
+MACRO 16777219 "UA" INV_Misc_QuestionMark
+#showtooltip Unbreakable Armor
+/cast Blood Fury(Racial)
+/use Aldriana's Gloves of Secrecy
+/cast Unbreakable Armor
+/cast Blood Tap
+END

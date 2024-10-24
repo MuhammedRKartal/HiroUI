@@ -1,0 +1,81 @@
+MACRO 18 " ChargeCA" INV_Misc_QuestionMark
+#showtooltip Charge
+/equipslot 16 Shadowmourne
+/cast Battle Stance
+/cast Charge(Rank 3)
+/cancelaura Chaos Bane
+/cancelaura Hand of Protection
+/cancelaura Bladestorm
+/startattack [Harm]
+/cast Hamstring
+/cast Battle Stance 
+END
+MACRO 5 " InterceptCA" INV_Misc_QuestionMark
+/cast Berserker Stance
+/cancelaura Hand of Protection
+/cast [@focus] Intercept
+END
+MACRO 39 " IntimidatingCA" INV_Misc_QuestionMark
+/cast Intimidating shout
+/cancelaura sweeping strikes
+END
+MACRO 44 " Pummel" INV_Misc_QuestionMark
+#showtooltip Pummel
+/cast Berserker Stance
+/use Pummel
+/cancelaura BladeStorm
+END
+MACRO 55 "Berserker" INV_Misc_QuestionMark
+#showtooltip Shield Wall
+/cast Berserker Stance
+/equipslot 16 Glorenzelg, High-Blade of the Silver Hand
+/equipslot 17 Cryptmaker
+END
+MACRO 54 "Cleave" INV_Misc_QuestionMark
+/cast !Whirlwind
+/cast Cleave(Rank 8)
+/use 10
+END
+MACRO 53 "Cleave" INV_Misc_QuestionMark
+/cast !Bloodthirst
+/cast Cleave(Rank 8)
+/use 10
+END
+MACRO 58 "Execute" INV_Misc_QuestionMark
+/cast Execute(Rank 9)
+/cast Heroic Strike(Rank 13)
+END
+MACRO 33 "Focus" INV_Misc_QuestionMark
+/cast [@focus] Intimidating Shout
+END
+MACRO 52 "Heroic" INV_Misc_QuestionMark
+/cast !Bloodthirst
+/cast Heroic Strike(Rank 13)
+/use 10
+END
+MACRO 51 "Heroic" INV_Misc_QuestionMark
+/cast !Whirlwind
+/cast Heroic Strike(Rank 13)
+/use 10
+END
+MACRO 59 "JC" INV_Misc_QuestionMark
+#showtooltip Jewelcrafting
+/cast Jewelcrafting
+/run for i=1,GetNumTradeSkills() do if GetTradeSkillInfo(i)=="Icy Prism" then CloseTradeSkill() DoTradeSkill(i) break end end
+/use Icy Prism
+/script OpenAllBags();
+END
+MACRO 56 "MOInvervene" INV_Misc_QuestionMark
+/cast Defensive Stance
+/cast [@mouseover,exists,help]Intervene; Intervene
+END
+MACRO 60 "Rend" INV_Misc_QuestionMark
+#show Rend
+/cast Battle Stance
+/cast Rend
+/cast Berserker Stance
+END
+MACRO 57 "Sunder" INV_Misc_QuestionMark
+/cast Sunder Armor
+/cast Heroic Strike(Rank 13)
+END

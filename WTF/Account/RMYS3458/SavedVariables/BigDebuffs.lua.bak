@@ -1,0 +1,10 @@
+
+BigDebuffsDB = {
+	["profileKeys"] = {
+		["Aegwyn - Icecrown"] = "Default",
+	},
+	["namespaces"] = {
+		["LibDualSpec-1.0"] = {
+		},
+	},
+}

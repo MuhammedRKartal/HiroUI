@@ -1,0 +1,72 @@
+MACRO 16777221 "Beacon" INV_Misc_QuestionMark
+#showtooltip
+/cast [@mouseover] Beacon of Light
+END
+MACRO 16777220 "Cleanse" INV_Misc_QuestionMark
+#showtooltip
+/cast [@mouseover] Cleanse
+END
+MACRO 16777225 "Dsac" INV_Misc_QuestionMark
+#showtooltip
+/cancelaura Divine Sacrifice
+/cast Divine Sacrifice
+END
+MACRO 16777229 "everyting" INV_Misc_QuestionMark
+/use Fallen Lord's Handguards
+/cast Divine Illumination
+/use Meteorite Crystal
+END
+MACRO 16777219 "HoF" INV_Misc_QuestionMark
+#showtooltip
+/cast [@mouseover] Hand of Freedom
+END
+MACRO 16777217 "HoP" INV_Misc_QuestionMark
+#showtooltip
+/cast [@mouseover] Hand of Protection
+END
+MACRO 16777218 "HoS" INV_Misc_QuestionMark
+#showtooltip
+/cancelaura Hand of Sacrifice
+/cast [@mouseover] Hand of Sacrifice
+END
+MACRO 16777228 "Inter" INV_Misc_QuestionMark
+#showtooltip
+/cast [@mouseover] Divine Intervention
+END
+MACRO 16777226 "Lay" INV_Misc_QuestionMark
+#showtooltip
+/cast [@mouseover] Lay on Hands
+END
+MACRO 16777230 "mana" INV_Misc_QuestionMark
+/cast Avenging Wrath
+/use Talisman of Resurgence
+/cast Divine Plea
+END
+MACRO 16777231 "msg" INV_Misc_QuestionMark
+/w Bigdads inneervatee
+END
+MACRO 16777223 "Plea" INV_Misc_QuestionMark
+#showtooltip
+/cast Avenging Wrath
+/cast Divine Plea
+/use Talisman of Resurgence
+END
+MACRO 16777224 "Salv" INV_Misc_QuestionMark
+#showtooltip
+/cast [@mouseover] Hand of Salvation
+END
+MACRO 16777222 "Shield" INV_Misc_QuestionMark
+#showtooltip
+/cast [@mouseover] Sacred Shield
+END
+MACRO 16777232 "tide" INV_Misc_QuestionMark
+/p Tide+Hymn hope 
+END
+MACRO 16777227 "Wings" INV_Misc_QuestionMark
+#showtooltip Avenging Wrath
+/cast Avenging Wrath
+/use Fallen Lord's Handguards
+/cast Divine Illumination
+/use Fallen Lord's Handguards
+/use Talisman of Resurgence
+END

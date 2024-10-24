@@ -1,0 +1,51 @@
+MACRO 16777221 "Dash" INV_Misc_QuestionMark
+#showtooltip Dash(Rank 3)
+/cast Cat Form(Shapeshift)
+/cast Dash(Rank 3)
+END
+MACRO 16777241 "Decurse" INV_Misc_QuestionMark
+/cast [@mouseover] Remove Curse
+END
+MACRO 16777222 "Faerie" INV_Misc_QuestionMark
+/startattack
+/cast Faerie Fire (Feral)
+/cast Maul(Rank 10)
+/cancelaura Hand of Protection
+/cancelaura Divine Intervention
+END
+MACRO 16777220 "Lacerate" INV_Misc_QuestionMark
+#showtooltip Lacerate(Rank 3)
+/startattack
+/cast Lacerate(Rank 3)
+/cast Maul(Rank 10)
+/cancelaura Hand of Protection
+/cancelaura Divine Intervention
+END
+MACRO 16777218 "Mangle" INV_Misc_QuestionMark
+#showtooltip Mangle (Bear)(Rank 5)
+/cast Mangle (Bear)(Rank 5)
+/cast Maul(Rank 10)
+/cancelaura Hand of Protection
+/cancelaura Divine Intervention
+END
+MACRO 16777240 "Mouseover" INV_Misc_QuestionMark
+/cast [@mouseover] Wild Growth
+END
+MACRO 16777223 "Reaper" Spell_Shadow_Twilight
+/cast Enrage
+/cast Barkskin
+/use Sindragosa's Flawless Fang
+/use Corroded Skeleton Key 
+END
+MACRO 16777224 "Reaper 2" INV_Misc_QuestionMark
+/cast Survival Instincts
+/cast Frenzied Regeneration
+END
+MACRO 16777219 "Swipe" INV_Misc_QuestionMark
+#showtooltip Swipe (Bear)(Rank 8)
+/startattack
+/cast Swipe (Bear)(Rank 8)
+/cast Maul(Rank 10)
+/cancelaura Hand of Protection
+/cancelaura Divine Intervention
+END

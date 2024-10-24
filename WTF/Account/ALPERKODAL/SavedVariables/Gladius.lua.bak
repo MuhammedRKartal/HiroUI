@@ -1,0 +1,10 @@
+
+GladiusDB = {
+	["profileKeys"] = {
+		["Vardendi - Icecrown"] = "Vardendi - Icecrown",
+	},
+	["profiles"] = {
+		["Vardendi - Icecrown"] = {
+		},
+	},
+}

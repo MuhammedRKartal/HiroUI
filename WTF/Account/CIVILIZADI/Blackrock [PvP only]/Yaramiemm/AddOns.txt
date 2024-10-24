@@ -1,0 +1,8 @@
+WeakAurasCompanion: enabled
+WeakAurasArchive: enabled
+XPerl_TeamSpeak: disabled
+XPerl_Options: enabled
+HealBot: enabled
+Grid2Options: disabled
+Grid2AoeHeals: disabled
+Grid2: disabled

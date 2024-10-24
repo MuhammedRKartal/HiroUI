@@ -1,0 +1,70 @@
+MACRO 16777226 " DS" INV_Misc_QuestionMark
+#showtooltip Divine Storm
+/cast Divine Storm
+/use 10
+/cancelaura Chaos Bane
+END
+MACRO 16777225 "Avenging" INV_Misc_QuestionMark
+/cast Avenging Wrath
+/cast Divine Illumination
+END
+MACRO 16777243 "Bash" INV_Misc_QuestionMark
+/cast Shield of Righteousness
+/use 10
+END
+MACRO 16777232 "Cancelaura" INV_Misc_QuestionMark
+/cast Divine Shield
+/cancelaura Divine Shield
+/cancelaura Hand of Protection
+END
+MACRO 16777248 "Disac" INV_Misc_QuestionMark
+/cast Divine Sacrifice
+/cancelaura Divine Sacrifice
+END
+MACRO 16777224 "Dispel" INV_Misc_QuestionMark
+/cast [@mouseover] Cleanse
+END
+MACRO 16777244 "Exorcism" INV_Misc_QuestionMark
+/cast Exorcism
+/use 10
+END
+MACRO 16777237 "Focus" INV_Misc_QuestionMark
+#showtooltip
+/cast [@focus] Repentance
+END
+MACRO 16777240 "Freedom" INV_Misc_QuestionMark
+/use [@mouseover, help] Hand of Freedom
+END
+MACRO 16777241 "HealP2" INV_Misc_QuestionMark
+/cast [@party1] Flash of Light
+END
+MACRO 16777246 "hsac" INV_Misc_QuestionMark
+/use [@mouseover, help] Hand of Sacrifice
+END
+MACRO 16777251 "Judg" INV_Misc_QuestionMark
+/assist Gelkucama
+/cast Judgement of Wisdom
+END
+MACRO 16777245 "Judgement" INV_Misc_QuestionMark
+/cast Judgement of Wisdom
+/use 10
+END
+MACRO 16777242 "Lay" INV_Misc_QuestionMark
+#showtooltip Lay on Hands
+/use [@mouseover, help] Lay on Hands(Rank 5)
+END
+MACRO 16777250 "lay of hand" INV_Misc_QuestionMark
+/use [@mouseover, help] Lay on Hands(Rank 5)
+END
+MACRO 16777230 "Salvation" INV_Misc_QuestionMark
+#showtooltip Hand of Salvation
+/use [@mouseover, help] Hand of Salvation
+END
+MACRO 16777249 "Self" INV_Misc_QuestionMark
+#showtooltip Hand of Salvation
+/cast target=[Mayiascend] Hand of Salvation
+/cancelaura Hand of Salvation
+END
+MACRO 16777247 "ss" INV_Misc_QuestionMark
+/use [@mouseover, help] Hand of Protection(Rank 3)
+END

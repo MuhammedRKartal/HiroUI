@@ -1,0 +1,10 @@
+XPerl_TeamSpeak: disabled
+WeakAurasCompanion: enabled
+WeakAurasArchive: enabled
+XPerl_Options: enabled
+HealBot: enabled
+NugComboBar: enabled
+SharedMedia: enabled
+xCT+: disabled
+lossofcontrol: disabled
+Clique: disabled

@@ -1,0 +1,37 @@
+MACRO 16777217 "Cure" INV_Misc_QuestionMark
+/castsequence [target=Reiila] Cure Disease, Dispel Magic
+END
+MACRO 16777227 "Desperata" INV_Misc_QuestionMark
+#Shadowtooltip Desperate Prayer(Rank 9)
+/use Glowing Twilight Scale
+/use Binding Light
+/cast [@mouseover] Desperate Prayer(Rank 9)
+END
+MACRO 16777223 "Penance" INV_Misc_QuestionMark
+#showtooltip
+/cast [@mouseover] Penance(Rank 4) 
+END
+MACRO 16777228 "Penance" INV_Misc_QuestionMark
+#showtooltip
+/use [@mouseover]  Penance(Rank 4)
+END
+MACRO 16777219 "pi" INV_Misc_QuestionMark
+#showtooltip
+/cast [@mouseover] Power Infusion 
+END
+MACRO 16777224 "prayer" INV_Misc_QuestionMark
+#showtooltip
+/cast [@mouseover] Prayer of Healing
+END
+MACRO 16777222 "ps" INV_Misc_QuestionMark
+#showtooltip
+/cast [@mouseover]  Pain Suppression 
+END
+MACRO 16777225 "renew" INV_Misc_QuestionMark
+#showtooltip
+/use [@mouseover] Renew
+END
+MACRO 16777226 "Shield" INV_Misc_QuestionMark
+#showtooltip
+/use [@mouseover] Power Word: Shield
+END

@@ -1,0 +1,2 @@
+
+CombatLogManagerDB = nil

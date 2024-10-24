@@ -1,0 +1,62 @@
+
+MBFDB = {
+	["profileKeys"] = {
+		["Mayiascend - Icecrown"] = "Main",
+	},
+	["profiles"] = {
+		["Mayiascend - Icecrown"] = {
+			["MBF_FrameLocation"] = {
+				nil, -- [1]
+				nil, -- [2]
+				-298.9563601192701, -- [3]
+				-185.4165782020735, -- [4]
+			},
+		},
+		["Main"] = {
+			["mbfHidden"] = true,
+			["sort_by_rows"] = true,
+			["MBF_FrameLocation"] = {
+				nil, -- [1]
+				nil, -- [2]
+				-298.9563601192701, -- [3]
+				-185.4165782020735, -- [4]
+			},
+			["GrowUp"] = false,
+		},
+		["Default"] = {
+			["columns_or_rows"] = 2,
+			["mbfHidden"] = true,
+			["minimapButton"] = {
+				["minimapPos"] = 217.6054195730703,
+				["hide"] = false,
+			},
+			["MBF_FrameLocation"] = {
+				nil, -- [1]
+				nil, -- [2]
+				-322.9190737550223, -- [3]
+				-114.5826380801623, -- [4]
+			},
+			["customChildren"] = {
+				"MinimapButtonFrameDragButton", -- [1]
+				"MiniMapMailFrameDisabled", -- [2]
+				"LibDBIcon10_Bartender4", -- [3]
+				"LibDBIcon10_DBM", -- [4]
+				"Gatherer_MinimapOptionsButton", -- [5]
+				"HealBot_ButtonFrame", -- [6]
+				"LibDBIcon10_Skinner", -- [7]
+				"LibDBIcon10_WeakAuras", -- [8]
+				"XPerl_MinimapButton_Frame", -- [9]
+				"LibDBIcon10_Skada", -- [10]
+				"LibDBIcon10_KPack", -- [11]
+				"FuBarPluginAtlasLootFuFrameMinimapButton", -- [12]
+				"SexyMapCoordFrame", -- [13]
+				"MiniMapMailFrame", -- [14]
+				"GameTimeFrame", -- [15]
+				"MiniMapWorldMapButton", -- [16]
+				"MinimapZoomIn", -- [17]
+				"MinimapZoomOut", -- [18]
+			},
+			["disabledMail"] = false,
+		},
+	},
+}

@@ -1,0 +1,39 @@
+MACRO 16777229 "Blood Strike" INV_Misc_QuestionMark
+#showtooltip Blood Strike
+/cast Blood Strike
+/cast Run
+/cancelaura Hand of Protection
+/cancelaura Divine Intervene 
+END
+MACRO 16777226 "divine inverteio" INV_Misc_QuestionMark
+/cancelaura Divine Intervention
+END
+MACRO 16777230 "Hysteria" INV_Misc_QuestionMark
+/cast [target=Shekershey] Hysteria
+END
+MACRO 16777227 "Icy Touch" INV_Misc_QuestionMark
+#showtooltip Icy Touch
+/cast Icy Touch
+/cast Rune Strike
+/cancelaura Hand of Protection
+/cancelaura Divine Intervene 
+END
+MACRO 16777228 "Plague Strike" INV_Misc_QuestionMark
+#showtooltip Plague Strike
+/cast Plague Strike
+/cancelaura Hand of Protection
+/cancelaura Divine Intervene 
+END
+MACRO 16777219 "UA" INV_Misc_QuestionMark
+#showtooltip Unbreakable Armor
+/cast Blood Fury(Racial)
+/use Aldriana's Gloves of Secrecy
+/cast Unbreakable Armor
+/cast Blood Tap
+END
+MACRO 16777225 "Vampiric Tap" INV_Misc_QuestionMark
+#showtooltip Vampiric Blood
+/cast Vampiric Blood
+/cast Blood Tap
+/use Sindragosa's Flawless Fang
+END

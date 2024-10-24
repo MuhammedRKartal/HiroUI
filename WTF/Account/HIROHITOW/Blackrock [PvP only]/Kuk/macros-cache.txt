@@ -1,0 +1,31 @@
+MACRO 16777221 "Aura" INV_Misc_QuestionMark
+#showtooltip Aura Mastery
+/cast !Concentration Aura
+/cast Aura Mastery
+END
+MACRO 16777225 "Avenging" INV_Misc_QuestionMark
+/cast Avenging Wrath
+/cast Divine Illumination
+END
+MACRO 16777222 "Beacon" INV_Misc_QuestionMark
+/cast [@player] Beacon of Light
+END
+MACRO 16777217 "Crusader Strike" INV_Misc_QuestionMark
+/cast Crusader Strike
+/cast Hand of Reckoning
+END
+MACRO 16777224 "Dispel" INV_Misc_QuestionMark
+/cast [target=Gyomeii] Cleanse
+END
+MACRO 16777218 "Focus" INV_Misc_QuestionMark
+/focus
+END
+MACRO 16777219 "Rep" INV_Misc_QuestionMark
+/cast [target=focus] Repentance
+END
+MACRO 16777220 "Salvation" INV_Misc_QuestionMark
+/cast [target=Syllisia] Hand of Salvation
+END
+MACRO 16777223 "Target" Spell_Shaman_TotemRecall
+/target Gyomeii
+END

@@ -1,0 +1,2 @@
+
+FriendGroups_SavedVars = nil

@@ -1,0 +1,4 @@
+MACRO 2 "CD" INV_Misc_QuestionMark
+/Cast combustion
+/use Talisman of Resurgence
+END

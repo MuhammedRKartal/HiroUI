@@ -1,0 +1,33 @@
+
+MoveAnything_CustomFrames = {
+}
+MoveAnything_CharacterSettings = {
+	["default"] = {
+		["PlayerBuffsMover"] = {
+			["name"] = "PlayerBuffsMover",
+			["pos"] = {
+				"TOPRIGHT", -- [1]
+				"UIParent", -- [2]
+				"TOPRIGHT", -- [3]
+				-286.126642635847, -- [4]
+				-29.30168900752405, -- [5]
+			},
+		},
+		["PlayerDebuffsMover"] = {
+			["scale"] = 1.819253116075466,
+			["name"] = "PlayerDebuffsMover",
+			["pos"] = {
+				"BOTTOMLEFT", -- [1]
+				"UIParent", -- [2]
+				"BOTTOMLEFT", -- [3]
+				892.7876773853861, -- [4]
+				459.5030750664161, -- [5]
+			},
+		},
+	},
+}
+MoveAnything_UseCharacterSettings = nil
+MADB = {
+	["frameListRows"] = 18,
+	["collapsed"] = true,
+}

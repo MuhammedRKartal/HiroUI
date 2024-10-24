@@ -1,0 +1,10 @@
+
+PurgeatoryDB = {
+	["profileKeys"] = {
+		["Syllisia - Icecrown"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

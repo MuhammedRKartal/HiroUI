@@ -1,0 +1,37 @@
+
+UtopiaDB = {
+	["char"] = {
+		["Arhangel - Icecrown"] = {
+			["pos"] = {
+				["UtopiaAnchorFrame1"] = {
+					"BOTTOMRIGHT", -- [1]
+					"UIParent", -- [2]
+					"RIGHT", -- [3]
+					-249.7605452268408, -- [4]
+					-114.5471336138259, -- [5]
+				},
+			},
+		},
+	},
+	["profileKeys"] = {
+		["Arhangel - Icecrown"] = "Default",
+	},
+	["realm"] = {
+		["Icecrown"] = {
+			["players"] = {
+				["0x0700000000017D92"] = {
+					["guild"] = "Afterlight",
+					["login"] = 1650215623,
+					["name"] = "Arhangel",
+				},
+			},
+		},
+	},
+	["profiles"] = {
+		["Default"] = {
+			["mode"] = "buffs",
+			["showCooldown"] = false,
+			["barwidth"] = 10,
+		},
+	},
+}

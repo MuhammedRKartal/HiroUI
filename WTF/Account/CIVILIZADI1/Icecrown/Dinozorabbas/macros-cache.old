@@ -1,0 +1,12 @@
+MACRO 16777217 "1" INV_Misc_QuestionMark
+#showtooltip Lava Lash(Rank 1)
+/cast Lava Lash(Rank 1)
+/use 10
+/cancelaura Hand of Protection
+END
+MACRO 16777218 "2" INV_Misc_QuestionMark
+#showtooltip Stormstrike
+/cast Stormstrike
+/use 10
+/cancelaura Hand of Protection
+END

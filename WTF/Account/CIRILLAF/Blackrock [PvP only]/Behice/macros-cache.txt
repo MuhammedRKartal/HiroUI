@@ -1,0 +1,21 @@
+MACRO 16777219 "Attack" Ability_GhoulFrenzy
+/petattack
+END
+MACRO 16777218 "Call Pet" Ability_Tracking
+#showtooltip Find Animals
+/petpassive
+/callpet
+END
+MACRO 16777221 "Focus" INV_Misc_QuestionMark
+/cast [@focus, exists, nodead] [] Counterspell
+END
+MACRO 16777217 "Freeze" INV_Misc_QuestionMark
+/cast Freeze
+END
+MACRO 16777222 "Poly" INV_Misc_QuestionMark
+/cast [@focus, exists, nodead] [] Polymorph
+END
+MACRO 16777220 "Veins" INV_Misc_QuestionMark
+/cast Icy Veins
+/use Relentless Gladiator's Silk Handguards
+END

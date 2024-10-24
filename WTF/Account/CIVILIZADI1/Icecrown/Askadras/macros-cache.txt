@@ -1,0 +1,55 @@
+MACRO 16777224 "ce" INV_Misc_QuestionMark
+#showtooltip
+/cast [@mouseover,help,nodead] [help] [@player] Cleanse
+END
+MACRO 16777218 "Ds" INV_Misc_QuestionMark
+#showtooltip
+/cast Divine Sacrifice
+/cancelaura Divine Sacrifice
+END
+MACRO 16777221 "freedom" INV_Misc_QuestionMark
+#showtooltip Hand of Freedom
+/use [@mouseover, help] Hand of Freedom
+END
+MACRO 16777228 "Hammer" INV_Misc_QuestionMark
+#showtooltip Hammer of the Righteous
+/startattack
+/cast Hammer of the Righteous
+/cancelaura Hand of Protection
+END
+MACRO 16777223 "hop" INV_Misc_QuestionMark
+#showtooltip Hand of Protection(Rank 3)
+/use [@mouseover, help]  Hand of Protection(Rank 3)
+END
+MACRO 16777217 "s" Ability_Creature_Disease_02
+#showtooltip Divine Shield
+/cast Divine Shield
+/cancelaura Divine Shield
+END
+MACRO 16777220 "salv" INV_Misc_QuestionMark
+#showtooltip Hand of Salvation
+/use [@mouseover, help] Hand of Salvation
+END
+MACRO 16777219 "sef" INV_Misc_QuestionMark
+#showtooltip Hand of Salvation
+/cast target=[Askadras] Hand of Salvation
+/cancelaura Hand of Salvation
+END
+MACRO 16777226 "Shield" INV_Misc_QuestionMark
+/cast Divine Shield
+/cancelaura Divine Shield
+END
+MACRO 16777227 "Shield of" INV_Misc_QuestionMark
+#showtooltip Shield of Righteousness
+/startattack
+/cast Shield of Righteousness
+/cancelaura Hand of Protection
+END
+MACRO 16777222 "ss" INV_Misc_QuestionMark
+#showtooltip Lay on Hands(Rank 5)
+/use [@mouseover, help] Lay on Hands(Rank 5)
+END
+MACRO 16777225 "ss" INV_Misc_QuestionMark
+#showtooltip Hand of Sacrifice
+/use [@mouseover, help] Hand of Sacrifice
+END

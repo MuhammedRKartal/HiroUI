@@ -1,0 +1,215 @@
+MACRO 12 "1" INV_Misc_QuestionMark
+#showtooltip Sinister Strike(Rank 12)
+/startattack
+/use Sinister Strike(Rank 12)
+/use 10
+END
+MACRO 37 "aa" INV_Misc_QuestionMark
+#showtooltip Mithrios, Bronzebeard's Legacy
+/equip Wrathful Gladiator's Cleaver
+/equip Wrathful Gladiator's Shield Wall
+END
+MACRO 47 "aa" INV_Misc_QuestionMark
+/run print(IsQuestFlaggedCompleted(7601))
+END
+MACRO 46 "aa" INV_Misc_QuestionMark
+#showtooltip Retaliation
+/cast Battle Stance
+/cast Retaliation
+END
+MACRO 34 "asd" INV_Misc_QuestionMark
+#showtooltip Tricks of the Trade
+/target Mydrannul
+/cast Tricks of the Trade
+/target lasttarget
+END
+MACRO 35 "asd" INV_Misc_QuestionMark
+#showtooltip Shattering Throw
+/cancelaura Bladestorm
+/use Shattering Throw
+END
+MACRO 39 "asd" INV_Misc_QuestionMark
+#showtooltip Shoot
+/target wicked
+/use Shoot
+END
+MACRO 5 "B" Ability_Creature_Disease_02
+#showtooltip
+/use Divine Shield
+/cancelaura Divine Shield
+END
+MACRO 45 "bad boy" INV_Misc_QuestionMark
+Bad boys, bad boys
+Whatcha gonna do, whatcha gonna do
+When they come for you
+END
+MACRO 20 "Beyblade" INV_Misc_QuestionMark
+#showtooltip Bladestorm
+/cancelaura Hand of Protection
+/cast Blood Fury(Racial)
+/use Bladestorm
+END
+MACRO 27 "bs" INV_Misc_QuestionMark
+#showtooltip Bloodthirst
+/startattack
+/cast Bloodthirst
+/cast Heroic Strike(Rank 13)
+/use 10
+/cancelaura Hand of Protecion
+/cancelaura Power Word: Shield
+/cancelaura Divine Intervation
+END
+MACRO 31 "bs c" INV_Misc_QuestionMark
+#showtooltip Bloodthirst
+/startattack
+/use Bloodthirst
+/cast Cleave(Rank 8)
+/use 10
+/cancelaura Hand of Protection
+/cancelaura Power Word: Shield
+/cancelaura Divine Intervation
+END
+MACRO 25 "ch" INV_Misc_QuestionMark
+#showtooltip Intercept
+/cancelaura Hand of Protection
+/cast Intercept
+/cast Heroic Throw
+/cancelaura Power Word: Shield
+END
+MACRO 23 "Char Pvp" INV_Misc_QuestionMark
+#showtooltip Charge(Rank 3)
+/cancelaura Bladestorm
+/cancelaura Hand of Protection
+/cast Battle Stance
+/cast Charge(Rank 3)
+/cast Heroic Throw
+END
+MACRO 11 "Coldown" Ability_BackStab
+#showtooltip
+/cast  Blade Flurry
+/cast Berserking(Racial)
+END
+MACRO 24 "Decursive" INV_Misc_QuestionMark
+/script Dcr:Println('No spell available')
+END
+MACRO 28 "exe" INV_Misc_QuestionMark
+#showtooltip
+/cast Execute(Rank 9)
+/cancelaura Hand of Protection
+/cancelaura Power Word: Shield
+END
+MACRO 2 "FOCUS" Ability_CheapShot
+/focus target
+END
+MACRO 29 "free" INV_Misc_QuestionMark
+#showtooltip Hand of Freedom
+/use Hand of Freedom
+/cancelaura Hand of Protection
+jag är svensk
+END
+MACRO 32 "Interv" INV_Misc_QuestionMark
+#showtooltip Intervene
+/cast Defensive Stance
+/use Intervene
+END
+MACRO 40 "kamera" INV_Misc_QuestionMark
+/script SetCVar("cameraDistanceMax", 100)
+END
+MACRO 38 "mark" INV_Misc_QuestionMark
+/script SetRaidTarget("enkaz",6);
+END
+MACRO 33 "mortal" INV_Misc_QuestionMark
+#showtooltip Mortal Strike(Rank 8)
+/use Mortal Strike(Rank 8)
+/startattack
+END
+MACRO 21 "Pvp Def" INV_Misc_QuestionMark
+#showtooltip Shield Wall
+/cancelaura Bladestorm
+/cast Defensive Stance
+/equip Wrathful Gladiator's Shield Wall
+/equip Wrathful Gladiator's Cleaver
+/cast Shield Wall
+/cast Shield Block
+END
+MACRO 18 "Pvp Focus i" INV_Misc_QuestionMark
+#showtooltip Intercept
+/cancelaura Bladestorm
+/equip Shadowmourne
+/cast Berserker Stance
+/cast [@focus] intercept
+END
+MACRO 19 "Pvp Focus inter" INV_Misc_QuestionMark
+#showtooltip Shield Bash
+/cancelaura Bladestorm
+/equip Wrathful Gladiator's Shield Wall
+/equip Wrathful Gladiator's Cleaver
+/cast [@Focus] Shield Bash
+END
+MACRO 22 "Pvp Remove" INV_Misc_QuestionMark
+#showtooltip Berserker Rage
+/cancelaura Enraged Regeneration
+/cast Berserker Rage
+END
+MACRO 41 "Pvpb" INV_Misc_QuestionMark
+#showtooltip Battle Stance
+/cast Battle Stance
+/cancelaura Bladestorm
+/cancelaura Hand of Protection
+/equip Shadowmourne
+END
+MACRO 43 "pvpb" INV_Misc_QuestionMark
+#showtooltip Berserker Stance
+/cast Berserker Stance
+/cancelaura Bladestorm
+/equip Shadowmourne
+END
+MACRO 42 "pvpd" INV_Misc_QuestionMark
+#showtooltip Defensive Stance
+/cast Defensive Stance
+/cancelaura Bladestorm
+/equipslot 17  Wrathful Gladiator's Shield Wall
+/equipslot 16 Wrathful Gladiator's Cleaver
+END
+MACRO 6 "sap" Ability_Sap
+#showtooltip
+/cleartarget
+/targetenemyplayer
+/cast Sap
+END
+MACRO 44 "spel ref" INV_Misc_QuestionMark
+#showtooltip Spell Reflection
+/cancelaura Bladestorm
+/equip Wrathful Gladiator's Shield Wall
+/equip Wrathful Gladiator's Cleaver
+/cast Spell Reflection
+END
+MACRO 1 "target" Ability_Creature_Cursed_05
+#showtooltip
+/use [target=focus] Blind
+END
+MACRO 7 "TOt" Ability_BullRush
+#showtooltip
+/Use [target=focus] Tricks of the Trade
+/target lasttarget
+END
+MACRO 26 "ww" INV_Misc_QuestionMark
+#showtooltip Whirlwind
+/startattack
+/cast Whirlwind
+/cast Heroic Strike(Rank 13)
+/use 10
+/cancelaura Hand of Protection
+/cancelaura Divine Intervation
+/cancelaura Power Word: Shield
+END
+MACRO 30 "ww c" INV_Misc_QuestionMark
+#showtooltip Whirlwind
+/startattack
+/use Whirlwind
+/cast Cleave(Rank 8)
+/use 10
+/cancelaura Hand of Protection
+/cancelaura Power Word: Shield
+/cancelaura Divine Intervation
+END

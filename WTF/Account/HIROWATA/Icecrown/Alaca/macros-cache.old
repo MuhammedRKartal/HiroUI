@@ -1,0 +1,6 @@
+MACRO 16777217 "CD" Ability_Creature_Cursed_01
+#showtooltip 
+/use Sphere of Red Dragon's Blood
+/Use Nevermelting Ice Crystal
+/cast Avenging Wrath
+END

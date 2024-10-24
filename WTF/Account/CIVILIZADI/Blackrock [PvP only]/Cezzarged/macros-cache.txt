@@ -1,0 +1,101 @@
+MACRO 16777227 "asd" INV_Misc_QuestionMark
+#showtooltip Shield Bash
+/cancelaura Bladestorm
+/equipslot 16 Wrathful Gladiator's Cleaver
+/equipslot 17 Wrathful Gladiator's Shield Wall
+/cast Shield Bash
+END
+MACRO 16777229 "asd" INV_Misc_QuestionMark
+#showtooltip Intervene
+/cast Defensive Stance
+/cast [@Doktorqt] Intervene
+/cast Intervene
+END
+MACRO 16777228 "asd" INV_Misc_QuestionMark
+#show Mortal Strike
+/startattack
+/cast !Mortal Strike
+END
+MACRO 16777223 "ber st" INV_Misc_QuestionMark
+#showtooltip Berserker Stance
+/cast Berserker Stance
+/equipslot 16 Shadowmourne
+/equipslot 17 Glorenzelg, High-Blade of the Silver Hand
+/equipslot 18 Fal'inrush, Defender of Quel'thalas 
+END
+MACRO 16777231 "burst" INV_Misc_QuestionMark
+#showtooltip Recklessness
+/cast Berserker Stance
+/cast Recklessness
+END
+MACRO 16777232 "cd" INV_Misc_QuestionMark
+#showtooltip Shield Block
+/equip Wrathful Gladiator's Shield Wall
+/equip Wrathful Gladiator's Cleaver
+/cast Defensive Stance
+/cast Shield Block
+END
+MACRO 16777226 "def 123" INV_Misc_QuestionMark
+#showtooltip Defensive Stance
+/cast Defensive Stance
+/equip Mithrios, Bronzebeard's Legacy
+END
+MACRO 16777220 "def cd" INV_Misc_QuestionMark
+#showtooltip Shield Wall
+/cast Defensive Stance
+/equipslot 17 Relentless Gladiator's Shield Wall
+/equipslot 16 Relentless Gladiator's Handaxe
+/cast Shield Wall
+/cast Shield Block
+END
+MACRO 16777222 "def st" INV_Misc_QuestionMark
+#showtooltip Defensive Stance
+/cast Defensive Stance
+/equip Wrathful Gladiator's Shield Wall
+END
+MACRO 16777219 "disarm" INV_Misc_QuestionMark
+#showtooltip Disarm
+/cast Defensive Stance
+/cast Disarm
+END
+MACRO 16777217 "rend" INV_Misc_QuestionMark
+aa
+END
+MACRO 16777224 "revenge" INV_Misc_QuestionMark
+#showtooltip Revenge(Rank 9)
+/cast Revenge(Rank 9)
+/cast Heroic Strike(Rank 13)
+/cancelaura Hand of Protection
+END
+MACRO 16777233 "Sb" INV_Misc_QuestionMark
+#showtooltip Shield Block
+/cast Defensive Stance
+/equip Wrathful Gladiator's Shield Wall
+/cast Shield Block
+END
+MACRO 16777235 "Shattering" INV_Misc_QuestionMark
+/cast Battle Stance
+/cast Shattering Throw
+END
+MACRO 16777218 "slam" INV_Misc_QuestionMark
+#showtooltip Slam(Rank 8)
+/cast Slam
+/cancelaura Hand of Protection
+/cancelaura Power World: Shield
+END
+MACRO 16777234 "Sr" INV_Misc_QuestionMark
+#showtooltip Spell Reflection
+/equip Wrathful Gladiator's Shield Wall
+/cast Defensive Stance
+/cast Spell Reflection
+END
+MACRO 16777230 "ss" INV_Misc_QuestionMark
+#showtooltip Shield Slam(Rank 8)
+/equipslot 16 Wrathful Gladiator's Cleaver
+/equipslot 17 Wrathful Gladiator's Shield Wall
+/cast Shield Slam(Rank 8)
+END
+MACRO 16777225 "ssslam" INV_Misc_QuestionMark
+/cast Berserker Stance
+/cast  [@focus] Pummel
+END

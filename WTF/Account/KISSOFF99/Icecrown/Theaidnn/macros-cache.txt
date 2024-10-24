@@ -1,0 +1,106 @@
+MACRO 16777235 " " INV_Misc_QuestionMark
+#showtooltip Kill Shot
+/cancelaura Deterrence
+/cancelaura Hand of Protection
+/cast Kill Shot
+/cast !Kill Command
+/cast !Silencing Shot
+/run UIErrorsFrame:Clear()
+END
+MACRO 16777237 " " INV_Misc_QuestionMark
+#showtooltip Master's Call
+/target DonorBashed
+/cast Master's Call
+/targetlasttarget
+/target Donorbashed
+/cast Roar of Sacrifice
+/targetlasttarget
+END
+MACRO 16777241 " " INV_Misc_QuestionMark
+/cast [@mouseover] Misdirection
+END
+MACRO 16777227 "<" INV_Misc_QuestionMark
+#showtooltip Chimera Shot
+/cast !auto shot
+/cast Chimera Shot
+/cast !Kill Command
+/cast !silencing shot
+/run UIErrorsFrame:Clear()
+END
+MACRO 16777226 "<" INV_Misc_QuestionMark
+#showtooltip Aimed shot
+/cast !auto shot
+/cast silencing shot
+/cast [target=pettarget,exists] kill command
+/cast aimed shot
+/run UIErrorsFrame:Clear()
+END
+MACRO 16777223 "<" INV_Misc_QuestionMark
+#showtooltip Steady Shot
+/cast !auto shot
+/cast [target=pettarget,exists] kill command
+/cast steady shot
+END
+MACRO 16777224 "<" INV_Misc_QuestionMark
+#showtooltip Serpent Sting
+/cast !serpent sting
+/cast Hunter's Mark(Rank 5)
+/petattack
+/cast charge
+END
+MACRO 16777225 "<" INV_Misc_QuestionMark
+#showtooltip Arcane Shot
+/cast !Kill Command
+/cast !Silencing Shot
+/cast !Arcane Shot
+/run UIErrorsFrame:Clear()
+END
+MACRO 16777218 "Aura" INV_Misc_QuestionMark
+#showtooltip
+/castsequence Aspect of the Dragonhawk, Aspect of the Viper
+/cast Trueshot Aura
+END
+MACRO 16777242 "cotw" INV_Misc_QuestionMark
+/use Call of The Wild
+END
+MACRO 16777219 "Deter" INV_Misc_QuestionMark
+#shotooltip Deterrence
+/cast Deterrence
+/cancelaura Deterrence 
+END
+MACRO 16777232 "enrage" INV_Misc_QuestionMark
+/tar Shambling Horror
+/cast Tranquilizing Shot
+/targetlasttarget
+END
+MACRO 16777220 "melee" INV_Misc_QuestionMark
+#showtooltip Raptor Strike
+/cast Mongoose Bite
+/cast Raptor Strike
+END
+MACRO 16777244 "pet" Ability_Ambush
+/tar Mist Howler
+/tar Death Howl
+END
+MACRO 16777222 "rapid" INV_Misc_QuestionMark
+#showtooltip Rapid Fire
+/cast Prowl
+/cast Rapid Fire
+/cast !Kill Command
+/cast Rabid
+/cast Furious Howl
+/petattack
+/cast charge
+END
+MACRO 16777221 "trap" INV_Misc_QuestionMark
+/cast Explosive Trap
+/cast Raptor Strike
+END
+MACRO 16777217 "Volley" INV_Misc_QuestionMark
+#showtooltip Volley
+/cast Volley
+/cast petattack
+END
+MACRO 16777243 "x" INV_Misc_QuestionMark
+""
+END

@@ -1,0 +1,7 @@
+WeakAurasCompanion: enabled
+WeakAurasArchive: enabled
+XPerl_TeamSpeak: disabled
+TellMeWhen: disabled
+XPerl_Options: enabled
+TidyPlates_Grey: disabled
+TidyPlates_Neon: disabled
