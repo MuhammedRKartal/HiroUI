@@ -6,13 +6,15 @@ BigDebuffsDB = {
 	},
 	["profileKeys"] = {
 		["Fatalcold - Icecrown"] = "Default",
+		["Demonologic - Icecrown"] = "Default",
 		["Boomeranga - Icecrown"] = "Default",
 		["Elziash - Icecrown"] = "Default",
 		["Drutheil - Icecrown"] = "Default",
+		["Devlis - Onyxia"] = "Default",
 		["Thunderjo - Icecrown"] = "Default",
 		["Alaca - Icecrown"] = "Default",
-		["Hirowata - Icecrown"] = "Default",
 		["Druthiel - Icecrown"] = "Default",
+		["Hirowata - Icecrown"] = "Default",
 		["Parabellumm - Icecrown"] = "Default",
 	},
 	["profiles"] = {

@@ -1,5 +1,11 @@
 
 KPackCharDB = {
+	["Automate"] = {
+		["groundmount"] = "",
+		["sets"] = {
+		},
+		["flyingmount"] = "",
+	},
 	["Postal"] = {
 		["BlackBook"] = {
 			["ExcludeRandoms"] = true,
@@ -9,22 +15,17 @@ KPackCharDB = {
 			},
 			["AutoCompleteAlts"] = true,
 			["AutoCompleteGuild"] = true,
-			["recent"] = {
-			},
+			["AutoCompleteFriends"] = true,
+			["AutoCompleteRecent"] = true,
 			["alts"] = {
 				"Enayi|Icecrown|Alliance", -- [1]
+				"Enayi|Icecrown|Horde", -- [2]
 			},
-			["AutoCompleteRecent"] = true,
 			["AutoCompleteContacts"] = true,
 			["DisableBlizzardAutoComplete"] = false,
-			["AutoCompleteFriends"] = true,
+			["recent"] = {
+			},
 		},
-	},
-	["Automate"] = {
-		["groundmount"] = "",
-		["sets"] = {
-		},
-		["flyingmount"] = "",
 	},
 	["Tooltip"] = {
 		["spell"] = false,
@@ -33,17 +34,17 @@ KPackCharDB = {
 		["yOfs"] = -25,
 		["class"] = false,
 		["unit"] = false,
-		["petspell"] = false,
+		["scale"] = 1,
 		["xOfs"] = 0,
 		["enhance"] = true,
-		["scale"] = 1,
+		["petspell"] = false,
 	},
 	["LFR"] = {
 		["currentset"] = "active",
 		["raidsets"] = {
-			["Secondary"] = {
-			},
 			["Primary"] = {
+			},
+			["Secondary"] = {
 			},
 		},
 	},

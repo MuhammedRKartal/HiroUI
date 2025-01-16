@@ -8,10 +8,11 @@ CliqueDB = {
 		["Elziash - Icecrown"] = "Elziash - Icecrown",
 		["Parabellumm - Icecrown"] = "Parabellumm - Icecrown",
 		["Drutheil - Icecrown"] = "Drutheil - Icecrown",
+		["Boomeranga - Icecrown"] = "Boomeranga - Icecrown",
 		["Alaca - Icecrown"] = "Alaca - Icecrown",
 		["Druthiel - Icecrown"] = "Druthiel - Icecrown",
-		["Boomeranga - Icecrown"] = "Boomeranga - Icecrown",
 		["Hirowata - Icecrown"] = "Shaman",
+		["Thunderjo - Icecrown"] = "Thunderjo - Icecrown",
 	},
 	["profiles"] = {
 		["Fatalcold - Icecrown"] = {
@@ -23,10 +24,6 @@ CliqueDB = {
 		["Drutheil - Icecrown"] = {
 		},
 		["Parabellumm - Icecrown"] = {
-		},
-		["Alaca - Icecrown"] = {
-		},
-		["Druthiel - Icecrown"] = {
 		},
 		["Shaman"] = {
 			["clicksets"] = {
@@ -134,7 +131,13 @@ CliqueDB = {
 				["XPerl_partypet4nameFrame"] = true,
 			},
 		},
+		["Alaca - Icecrown"] = {
+		},
+		["Druthiel - Icecrown"] = {
+		},
 		["Boomeranga - Icecrown"] = {
+		},
+		["Thunderjo - Icecrown"] = {
 		},
 	},
 }

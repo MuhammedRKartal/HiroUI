@@ -7,6 +7,20 @@ AF_config = {
 		["rate"] = 60,
 		["system"] = "CHANNEL",
 	},
+	["Icecrown-Kilibiksa"] = {
+		["message"] = "AutoFlood 1.1",
+		["channel"] = "1",
+		["idChannel"] = "1",
+		["rate"] = 60,
+		["system"] = "CHANNEL",
+	},
+	["Icecrown-Daemonarc"] = {
+		["message"] = "AutoFlood 1.1",
+		["channel"] = "1",
+		["idChannel"] = "1",
+		["rate"] = 60,
+		["system"] = "CHANNEL",
+	},
 	["Icecrown-Heheh"] = {
 		["message"] = "AutoFlood 1.1",
 		["channel"] = "1",
@@ -22,6 +36,13 @@ AF_config = {
 		["system"] = "CHANNEL",
 	},
 	["Icecrown-Zubeyr"] = {
+		["message"] = "AutoFlood 1.1",
+		["channel"] = "1",
+		["idChannel"] = "1",
+		["rate"] = 60,
+		["system"] = "CHANNEL",
+	},
+	["Icecrown-Garaambar"] = {
 		["message"] = "AutoFlood 1.1",
 		["channel"] = "1",
 		["idChannel"] = "1",

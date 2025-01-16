@@ -1,0 +1,78 @@
+MACRO 16777217 "Aimed" INV_Misc_QuestionMark
+#showtooltip Aimed Shot
+/cast Aimed Shot(Rank 9)
+/cast !Auto Shot
+/cast !Kill Command
+/use 10
+/run UIErrorsFrame:Clear()
+END
+MACRO 16777235 "Call Pet" Ability_Creature_Disease_04
+/petfollow
+END
+MACRO 16777220 "Chimera" INV_Misc_QuestionMark
+#showtooltip Chimera Shot
+/cast !Auto shot
+/cast Chimera Shot
+/cast !Kill Command
+/cast !Silencing shot
+/use 10
+/run UIErrorsFrame:Clear()
+END
+MACRO 16777227 "Deterrance" INV_Misc_QuestionMark
+#showtooltip Deterrence
+/cast Deterrence
+/cancelaura Deterrence
+END
+MACRO 16777240 "Explosive Shot" INV_Misc_QuestionMark
+/cast Explosive Shot(Rank 3)
+END
+MACRO 16777229 "Focus" Ability_Hunter_MarkedForDeath
+/focus target
+END
+MACRO 16777221 "Hunter CD" INV_Misc_QuestionMark
+#showtooltip Call of the Wild
+/cast Call of the Wild
+/cast Furious Howl
+/cast Kill Command
+/cast Blood Fury
+END
+MACRO 16777223 "ks" INV_Misc_QuestionMark
+#showtooltip Kill Shot
+/cancelaura Deterrence
+/cancelaura Hand of Protection
+/cast Kill Shot(Rank 3)
+/cast !Kill Command
+/cast !Silencing Shot
+/use 10
+/petattack
+/run UIErrorsFrame:Clear()
+END
+MACRO 16777230 "Mark" INV_Misc_QuestionMark
+#showtooltip
+/stopmacro [noexists]
+/run for i=1,GetNumTrackingTypes() do local n, t, a, c = GetTrackingInfo(i); if string.find(n, UnitCreatureType("target")) then if t~=GetTrackingTexture(i) then SetTracking(i); end end end
+/cast Serpent Sting
+END
+MACRO 16777226 "MD" INV_Misc_QuestionMark
+#showtooltip Misdirection
+/cast [@target, help] Misdirection; [@mouseover, help] Misdirection; [@focus, help] Misdirection
+END
+MACRO 16777239 "Pet Attack" Ability_GhoulFrenzy
+/petattack
+END
+MACRO 16777238 "Pet Follow" Ability_Tracking
+/petfollow
+END
+MACRO 16777237 "Raptor" INV_Misc_QuestionMark
+#show Explosive Trap
+/cast Raptor Strike
+/cast Explosive Trap
+END
+MACRO 16777225 "Steady" INV_Misc_QuestionMark
+#showtooltip Steady Shot
+/cast !auto shot
+/cast Steady Shot(Rank 4)
+/cast !Kill Command
+/use 10
+/run UIErrorsFrame:Clear()
+END

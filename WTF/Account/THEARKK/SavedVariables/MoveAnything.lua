@@ -105,16 +105,6 @@ MoveAnything_CharacterSettings = {
 				-72.00001148905636, -- [5]
 			},
 		},
-		["MirrorTimer1"] = {
-			["name"] = "MirrorTimer1",
-			["pos"] = {
-				"TOP", -- [1]
-				"UIParent", -- [2]
-				"TOP", -- [3]
-				-9.166629954117052, -- [4]
-				-455.1666982045818, -- [5]
-			},
-		},
 		["ChatConfigFrame"] = {
 			["name"] = "ChatConfigFrame",
 			["pos"] = {
@@ -123,6 +113,16 @@ MoveAnything_CharacterSettings = {
 				"BOTTOMLEFT", -- [3]
 				744.1666815864827, -- [4]
 				302.5000139851905, -- [5]
+			},
+		},
+		["MirrorTimer1"] = {
+			["name"] = "MirrorTimer1",
+			["pos"] = {
+				"TOP", -- [1]
+				"UIParent", -- [2]
+				"TOP", -- [3]
+				-9.166629954117052, -- [4]
+				-455.1666982045818, -- [5]
 			},
 		},
 		["ColorPickerFrame"] = {

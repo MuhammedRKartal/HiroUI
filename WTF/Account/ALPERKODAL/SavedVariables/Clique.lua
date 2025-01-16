@@ -3,19 +3,31 @@ CliqueDB = {
 	["char"] = {
 	},
 	["profileKeys"] = {
-		["Eladiel - Icecrown"] = "Eladiel - Icecrown",
-		["Uzunkazim - Icecrown"] = "Uzunkazim - Icecrown",
-		["Vardendi - Icecrown"] = "Vardendi - Icecrown",
+		["Zubeyr - Icecrown"] = "Zubeyr - Icecrown",
 		["Heheh - Icecrown"] = "Heheh - Icecrown",
+		["Uzunkazim - Icecrown"] = "Uzunkazim - Icecrown",
+		["Eladiel - Icecrown"] = "Eladiel - Icecrown",
+		["Daemonarc - Icecrown"] = "Daemonarc - Icecrown",
+		["Suleymanpro - Icecrown"] = "Suleymanpro - Icecrown",
+		["Vardendi - Icecrown"] = "Vardendi - Icecrown",
+		["Kilibiksa - Icecrown"] = "Kilibiksa - Icecrown",
 	},
 	["profiles"] = {
-		["Eladiel - Icecrown"] = {
+		["Zubeyr - Icecrown"] = {
+		},
+		["Heheh - Icecrown"] = {
 		},
 		["Uzunkazim - Icecrown"] = {
 		},
+		["Eladiel - Icecrown"] = {
+		},
+		["Daemonarc - Icecrown"] = {
+		},
+		["Suleymanpro - Icecrown"] = {
+		},
 		["Vardendi - Icecrown"] = {
 		},
-		["Heheh - Icecrown"] = {
+		["Kilibiksa - Icecrown"] = {
 		},
 	},
 }

@@ -4,6 +4,92 @@ ActionBarSaverDB = {
 	["macro"] = true,
 	["sets"] = {
 		["DEATHKNIGHT"] = {
+			["blood_tank_yedek"] = {
+				"spell|56||Death Strike|Rank 5|49924", -- [1]
+				"spell|47||Rune Strike||56815", -- [2]
+				"spell|25||Blood Strike|Rank 6|49930", -- [3]
+				"spell|27||Dark Command||56222", -- [4]
+				"spell|53||Death Coil|Rank 5|49895", -- [5]
+				nil, -- [6]
+				"spell|50||Army of the Dead||42650", -- [7]
+				nil, -- [8]
+				nil, -- [9]
+				"spell|44||Mind Freeze||47528", -- [10]
+				"spell|32||Pestilence||50842", -- [11]
+				"spell|55||Death Grip||49576", -- [12]
+				"spell|49||Anti-Magic Shell||48707", -- [13]
+				"spell|31||Mark of Blood||49005", -- [14]
+				"spell|21||War Stomp|Racial|20549", -- [15]
+				nil, -- [16]
+				nil, -- [17]
+				"spell|37||Empower Rune Weapon||47568", -- [18]
+				"spell|33||Rune Tap||48982", -- [19]
+				"spell|26||Blood Tap||45529", -- [20]
+				nil, -- [21]
+				nil, -- [22]
+				"companion|4||blood_tank_yedek|MOUNT|59569", -- [23]
+				"companion|1||blood_tank_yedek|MOUNT|48778", -- [24]
+				"spell|36||Chains of Ice||45524", -- [25]
+				"spell|57||Plague Strike|Rank 6|49921", -- [26]
+				"spell|42||Icy Touch|Rank 5|49909", -- [27]
+				"spell|34||Strangulate||47476", -- [28]
+				"item|49278||Goblin Rocket Pack", -- [29]
+				nil, -- [30]
+				"spell|52||Death and Decay|Rank 4|49938", -- [31]
+				"spell|39||Frost Presence||48263", -- [32]
+				[34] = "macro|34||Focus|Interface\\Icons\\Spell_DeathKnight_BladedArmor|/cast [@focus] Hysteria/n/cast {@target] Hysteria",
+				[38] = "spell|41||Icebound Fortitude||48792",
+				[44] = "spell|23||Blood Boil|Rank 4|49941",
+				[49] = "item|6948||Hearthstone",
+				[37] = "macro|37||AMS|Interface\\Icons\\Spell_Shadow_LifeDrain|/cast Vampiric Blood/n/cast Anti-Magic Shell",
+				[39] = "macro|39||Vampiric|Interface\\Icons\\Spell_DeathKnight_BloodTap|/cast Blood Tap/n/use Sindragosa's Flawless Fang",
+				[56] = "spell|13||Jewelcrafting|Grand Master|51311",
+				[43] = "item|50361||Sindragosa's Flawless Fang",
+				[41] = "spell|40||Horn of Winter|Rank 2|57623",
+			},
+			["blood_tank"] = {
+				"spell|56||Death Strike|Rank 5|49924", -- [1]
+				"spell|47||Rune Strike||56815", -- [2]
+				"spell|25||Blood Strike|Rank 6|49930", -- [3]
+				"spell|27||Dark Command||56222", -- [4]
+				"spell|53||Death Coil|Rank 5|49895", -- [5]
+				nil, -- [6]
+				"spell|50||Army of the Dead||42650", -- [7]
+				nil, -- [8]
+				nil, -- [9]
+				"spell|44||Mind Freeze||47528", -- [10]
+				"spell|32||Pestilence||50842", -- [11]
+				"spell|55||Death Grip||49576", -- [12]
+				"spell|49||Anti-Magic Shell||48707", -- [13]
+				"spell|31||Mark of Blood||49005", -- [14]
+				"spell|21||War Stomp|Racial|20549", -- [15]
+				nil, -- [16]
+				nil, -- [17]
+				"spell|37||Empower Rune Weapon||47568", -- [18]
+				"spell|33||Rune Tap||48982", -- [19]
+				"spell|26||Blood Tap||45529", -- [20]
+				nil, -- [21]
+				nil, -- [22]
+				"companion|4||blood_tank|MOUNT|59569", -- [23]
+				"companion|1||blood_tank|MOUNT|48778", -- [24]
+				"spell|36||Chains of Ice||45524", -- [25]
+				"spell|57||Plague Strike|Rank 6|49921", -- [26]
+				"spell|42||Icy Touch|Rank 5|49909", -- [27]
+				"spell|34||Strangulate||47476", -- [28]
+				"item|49278||Goblin Rocket Pack", -- [29]
+				nil, -- [30]
+				"spell|52||Death and Decay|Rank 4|49938", -- [31]
+				"spell|39||Frost Presence||48263", -- [32]
+				[34] = "macro|34||Focus|Interface\\Icons\\Spell_DeathKnight_BladedArmor|/cast [@focus] Hysteria/n/cast {@target] Hysteria",
+				[38] = "spell|41||Icebound Fortitude||48792",
+				[44] = "spell|23||Blood Boil|Rank 4|49941",
+				[49] = "item|6948||Hearthstone",
+				[37] = "macro|37||AMS|Interface\\Icons\\Spell_Shadow_LifeDrain|/cast Vampiric Blood/n/cast Anti-Magic Shell",
+				[39] = "macro|39||Vampiric|Interface\\Icons\\Spell_DeathKnight_BloodTap|/cast Blood Tap/n/use Sindragosa's Flawless Fang",
+				[56] = "spell|13||Jewelcrafting|Grand Master|51311",
+				[43] = "item|50361||Sindragosa's Flawless Fang",
+				[41] = "spell|40||Horn of Winter|Rank 2|57623",
+			},
 			["dk"] = {
 				"spell|48||Death Strike|Rank 5|49924", -- [1]
 				"macro|2||Scourge|Interface\\Icons\\Spell_DeathKnight_ScourgeStrike|#showtooltip/n/cast Scourge Strike/n/petdefensive/n/petautocaston Claw", -- [2]
@@ -77,48 +163,6 @@ ActionBarSaverDB = {
 				nil, -- [70]
 				nil, -- [71]
 				"macro|72||POT|Interface\\Icons\\Spell_Shadow_SoulLeech_3|#showtooltip Strangulate/n/cast [modifier:shift, target=focus] strangulate/n/cast [nomodifier:shift] Strangulate", -- [72]
-			},
-			["blood_tank"] = {
-				"spell|56||Death Strike|Rank 5|49924", -- [1]
-				"spell|47||Rune Strike||56815", -- [2]
-				"macro|3||Blood Strike|Interface\\Icons\\Spell_Deathknight_DeathStrike|#showtooltip Blood Strike/n/cast Blood Strike/n/cancelaura Hand of Protection/n/cancelaura Divine Intervene /n/use 10", -- [3]
-				"spell|27||Dark Command||56222", -- [4]
-				"spell|53||Death Coil|Rank 5|49895", -- [5]
-				nil, -- [6]
-				nil, -- [7]
-				nil, -- [8]
-				nil, -- [9]
-				"spell|44||Mind Freeze||47528", -- [10]
-				"spell|32||Pestilence||50842", -- [11]
-				"spell|55||Death Grip||49576", -- [12]
-				"spell|49||Anti-Magic Shell||48707", -- [13]
-				"spell|31||Mark of Blood||49005", -- [14]
-				nil, -- [15]
-				nil, -- [16]
-				nil, -- [17]
-				"spell|37||Empower Rune Weapon||47568", -- [18]
-				"spell|33||Rune Tap||48982", -- [19]
-				"spell|26||Blood Tap||45529", -- [20]
-				"spell|34||Strangulate||47476", -- [21]
-				nil, -- [22]
-				"companion|3||blood_tank|MOUNT|59569", -- [23]
-				"companion|1||blood_tank|MOUNT|48778", -- [24]
-				"spell|36||Chains of Ice||45524", -- [25]
-				"macro|26||Plague Strike|Interface\\Icons\\Spell_DeathKnight_EmpowerRuneBlade|#showtooltip Plague Strike/n/cast Plague Strike/n/cancelaura Hand of Protection/n/cancelaura Divine Intervene", -- [26]
-				"macro|27||Icy Touch|Interface\\Icons\\Spell_DeathKnight_IceTouch|#showtooltip Icy Touch/n/cast Icy Touch/n/cancelaura Hand of Protection/n/cancelaura Divine Intervene /n/petattack/n/use 10", -- [27]
-				[32] = "spell|39||Frost Presence||48263",
-				[34] = "spell|30||Hysteria||49016",
-				[38] = "spell|41||Icebound Fortitude||48792",
-				[29] = "spell|12||Gift of the Naaru|Racial|59545",
-				[44] = "spell|23||Blood Boil|Rank 4|49941",
-				[31] = "spell|52||Death and Decay|Rank 4|49938",
-				[33] = "macro|33||Heal|Interface\\Icons\\Spell_Shadow_AnimateDead|#showtooltip/n/cast [@pet,dead][nopet]Raise Dead;Death Pact/n/use Fel Healthstone",
-				[48] = "spell|50||Army of the Dead||42650",
-				[37] = "macro|37||Vampiric|Interface\\Icons\\Spell_Shadow_LifeDrain|#showtooltip Vampiric Blood/n/cast Vampiric Blood/n/cast Blood Tap",
-				[39] = "item|50361||Sindragosa's Flawless Fang",
-				[56] = "spell|14||Jewelcrafting|Grand Master|51311",
-				[41] = "spell|40||Horn of Winter|Rank 2|57623",
-				[49] = "item|6948||Hearthstone",
 			},
 		},
 		["WARRIOR"] = {
@@ -195,20 +239,20 @@ ActionBarSaverDB = {
 				"spell|49||Piercing Howl||12323", -- [13]
 				"spell|49||Piercing Howl||12323", -- [14]
 				"item|54578||Apocalypse's Advance", -- [15]
-				"macro|16||SSC|Interface\\Icons\\INV_Misc_QuestionMark|/2 LFM |cffffff00|Hachievement:694:0700000000726223:1:3:23:22:0:0:0:0|h[Serpentshrine Cavern]|h|r TMOG RUN NEED ALL, (|cffa335ee|Hitem:30090:0:0:0:0:0:0:0:80|h[World Breaker]|h|r Reserved)", -- [16]
+				nil, -- [16]
 				nil, -- [17]
 				"macro|18||Shattering|Interface\\Icons\\Ability_Warrior_ShatteringThrow|#showtooltip Shattering Throw/n/cast Battle Stance/n/cast Shattering Throw", -- [18]
 				"spell|29||Heroic Throw||57755", -- [19]
 				nil, -- [20]
 				"macro|21||Rend|Interface\\Icons\\Ability_Gouge|#showtooltip Rend/n/cast Battle Stance/n/cast Rend/n/cast Berserker Stance", -- [21]
 				nil, -- [22]
-				nil, -- [23]
+				"companion|1||warrior_pve|MOUNT|61230", -- [23]
 				"companion|12||warrior_pve|MOUNT|23250", -- [24]
 				"macro|25||Sunder|Interface\\Icons\\Ability_Warrior_Sunder|/cast Sunder Armor/n/cast Heroic Strike(Rank 13)", -- [25]
 				"macro|26||Intercept|Interface\\Icons\\Ability_Rogue_Sprint|#showtooltip Intercept/n/cast Berserker Stance/n/cast Intercept/n/equipslot 16 Shadowmourne/n/equipslot 17 Glorenzelg, High-Blade of the Silver Hand", -- [26]
 				"macro|27||Execute|Interface\\Icons\\INV_Sword_48|/cast Execute(Rank 9)/n/cast Heroic Strike(Rank 13)", -- [27]
 				"spell|55||Bloodrage||2687", -- [28]
-				"macro|29||SSC|Interface\\Icons\\INV_Misc_QuestionMark|/2 LFM |cffffff00|Hachievement:694:0700000000726223:1:3:23:22:0:0:0:0|h[Serpentshrine Cavern]|h|r TMOG RUN NEED ALL, (|cffa335ee|Hitem:30090:0:0:0:0:0:0:0:80|h[World Breaker]|h|r Reserved)", -- [29]
+				"item|42641||Global Thermal Sapper Charge", -- [29]
 				nil, -- [30]
 				"macro|31||Intervene|Interface\\Icons\\Ability_Warrior_VictoryRush|#showtooltip Intervene/n/cast Defensive Stance/n/cast [@mouseover,exists,help]Intervene; Intervene", -- [31]
 				"macro|32||Wall|Interface\\Icons\\Ability_Warrior_ShieldWall|#showtooltip Shield Wall/n/cast Defensive Stance/n/equipslot 17 Icecrown Glacial Wall/n/equipslot 16 Scourgeborne Waraxe/n/cast Shield Wall/n/cast Shield Block", -- [32]
@@ -216,14 +260,14 @@ ActionBarSaverDB = {
 				"macro|34||Retaliation|Interface\\Icons\\Ability_Warrior_Challange|#showtooltip Retaliation/n/cast Battle Stance/n/cast Retaliation/n/cast Challenging Shout", -- [34]
 				nil, -- [35]
 				"item|40093||Indestructible Potion", -- [36]
-				"spell|43||Death Wish||12292", -- [37]
+				"macro|37||CD|Interface\\Icons\\Spell_Shadow_DeathPact|/cast Death Wish/n/cast Berserking", -- [37]
 				"spell|51||Recklessness||1719", -- [38]
 				"spell|4||Berserking|Racial|26297", -- [39]
 				"spell|36||Battle Shout|Rank 9|47436", -- [40]
 				"spell|42||Commanding Shout|Rank 3|47440", -- [41]
 				nil, -- [42]
 				"item|49278||Goblin Rocket Pack", -- [43]
-				"macro|44||Disarm|Interface\\Icons\\Ability_Warrior_Disarm|#showtooltip Disarm/n/cast Defensive Stance/n/cast Disarm", -- [44]
+				"spell|43||Death Wish||12292", -- [44]
 				"spell|45||Enraged Regeneration||55694", -- [45]
 				"spell|40||Challenging Shout||1161", -- [46]
 				nil, -- [47]
@@ -242,35 +286,36 @@ ActionBarSaverDB = {
 				"item|43523||Conjured Mana Strudel", -- [60]
 				"item|6948||Hearthstone", -- [61]
 				"spell|8||Cooking|Grand Master|51296", -- [62]
-				[65] = "spell|28||Heroic Strike|Rank 13|47450",
-				[69] = "item|49859||\"Bravado\" Cologne",
-				[72] = "macro|72||JC|Interface\\Icons\\INV_Misc_Gem_02|#show Jewelcrafting/n/cast Jewelcrafting/n/run for i=1,GetNumTradeSkills() do if GetTradeSkillInfo(i)==\"Icy Prism\" then CloseTradeSkill() DoTradeSkill(i) break end end/n/use Icy Prism/n/script OpenAllBags();",
-				[73] = "spell|28||Heroic Strike|Rank 13|47450",
-				[74] = "spell|32||Rend|Rank 10|47465",
-				[75] = "spell|41||Cleave|Rank 8|47520",
-				[76] = "spell|35||Thunder Clap|Rank 9|47502",
-				[77] = "macro|77||Rend|Interface\\Icons\\Ability_Gouge|#showtooltip Rend/n/cast Battle Stance/n/cast Rend/n/cast Berserker Stance",
-				[78] = "spell|33||Retaliation||20230",
 				[82] = "spell|34||Shattering Throw||64382",
 				[86] = "macro|86||Revenge|Interface\\Icons\\Ability_Warrior_Revenge|#showtooltip Revenge(Rank 9)/n/cast Revenge(Rank 9)/n/cast Heroic Strike(Rank 13)/n/cancelaura Hand of Protection",
-				[87] = "macro|87||Pummel Focus|Interface\\Icons\\INV_Gauntlets_04|#showtooltip Pummel/n/cast Berserker Stance/n/cast  [@focus] Pummel",
 				[88] = "spell|32||Rend|Rank 10|47465",
-				[89] = "spell|35||Thunder Clap|Rank 9|47502",
 				[90] = "spell|67||Taunt||355",
+				[65] = "spell|28||Heroic Strike|Rank 13|47450",
+				[96] = "spell|63||Shield Wall||871",
+				[98] = "macro|98||Cleave BT|Interface\\Icons\\Spell_Nature_BloodLust|#showtooltip Bloodthirst/n/startattack/n/cast Bloodthirst/n/cast Cleave(Rank 8)/n/use 10/n/cancelaura Hand of Protection/n/cancelaura Divine Intervation/n/cancelaura Power Word: Shield",
+				[69] = "item|49859||\"Bravado\" Cologne",
+				[100] = "macro|100||Cleave WW|Interface\\Icons\\Ability_Whirlwind|#showtooltip Whirlwind/n/cast !Whirlwind/n/cast Cleave/n/cancelaura Hand of Protection/n/cancelaura Divine Intervation/n/cancelaura Power Word: Shield",
+				[73] = "spell|28||Heroic Strike|Rank 13|47450",
+				[106] = "spell|44||Demoralizing Shout|Rank 8|47437",
+				[77] = "macro|77||Rend|Interface\\Icons\\Ability_Gouge|#showtooltip Rend/n/cast Battle Stance/n/cast Rend/n/cast Berserker Stance",
+				[78] = "spell|33||Retaliation||20230",
+				[76] = "spell|35||Thunder Clap|Rank 9|47502",
+				[74] = "spell|32||Rend|Rank 10|47465",
+				[72] = "macro|72||JC|Interface\\Icons\\INV_Misc_Gem_02|#show Jewelcrafting/n/cast Jewelcrafting/n/run for i=1,GetNumTradeSkills() do if GetTradeSkillInfo(i)==\"Icy Prism\" then CloseTradeSkill() DoTradeSkill(i) break end end/n/use Icy Prism/n/script OpenAllBags();",
+				[87] = "macro|87||Pummel Focus|Interface\\Icons\\INV_Gauntlets_04|#showtooltip Pummel/n/cast Berserker Stance/n/cast  [@focus] Pummel",
+				[89] = "spell|35||Thunder Clap|Rank 9|47502",
 				[91] = "spell|60||Shield Bash||72",
 				[93] = "spell|57||Disarm||676",
-				[96] = "spell|63||Shield Wall||871",
-				[97] = "macro|97||Heroic BT|Interface\\Icons\\Spell_Nature_BloodLust|#showtooltip Bloodthirst/n/startattack/n/cast Bloodthirst/n/cast Heroic Strike(Rank 13)/n/use 10/n/cancelaura Hand of Protecion/n/cancelaura Divine Intervation",
-				[98] = "macro|98||Cleave BT|Interface\\Icons\\Spell_Nature_BloodLust|#showtooltip Bloodthirst/n/startattack/n/cast Bloodthirst/n/cast Cleave(Rank 8)/n/use 10/n/cancelaura Hand of Protection/n/cancelaura Divine Intervation",
-				[99] = "macro|99||Heroic WW|Interface\\Icons\\Ability_Whirlwind|#showtooltip Whirlwind/n/cast !Whirlwind/n/cast Heroic Strike/n/cancelaura Hand of Protection/n/cancelaura Divine Intervation",
-				[100] = "macro|100||Cleave WW|Interface\\Icons\\Ability_Whirlwind|#showtooltip Whirlwind/n/cast !Whirlwind/n/cast Cleave/n/cancelaura Hand of Protection/n/cancelaura Divine Intervation",
+				[99] = "macro|99||Heroic WW|Interface\\Icons\\Ability_Whirlwind|#showtooltip Whirlwind/n/cast !Whirlwind/n/cast Heroic Strike/n/cancelaura Hand of Protection/n/cancelaura Divine Intervation/n/cancelaura Power Word: Shield",
+				[97] = "macro|97||Heroic BT|Interface\\Icons\\Spell_Nature_BloodLust|#showtooltip Bloodthirst/n/startattack/n/cast Bloodthirst/n/cast Heroic Strike(Rank 13)/n/use 10/n/cancelaura Hand of Protecion/n/cancelaura Divine Intervation/n/cancelaura Power Word: Shield",
+				[68] = "macro|68||Disarm|Interface\\Icons\\Ability_Warrior_Disarm|#showtooltip Disarm/n/cast Defensive Stance/n/cast Disarm",
 				[101] = "item|41119||Saronite Bomb",
 				[103] = "spell|37||Berserker Rage||18499",
 				[105] = "spell|35||Thunder Clap|Rank 9|47502",
-				[106] = "spell|44||Demoralizing Shout|Rank 8|47437",
 				[107] = "spell|52||Slam|Rank 8|47475",
-				[108] = "spell|50||Pummel||6552",
 				[109] = "spell|1||Auto Attack||6603",
+				[108] = "spell|50||Pummel||6552",
+				[75] = "spell|41||Cleave|Rank 8|47520",
 			},
 			["warrior_pve_yedek"] = {
 				"spell|1||Auto Attack||6603", -- [1]
@@ -288,20 +333,20 @@ ActionBarSaverDB = {
 				"spell|49||Piercing Howl||12323", -- [13]
 				"spell|49||Piercing Howl||12323", -- [14]
 				"item|54578||Apocalypse's Advance", -- [15]
-				"macro|16||SSC|Interface\\Icons\\INV_Misc_QuestionMark|/2 LFM |cffffff00|Hachievement:694:0700000000726223:1:3:23:22:0:0:0:0|h[Serpentshrine Cavern]|h|r TMOG RUN NEED ALL, (|cffa335ee|Hitem:30090:0:0:0:0:0:0:0:80|h[World Breaker]|h|r Reserved)", -- [16]
+				nil, -- [16]
 				nil, -- [17]
 				"macro|18||Shattering|Interface\\Icons\\Ability_Warrior_ShatteringThrow|#showtooltip Shattering Throw/n/cast Battle Stance/n/cast Shattering Throw", -- [18]
 				"spell|29||Heroic Throw||57755", -- [19]
 				nil, -- [20]
 				"macro|21||Rend|Interface\\Icons\\Ability_Gouge|#showtooltip Rend/n/cast Battle Stance/n/cast Rend/n/cast Berserker Stance", -- [21]
 				nil, -- [22]
-				nil, -- [23]
+				"companion|1||warrior_pve_yedek|MOUNT|61230", -- [23]
 				"companion|12||warrior_pve_yedek|MOUNT|23250", -- [24]
 				"macro|25||Sunder|Interface\\Icons\\Ability_Warrior_Sunder|/cast Sunder Armor/n/cast Heroic Strike(Rank 13)", -- [25]
 				"macro|26||Intercept|Interface\\Icons\\Ability_Rogue_Sprint|#showtooltip Intercept/n/cast Berserker Stance/n/cast Intercept/n/equipslot 16 Shadowmourne/n/equipslot 17 Glorenzelg, High-Blade of the Silver Hand", -- [26]
 				"macro|27||Execute|Interface\\Icons\\INV_Sword_48|/cast Execute(Rank 9)/n/cast Heroic Strike(Rank 13)", -- [27]
 				"spell|55||Bloodrage||2687", -- [28]
-				"macro|29||SSC|Interface\\Icons\\INV_Misc_QuestionMark|/2 LFM |cffffff00|Hachievement:694:0700000000726223:1:3:23:22:0:0:0:0|h[Serpentshrine Cavern]|h|r TMOG RUN NEED ALL, (|cffa335ee|Hitem:30090:0:0:0:0:0:0:0:80|h[World Breaker]|h|r Reserved)", -- [29]
+				"item|42641||Global Thermal Sapper Charge", -- [29]
 				nil, -- [30]
 				"macro|31||Intervene|Interface\\Icons\\Ability_Warrior_VictoryRush|#showtooltip Intervene/n/cast Defensive Stance/n/cast [@mouseover,exists,help]Intervene; Intervene", -- [31]
 				"macro|32||Wall|Interface\\Icons\\Ability_Warrior_ShieldWall|#showtooltip Shield Wall/n/cast Defensive Stance/n/equipslot 17 Icecrown Glacial Wall/n/equipslot 16 Scourgeborne Waraxe/n/cast Shield Wall/n/cast Shield Block", -- [32]
@@ -309,14 +354,14 @@ ActionBarSaverDB = {
 				"macro|34||Retaliation|Interface\\Icons\\Ability_Warrior_Challange|#showtooltip Retaliation/n/cast Battle Stance/n/cast Retaliation/n/cast Challenging Shout", -- [34]
 				nil, -- [35]
 				"item|40093||Indestructible Potion", -- [36]
-				"spell|43||Death Wish||12292", -- [37]
+				"macro|37||CD|Interface\\Icons\\Spell_Shadow_DeathPact|/cast Death Wish/n/cast Berserking", -- [37]
 				"spell|51||Recklessness||1719", -- [38]
 				"spell|4||Berserking|Racial|26297", -- [39]
 				"spell|36||Battle Shout|Rank 9|47436", -- [40]
 				"spell|42||Commanding Shout|Rank 3|47440", -- [41]
 				nil, -- [42]
 				"item|49278||Goblin Rocket Pack", -- [43]
-				"macro|44||Disarm|Interface\\Icons\\Ability_Warrior_Disarm|#showtooltip Disarm/n/cast Defensive Stance/n/cast Disarm", -- [44]
+				"spell|43||Death Wish||12292", -- [44]
 				"spell|45||Enraged Regeneration||55694", -- [45]
 				"spell|40||Challenging Shout||1161", -- [46]
 				nil, -- [47]
@@ -335,153 +380,318 @@ ActionBarSaverDB = {
 				"item|43523||Conjured Mana Strudel", -- [60]
 				"item|6948||Hearthstone", -- [61]
 				"spell|8||Cooking|Grand Master|51296", -- [62]
-				[65] = "spell|28||Heroic Strike|Rank 13|47450",
-				[69] = "item|49859||\"Bravado\" Cologne",
-				[72] = "macro|72||JC|Interface\\Icons\\INV_Misc_Gem_02|#show Jewelcrafting/n/cast Jewelcrafting/n/run for i=1,GetNumTradeSkills() do if GetTradeSkillInfo(i)==\"Icy Prism\" then CloseTradeSkill() DoTradeSkill(i) break end end/n/use Icy Prism/n/script OpenAllBags();",
-				[73] = "spell|28||Heroic Strike|Rank 13|47450",
-				[74] = "spell|32||Rend|Rank 10|47465",
-				[75] = "spell|41||Cleave|Rank 8|47520",
-				[76] = "spell|35||Thunder Clap|Rank 9|47502",
-				[77] = "macro|77||Rend|Interface\\Icons\\Ability_Gouge|#showtooltip Rend/n/cast Battle Stance/n/cast Rend/n/cast Berserker Stance",
-				[78] = "spell|33||Retaliation||20230",
 				[82] = "spell|34||Shattering Throw||64382",
 				[86] = "macro|86||Revenge|Interface\\Icons\\Ability_Warrior_Revenge|#showtooltip Revenge(Rank 9)/n/cast Revenge(Rank 9)/n/cast Heroic Strike(Rank 13)/n/cancelaura Hand of Protection",
-				[87] = "macro|87||Pummel Focus|Interface\\Icons\\INV_Gauntlets_04|#showtooltip Pummel/n/cast Berserker Stance/n/cast  [@focus] Pummel",
 				[88] = "spell|32||Rend|Rank 10|47465",
-				[89] = "spell|35||Thunder Clap|Rank 9|47502",
 				[90] = "spell|67||Taunt||355",
+				[65] = "spell|28||Heroic Strike|Rank 13|47450",
+				[96] = "spell|63||Shield Wall||871",
+				[98] = "macro|98||Cleave BT|Interface\\Icons\\Spell_Nature_BloodLust|#showtooltip Bloodthirst/n/startattack/n/cast Bloodthirst/n/cast Cleave(Rank 8)/n/use 10/n/cancelaura Hand of Protection/n/cancelaura Divine Intervation/n/cancelaura Power Word: Shield",
+				[69] = "item|49859||\"Bravado\" Cologne",
+				[100] = "macro|100||Cleave WW|Interface\\Icons\\Ability_Whirlwind|#showtooltip Whirlwind/n/cast !Whirlwind/n/cast Cleave/n/cancelaura Hand of Protection/n/cancelaura Divine Intervation/n/cancelaura Power Word: Shield",
+				[73] = "spell|28||Heroic Strike|Rank 13|47450",
+				[106] = "spell|44||Demoralizing Shout|Rank 8|47437",
+				[77] = "macro|77||Rend|Interface\\Icons\\Ability_Gouge|#showtooltip Rend/n/cast Battle Stance/n/cast Rend/n/cast Berserker Stance",
+				[78] = "spell|33||Retaliation||20230",
+				[76] = "spell|35||Thunder Clap|Rank 9|47502",
+				[74] = "spell|32||Rend|Rank 10|47465",
+				[72] = "macro|72||JC|Interface\\Icons\\INV_Misc_Gem_02|#show Jewelcrafting/n/cast Jewelcrafting/n/run for i=1,GetNumTradeSkills() do if GetTradeSkillInfo(i)==\"Icy Prism\" then CloseTradeSkill() DoTradeSkill(i) break end end/n/use Icy Prism/n/script OpenAllBags();",
+				[87] = "macro|87||Pummel Focus|Interface\\Icons\\INV_Gauntlets_04|#showtooltip Pummel/n/cast Berserker Stance/n/cast  [@focus] Pummel",
+				[89] = "spell|35||Thunder Clap|Rank 9|47502",
 				[91] = "spell|60||Shield Bash||72",
 				[93] = "spell|57||Disarm||676",
-				[96] = "spell|63||Shield Wall||871",
-				[97] = "macro|97||Heroic BT|Interface\\Icons\\Spell_Nature_BloodLust|#showtooltip Bloodthirst/n/startattack/n/cast Bloodthirst/n/cast Heroic Strike(Rank 13)/n/use 10/n/cancelaura Hand of Protecion/n/cancelaura Divine Intervation",
-				[98] = "macro|98||Cleave BT|Interface\\Icons\\Spell_Nature_BloodLust|#showtooltip Bloodthirst/n/startattack/n/cast Bloodthirst/n/cast Cleave(Rank 8)/n/use 10/n/cancelaura Hand of Protection/n/cancelaura Divine Intervation",
-				[99] = "macro|99||Heroic WW|Interface\\Icons\\Ability_Whirlwind|#showtooltip Whirlwind/n/cast !Whirlwind/n/cast Heroic Strike/n/cancelaura Hand of Protection/n/cancelaura Divine Intervation",
-				[100] = "macro|100||Cleave WW|Interface\\Icons\\Ability_Whirlwind|#showtooltip Whirlwind/n/cast !Whirlwind/n/cast Cleave/n/cancelaura Hand of Protection/n/cancelaura Divine Intervation",
+				[99] = "macro|99||Heroic WW|Interface\\Icons\\Ability_Whirlwind|#showtooltip Whirlwind/n/cast !Whirlwind/n/cast Heroic Strike/n/cancelaura Hand of Protection/n/cancelaura Divine Intervation/n/cancelaura Power Word: Shield",
+				[97] = "macro|97||Heroic BT|Interface\\Icons\\Spell_Nature_BloodLust|#showtooltip Bloodthirst/n/startattack/n/cast Bloodthirst/n/cast Heroic Strike(Rank 13)/n/use 10/n/cancelaura Hand of Protecion/n/cancelaura Divine Intervation/n/cancelaura Power Word: Shield",
+				[68] = "macro|68||Disarm|Interface\\Icons\\Ability_Warrior_Disarm|#showtooltip Disarm/n/cast Defensive Stance/n/cast Disarm",
 				[101] = "item|41119||Saronite Bomb",
 				[103] = "spell|37||Berserker Rage||18499",
 				[105] = "spell|35||Thunder Clap|Rank 9|47502",
-				[106] = "spell|44||Demoralizing Shout|Rank 8|47437",
 				[107] = "spell|52||Slam|Rank 8|47475",
-				[108] = "spell|50||Pummel||6552",
 				[109] = "spell|1||Auto Attack||6603",
+				[108] = "spell|50||Pummel||6552",
+				[75] = "spell|41||Cleave|Rank 8|47520",
 			},
 			["fury_pve"] = {
 				"spell|1||Auto Attack||6603", -- [1]
-				[105] = "spell|35||Thunder Clap|Rank 9|47502",
-				[74] = "spell|32||Rend|Rank 10|47465",
-				[90] = "spell|67||Taunt||355",
-				[53] = "spell|41||Cleave|Rank 8|47520",
-				[61] = "item|6948||Hearthstone",
-				[75] = "spell|41||Cleave|Rank 8|47520",
-				[91] = "spell|60||Shield Bash||72",
-				[107] = "spell|52||Slam|Rank 8|47475",
-				[76] = "spell|35||Thunder Clap|Rank 9|47502",
-				[46] = "spell|40||Challenging Shout||1161",
-				[13] = "spell|49||Piercing Howl||12323",
-				[15] = "item|54578||Apocalypse's Advance",
-				[19] = "spell|29||Heroic Throw||57755",
-				[93] = "spell|57||Disarm||676",
-				[27] = "macro|27||Execute|Interface\\Icons\\INV_Sword_48|/cast Execute(Rank 9)/n/cast Heroic Strike(Rank 13)",
-				[31] = "macro|31||free|Interface\\Icons\\Ability_Warrior_VictoryRush|#showtooltip Intervene/n/cast Defensive Stance/n/cast [@mouseover, help, nodead] Intervene",
-				[39] = "spell|10||Every Man for Himself|Racial|59752",
-				[32] = "macro|32||Pvp Def|Interface\\Icons\\Ability_Warrior_ShieldWall|#showtooltip Shield Wall/n/equipslot 16 Wrathful Gladiator's Cleaver/n/equipslot 17 Wrathful Gladiator's Shield Wall/n/cast Defensive Stance/n/cast Shield Wall/n/cast Shield Block",
-				[26] = "macro|26||intercept|Interface\\Icons\\Ability_Rogue_Sprint|#showtooltip Intercept/n/cast Berserker Stance/n/cast Intercept/n/equipslot 16 Shadowmourne/n/equipslot 17 Glorenzelg, High-Blade of the Silver Hand",
-				[48] = "item|40093||Indestructible Potion",
-				[45] = "spell|45||Enraged Regeneration||55694",
-				[65] = "spell|28||Heroic Strike|Rank 13|47450",
-				[73] = "spell|28||Heroic Strike|Rank 13|47450",
-				[24] = "companion|3||fury_pve|MOUNT|60118",
-				[28] = "spell|55||Bloodrage||2687",
-				[33] = "macro|33||cd|Interface\\Icons\\Ability_Defend|#showtooltip Shield Block/n/equipslot 17 Icecrown Glacial Wall/n/equipslot 16 The Facelifter/n/cast Defensive Stance/n/cast Shield Block",
+				nil, -- [2]
+				nil, -- [3]
+				nil, -- [4]
+				nil, -- [5]
+				nil, -- [6]
+				nil, -- [7]
+				nil, -- [8]
+				nil, -- [9]
+				nil, -- [10]
+				nil, -- [11]
+				nil, -- [12]
+				"spell|49||Piercing Howl||12323", -- [13]
+				"spell|49||Piercing Howl||12323", -- [14]
+				"item|54578||Apocalypse's Advance", -- [15]
+				nil, -- [16]
+				nil, -- [17]
+				"macro|18||Shattering|Interface\\Icons\\Ability_Warrior_ShatteringThrow|#showtooltip Shattering Throw/n/cast Battle Stance/n/cast Shattering Throw", -- [18]
+				"spell|29||Heroic Throw||57755", -- [19]
+				nil, -- [20]
+				"macro|21||Rend|Interface\\Icons\\Ability_Gouge|#showtooltip Rend/n/cast Battle Stance/n/cast Rend/n/cast Berserker Stance", -- [21]
+				nil, -- [22]
+				"companion|1||fury_pve|MOUNT|61230", -- [23]
+				"companion|12||fury_pve|MOUNT|23250", -- [24]
+				"macro|25||Sunder|Interface\\Icons\\Ability_Warrior_Sunder|/cast Sunder Armor/n/cast Heroic Strike(Rank 13)", -- [25]
+				"macro|26||Intercept|Interface\\Icons\\Ability_Rogue_Sprint|#showtooltip Intercept/n/cast Berserker Stance/n/cast Intercept/n/equipslot 16 Shadowmourne/n/equipslot 17 Glorenzelg, High-Blade of the Silver Hand", -- [26]
+				"macro|27||Execute|Interface\\Icons\\INV_Sword_48|/cast Execute(Rank 9)/n/cast Heroic Strike(Rank 13)", -- [27]
+				"spell|55||Bloodrage||2687", -- [28]
+				"item|42641||Global Thermal Sapper Charge", -- [29]
+				nil, -- [30]
+				"macro|31||Intervene|Interface\\Icons\\Ability_Warrior_VictoryRush|#showtooltip Intervene/n/cast Defensive Stance/n/cast [@mouseover,exists,help]Intervene; Intervene", -- [31]
+				"macro|32||Wall|Interface\\Icons\\Ability_Warrior_ShieldWall|#showtooltip Shield Wall/n/cast Defensive Stance/n/equipslot 17 Icecrown Glacial Wall/n/equipslot 16 Scourgeborne Waraxe/n/cast Shield Wall/n/cast Shield Block", -- [32]
+				"macro|33||Shield Block|Interface\\Icons\\Ability_Defend|#showtooltip Shield Block/n/equipslot 17 Icecrown Glacial Wall/n/equipslot 16 Scourgeborne Waraxe/n/cast Defensive Stance/n/cast Shield Block", -- [33]
+				"macro|34||Retaliation|Interface\\Icons\\Ability_Warrior_Challange|#showtooltip Retaliation/n/cast Battle Stance/n/cast Retaliation/n/cast Challenging Shout", -- [34]
+				nil, -- [35]
+				"item|40093||Indestructible Potion", -- [36]
+				"macro|37||CD|Interface\\Icons\\Spell_Shadow_DeathPact|/cast Death Wish/n/cast Berserking", -- [37]
+				"spell|51||Recklessness||1719", -- [38]
+				"spell|4||Berserking|Racial|26297", -- [39]
+				"spell|36||Battle Shout|Rank 9|47436", -- [40]
+				"spell|42||Commanding Shout|Rank 3|47440", -- [41]
+				nil, -- [42]
+				"item|49278||Goblin Rocket Pack", -- [43]
+				"spell|43||Death Wish||12292", -- [44]
+				"spell|45||Enraged Regeneration||55694", -- [45]
+				"spell|40||Challenging Shout||1161", -- [46]
+				nil, -- [47]
+				"item|40211||Potion of Speed", -- [48]
+				"spell|12||Engineering|Grand Master|51306", -- [49]
+				"spell|18||Jewelcrafting|Grand Master|51311", -- [50]
+				nil, -- [51]
+				nil, -- [52]
+				"spell|41||Cleave|Rank 8|47520", -- [53]
+				nil, -- [54]
+				nil, -- [55]
+				"item|43000||Dragonfin Filet", -- [56]
+				"item|46377||Flask of Endless Rage", -- [57]
+				nil, -- [58]
+				nil, -- [59]
+				"item|43523||Conjured Mana Strudel", -- [60]
+				"item|6948||Hearthstone", -- [61]
+				"spell|8||Cooking|Grand Master|51296", -- [62]
 				[82] = "spell|34||Shattering Throw||64382",
-				[98] = "macro|98||Cleave BT|Interface\\Icons\\Spell_Nature_BloodLust|#showtooltip Bloodthirst/n/startattack/n/cast Bloodthirst/n/cast Cleave(Rank 8)/n/use 10/n/cancelaura Hand of Protection/n/cancelaura Divine Intervation",
-				[106] = "spell|44||Demoralizing Shout|Rank 8|47437",
-				[41] = "spell|42||Commanding Shout|Rank 3|47440",
-				[44] = "macro|44||disarm|Interface\\Icons\\Ability_Warrior_Disarm|#showtooltip Disarm/n/cast Defensive Stance/n/cast Disarm",
-				[99] = "macro|99||Heroic Whirlwind|Interface\\Icons\\Ability_Whirlwind|#showtooltip Whirlwind/n/cast !Whirlwind/n/cast Heroic Strike/n/cancelaura Hand of Protection/n/cancelaura Divine Intervation",
-				[97] = "macro|97||Heroic BT|Interface\\Icons\\Spell_Nature_BloodLust|#showtooltip Bloodthirst/n/startattack/n/cast Bloodthirst/n/cast Heroic Strike(Rank 13)/n/use 10/n/cancelaura Hand of Protecion/n/cancelaura Divine Intervation",
-				[34] = "macro|34||Reta|Interface\\Icons\\Ability_Warrior_Challange|#showtooltip Retaliation/n/cast Battle Stance/n/cast Retaliation",
-				[108] = "spell|50||Pummel||6552",
-				[100] = "macro|100||Cleave Whirlwind|Interface\\Icons\\Ability_Whirlwind|#showtooltip Whirlwind/n/cast !Whirlwind/n/cast Cleave/n/cancelaura Hand of Protection/n/cancelaura Divine Intervation",
-				[14] = "spell|49||Piercing Howl||12323",
-				[69] = "item|49859||\"Bravado\" Cologne",
-				[21] = "macro|21||rend|Interface\\Icons\\Ability_Gouge|#showtooltip Rend/n/cast Battle Stance/n/cast Rend/n/cast Berserker Stance",
-				[25] = "macro|25||Sunder|Interface\\Icons\\Ability_Warrior_Sunder|/cast Sunder Armor/n/cast Heroic Strike(Rank 13)",
-				[101] = "spell|37||Berserker Rage||18499",
-				[43] = "spell|36||Battle Shout|Rank 9|47436",
-				[86] = "macro|86||revenge|Interface\\Icons\\Ability_Warrior_Revenge|#showtooltip Revenge(Rank 9)/n/cast Revenge(Rank 9)/n/cast Heroic Strike(Rank 13)/n/cancelaura Hand of Protection",
-				[23] = "companion|2||fury_pve|MOUNT|61229",
-				[109] = "spell|1||Auto Attack||6603",
-				[78] = "spell|33||Retaliation||20230",
-				[87] = "macro|87||ssslam|Interface\\Icons\\Ability_Racial_Avatar|/cast Berserker Stance/n/cast  [@focus] Pummel",
-				[96] = "spell|63||Shield Wall||871",
-				[77] = "macro|77||rend|Interface\\Icons\\Ability_Gouge|#showtooltip Rend/n/cast Battle Stance/n/cast Rend/n/cast Berserker Stance",
-				[36] = "item|40211||Potion of Speed",
+				[86] = "macro|86||Revenge|Interface\\Icons\\Ability_Warrior_Revenge|#showtooltip Revenge(Rank 9)/n/cast Revenge(Rank 9)/n/cast Heroic Strike(Rank 13)/n/cancelaura Hand of Protection",
 				[88] = "spell|32||Rend|Rank 10|47465",
-				[38] = "spell|51||Recklessness||1719",
-				[60] = "item|43523||Conjured Mana Strudel",
-				[18] = "spell|34||Shattering Throw||64382",
+				[90] = "spell|67||Taunt||355",
+				[65] = "spell|28||Heroic Strike|Rank 13|47450",
+				[96] = "spell|63||Shield Wall||871",
+				[98] = "macro|98||Cleave BT|Interface\\Icons\\Spell_Nature_BloodLust|#showtooltip Bloodthirst/n/startattack/n/cast Bloodthirst/n/cast Cleave(Rank 8)/n/use 10/n/cancelaura Hand of Protection/n/cancelaura Divine Intervation/n/cancelaura Power Word: Shield",
+				[69] = "item|49859||\"Bravado\" Cologne",
+				[100] = "macro|100||Cleave WW|Interface\\Icons\\Ability_Whirlwind|#showtooltip Whirlwind/n/cast !Whirlwind/n/cast Cleave/n/cancelaura Hand of Protection/n/cancelaura Divine Intervation/n/cancelaura Power Word: Shield",
+				[73] = "spell|28||Heroic Strike|Rank 13|47450",
+				[106] = "spell|44||Demoralizing Shout|Rank 8|47437",
+				[77] = "macro|77||Rend|Interface\\Icons\\Ability_Gouge|#showtooltip Rend/n/cast Battle Stance/n/cast Rend/n/cast Berserker Stance",
+				[78] = "spell|33||Retaliation||20230",
+				[76] = "spell|35||Thunder Clap|Rank 9|47502",
+				[74] = "spell|32||Rend|Rank 10|47465",
+				[72] = "macro|72||JC|Interface\\Icons\\INV_Misc_Gem_02|#show Jewelcrafting/n/cast Jewelcrafting/n/run for i=1,GetNumTradeSkills() do if GetTradeSkillInfo(i)==\"Icy Prism\" then CloseTradeSkill() DoTradeSkill(i) break end end/n/use Icy Prism/n/script OpenAllBags();",
+				[87] = "macro|87||Pummel Focus|Interface\\Icons\\INV_Gauntlets_04|#showtooltip Pummel/n/cast Berserker Stance/n/cast  [@focus] Pummel",
 				[89] = "spell|35||Thunder Clap|Rank 9|47502",
-				[37] = "spell|43||Death Wish||12292",
+				[91] = "spell|60||Shield Bash||72",
+				[93] = "spell|57||Disarm||676",
+				[99] = "macro|99||Heroic WW|Interface\\Icons\\Ability_Whirlwind|#showtooltip Whirlwind/n/cast !Whirlwind/n/cast Heroic Strike/n/cancelaura Hand of Protection/n/cancelaura Divine Intervation/n/cancelaura Power Word: Shield",
+				[97] = "macro|97||Heroic BT|Interface\\Icons\\Spell_Nature_BloodLust|#showtooltip Bloodthirst/n/startattack/n/cast Bloodthirst/n/cast Heroic Strike(Rank 13)/n/use 10/n/cancelaura Hand of Protecion/n/cancelaura Divine Intervation/n/cancelaura Power Word: Shield",
+				[68] = "macro|68||Disarm|Interface\\Icons\\Ability_Warrior_Disarm|#showtooltip Disarm/n/cast Defensive Stance/n/cast Disarm",
+				[101] = "item|41119||Saronite Bomb",
+				[103] = "spell|37||Berserker Rage||18499",
+				[105] = "spell|35||Thunder Clap|Rank 9|47502",
+				[107] = "spell|52||Slam|Rank 8|47475",
+				[109] = "spell|1||Auto Attack||6603",
+				[108] = "spell|50||Pummel||6552",
+				[75] = "spell|41||Cleave|Rank 8|47520",
 			},
 			["fury_pve_yedek"] = {
 				"spell|1||Auto Attack||6603", -- [1]
-				[105] = "spell|35||Thunder Clap|Rank 9|47502",
-				[74] = "spell|32||Rend|Rank 10|47465",
-				[90] = "spell|67||Taunt||355",
-				[53] = "spell|41||Cleave|Rank 8|47520",
-				[61] = "item|6948||Hearthstone",
-				[75] = "spell|41||Cleave|Rank 8|47520",
-				[91] = "spell|60||Shield Bash||72",
-				[107] = "spell|52||Slam|Rank 8|47475",
-				[76] = "spell|35||Thunder Clap|Rank 9|47502",
-				[46] = "spell|40||Challenging Shout||1161",
-				[13] = "spell|49||Piercing Howl||12323",
-				[15] = "item|54578||Apocalypse's Advance",
-				[19] = "spell|29||Heroic Throw||57755",
-				[93] = "spell|57||Disarm||676",
-				[27] = "macro|27||Execute|Interface\\Icons\\INV_Sword_48|/cast Execute(Rank 9)/n/cast Heroic Strike(Rank 13)",
-				[31] = "macro|31||free|Interface\\Icons\\Ability_Warrior_VictoryRush|#showtooltip Intervene/n/cast Defensive Stance/n/cast [@mouseover, help, nodead] Intervene",
-				[39] = "spell|10||Every Man for Himself|Racial|59752",
-				[32] = "macro|32||Pvp Def|Interface\\Icons\\Ability_Warrior_ShieldWall|#showtooltip Shield Wall/n/equipslot 16 Wrathful Gladiator's Cleaver/n/equipslot 17 Wrathful Gladiator's Shield Wall/n/cast Defensive Stance/n/cast Shield Wall/n/cast Shield Block",
-				[26] = "macro|26||intercept|Interface\\Icons\\Ability_Rogue_Sprint|#showtooltip Intercept/n/cast Berserker Stance/n/cast Intercept/n/equipslot 16 Shadowmourne/n/equipslot 17 Glorenzelg, High-Blade of the Silver Hand",
-				[48] = "item|40093||Indestructible Potion",
-				[45] = "spell|45||Enraged Regeneration||55694",
-				[65] = "spell|28||Heroic Strike|Rank 13|47450",
-				[73] = "spell|28||Heroic Strike|Rank 13|47450",
-				[24] = "companion|3||fury_pve_yedek|MOUNT|60118",
-				[28] = "spell|55||Bloodrage||2687",
-				[33] = "macro|33||cd|Interface\\Icons\\Ability_Defend|#showtooltip Shield Block/n/equipslot 17 Icecrown Glacial Wall/n/equipslot 16 The Facelifter/n/cast Defensive Stance/n/cast Shield Block",
+				nil, -- [2]
+				nil, -- [3]
+				nil, -- [4]
+				nil, -- [5]
+				nil, -- [6]
+				nil, -- [7]
+				nil, -- [8]
+				nil, -- [9]
+				nil, -- [10]
+				nil, -- [11]
+				nil, -- [12]
+				"spell|49||Piercing Howl||12323", -- [13]
+				"spell|49||Piercing Howl||12323", -- [14]
+				"item|54578||Apocalypse's Advance", -- [15]
+				nil, -- [16]
+				nil, -- [17]
+				"macro|18||Shattering|Interface\\Icons\\Ability_Warrior_ShatteringThrow|#showtooltip Shattering Throw/n/cast Battle Stance/n/cast Shattering Throw", -- [18]
+				"spell|29||Heroic Throw||57755", -- [19]
+				nil, -- [20]
+				"macro|21||Rend|Interface\\Icons\\Ability_Gouge|#showtooltip Rend/n/cast Battle Stance/n/cast Rend/n/cast Berserker Stance", -- [21]
+				nil, -- [22]
+				"companion|1||fury_pve_yedek|MOUNT|61230", -- [23]
+				"companion|12||fury_pve_yedek|MOUNT|23250", -- [24]
+				"macro|25||Sunder|Interface\\Icons\\Ability_Warrior_Sunder|/cast Sunder Armor/n/cast Heroic Strike(Rank 13)", -- [25]
+				"macro|26||Intercept|Interface\\Icons\\Ability_Rogue_Sprint|#showtooltip Intercept/n/cast Berserker Stance/n/cast Intercept/n/equipslot 16 Shadowmourne/n/equipslot 17 Glorenzelg, High-Blade of the Silver Hand", -- [26]
+				"macro|27||Execute|Interface\\Icons\\INV_Sword_48|/cast Execute(Rank 9)/n/cast Heroic Strike(Rank 13)", -- [27]
+				"spell|55||Bloodrage||2687", -- [28]
+				"item|42641||Global Thermal Sapper Charge", -- [29]
+				nil, -- [30]
+				"macro|31||Intervene|Interface\\Icons\\Ability_Warrior_VictoryRush|#showtooltip Intervene/n/cast Defensive Stance/n/cast [@mouseover,exists,help]Intervene; Intervene", -- [31]
+				"macro|32||Wall|Interface\\Icons\\Ability_Warrior_ShieldWall|#showtooltip Shield Wall/n/cast Defensive Stance/n/equipslot 17 Icecrown Glacial Wall/n/equipslot 16 Scourgeborne Waraxe/n/cast Shield Wall/n/cast Shield Block", -- [32]
+				"macro|33||Shield Block|Interface\\Icons\\Ability_Defend|#showtooltip Shield Block/n/equipslot 17 Icecrown Glacial Wall/n/equipslot 16 Scourgeborne Waraxe/n/cast Defensive Stance/n/cast Shield Block", -- [33]
+				"macro|34||Retaliation|Interface\\Icons\\Ability_Warrior_Challange|#showtooltip Retaliation/n/cast Battle Stance/n/cast Retaliation/n/cast Challenging Shout", -- [34]
+				nil, -- [35]
+				"item|40093||Indestructible Potion", -- [36]
+				"macro|37||CD|Interface\\Icons\\Spell_Shadow_DeathPact|/cast Death Wish/n/cast Berserking", -- [37]
+				"spell|51||Recklessness||1719", -- [38]
+				"spell|4||Berserking|Racial|26297", -- [39]
+				"spell|36||Battle Shout|Rank 9|47436", -- [40]
+				"spell|42||Commanding Shout|Rank 3|47440", -- [41]
+				nil, -- [42]
+				"item|49278||Goblin Rocket Pack", -- [43]
+				"spell|43||Death Wish||12292", -- [44]
+				"spell|45||Enraged Regeneration||55694", -- [45]
+				"spell|40||Challenging Shout||1161", -- [46]
+				nil, -- [47]
+				"item|40211||Potion of Speed", -- [48]
+				"spell|12||Engineering|Grand Master|51306", -- [49]
+				"spell|18||Jewelcrafting|Grand Master|51311", -- [50]
+				nil, -- [51]
+				nil, -- [52]
+				"spell|41||Cleave|Rank 8|47520", -- [53]
+				nil, -- [54]
+				nil, -- [55]
+				"item|43000||Dragonfin Filet", -- [56]
+				"item|46377||Flask of Endless Rage", -- [57]
+				nil, -- [58]
+				nil, -- [59]
+				"item|43523||Conjured Mana Strudel", -- [60]
+				"item|6948||Hearthstone", -- [61]
+				"spell|8||Cooking|Grand Master|51296", -- [62]
 				[82] = "spell|34||Shattering Throw||64382",
-				[98] = "macro|98||Cleave BT|Interface\\Icons\\Spell_Nature_BloodLust|#showtooltip Bloodthirst/n/startattack/n/cast Bloodthirst/n/cast Cleave(Rank 8)/n/use 10/n/cancelaura Hand of Protection/n/cancelaura Divine Intervation",
-				[106] = "spell|44||Demoralizing Shout|Rank 8|47437",
-				[41] = "spell|42||Commanding Shout|Rank 3|47440",
-				[44] = "macro|44||disarm|Interface\\Icons\\Ability_Warrior_Disarm|#showtooltip Disarm/n/cast Defensive Stance/n/cast Disarm",
-				[99] = "macro|99||Heroic Whirlwind|Interface\\Icons\\Ability_Whirlwind|#showtooltip Whirlwind/n/cast !Whirlwind/n/cast Heroic Strike/n/cancelaura Hand of Protection/n/cancelaura Divine Intervation",
-				[97] = "macro|97||Heroic BT|Interface\\Icons\\Spell_Nature_BloodLust|#showtooltip Bloodthirst/n/startattack/n/cast Bloodthirst/n/cast Heroic Strike(Rank 13)/n/use 10/n/cancelaura Hand of Protecion/n/cancelaura Divine Intervation",
-				[34] = "macro|34||Reta|Interface\\Icons\\Ability_Warrior_Challange|#showtooltip Retaliation/n/cast Battle Stance/n/cast Retaliation",
-				[108] = "spell|50||Pummel||6552",
-				[100] = "macro|100||Cleave Whirlwind|Interface\\Icons\\Ability_Whirlwind|#showtooltip Whirlwind/n/cast !Whirlwind/n/cast Cleave/n/cancelaura Hand of Protection/n/cancelaura Divine Intervation",
-				[14] = "spell|49||Piercing Howl||12323",
-				[69] = "item|49859||\"Bravado\" Cologne",
-				[21] = "macro|21||rend|Interface\\Icons\\Ability_Gouge|#showtooltip Rend/n/cast Battle Stance/n/cast Rend/n/cast Berserker Stance",
-				[25] = "macro|25||Sunder|Interface\\Icons\\Ability_Warrior_Sunder|/cast Sunder Armor/n/cast Heroic Strike(Rank 13)",
-				[101] = "spell|37||Berserker Rage||18499",
-				[43] = "spell|36||Battle Shout|Rank 9|47436",
-				[86] = "macro|86||revenge|Interface\\Icons\\Ability_Warrior_Revenge|#showtooltip Revenge(Rank 9)/n/cast Revenge(Rank 9)/n/cast Heroic Strike(Rank 13)/n/cancelaura Hand of Protection",
-				[23] = "companion|2||fury_pve_yedek|MOUNT|61229",
-				[109] = "spell|1||Auto Attack||6603",
-				[78] = "spell|33||Retaliation||20230",
-				[87] = "macro|87||ssslam|Interface\\Icons\\Ability_Racial_Avatar|/cast Berserker Stance/n/cast  [@focus] Pummel",
-				[96] = "spell|63||Shield Wall||871",
-				[77] = "macro|77||rend|Interface\\Icons\\Ability_Gouge|#showtooltip Rend/n/cast Battle Stance/n/cast Rend/n/cast Berserker Stance",
-				[36] = "item|40211||Potion of Speed",
+				[86] = "macro|86||Revenge|Interface\\Icons\\Ability_Warrior_Revenge|#showtooltip Revenge(Rank 9)/n/cast Revenge(Rank 9)/n/cast Heroic Strike(Rank 13)/n/cancelaura Hand of Protection",
 				[88] = "spell|32||Rend|Rank 10|47465",
-				[38] = "spell|51||Recklessness||1719",
-				[60] = "item|43523||Conjured Mana Strudel",
-				[18] = "spell|34||Shattering Throw||64382",
+				[90] = "spell|67||Taunt||355",
+				[65] = "spell|28||Heroic Strike|Rank 13|47450",
+				[96] = "spell|63||Shield Wall||871",
+				[98] = "macro|98||Cleave BT|Interface\\Icons\\Spell_Nature_BloodLust|#showtooltip Bloodthirst/n/startattack/n/cast Bloodthirst/n/cast Cleave(Rank 8)/n/use 10/n/cancelaura Hand of Protection/n/cancelaura Divine Intervation/n/cancelaura Power Word: Shield",
+				[69] = "item|49859||\"Bravado\" Cologne",
+				[100] = "macro|100||Cleave WW|Interface\\Icons\\Ability_Whirlwind|#showtooltip Whirlwind/n/cast !Whirlwind/n/cast Cleave/n/cancelaura Hand of Protection/n/cancelaura Divine Intervation/n/cancelaura Power Word: Shield",
+				[73] = "spell|28||Heroic Strike|Rank 13|47450",
+				[106] = "spell|44||Demoralizing Shout|Rank 8|47437",
+				[77] = "macro|77||Rend|Interface\\Icons\\Ability_Gouge|#showtooltip Rend/n/cast Battle Stance/n/cast Rend/n/cast Berserker Stance",
+				[78] = "spell|33||Retaliation||20230",
+				[76] = "spell|35||Thunder Clap|Rank 9|47502",
+				[74] = "spell|32||Rend|Rank 10|47465",
+				[72] = "macro|72||JC|Interface\\Icons\\INV_Misc_Gem_02|#show Jewelcrafting/n/cast Jewelcrafting/n/run for i=1,GetNumTradeSkills() do if GetTradeSkillInfo(i)==\"Icy Prism\" then CloseTradeSkill() DoTradeSkill(i) break end end/n/use Icy Prism/n/script OpenAllBags();",
+				[87] = "macro|87||Pummel Focus|Interface\\Icons\\INV_Gauntlets_04|#showtooltip Pummel/n/cast Berserker Stance/n/cast  [@focus] Pummel",
 				[89] = "spell|35||Thunder Clap|Rank 9|47502",
-				[37] = "spell|43||Death Wish||12292",
+				[91] = "spell|60||Shield Bash||72",
+				[93] = "spell|57||Disarm||676",
+				[99] = "macro|99||Heroic WW|Interface\\Icons\\Ability_Whirlwind|#showtooltip Whirlwind/n/cast !Whirlwind/n/cast Heroic Strike/n/cancelaura Hand of Protection/n/cancelaura Divine Intervation/n/cancelaura Power Word: Shield",
+				[97] = "macro|97||Heroic BT|Interface\\Icons\\Spell_Nature_BloodLust|#showtooltip Bloodthirst/n/startattack/n/cast Bloodthirst/n/cast Heroic Strike(Rank 13)/n/use 10/n/cancelaura Hand of Protecion/n/cancelaura Divine Intervation/n/cancelaura Power Word: Shield",
+				[68] = "macro|68||Disarm|Interface\\Icons\\Ability_Warrior_Disarm|#showtooltip Disarm/n/cast Defensive Stance/n/cast Disarm",
+				[101] = "item|41119||Saronite Bomb",
+				[103] = "spell|37||Berserker Rage||18499",
+				[105] = "spell|35||Thunder Clap|Rank 9|47502",
+				[107] = "spell|52||Slam|Rank 8|47475",
+				[109] = "spell|1||Auto Attack||6603",
+				[108] = "spell|50||Pummel||6552",
+				[75] = "spell|41||Cleave|Rank 8|47520",
+			},
+			["fury_yedek"] = {
+				"spell|1||Auto Attack||6603", -- [1]
+				nil, -- [2]
+				nil, -- [3]
+				nil, -- [4]
+				nil, -- [5]
+				nil, -- [6]
+				nil, -- [7]
+				nil, -- [8]
+				nil, -- [9]
+				nil, -- [10]
+				nil, -- [11]
+				nil, -- [12]
+				"spell|49||Piercing Howl||12323", -- [13]
+				"spell|49||Piercing Howl||12323", -- [14]
+				"item|54578||Apocalypse's Advance", -- [15]
+				nil, -- [16]
+				nil, -- [17]
+				"macro|18||Shattering|Interface\\Icons\\Ability_Warrior_ShatteringThrow|#showtooltip Shattering Throw/n/cast Battle Stance/n/cast Shattering Throw", -- [18]
+				"spell|29||Heroic Throw||57755", -- [19]
+				nil, -- [20]
+				"macro|21||Rend|Interface\\Icons\\Ability_Gouge|#showtooltip Rend/n/cast Battle Stance/n/cast Rend/n/cast Berserker Stance", -- [21]
+				nil, -- [22]
+				"companion|1||fury_yedek|MOUNT|61230", -- [23]
+				"companion|12||fury_yedek|MOUNT|23250", -- [24]
+				"macro|25||Sunder|Interface\\Icons\\Ability_Warrior_Sunder|/cast Sunder Armor/n/cast Heroic Strike(Rank 13)", -- [25]
+				"macro|26||Intercept|Interface\\Icons\\Ability_Rogue_Sprint|#showtooltip Intercept/n/cast Berserker Stance/n/cast Intercept/n/equipslot 16 Shadowmourne/n/equipslot 17 Glorenzelg, High-Blade of the Silver Hand", -- [26]
+				"macro|27||Execute|Interface\\Icons\\INV_Sword_48|/cast Execute(Rank 9)/n/cast Heroic Strike(Rank 13)", -- [27]
+				"spell|55||Bloodrage||2687", -- [28]
+				"item|42641||Global Thermal Sapper Charge", -- [29]
+				nil, -- [30]
+				"macro|31||Intervene|Interface\\Icons\\Ability_Warrior_VictoryRush|#showtooltip Intervene/n/cast Defensive Stance/n/cast [@mouseover,exists,help]Intervene; Intervene", -- [31]
+				"macro|32||Wall|Interface\\Icons\\Ability_Warrior_ShieldWall|#showtooltip Shield Wall/n/cast Defensive Stance/n/equipslot 17 Icecrown Glacial Wall/n/equipslot 16 Scourgeborne Waraxe/n/cast Shield Wall/n/cast Shield Block", -- [32]
+				"macro|33||Shield Block|Interface\\Icons\\Ability_Defend|#showtooltip Shield Block/n/equipslot 17 Icecrown Glacial Wall/n/equipslot 16 Scourgeborne Waraxe/n/cast Defensive Stance/n/cast Shield Block", -- [33]
+				"macro|34||Retaliation|Interface\\Icons\\Ability_Warrior_Challange|#showtooltip Retaliation/n/cast Battle Stance/n/cast Retaliation/n/cast Challenging Shout", -- [34]
+				nil, -- [35]
+				"item|40093||Indestructible Potion", -- [36]
+				"macro|37||CD|Interface\\Icons\\Spell_Shadow_DeathPact|/cast Death Wish/n/cast Berserking", -- [37]
+				"spell|51||Recklessness||1719", -- [38]
+				"spell|4||Berserking|Racial|26297", -- [39]
+				"spell|36||Battle Shout|Rank 9|47436", -- [40]
+				"spell|42||Commanding Shout|Rank 3|47440", -- [41]
+				nil, -- [42]
+				"item|49278||Goblin Rocket Pack", -- [43]
+				"spell|43||Death Wish||12292", -- [44]
+				"spell|45||Enraged Regeneration||55694", -- [45]
+				"spell|40||Challenging Shout||1161", -- [46]
+				nil, -- [47]
+				"item|40211||Potion of Speed", -- [48]
+				"spell|12||Engineering|Grand Master|51306", -- [49]
+				"spell|18||Jewelcrafting|Grand Master|51311", -- [50]
+				nil, -- [51]
+				nil, -- [52]
+				"spell|41||Cleave|Rank 8|47520", -- [53]
+				nil, -- [54]
+				nil, -- [55]
+				"item|43000||Dragonfin Filet", -- [56]
+				"item|46377||Flask of Endless Rage", -- [57]
+				nil, -- [58]
+				nil, -- [59]
+				"item|43523||Conjured Mana Strudel", -- [60]
+				"item|6948||Hearthstone", -- [61]
+				"spell|8||Cooking|Grand Master|51296", -- [62]
+				[82] = "spell|34||Shattering Throw||64382",
+				[86] = "macro|86||Revenge|Interface\\Icons\\Ability_Warrior_Revenge|#showtooltip Revenge(Rank 9)/n/cast Revenge(Rank 9)/n/cast Heroic Strike(Rank 13)/n/cancelaura Hand of Protection",
+				[88] = "spell|32||Rend|Rank 10|47465",
+				[90] = "spell|67||Taunt||355",
+				[65] = "spell|28||Heroic Strike|Rank 13|47450",
+				[96] = "spell|63||Shield Wall||871",
+				[98] = "macro|98||Cleave BT|Interface\\Icons\\Spell_Nature_BloodLust|#showtooltip Bloodthirst/n/startattack/n/cast Bloodthirst/n/cast Cleave(Rank 8)/n/use 10/n/cancelaura Hand of Protection/n/cancelaura Divine Intervation/n/cancelaura Power Word: Shield",
+				[69] = "item|49859||\"Bravado\" Cologne",
+				[100] = "macro|100||Cleave WW|Interface\\Icons\\Ability_Whirlwind|#showtooltip Whirlwind/n/cast !Whirlwind/n/cast Cleave/n/cancelaura Hand of Protection/n/cancelaura Divine Intervation/n/cancelaura Power Word: Shield",
+				[73] = "spell|28||Heroic Strike|Rank 13|47450",
+				[106] = "spell|44||Demoralizing Shout|Rank 8|47437",
+				[77] = "macro|77||Rend|Interface\\Icons\\Ability_Gouge|#showtooltip Rend/n/cast Battle Stance/n/cast Rend/n/cast Berserker Stance",
+				[78] = "spell|33||Retaliation||20230",
+				[76] = "spell|35||Thunder Clap|Rank 9|47502",
+				[74] = "spell|32||Rend|Rank 10|47465",
+				[72] = "macro|72||JC|Interface\\Icons\\INV_Misc_Gem_02|#show Jewelcrafting/n/cast Jewelcrafting/n/run for i=1,GetNumTradeSkills() do if GetTradeSkillInfo(i)==\"Icy Prism\" then CloseTradeSkill() DoTradeSkill(i) break end end/n/use Icy Prism/n/script OpenAllBags();",
+				[87] = "macro|87||Pummel Focus|Interface\\Icons\\INV_Gauntlets_04|#showtooltip Pummel/n/cast Berserker Stance/n/cast  [@focus] Pummel",
+				[89] = "spell|35||Thunder Clap|Rank 9|47502",
+				[91] = "spell|60||Shield Bash||72",
+				[93] = "spell|57||Disarm||676",
+				[99] = "macro|99||Heroic WW|Interface\\Icons\\Ability_Whirlwind|#showtooltip Whirlwind/n/cast !Whirlwind/n/cast Heroic Strike/n/cancelaura Hand of Protection/n/cancelaura Divine Intervation/n/cancelaura Power Word: Shield",
+				[97] = "macro|97||Heroic BT|Interface\\Icons\\Spell_Nature_BloodLust|#showtooltip Bloodthirst/n/startattack/n/cast Bloodthirst/n/cast Heroic Strike(Rank 13)/n/use 10/n/cancelaura Hand of Protecion/n/cancelaura Divine Intervation/n/cancelaura Power Word: Shield",
+				[68] = "macro|68||Disarm|Interface\\Icons\\Ability_Warrior_Disarm|#showtooltip Disarm/n/cast Defensive Stance/n/cast Disarm",
+				[101] = "item|41119||Saronite Bomb",
+				[103] = "spell|37||Berserker Rage||18499",
+				[105] = "spell|35||Thunder Clap|Rank 9|47502",
+				[107] = "spell|52||Slam|Rank 8|47475",
+				[109] = "spell|1||Auto Attack||6603",
+				[108] = "spell|50||Pummel||6552",
+				[75] = "spell|41||Cleave|Rank 8|47520",
 			},
 		},
 		["PALADIN"] = {
@@ -747,75 +957,75 @@ ActionBarSaverDB = {
 		["WARLOCK"] = {
 			["demonology_pve"] = {
 				"macro|1||Demo|Interface\\Icons\\Spell_Shadow_ShadowBolt|#showtooltip Shadow Bolt(Rank 13)/n/cast Shadow Cleave(Demon)/n/cast Shadow Bolt(Rank 13)/n/cast Demonic Empowerment/n/use 10", -- [1]
-				"spell|195||Immolate|Rank 11|47811", -- [2]
+				"spell|193||Immolate|Rank 11|47811", -- [2]
 				"macro|3||Incinerate|Interface\\Icons\\Spell_Fire_Burnout|#showtooltip Incinerate/n/cast Shadow Cleave(Demon)/n/cast Incinerate/n/cast Demonic Empowerment/n/use 10", -- [3]
 				"macro|4||Soulfire|Interface\\Icons\\Spell_Fire_Fireball02|#showtooltip Soul Fire(Rank 6)/n/cast Shadow Cleave(Demon)/n/cast Soul Fire(Rank 6)/n/cast Demonic Empowerment/n/use 10", -- [4]
 				nil, -- [5]
-				"item|40212||Potion of Wild Magic", -- [6]
+				"item|40211||Potion of Speed", -- [6]
 				"item|22788||Flame Cap", -- [7]
 				nil, -- [8]
-				"macro|9||Seed|Interface\\Icons\\Spell_Shadow_SeedOfDestruction|/targetenemy/n/cast Seed of Corruption", -- [9]
-				"spell|231||Shadowflame|Rank 2|61290", -- [10]
-				"spell|27||Corruption|Rank 10|47813", -- [11]
-				"spell|39||Curse of Doom|Rank 3|47867", -- [12]
-				"spell|80||Fear|Rank 3|6215", -- [13]
-				"spell|133||Demon Charge|Demon|54785", -- [14]
+				"spell|91||Seed of Corruption|Rank 3|47836", -- [9]
+				"spell|229||Shadowflame|Rank 2|61290", -- [10]
+				"spell|25||Corruption|Rank 10|47813", -- [11]
+				"spell|37||Curse of Doom|Rank 3|47867", -- [12]
+				"spell|78||Fear|Rank 3|6215", -- [13]
+				"spell|131||Demon Charge|Demon|54785", -- [14]
 				nil, -- [15]
-				"spell|95||Banish|Rank 2|18647", -- [16]
+				"spell|93||Banish|Rank 2|18647", -- [16]
 				nil, -- [17]
-				"spell|44||Curse of the Elements|Rank 5|47865", -- [18]
-				"spell|217||Shadow Bolt|Rank 1|686", -- [19]
-				"spell|55||Curse of Weakness|Rank 9|50511", -- [20]
-				"spell|46||Curse of Tongues|Rank 2|11719", -- [21]
+				"spell|42||Curse of the Elements|Rank 5|47865", -- [18]
+				"macro|19||Rank 1|Interface\\Icons\\Spell_Shadow_ShadowBolt|/cast Shadow Bolt(Rank 1)", -- [19]
+				"spell|53||Curse of Weakness|Rank 9|50511", -- [20]
+				"spell|44||Curse of Tongues|Rank 2|11719", -- [21]
 				nil, -- [22]
 				"companion|1||demonology_pve|MOUNT|59996", -- [23]
-				"companion|6||demonology_pve|MOUNT|49379", -- [24]
-				"spell|90||Life Tap|Rank 8|57946", -- [25]
-				"spell|137||Demonic Circle: Teleport||48020", -- [26]
-				"spell|77||Drain Soul|Rank 6|47855", -- [27]
-				"spell|61||Death Coil|Rank 6|47860", -- [28]
-				"spell|184||Hellfire|Rank 5|47823", -- [29]
+				"companion|5||demonology_pve|MOUNT|49379", -- [24]
+				"spell|88||Life Tap|Rank 8|57946", -- [25]
+				"spell|135||Demonic Circle: Teleport||48020", -- [26]
+				"macro|27||Petfollow|Interface\\Icons\\Ability_Druid_Berserk|/petfollow", -- [27]
+				"spell|75||Drain Soul|Rank 6|47855", -- [28]
+				"spell|182||Hellfire|Rank 5|47823", -- [29]
 				nil, -- [30]
-				nil, -- [31]
-				"spell|159||Immolation Aura|Demon|50589", -- [32]
-				"spell|173||Soulshatter||29858", -- [33]
-				"macro|34||Petfollow|Interface\\Icons\\Ability_Druid_Berserk|/petfollow", -- [34]
+				"spell|8||Disenchant||13262", -- [31]
+				"spell|157||Immolation Aura|Demon|50589", -- [32]
+				"spell|171||Soulshatter||29858", -- [33]
+				"macro|34||Petattack|Interface\\Icons\\Ability_DualWield|/petattack", -- [34]
 				nil, -- [35]
-				"item|40211||Potion of Speed", -- [36]
+				"item|40212||Potion of Wild Magic", -- [36]
 				"macro|37||Metamorphosis|Interface\\Icons\\Spell_Shadow_DemonForm|/cast Metamorphosis/n/cast Immolation Aura(Demon)/n/cast Shadow Cleave(Demon)/n/use 10", -- [37]
-				"spell|136||Demonic Circle: Summon||48018", -- [38]
-				"spell|171||Shadow Ward|Rank 6|47891", -- [39]
-				"spell|9||Every Man for Himself|Racial|59752", -- [40]
-				"spell|148||Fel Armor|Rank 4|47893", -- [41]
+				"spell|134||Demonic Circle: Summon||48018", -- [38]
+				"spell|169||Shadow Ward|Rank 6|47891", -- [39]
+				nil, -- [40]
+				"spell|146||Fel Armor|Rank 4|47893", -- [41]
 				nil, -- [42]
-				"macro|43||Petattack|Interface\\Icons\\Ability_DualWield|/petattack", -- [43]
-				"spell|36||Curse of Agony|Rank 9|47864", -- [44]
-				"spell|216||Searing Pain|Rank 10|47815", -- [45]
-				"spell|172||Soul Link||19028", -- [46]
-				nil, -- [47]
+				"spell|59||Death Coil|Rank 6|47860", -- [43]
+				"spell|34||Curse of Agony|Rank 9|47864", -- [44]
+				"spell|214||Searing Pain|Rank 10|47815", -- [45]
+				"spell|170||Soul Link||19028", -- [46]
+				"macro|47||Seed|Interface\\Icons\\Spell_Shadow_SeedOfDestruction|/targetenemy/n/cast Seed of Corruption", -- [47]
 				"macro|48||pet|Interface\\Icons\\Spell_Nature_RemoveCurse|/cast Fel Domination/n/cast Summon Felguard", -- [48]
-				"spell|16||Tailoring|Grand Master|51309", -- [49]
+				"spell|15||Tailoring|Grand Master|51309", -- [49]
 				nil, -- [50]
 				"item|51939||Tel'thas, Dagger of the Blood King", -- [51]
 				"item|41196||Grand Spellstone", -- [52]
 				nil, -- [53]
 				"item|43523||Conjured Mana Strudel", -- [54]
-				"spell|118||Create Soulstone|Rank 7|47884", -- [55]
+				"spell|116||Create Soulstone|Rank 7|47884", -- [55]
 				nil, -- [56]
 				nil, -- [57]
-				"spell|139||Detect Invisibility||132", -- [58]
+				"spell|137||Detect Invisibility||132", -- [58]
 				nil, -- [59]
 				nil, -- [60]
-				"spell|8||Enchanting|Grand Master|51313", -- [61]
+				"spell|10||Enchanting|Grand Master|51313", -- [61]
 				nil, -- [62]
 				nil, -- [63]
-				"spell|124||Create Spellstone|Rank 6|47888", -- [64]
-				[70] = "spell|162||Ritual of Souls|Rank 2|58887",
+				"spell|122||Create Spellstone|Rank 6|47888", -- [64]
+				[70] = "spell|160||Ritual of Souls|Rank 2|58887",
 				[72] = "item|6948||Hearthstone",
-				[67] = "spell|124||Create Spellstone|Rank 6|47888",
-				[69] = "spell|144||Eye of Kilrogg|Summon|126",
-				[71] = "spell|111||Create Healthstone|Rank 8|47878",
-				[66] = "spell|163||Ritual of Summoning||698",
+				[67] = "spell|122||Create Spellstone|Rank 6|47888",
+				[69] = "spell|142||Eye of Kilrogg|Summon|126",
+				[71] = "spell|109||Create Healthstone|Rank 8|47878",
+				[66] = "spell|161||Ritual of Summoning||698",
 			},
 			["demo_pve"] = {
 				"macro|1||Demo|Interface\\Icons\\Spell_Shadow_ShadowBolt|#showtooltip Shadow Bolt(Rank 13)/n/cast Shadow Cleave(Demon)/n/cast Shadow Bolt(Rank 13)/n/cast Demonic Empowerment/n/use 10", -- [1]
@@ -968,75 +1178,75 @@ ActionBarSaverDB = {
 			},
 			["demonology_pve_yedek"] = {
 				"macro|1||Demo|Interface\\Icons\\Spell_Shadow_ShadowBolt|#showtooltip Shadow Bolt(Rank 13)/n/cast Shadow Cleave(Demon)/n/cast Shadow Bolt(Rank 13)/n/cast Demonic Empowerment/n/use 10", -- [1]
-				"spell|195||Immolate|Rank 11|47811", -- [2]
+				"spell|193||Immolate|Rank 11|47811", -- [2]
 				"macro|3||Incinerate|Interface\\Icons\\Spell_Fire_Burnout|#showtooltip Incinerate/n/cast Shadow Cleave(Demon)/n/cast Incinerate/n/cast Demonic Empowerment/n/use 10", -- [3]
 				"macro|4||Soulfire|Interface\\Icons\\Spell_Fire_Fireball02|#showtooltip Soul Fire(Rank 6)/n/cast Shadow Cleave(Demon)/n/cast Soul Fire(Rank 6)/n/cast Demonic Empowerment/n/use 10", -- [4]
 				nil, -- [5]
-				"item|40212||Potion of Wild Magic", -- [6]
+				"item|40211||Potion of Speed", -- [6]
 				"item|22788||Flame Cap", -- [7]
 				nil, -- [8]
-				"macro|9||Seed|Interface\\Icons\\Spell_Shadow_SeedOfDestruction|/targetenemy/n/cast Seed of Corruption", -- [9]
-				"spell|231||Shadowflame|Rank 2|61290", -- [10]
-				"spell|27||Corruption|Rank 10|47813", -- [11]
-				"spell|39||Curse of Doom|Rank 3|47867", -- [12]
-				"spell|80||Fear|Rank 3|6215", -- [13]
-				"spell|133||Demon Charge|Demon|54785", -- [14]
+				"spell|91||Seed of Corruption|Rank 3|47836", -- [9]
+				"spell|229||Shadowflame|Rank 2|61290", -- [10]
+				"spell|25||Corruption|Rank 10|47813", -- [11]
+				"spell|37||Curse of Doom|Rank 3|47867", -- [12]
+				"spell|78||Fear|Rank 3|6215", -- [13]
+				"spell|131||Demon Charge|Demon|54785", -- [14]
 				nil, -- [15]
-				"spell|95||Banish|Rank 2|18647", -- [16]
+				"spell|93||Banish|Rank 2|18647", -- [16]
 				nil, -- [17]
-				"spell|44||Curse of the Elements|Rank 5|47865", -- [18]
-				"spell|217||Shadow Bolt|Rank 1|686", -- [19]
-				"spell|55||Curse of Weakness|Rank 9|50511", -- [20]
-				"spell|46||Curse of Tongues|Rank 2|11719", -- [21]
+				"spell|42||Curse of the Elements|Rank 5|47865", -- [18]
+				"macro|19||Rank 1|Interface\\Icons\\Spell_Shadow_ShadowBolt|/cast Shadow Bolt(Rank 1)", -- [19]
+				"spell|53||Curse of Weakness|Rank 9|50511", -- [20]
+				"spell|44||Curse of Tongues|Rank 2|11719", -- [21]
 				nil, -- [22]
 				"companion|1||demonology_pve_yedek|MOUNT|59996", -- [23]
-				"companion|6||demonology_pve_yedek|MOUNT|49379", -- [24]
-				"spell|90||Life Tap|Rank 8|57946", -- [25]
-				"spell|137||Demonic Circle: Teleport||48020", -- [26]
-				"spell|77||Drain Soul|Rank 6|47855", -- [27]
-				"spell|61||Death Coil|Rank 6|47860", -- [28]
-				"spell|184||Hellfire|Rank 5|47823", -- [29]
+				"companion|5||demonology_pve_yedek|MOUNT|49379", -- [24]
+				"spell|88||Life Tap|Rank 8|57946", -- [25]
+				"spell|135||Demonic Circle: Teleport||48020", -- [26]
+				"macro|27||Petfollow|Interface\\Icons\\Ability_Druid_Berserk|/petfollow", -- [27]
+				"spell|75||Drain Soul|Rank 6|47855", -- [28]
+				"spell|182||Hellfire|Rank 5|47823", -- [29]
 				nil, -- [30]
-				nil, -- [31]
-				"spell|159||Immolation Aura|Demon|50589", -- [32]
-				"spell|173||Soulshatter||29858", -- [33]
-				"macro|34||Petfollow|Interface\\Icons\\Ability_Druid_Berserk|/petfollow", -- [34]
+				"spell|8||Disenchant||13262", -- [31]
+				"spell|157||Immolation Aura|Demon|50589", -- [32]
+				"spell|171||Soulshatter||29858", -- [33]
+				"macro|34||Petattack|Interface\\Icons\\Ability_DualWield|/petattack", -- [34]
 				nil, -- [35]
-				"item|40211||Potion of Speed", -- [36]
+				"item|40212||Potion of Wild Magic", -- [36]
 				"macro|37||Metamorphosis|Interface\\Icons\\Spell_Shadow_DemonForm|/cast Metamorphosis/n/cast Immolation Aura(Demon)/n/cast Shadow Cleave(Demon)/n/use 10", -- [37]
-				"spell|136||Demonic Circle: Summon||48018", -- [38]
-				"spell|171||Shadow Ward|Rank 6|47891", -- [39]
-				"spell|9||Every Man for Himself|Racial|59752", -- [40]
-				"spell|148||Fel Armor|Rank 4|47893", -- [41]
+				"spell|134||Demonic Circle: Summon||48018", -- [38]
+				"spell|169||Shadow Ward|Rank 6|47891", -- [39]
+				nil, -- [40]
+				"spell|146||Fel Armor|Rank 4|47893", -- [41]
 				nil, -- [42]
-				"macro|43||Petattack|Interface\\Icons\\Ability_DualWield|/petattack", -- [43]
-				"spell|36||Curse of Agony|Rank 9|47864", -- [44]
-				"spell|216||Searing Pain|Rank 10|47815", -- [45]
-				"spell|172||Soul Link||19028", -- [46]
-				nil, -- [47]
+				"spell|59||Death Coil|Rank 6|47860", -- [43]
+				"spell|34||Curse of Agony|Rank 9|47864", -- [44]
+				"spell|214||Searing Pain|Rank 10|47815", -- [45]
+				"spell|170||Soul Link||19028", -- [46]
+				"macro|47||Seed|Interface\\Icons\\Spell_Shadow_SeedOfDestruction|/targetenemy/n/cast Seed of Corruption", -- [47]
 				"macro|48||pet|Interface\\Icons\\Spell_Nature_RemoveCurse|/cast Fel Domination/n/cast Summon Felguard", -- [48]
-				"spell|16||Tailoring|Grand Master|51309", -- [49]
+				"spell|15||Tailoring|Grand Master|51309", -- [49]
 				nil, -- [50]
 				"item|51939||Tel'thas, Dagger of the Blood King", -- [51]
 				"item|41196||Grand Spellstone", -- [52]
 				nil, -- [53]
 				"item|43523||Conjured Mana Strudel", -- [54]
-				"spell|118||Create Soulstone|Rank 7|47884", -- [55]
+				"spell|116||Create Soulstone|Rank 7|47884", -- [55]
 				nil, -- [56]
 				nil, -- [57]
-				"spell|139||Detect Invisibility||132", -- [58]
+				"spell|137||Detect Invisibility||132", -- [58]
 				nil, -- [59]
 				nil, -- [60]
-				"spell|8||Enchanting|Grand Master|51313", -- [61]
+				"spell|10||Enchanting|Grand Master|51313", -- [61]
 				nil, -- [62]
 				nil, -- [63]
-				"spell|124||Create Spellstone|Rank 6|47888", -- [64]
-				[70] = "spell|162||Ritual of Souls|Rank 2|58887",
+				"spell|122||Create Spellstone|Rank 6|47888", -- [64]
+				[70] = "spell|160||Ritual of Souls|Rank 2|58887",
 				[72] = "item|6948||Hearthstone",
-				[67] = "spell|124||Create Spellstone|Rank 6|47888",
-				[69] = "spell|144||Eye of Kilrogg|Summon|126",
-				[71] = "spell|111||Create Healthstone|Rank 8|47878",
-				[66] = "spell|163||Ritual of Summoning||698",
+				[67] = "spell|122||Create Spellstone|Rank 6|47888",
+				[69] = "spell|142||Eye of Kilrogg|Summon|126",
+				[71] = "spell|109||Create Healthstone|Rank 8|47878",
+				[66] = "spell|161||Ritual of Summoning||698",
 			},
 			["demo_pve_yedek"] = {
 				"macro|1||Demo|Interface\\Icons\\Spell_Shadow_ShadowBolt|#showtooltip Shadow Bolt(Rank 13)/n/cast Shadow Cleave(Demon)/n/cast Shadow Bolt(Rank 13)/n/cast Demonic Empowerment/n/use 10", -- [1]
@@ -1217,8 +1427,8 @@ ActionBarSaverDB = {
 				[59] = "item|36894||Fel Healthstone",
 				[72] = "item|6948||Hearthstone",
 				[82] = "spell|40||Kick||1766",
-				[18] = "spell|44||Blind||2094",
 				[73] = "spell|21||Ambush|Rank 10|48691",
+				[18] = "spell|44||Blind||2094",
 				[74] = "spell|22||Cheap Shot||1833",
 				[76] = "spell|29||Garrote|Rank 10|48676",
 			},
@@ -1369,14 +1579,14 @@ ActionBarSaverDB = {
 				[73] = "macro|73||1|Interface\\Icons\\Spell_Shadow_VampiricAura|#showtooltip Shred(Rank 9)/n/use Aldriana's Gloves of Secrecy/n/cast Shred(Rank 9)/n/cancelaura Hand of Protection/n/cancelaura Divine Protection",
 				[75] = "spell|117||Rip|Rank 9|49800",
 				[107] = "macro|107||swipe|Interface\\Icons\\INV_Misc_MonsterClaw_03|#showtooltip Swipe (Bear)(Rank 8)/n/cast Swipe (Bear)(Rank 8)/n/cast Maul(Rank 10)",
-				[66] = "spell|8||Engineering|Grand Master|51306",
+				[97] = "macro|97||Mangle|Interface\\Icons\\Ability_Druid_Mangle2|#showtooltip Mangle (Bear)(Rank 5)/n/cast Mangle (Bear)(Rank 5)/n/cast Maul(Rank 10)",
 				[99] = "macro|99||lac|Interface\\Icons\\Ability_Druid_Lacerate|#showtooltip Lacerate(Rank 3)/n/cast Lacerate(Rank 3)/n/cast Maul(Rank 10)",
 				[70] = "spell|4||Cooking|Grand Master|51296",
-				[103] = "spell|106||Frenzied Regeneration||22842",
+				[72] = "item|6948||Hearthstone",
 				[74] = "spell|115||Rake|Rank 7|48574",
 				[76] = "spell|119||Savage Roar|Rank 1|52610",
-				[72] = "item|6948||Hearthstone",
-				[97] = "macro|97||Mangle|Interface\\Icons\\Ability_Druid_Mangle2|#showtooltip Mangle (Bear)(Rank 5)/n/cast Mangle (Bear)(Rank 5)/n/cast Maul(Rank 10)",
+				[103] = "spell|106||Frenzied Regeneration||22842",
+				[66] = "spell|8||Engineering|Grand Master|51306",
 				[108] = "spell|107||Growl||6795",
 			},
 		},
@@ -1542,7 +1752,7 @@ ActionBarSaverDB = {
 				[144] = "spell|152||Grounding Totem||8177",
 				[137] = "spell|125||Flametongue Totem|Rank 8|58656",
 			},
-			["restoration_pve"] = {
+			["restoration_pve_yedek"] = {
 				"spell|280||Riptide|Rank 4|61301", -- [1]
 				"item|51191||Sanctified Frost Witch's Handguards", -- [2]
 				"macro|3||Heal2|Interface\\Icons\\Spell_Nature_RavenForm|/cast Nature's Swiftness/n/cast Tidal Force", -- [3]
@@ -1565,8 +1775,8 @@ ActionBarSaverDB = {
 				"spell|108||Wind Shear||57994", -- [20]
 				"spell|64||Lava Burst|Rank 2|60043", -- [21]
 				nil, -- [22]
-				"companion|10||restoration_pve|MOUNT|32242", -- [23]
-				"companion|2||restoration_pve|MOUNT|22723", -- [24]
+				"companion|10||restoration_pve_yedek|MOUNT|32242", -- [23]
+				"companion|2||restoration_pve_yedek|MOUNT|22723", -- [24]
 				"spell|292||Water Shield|Rank 9|57960", -- [25]
 				"spell|87||Purge|Rank 2|8012", -- [26]
 				"spell|220||Cleanse Spirit||51886", -- [27]
@@ -1623,7 +1833,7 @@ ActionBarSaverDB = {
 				[144] = "spell|152||Grounding Totem||8177",
 				[137] = "spell|125||Flametongue Totem|Rank 8|58656",
 			},
-			["restoration_pve_yedek"] = {
+			["restoration_pve"] = {
 				"spell|280||Riptide|Rank 4|61301", -- [1]
 				"item|51191||Sanctified Frost Witch's Handguards", -- [2]
 				"macro|3||Heal2|Interface\\Icons\\Spell_Nature_RavenForm|/cast Nature's Swiftness/n/cast Tidal Force", -- [3]
@@ -1646,8 +1856,8 @@ ActionBarSaverDB = {
 				"spell|108||Wind Shear||57994", -- [20]
 				"spell|64||Lava Burst|Rank 2|60043", -- [21]
 				nil, -- [22]
-				"companion|10||restoration_pve_yedek|MOUNT|32242", -- [23]
-				"companion|2||restoration_pve_yedek|MOUNT|22723", -- [24]
+				"companion|10||restoration_pve|MOUNT|32242", -- [23]
+				"companion|2||restoration_pve|MOUNT|22723", -- [24]
 				"spell|292||Water Shield|Rank 9|57960", -- [25]
 				"spell|87||Purge|Rank 2|8012", -- [26]
 				"spell|220||Cleanse Spirit||51886", -- [27]

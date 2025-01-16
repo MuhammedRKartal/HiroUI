@@ -1,3 +1,11 @@
+MACRO 16777227 "cance" INV_Misc_QuestionMark
+/cancelaura Power Word: Shield
+/use Global Thermal Sapper Charge
+END
+MACRO 16777228 "dash" INV_Misc_QuestionMark
+/cast cat form
+/cast dash
+END
 MACRO 16777217 "Fall" INV_Misc_QuestionMark
 #show Starfall
 /use Sanctified Lasherweave Gloves
@@ -35,6 +43,7 @@ MACRO 16777220 "rebirth" INV_Misc_QuestionMark
 /use [@mouseover, help] Rebirth
 END
 MACRO 16777219 "Wrath" INV_Misc_QuestionMark
+#show Wrath
 /use Sanctified Lasherweave Gloves
 /cast Wrath
 END

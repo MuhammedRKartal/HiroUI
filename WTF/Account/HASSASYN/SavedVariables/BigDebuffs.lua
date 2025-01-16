@@ -5,10 +5,11 @@ BigDebuffsDB = {
 		},
 	},
 	["profileKeys"] = {
-		["Diamondtema - Icecrown"] = "Default",
 		["Lodfarmwarr - Icecrown"] = "Default",
-		["Mayiswallow - Icecrown"] = "Default",
 		["Theedgar - Icecrown"] = "Default",
+		["Diamondtema - Icecrown"] = "Default",
+		["Mayiswallow - Icecrown"] = "Default",
+		["Spectia - Icecrown"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

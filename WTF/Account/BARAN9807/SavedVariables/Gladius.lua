@@ -1,11 +1,13 @@
 
 GladiusDB = {
 	["profileKeys"] = {
-		["Enayi - Icecrown"] = "Enayi - Icecrown",
-		["Koboldminer - Icecrown"] = "Koboldminer - Icecrown",
-		["Ramozan - Icecrown"] = "Ramozan - Icecrown",
+		["Sikelet - Icecrown"] = "Sikelet - Icecrown",
+		["Ilkkan - Icecrown"] = "Ilkkan - Icecrown",
 		["Analbuster - Onyxia"] = "Analbuster - Onyxia",
 		["Canubet - Icecrown"] = "Canubet - Icecrown",
+		["Ramozan - Icecrown"] = "Ramozan - Icecrown",
+		["Koboldminer - Icecrown"] = "Koboldminer - Icecrown",
+		["Enayi - Icecrown"] = "Enayi - Icecrown",
 	},
 	["profiles"] = {
 		["Icecrown"] = {
@@ -17,14 +19,16 @@ GladiusDB = {
 		},
 		["Koboldminer - Icecrown"] = {
 			["locked"] = true,
-			["y"] = 480.0000266488927,
 			["x"] = 947.1995996239314,
+			["y"] = 480.0000266488927,
 		},
 		["Canubet - Icecrown"] = {
 			["y"] = 480.5333639458832,
 			["x"] = 995.732935103985,
 		},
-		["Default"] = {
+		["Ilkkan - Icecrown"] = {
+			["y"] = 480.5333639458832,
+			["x"] = 995.732935103985,
 		},
 		["Sikelet - Icecrown"] = {
 		},
@@ -35,7 +39,7 @@ GladiusDB = {
 		},
 		["Analbuster - Onyxia"] = {
 		},
-		["Ilkkan - Icecrown"] = {
+		["Default"] = {
 		},
 	},
 }

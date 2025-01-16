@@ -5,18 +5,18 @@ AtlasLootCharDB = {
 	["WishList"] = {
 	},
 	["AtlasLootVersion"] = "51104",
-	["LastSearchedText"] = "world breaker",
+	["LastSearchedText"] = "sylvana",
 	["AutoQuery"] = false,
 	["SearchResult"] = {
 		{
 			2, -- [1]
-			30090, -- [2]
+			47546, -- [2]
 			"", -- [3]
-			"=q4=World Breaker", -- [4]
-			"Fathom-Lord Karathress", -- [5]
+			"=q4=Sylvanas' Cunning", -- [4]
+			"Tribute Run", -- [5]
 			"", -- [6]
 			"", -- [7]
-			"CFRSerpentKarathress|\"\"", -- [8]
+			"TrialoftheCrusaderTribute25ManHEROIC_H|\"\"", -- [8]
 		}, -- [1]
 	},
 }
@@ -27,18 +27,22 @@ AtlasLootFilterDB = {
 		["Sigils"] = true,
 		["Totem"] = true,
 	},
-	["WeaponsRanged"] = {
-		["Crossbow"] = true,
-		["Thrown"] = true,
-		["Gun"] = true,
-		["Bow"] = true,
-		["Wand"] = true,
+	["WeaponsMeele"] = {
+		["Axe"] = true,
+		["Shield"] = true,
+		["Held in Off-Hand"] = true,
+		["Staff"] = true,
+		["Dagger"] = true,
+		["Mace"] = true,
+		["Fist Weapon"] = true,
+		["Polearm"] = true,
+		["Sword"] = true,
 	},
 	["Armor"] = {
 		["Leather"] = true,
 		["Plate"] = true,
-		["Mail"] = true,
 		["Cloth"] = true,
+		["Mail"] = true,
 	},
 	["WeaponsMeeleTwoHand"] = {
 		["Mace"] = true,
@@ -51,15 +55,11 @@ AtlasLootFilterDB = {
 		["Ring"] = true,
 		["Back"] = true,
 	},
-	["WeaponsMeele"] = {
-		["Axe"] = true,
-		["Shield"] = true,
-		["Held in Off-Hand"] = true,
-		["Staff"] = true,
-		["Dagger"] = true,
-		["Mace"] = true,
-		["Fist Weapon"] = true,
-		["Polearm"] = true,
-		["Sword"] = true,
+	["WeaponsRanged"] = {
+		["Crossbow"] = true,
+		["Wand"] = true,
+		["Gun"] = true,
+		["Bow"] = true,
+		["Thrown"] = true,
 	},
 }

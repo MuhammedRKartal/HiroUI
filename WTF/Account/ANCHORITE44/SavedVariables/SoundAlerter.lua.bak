@@ -1,0 +1,16 @@
+
+SoundAlerterDB = {
+	["profileKeys"] = {
+		["Mayiascend - Icecrown"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["path"] = "Interface\\Addons\\SoundAlerter\\Voice\\",
+			["dEnemyDebuffDown"] = false,
+			["auraRemoved"] = false,
+			["chatalerts"] = false,
+			["dSelfDebuff"] = false,
+			["antiMagicShell"] = false,
+		},
+	},
+}

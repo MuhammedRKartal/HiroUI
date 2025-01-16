@@ -14,7 +14,7 @@ Bartender4DB = {
 							},
 							["version"] = 3,
 							["skin"] = {
-								["Gloss"] = 0.28,
+								["ID"] = "LiteStep XLT",
 								["Colors"] = {
 									["Pushed"] = {
 										0, -- [1]
@@ -47,7 +47,7 @@ Bartender4DB = {
 										1, -- [4]
 									},
 								},
-								["ID"] = "LiteStep XLT",
+								["Gloss"] = 0.28,
 							},
 						}, -- [1]
 						{
@@ -59,7 +59,7 @@ Bartender4DB = {
 							},
 							["version"] = 3,
 							["skin"] = {
-								["Gloss"] = 0.28,
+								["ID"] = "LiteStep XLT",
 								["Colors"] = {
 									["Pushed"] = {
 										0, -- [1]
@@ -92,7 +92,7 @@ Bartender4DB = {
 										1, -- [4]
 									},
 								},
-								["ID"] = "LiteStep XLT",
+								["Gloss"] = 0.28,
 							},
 						}, -- [2]
 						{
@@ -104,7 +104,7 @@ Bartender4DB = {
 							},
 							["version"] = 3,
 							["skin"] = {
-								["Gloss"] = 0.28,
+								["ID"] = "LiteStep XLT",
 								["Colors"] = {
 									["Pushed"] = {
 										0, -- [1]
@@ -137,7 +137,7 @@ Bartender4DB = {
 										1, -- [4]
 									},
 								},
-								["ID"] = "LiteStep XLT",
+								["Gloss"] = 0.28,
 							},
 						}, -- [3]
 						{
@@ -149,7 +149,7 @@ Bartender4DB = {
 							},
 							["version"] = 3,
 							["skin"] = {
-								["Gloss"] = 0.28,
+								["ID"] = "LiteStep XLT",
 								["Colors"] = {
 									["Pushed"] = {
 										0, -- [1]
@@ -182,7 +182,7 @@ Bartender4DB = {
 										1, -- [4]
 									},
 								},
-								["ID"] = "LiteStep XLT",
+								["Gloss"] = 0.28,
 							},
 						}, -- [4]
 						{
@@ -194,7 +194,7 @@ Bartender4DB = {
 							},
 							["version"] = 3,
 							["skin"] = {
-								["Gloss"] = 0.28,
+								["ID"] = "LiteStep XLT",
 								["Colors"] = {
 									["Pushed"] = {
 										0, -- [1]
@@ -227,7 +227,7 @@ Bartender4DB = {
 										1, -- [4]
 									},
 								},
-								["ID"] = "LiteStep XLT",
+								["Gloss"] = 0.28,
 							},
 						}, -- [5]
 						{
@@ -239,7 +239,7 @@ Bartender4DB = {
 							},
 							["version"] = 3,
 							["skin"] = {
-								["Gloss"] = 0.28,
+								["ID"] = "LiteStep XLT",
 								["Colors"] = {
 									["Pushed"] = {
 										0, -- [1]
@@ -272,7 +272,7 @@ Bartender4DB = {
 										1, -- [4]
 									},
 								},
-								["ID"] = "LiteStep XLT",
+								["Gloss"] = 0.28,
 							},
 						}, -- [6]
 						{
@@ -576,7 +576,7 @@ Bartender4DB = {
 							["hidemacrotext"] = true,
 							["version"] = 3,
 							["skin"] = {
-								["ID"] = "LiteStep XLT",
+								["Gloss"] = 0.28,
 								["Colors"] = {
 									["Pushed"] = {
 										0, -- [1]
@@ -609,7 +609,7 @@ Bartender4DB = {
 										1, -- [4]
 									},
 								},
-								["Gloss"] = 0.28,
+								["ID"] = "LiteStep XLT",
 							},
 						}, -- [1]
 						{
@@ -621,7 +621,7 @@ Bartender4DB = {
 							},
 							["version"] = 3,
 							["skin"] = {
-								["ID"] = "LiteStep XLT",
+								["Gloss"] = 0.28,
 								["Colors"] = {
 									["Pushed"] = {
 										0, -- [1]
@@ -654,7 +654,7 @@ Bartender4DB = {
 										1, -- [4]
 									},
 								},
-								["Gloss"] = 0.28,
+								["ID"] = "LiteStep XLT",
 							},
 						}, -- [2]
 						{
@@ -666,7 +666,7 @@ Bartender4DB = {
 							},
 							["version"] = 3,
 							["skin"] = {
-								["ID"] = "LiteStep XLT",
+								["Gloss"] = 0.28,
 								["Colors"] = {
 									["Pushed"] = {
 										0, -- [1]
@@ -699,7 +699,7 @@ Bartender4DB = {
 										1, -- [4]
 									},
 								},
-								["Gloss"] = 0.28,
+								["ID"] = "LiteStep XLT",
 							},
 						}, -- [3]
 						{
@@ -711,7 +711,7 @@ Bartender4DB = {
 							},
 							["version"] = 3,
 							["skin"] = {
-								["ID"] = "LiteStep XLT",
+								["Gloss"] = 0.28,
 								["Colors"] = {
 									["Pushed"] = {
 										0, -- [1]
@@ -744,7 +744,7 @@ Bartender4DB = {
 										1, -- [4]
 									},
 								},
-								["Gloss"] = 0.28,
+								["ID"] = "LiteStep XLT",
 							},
 						}, -- [4]
 						{
@@ -756,7 +756,7 @@ Bartender4DB = {
 							},
 							["version"] = 3,
 							["skin"] = {
-								["ID"] = "LiteStep XLT",
+								["Gloss"] = 0.28,
 								["Colors"] = {
 									["Pushed"] = {
 										0, -- [1]
@@ -789,7 +789,7 @@ Bartender4DB = {
 										1, -- [4]
 									},
 								},
-								["Gloss"] = 0.28,
+								["ID"] = "LiteStep XLT",
 							},
 						}, -- [5]
 						{
@@ -801,7 +801,7 @@ Bartender4DB = {
 							},
 							["version"] = 3,
 							["skin"] = {
-								["ID"] = "LiteStep XLT",
+								["Gloss"] = 0.28,
 								["Colors"] = {
 									["Pushed"] = {
 										0, -- [1]
@@ -834,7 +834,7 @@ Bartender4DB = {
 										1, -- [4]
 									},
 								},
-								["Gloss"] = 0.28,
+								["ID"] = "LiteStep XLT",
 							},
 						}, -- [6]
 						{
@@ -1109,6 +1109,286 @@ Bartender4DB = {
 									},
 								},
 								["Gloss"] = 0.28,
+							},
+							["version"] = 3,
+							["position"] = {
+								["y"] = 65.11850458094821,
+								["x"] = -2.400009172298115,
+								["point"] = "BOTTOMLEFT",
+								["scale"] = 0.800000011920929,
+							},
+						}, -- [6]
+						{
+						}, -- [7]
+						[9] = {
+						},
+						[10] = {
+						},
+					},
+				},
+				["Diamondtema - Icecrown"] = {
+					["actionbars"] = {
+						{
+							["skin"] = {
+								["Colors"] = {
+									["Pushed"] = {
+										0, -- [1]
+										0, -- [2]
+										0, -- [3]
+										0.4399999976158142, -- [4]
+									},
+									["Checked"] = {
+										0, -- [1]
+										0, -- [2]
+										0, -- [3]
+										0.800000011920929, -- [4]
+									},
+									["Gloss"] = {
+										1, -- [1]
+										0.3607843137254902, -- [2]
+										0.3764705882352941, -- [3]
+										1, -- [4]
+									},
+									["Backdrop"] = {
+										0, -- [1]
+										0, -- [2]
+										0, -- [3]
+										0.7400000095367432, -- [4]
+									},
+									["Flash"] = {
+										1, -- [1]
+										0, -- [2]
+										0, -- [3]
+										1, -- [4]
+									},
+								},
+								["Gloss"] = 0.28,
+								["ID"] = "LiteStep XLT",
+							},
+							["version"] = 3,
+							["position"] = {
+								["y"] = 37.80000359468666,
+								["x"] = -83.16088893656661,
+								["point"] = "BOTTOM",
+								["scale"] = 0.9000000357627869,
+							},
+						}, -- [1]
+						{
+							["skin"] = {
+								["Colors"] = {
+									["Pushed"] = {
+										0, -- [1]
+										0, -- [2]
+										0, -- [3]
+										0.4399999976158142, -- [4]
+									},
+									["Checked"] = {
+										0, -- [1]
+										0, -- [2]
+										0, -- [3]
+										0.800000011920929, -- [4]
+									},
+									["Gloss"] = {
+										1, -- [1]
+										0.3607843137254902, -- [2]
+										0.3764705882352941, -- [3]
+										1, -- [4]
+									},
+									["Backdrop"] = {
+										0, -- [1]
+										0, -- [2]
+										0, -- [3]
+										0.7400000095367432, -- [4]
+									},
+									["Flash"] = {
+										1, -- [1]
+										0, -- [2]
+										0, -- [3]
+										1, -- [4]
+									},
+								},
+								["Gloss"] = 0.28,
+								["ID"] = "LiteStep XLT",
+							},
+							["version"] = 3,
+							["position"] = {
+								["y"] = 73.80000945669143,
+								["x"] = -83.19006982751398,
+								["point"] = "BOTTOM",
+								["scale"] = 0.9000000357627869,
+							},
+						}, -- [2]
+						{
+							["skin"] = {
+								["Colors"] = {
+									["Pushed"] = {
+										0, -- [1]
+										0, -- [2]
+										0, -- [3]
+										0.4399999976158142, -- [4]
+									},
+									["Checked"] = {
+										0, -- [1]
+										0, -- [2]
+										0, -- [3]
+										0.800000011920929, -- [4]
+									},
+									["Gloss"] = {
+										1, -- [1]
+										0.3607843137254902, -- [2]
+										0.3764705882352941, -- [3]
+										1, -- [4]
+									},
+									["Backdrop"] = {
+										0, -- [1]
+										0, -- [2]
+										0, -- [3]
+										0.7400000095367432, -- [4]
+									},
+									["Flash"] = {
+										1, -- [1]
+										0, -- [2]
+										0, -- [3]
+										1, -- [4]
+									},
+								},
+								["Gloss"] = 0.28,
+								["ID"] = "LiteStep XLT",
+							},
+							["version"] = 3,
+							["position"] = {
+								["y"] = 109.7999956231705,
+								["x"] = -83.19006982751398,
+								["point"] = "BOTTOM",
+								["scale"] = 0.9000000357627869,
+							},
+						}, -- [3]
+						{
+							["skin"] = {
+								["Colors"] = {
+									["Pushed"] = {
+										0, -- [1]
+										0, -- [2]
+										0, -- [3]
+										0.4399999976158142, -- [4]
+									},
+									["Checked"] = {
+										0, -- [1]
+										0, -- [2]
+										0, -- [3]
+										0.800000011920929, -- [4]
+									},
+									["Gloss"] = {
+										1, -- [1]
+										0.3607843137254902, -- [2]
+										0.3764705882352941, -- [3]
+										1, -- [4]
+									},
+									["Backdrop"] = {
+										0, -- [1]
+										0, -- [2]
+										0, -- [3]
+										0.7400000095367432, -- [4]
+									},
+									["Flash"] = {
+										1, -- [1]
+										0, -- [2]
+										0, -- [3]
+										1, -- [4]
+									},
+								},
+								["Gloss"] = 0.28,
+								["ID"] = "LiteStep XLT",
+							},
+							["version"] = 3,
+							["position"] = {
+								["y"] = 145.8000054242804,
+								["x"] = -83.19006982751398,
+								["point"] = "BOTTOM",
+								["scale"] = 0.9000000357627869,
+							},
+						}, -- [4]
+						{
+							["skin"] = {
+								["Colors"] = {
+									["Pushed"] = {
+										0, -- [1]
+										0, -- [2]
+										0, -- [3]
+										0.4399999976158142, -- [4]
+									},
+									["Checked"] = {
+										0, -- [1]
+										0, -- [2]
+										0, -- [3]
+										0.800000011920929, -- [4]
+									},
+									["Gloss"] = {
+										1, -- [1]
+										0.3607843137254902, -- [2]
+										0.3764705882352941, -- [3]
+										1, -- [4]
+									},
+									["Backdrop"] = {
+										0, -- [1]
+										0, -- [2]
+										0, -- [3]
+										0.7400000095367432, -- [4]
+									},
+									["Flash"] = {
+										1, -- [1]
+										0, -- [2]
+										0, -- [3]
+										1, -- [4]
+									},
+								},
+								["Gloss"] = 0.28,
+								["ID"] = "LiteStep XLT",
+							},
+							["version"] = 3,
+							["position"] = {
+								["y"] = 33.59999885938525,
+								["x"] = -2.400009172298115,
+								["point"] = "BOTTOMLEFT",
+								["scale"] = 0.800000011920929,
+							},
+						}, -- [5]
+						{
+							["skin"] = {
+								["Colors"] = {
+									["Pushed"] = {
+										0, -- [1]
+										0, -- [2]
+										0, -- [3]
+										0.4399999976158142, -- [4]
+									},
+									["Checked"] = {
+										0, -- [1]
+										0, -- [2]
+										0, -- [3]
+										0.800000011920929, -- [4]
+									},
+									["Gloss"] = {
+										1, -- [1]
+										0.3607843137254902, -- [2]
+										0.3764705882352941, -- [3]
+										1, -- [4]
+									},
+									["Backdrop"] = {
+										0, -- [1]
+										0, -- [2]
+										0, -- [3]
+										0.7400000095367432, -- [4]
+									},
+									["Flash"] = {
+										1, -- [1]
+										0, -- [2]
+										0, -- [3]
+										1, -- [4]
+									},
+								},
+								["Gloss"] = 0.28,
+								["ID"] = "LiteStep XLT",
 							},
 							["version"] = 3,
 							["position"] = {
@@ -1407,10 +1687,11 @@ Bartender4DB = {
 						},
 					},
 				},
-				["Diamondtema - Icecrown"] = {
+				["Spectia - Icecrown"] = {
 					["actionbars"] = {
 						{
 							["skin"] = {
+								["ID"] = "LiteStep XLT",
 								["Colors"] = {
 									["Pushed"] = {
 										0, -- [1]
@@ -1444,8 +1725,8 @@ Bartender4DB = {
 									},
 								},
 								["Gloss"] = 0.28,
-								["ID"] = "LiteStep XLT",
 							},
+							["hidemacrotext"] = true,
 							["version"] = 3,
 							["position"] = {
 								["y"] = 37.80000359468666,
@@ -1456,6 +1737,7 @@ Bartender4DB = {
 						}, -- [1]
 						{
 							["skin"] = {
+								["ID"] = "LiteStep XLT",
 								["Colors"] = {
 									["Pushed"] = {
 										0, -- [1]
@@ -1489,7 +1771,6 @@ Bartender4DB = {
 									},
 								},
 								["Gloss"] = 0.28,
-								["ID"] = "LiteStep XLT",
 							},
 							["version"] = 3,
 							["position"] = {
@@ -1501,6 +1782,7 @@ Bartender4DB = {
 						}, -- [2]
 						{
 							["skin"] = {
+								["ID"] = "LiteStep XLT",
 								["Colors"] = {
 									["Pushed"] = {
 										0, -- [1]
@@ -1534,7 +1816,6 @@ Bartender4DB = {
 									},
 								},
 								["Gloss"] = 0.28,
-								["ID"] = "LiteStep XLT",
 							},
 							["version"] = 3,
 							["position"] = {
@@ -1546,6 +1827,7 @@ Bartender4DB = {
 						}, -- [3]
 						{
 							["skin"] = {
+								["ID"] = "LiteStep XLT",
 								["Colors"] = {
 									["Pushed"] = {
 										0, -- [1]
@@ -1579,7 +1861,6 @@ Bartender4DB = {
 									},
 								},
 								["Gloss"] = 0.28,
-								["ID"] = "LiteStep XLT",
 							},
 							["version"] = 3,
 							["position"] = {
@@ -1591,6 +1872,7 @@ Bartender4DB = {
 						}, -- [4]
 						{
 							["skin"] = {
+								["ID"] = "LiteStep XLT",
 								["Colors"] = {
 									["Pushed"] = {
 										0, -- [1]
@@ -1624,7 +1906,6 @@ Bartender4DB = {
 									},
 								},
 								["Gloss"] = 0.28,
-								["ID"] = "LiteStep XLT",
 							},
 							["version"] = 3,
 							["position"] = {
@@ -1636,6 +1917,7 @@ Bartender4DB = {
 						}, -- [5]
 						{
 							["skin"] = {
+								["ID"] = "LiteStep XLT",
 								["Colors"] = {
 									["Pushed"] = {
 										0, -- [1]
@@ -1669,7 +1951,6 @@ Bartender4DB = {
 									},
 								},
 								["Gloss"] = 0.28,
-								["ID"] = "LiteStep XLT",
 							},
 							["version"] = 3,
 							["position"] = {
@@ -1700,7 +1981,7 @@ Bartender4DB = {
 					},
 					["version"] = 3,
 					["skin"] = {
-						["Gloss"] = 0.28,
+						["ID"] = "LiteStep XLT",
 						["Colors"] = {
 							["Pushed"] = {
 								0, -- [1]
@@ -1733,7 +2014,7 @@ Bartender4DB = {
 								1, -- [4]
 							},
 						},
-						["ID"] = "LiteStep XLT",
+						["Gloss"] = 0.28,
 					},
 				},
 				["Default"] = {
@@ -1783,7 +2064,7 @@ Bartender4DB = {
 				},
 				["Theedgar - Icecrown"] = {
 					["skin"] = {
-						["ID"] = "LiteStep XLT",
+						["Gloss"] = 0.28,
 						["Colors"] = {
 							["Pushed"] = {
 								0, -- [1]
@@ -1816,7 +2097,7 @@ Bartender4DB = {
 								1, -- [4]
 							},
 						},
-						["Gloss"] = 0.28,
+						["ID"] = "LiteStep XLT",
 					},
 					["version"] = 3,
 					["position"] = {
@@ -1871,6 +2152,51 @@ Bartender4DB = {
 						["Gloss"] = 0.28,
 					},
 				},
+				["Diamondtema - Icecrown"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 24.30000353011683,
+						["x"] = 510.9921770263341,
+						["point"] = "BOTTOM",
+						["scale"] = 0.6000000238418579,
+					},
+					["skin"] = {
+						["Colors"] = {
+							["Pushed"] = {
+								0, -- [1]
+								0, -- [2]
+								0, -- [3]
+								0.4399999976158142, -- [4]
+							},
+							["Checked"] = {
+								0, -- [1]
+								0, -- [2]
+								0, -- [3]
+								0.800000011920929, -- [4]
+							},
+							["Gloss"] = {
+								1, -- [1]
+								0.3607843137254902, -- [2]
+								0.3764705882352941, -- [3]
+								1, -- [4]
+							},
+							["Backdrop"] = {
+								0, -- [1]
+								0, -- [2]
+								0, -- [3]
+								0.7400000095367432, -- [4]
+							},
+							["Flash"] = {
+								1, -- [1]
+								0, -- [2]
+								0, -- [3]
+								1, -- [4]
+							},
+						},
+						["Gloss"] = 0.28,
+						["ID"] = "LiteStep XLT",
+					},
+				},
 				["Mayiswallow - Icecrown"] = {
 					["skin"] = {
 						["Gloss"] = 0.28,
@@ -1916,15 +2242,16 @@ Bartender4DB = {
 						["scale"] = 0.6000000238418579,
 					},
 				},
-				["Diamondtema - Icecrown"] = {
-					["version"] = 3,
+				["Spectia - Icecrown"] = {
 					["position"] = {
 						["y"] = 24.30000353011683,
 						["x"] = 510.9921770263341,
 						["point"] = "BOTTOM",
 						["scale"] = 0.6000000238418579,
 					},
+					["version"] = 3,
 					["skin"] = {
+						["ID"] = "LiteStep XLT",
 						["Colors"] = {
 							["Pushed"] = {
 								0, -- [1]
@@ -1958,7 +2285,6 @@ Bartender4DB = {
 							},
 						},
 						["Gloss"] = 0.28,
-						["ID"] = "LiteStep XLT",
 					},
 				},
 			},
@@ -1982,15 +2308,8 @@ Bartender4DB = {
 		["BagBar"] = {
 			["profiles"] = {
 				["Lodfarmwarr - Icecrown"] = {
-					["position"] = {
-						["y"] = 53.70000851437597,
-						["x"] = 511.1419260476964,
-						["point"] = "BOTTOM",
-						["scale"] = 0.915,
-					},
-					["version"] = 3,
 					["skin"] = {
-						["Gloss"] = 0.28,
+						["ID"] = "LiteStep XLT",
 						["Colors"] = {
 							["Pushed"] = {
 								0, -- [1]
@@ -2023,7 +2342,14 @@ Bartender4DB = {
 								1, -- [4]
 							},
 						},
-						["ID"] = "LiteStep XLT",
+						["Gloss"] = 0.28,
+					},
+					["version"] = 3,
+					["position"] = {
+						["y"] = 53.70000851437597,
+						["x"] = 511.1419260476964,
+						["point"] = "BOTTOM",
+						["scale"] = 0.915,
 					},
 				},
 				["Default"] = {
@@ -2072,15 +2398,8 @@ Bartender4DB = {
 					},
 				},
 				["Theedgar - Icecrown"] = {
-					["position"] = {
-						["y"] = 53.70000851437597,
-						["x"] = 511.1419260476964,
-						["point"] = "BOTTOM",
-						["scale"] = 0.915,
-					},
-					["version"] = 3,
 					["skin"] = {
-						["ID"] = "LiteStep XLT",
+						["Gloss"] = 0.28,
 						["Colors"] = {
 							["Pushed"] = {
 								0, -- [1]
@@ -2113,7 +2432,14 @@ Bartender4DB = {
 								1, -- [4]
 							},
 						},
-						["Gloss"] = 0.28,
+						["ID"] = "LiteStep XLT",
+					},
+					["version"] = 3,
+					["position"] = {
+						["y"] = 53.70000851437597,
+						["x"] = 511.1419260476964,
+						["point"] = "BOTTOM",
+						["scale"] = 0.915,
 					},
 				},
 				["Druth"] = {
@@ -2161,6 +2487,51 @@ Bartender4DB = {
 						["Gloss"] = 0.28,
 					},
 				},
+				["Diamondtema - Icecrown"] = {
+					["position"] = {
+						["y"] = 53.70000851437597,
+						["x"] = 511.1419260476964,
+						["point"] = "BOTTOM",
+						["scale"] = 0.915,
+					},
+					["skin"] = {
+						["Colors"] = {
+							["Pushed"] = {
+								0, -- [1]
+								0, -- [2]
+								0, -- [3]
+								0.4399999976158142, -- [4]
+							},
+							["Checked"] = {
+								0, -- [1]
+								0, -- [2]
+								0, -- [3]
+								0.800000011920929, -- [4]
+							},
+							["Gloss"] = {
+								1, -- [1]
+								0.3607843137254902, -- [2]
+								0.3764705882352941, -- [3]
+								1, -- [4]
+							},
+							["Backdrop"] = {
+								0, -- [1]
+								0, -- [2]
+								0, -- [3]
+								0.7400000095367432, -- [4]
+							},
+							["Flash"] = {
+								1, -- [1]
+								0, -- [2]
+								0, -- [3]
+								1, -- [4]
+							},
+						},
+						["Gloss"] = 0.28,
+						["ID"] = "LiteStep XLT",
+					},
+					["version"] = 3,
+				},
 				["Mayiswallow - Icecrown"] = {
 					["skin"] = {
 						["Gloss"] = 0.28,
@@ -2206,14 +2577,9 @@ Bartender4DB = {
 						["scale"] = 0.915,
 					},
 				},
-				["Diamondtema - Icecrown"] = {
-					["position"] = {
-						["y"] = 53.70000851437597,
-						["x"] = 511.1419260476964,
-						["point"] = "BOTTOM",
-						["scale"] = 0.915,
-					},
+				["Spectia - Icecrown"] = {
 					["skin"] = {
+						["ID"] = "LiteStep XLT",
 						["Colors"] = {
 							["Pushed"] = {
 								0, -- [1]
@@ -2247,9 +2613,14 @@ Bartender4DB = {
 							},
 						},
 						["Gloss"] = 0.28,
-						["ID"] = "LiteStep XLT",
 					},
 					["version"] = 3,
+					["position"] = {
+						["y"] = 53.70000851437597,
+						["x"] = 511.1419260476964,
+						["point"] = "BOTTOM",
+						["scale"] = 0.915,
+					},
 				},
 			},
 		},
@@ -2257,7 +2628,7 @@ Bartender4DB = {
 			["profiles"] = {
 				["Lodfarmwarr - Icecrown"] = {
 					["skin"] = {
-						["Gloss"] = 0.28,
+						["ID"] = "LiteStep XLT",
 						["Colors"] = {
 							["Pushed"] = {
 								0, -- [1]
@@ -2290,7 +2661,7 @@ Bartender4DB = {
 								1, -- [4]
 							},
 						},
-						["ID"] = "LiteStep XLT",
+						["Gloss"] = 0.28,
 					},
 					["version"] = 3,
 					["position"] = {
@@ -2345,7 +2716,7 @@ Bartender4DB = {
 				},
 				["Theedgar - Icecrown"] = {
 					["skin"] = {
-						["ID"] = "LiteStep XLT",
+						["Gloss"] = 0.28,
 						["Colors"] = {
 							["Pushed"] = {
 								0, -- [1]
@@ -2378,7 +2749,7 @@ Bartender4DB = {
 								1, -- [4]
 							},
 						},
-						["Gloss"] = 0.28,
+						["ID"] = "LiteStep XLT",
 					},
 					["version"] = 3,
 					["position"] = {
@@ -2431,6 +2802,50 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
+				["Diamondtema - Icecrown"] = {
+					["version"] = 3,
+					["skin"] = {
+						["Colors"] = {
+							["Pushed"] = {
+								0, -- [1]
+								0, -- [2]
+								0, -- [3]
+								0.4399999976158142, -- [4]
+							},
+							["Checked"] = {
+								0, -- [1]
+								0, -- [2]
+								0, -- [3]
+								0.800000011920929, -- [4]
+							},
+							["Gloss"] = {
+								1, -- [1]
+								0.3607843137254902, -- [2]
+								0.3764705882352941, -- [3]
+								1, -- [4]
+							},
+							["Backdrop"] = {
+								0, -- [1]
+								0, -- [2]
+								0, -- [3]
+								0.7400000095367432, -- [4]
+							},
+							["Flash"] = {
+								1, -- [1]
+								0, -- [2]
+								0, -- [3]
+								1, -- [4]
+							},
+						},
+						["Gloss"] = 0.28,
+						["ID"] = "LiteStep XLT",
+					},
+					["position"] = {
+						["y"] = 220.3000139988679,
+						["x"] = 200.4073061917602,
+						["point"] = "BOTTOM",
+					},
+				},
 				["Mayiswallow - Icecrown"] = {
 					["skin"] = {
 						["Gloss"] = 0.28,
@@ -2475,9 +2890,9 @@ Bartender4DB = {
 						["point"] = "BOTTOM",
 					},
 				},
-				["Diamondtema - Icecrown"] = {
-					["version"] = 3,
+				["Spectia - Icecrown"] = {
 					["skin"] = {
+						["ID"] = "LiteStep XLT",
 						["Colors"] = {
 							["Pushed"] = {
 								0, -- [1]
@@ -2511,8 +2926,8 @@ Bartender4DB = {
 							},
 						},
 						["Gloss"] = 0.28,
-						["ID"] = "LiteStep XLT",
 					},
+					["version"] = 3,
 					["position"] = {
 						["y"] = 220.3000139988679,
 						["x"] = 200.4073061917602,
@@ -2532,7 +2947,7 @@ Bartender4DB = {
 					},
 					["version"] = 3,
 					["skin"] = {
-						["Gloss"] = 0.28,
+						["ID"] = "LiteStep XLT",
 						["Colors"] = {
 							["Pushed"] = {
 								0, -- [1]
@@ -2565,7 +2980,7 @@ Bartender4DB = {
 								1, -- [4]
 							},
 						},
-						["ID"] = "LiteStep XLT",
+						["Gloss"] = 0.28,
 					},
 				},
 				["Default"] = {
@@ -2615,7 +3030,7 @@ Bartender4DB = {
 				},
 				["Theedgar - Icecrown"] = {
 					["skin"] = {
-						["ID"] = "LiteStep XLT",
+						["Gloss"] = 0.28,
 						["Colors"] = {
 							["Pushed"] = {
 								0, -- [1]
@@ -2648,7 +3063,7 @@ Bartender4DB = {
 								1, -- [4]
 							},
 						},
-						["Gloss"] = 0.28,
+						["ID"] = "LiteStep XLT",
 					},
 					["version"] = 3,
 					["position"] = {
@@ -2703,6 +3118,51 @@ Bartender4DB = {
 						["Gloss"] = 0.28,
 					},
 				},
+				["Diamondtema - Icecrown"] = {
+					["version"] = 3,
+					["position"] = {
+						["y"] = 186.3000515742166,
+						["x"] = -83.04025778046923,
+						["point"] = "BOTTOM",
+						["scale"] = 1.200000047683716,
+					},
+					["skin"] = {
+						["Colors"] = {
+							["Pushed"] = {
+								0, -- [1]
+								0, -- [2]
+								0, -- [3]
+								0.4399999976158142, -- [4]
+							},
+							["Checked"] = {
+								0, -- [1]
+								0, -- [2]
+								0, -- [3]
+								0.800000011920929, -- [4]
+							},
+							["Gloss"] = {
+								1, -- [1]
+								0.3607843137254902, -- [2]
+								0.3764705882352941, -- [3]
+								1, -- [4]
+							},
+							["Backdrop"] = {
+								0, -- [1]
+								0, -- [2]
+								0, -- [3]
+								0.7400000095367432, -- [4]
+							},
+							["Flash"] = {
+								1, -- [1]
+								0, -- [2]
+								0, -- [3]
+								1, -- [4]
+							},
+						},
+						["Gloss"] = 0.28,
+						["ID"] = "LiteStep XLT",
+					},
+				},
 				["Mayiswallow - Icecrown"] = {
 					["skin"] = {
 						["Gloss"] = 0.28,
@@ -2748,15 +3208,16 @@ Bartender4DB = {
 						["scale"] = 1.200000047683716,
 					},
 				},
-				["Diamondtema - Icecrown"] = {
-					["version"] = 3,
+				["Spectia - Icecrown"] = {
 					["position"] = {
 						["y"] = 186.3000515742166,
 						["x"] = -83.04025778046923,
 						["point"] = "BOTTOM",
 						["scale"] = 1.200000047683716,
 					},
+					["version"] = 3,
 					["skin"] = {
+						["ID"] = "LiteStep XLT",
 						["Colors"] = {
 							["Pushed"] = {
 								0, -- [1]
@@ -2790,7 +3251,6 @@ Bartender4DB = {
 							},
 						},
 						["Gloss"] = 0.28,
-						["ID"] = "LiteStep XLT",
 					},
 				},
 			},
@@ -2799,7 +3259,7 @@ Bartender4DB = {
 			["profiles"] = {
 				["Lodfarmwarr - Icecrown"] = {
 					["skin"] = {
-						["Gloss"] = 0.28,
+						["ID"] = "LiteStep XLT",
 						["Colors"] = {
 							["Pushed"] = {
 								0, -- [1]
@@ -2832,7 +3292,7 @@ Bartender4DB = {
 								1, -- [4]
 							},
 						},
-						["ID"] = "LiteStep XLT",
+						["Gloss"] = 0.28,
 					},
 					["version"] = 3,
 					["position"] = {
@@ -2889,7 +3349,7 @@ Bartender4DB = {
 				},
 				["Theedgar - Icecrown"] = {
 					["skin"] = {
-						["ID"] = "LiteStep XLT",
+						["Gloss"] = 0.28,
 						["Colors"] = {
 							["Pushed"] = {
 								0, -- [1]
@@ -2922,7 +3382,7 @@ Bartender4DB = {
 								1, -- [4]
 							},
 						},
-						["Gloss"] = 0.28,
+						["ID"] = "LiteStep XLT",
 					},
 					["version"] = 3,
 					["position"] = {
@@ -2977,6 +3437,51 @@ Bartender4DB = {
 						["scale"] = 0.9000000357627869,
 					},
 				},
+				["Diamondtema - Icecrown"] = {
+					["version"] = 3,
+					["skin"] = {
+						["Colors"] = {
+							["Pushed"] = {
+								0, -- [1]
+								0, -- [2]
+								0, -- [3]
+								0.4399999976158142, -- [4]
+							},
+							["Checked"] = {
+								0, -- [1]
+								0, -- [2]
+								0, -- [3]
+								0.800000011920929, -- [4]
+							},
+							["Gloss"] = {
+								1, -- [1]
+								0.3607843137254902, -- [2]
+								0.3764705882352941, -- [3]
+								1, -- [4]
+							},
+							["Backdrop"] = {
+								0, -- [1]
+								0, -- [2]
+								0, -- [3]
+								0.7400000095367432, -- [4]
+							},
+							["Flash"] = {
+								1, -- [1]
+								0, -- [2]
+								0, -- [3]
+								1, -- [4]
+							},
+						},
+						["Gloss"] = 0.28,
+						["ID"] = "LiteStep XLT",
+					},
+					["position"] = {
+						["y"] = 176.4000299055549,
+						["x"] = 39.15746467846975,
+						["point"] = "BOTTOM",
+						["scale"] = 0.9000000357627869,
+					},
+				},
 				["Mayiswallow - Icecrown"] = {
 					["skin"] = {
 						["Gloss"] = 0.28,
@@ -3022,9 +3527,9 @@ Bartender4DB = {
 						["scale"] = 0.9000000357627869,
 					},
 				},
-				["Diamondtema - Icecrown"] = {
-					["version"] = 3,
+				["Spectia - Icecrown"] = {
 					["skin"] = {
+						["ID"] = "LiteStep XLT",
 						["Colors"] = {
 							["Pushed"] = {
 								0, -- [1]
@@ -3058,8 +3563,8 @@ Bartender4DB = {
 							},
 						},
 						["Gloss"] = 0.28,
-						["ID"] = "LiteStep XLT",
 					},
+					["version"] = 3,
 					["position"] = {
 						["y"] = 176.4000299055549,
 						["x"] = 39.15746467846975,
@@ -3073,13 +3578,14 @@ Bartender4DB = {
 		},
 	},
 	["profileKeys"] = {
+		["Lodfarmwarr - Icecrown"] = "Lodfarmwarr - Icecrown",
 		["Aegwyn - Icecrown"] = "Druth",
 		["Gelkucama - Icecrown"] = "Druth",
 		["Theedgar - Icecrown"] = "Theedgar - Icecrown",
-		["Mayiswallow - Icecrown"] = "Mayiswallow - Icecrown",
 		["Diamondtema - Icecrown"] = "Diamondtema - Icecrown",
+		["Mayiswallow - Icecrown"] = "Mayiswallow - Icecrown",
 		["Mayicurse - Icecrown"] = "Druth",
-		["Lodfarmwarr - Icecrown"] = "Lodfarmwarr - Icecrown",
+		["Spectia - Icecrown"] = "Spectia - Icecrown",
 	},
 	["profiles"] = {
 		["Lodfarmwarr - Icecrown"] = {
@@ -3130,6 +3636,18 @@ Bartender4DB = {
 			},
 			["buttonlock"] = true,
 		},
+		["Diamondtema - Icecrown"] = {
+			["colors"] = {
+				["mana"] = {
+					["g"] = 0.3372549019607843,
+					["r"] = 0.3333333333333333,
+				},
+			},
+			["buttonlock"] = true,
+			["minimapIcon"] = {
+				["minimapPos"] = 124.8045689401894,
+			},
+		},
 		["Mayiswallow - Icecrown"] = {
 			["minimapIcon"] = {
 				["minimapPos"] = 124.8045689401894,
@@ -3142,7 +3660,10 @@ Bartender4DB = {
 			},
 			["buttonlock"] = true,
 		},
-		["Diamondtema - Icecrown"] = {
+		["Spectia - Icecrown"] = {
+			["minimapIcon"] = {
+				["minimapPos"] = 124.8045689401894,
+			},
 			["colors"] = {
 				["mana"] = {
 					["g"] = 0.3372549019607843,
@@ -3150,9 +3671,6 @@ Bartender4DB = {
 				},
 			},
 			["buttonlock"] = true,
-			["minimapIcon"] = {
-				["minimapPos"] = 124.8045689401894,
-			},
 		},
 	},
 }

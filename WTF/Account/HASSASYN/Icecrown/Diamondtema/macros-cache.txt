@@ -1,5 +1,6 @@
 MACRO 16777226 " DS" INV_Misc_QuestionMark
 #showtooltip Divine Storm
+/startattack
 /cast Divine Storm
 /use 10
 /cancelaura Chaos Bane
@@ -17,20 +18,19 @@ MACRO 16777232 "Cancelaura" INV_Misc_QuestionMark
 /cancelaura Divine Shield
 /cancelaura Hand of Protection
 END
+MACRO 16777252 "Crusader" INV_Misc_QuestionMark
+#showtooltip Crusader Strike
+/startattack
+/cast Crusader Strike
+/use 10
+/cancelaura Chaos Bane
+END
 MACRO 16777248 "Disac" INV_Misc_QuestionMark
 /cast Divine Sacrifice
 /cancelaura Divine Sacrifice
 END
 MACRO 16777224 "Dispel" INV_Misc_QuestionMark
 /cast [@mouseover] Cleanse
-END
-MACRO 16777244 "Exorcism" INV_Misc_QuestionMark
-/cast Exorcism
-/use 10
-END
-MACRO 16777237 "Focus" INV_Misc_QuestionMark
-#showtooltip
-/cast [@focus] Repentance
 END
 MACRO 16777240 "Freedom" INV_Misc_QuestionMark
 /use [@mouseover, help] Hand of Freedom
@@ -41,20 +41,15 @@ END
 MACRO 16777246 "hsac" INV_Misc_QuestionMark
 /use [@mouseover, help] Hand of Sacrifice
 END
-MACRO 16777251 "Judg" INV_Misc_QuestionMark
-/assist Gelkucama
-/cast Judgement of Wisdom
-END
-MACRO 16777245 "Judgement" INV_Misc_QuestionMark
-/cast Judgement of Wisdom
-/use 10
-END
 MACRO 16777242 "Lay" INV_Misc_QuestionMark
 #showtooltip Lay on Hands
 /use [@mouseover, help] Lay on Hands(Rank 5)
 END
 MACRO 16777250 "lay of hand" INV_Misc_QuestionMark
 /use [@mouseover, help] Lay on Hands(Rank 5)
+END
+MACRO 16777253 "Salv Focus" INV_Misc_QuestionMark
+/cast [@focus] Hand of Salvation
 END
 MACRO 16777230 "Salvation" INV_Misc_QuestionMark
 #showtooltip Hand of Salvation
@@ -65,6 +60,6 @@ MACRO 16777249 "Self" INV_Misc_QuestionMark
 /cast target=[Mayiascend] Hand of Salvation
 /cancelaura Hand of Salvation
 END
-MACRO 16777247 "ss" INV_Misc_QuestionMark
-/use [@mouseover, help] Hand of Protection(Rank 3)
+MACRO 16777254 "target" INV_Misc_QuestionMark
+/target Jalva/target Elburzy /target  zuzula
 END

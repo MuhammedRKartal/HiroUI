@@ -3,18 +3,18 @@ PaladinBuffAssignerDB = {
 	["profileKeys"] = {
 		["Gnomite - Icecrown"] = "Gnomite - Icecrown",
 		["Enayi - Icecrown"] = "Enayi - Icecrown",
-		["Ilkkan - Icecrown"] = "Ilkkan - Icecrown",
+		["Canubet - Icecrown"] = "Canubet - Icecrown",
 		["Sikelet - Icecrown"] = "Sikelet - Icecrown",
 		["Ramozan - Icecrown"] = "Ramozan - Icecrown",
 		["Koboldminer - Icecrown"] = "Koboldminer - Icecrown",
-		["Canubet - Icecrown"] = "Canubet - Icecrown",
+		["Ilkkan - Icecrown"] = "Ilkkan - Icecrown",
 	},
 	["profiles"] = {
 		["Gnomite - Icecrown"] = {
 		},
 		["Enayi - Icecrown"] = {
 		},
-		["Ilkkan - Icecrown"] = {
+		["Canubet - Icecrown"] = {
 		},
 		["Sikelet - Icecrown"] = {
 		},
@@ -22,7 +22,7 @@ PaladinBuffAssignerDB = {
 		},
 		["Koboldminer - Icecrown"] = {
 		},
-		["Canubet - Icecrown"] = {
+		["Ilkkan - Icecrown"] = {
 		},
 	},
 }

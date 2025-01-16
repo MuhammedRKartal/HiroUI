@@ -11,10 +11,12 @@ KPackCharDB = {
 			["AutoCompleteGuild"] = true,
 			["alts"] = {
 				"Aegwyn|Icecrown|Alliance", -- [1]
+				"Aegwyn|Icecrown|Horde", -- [2]
 			},
 			["recent"] = {
-				"Accountant", -- [1]
-				"Elziash", -- [2]
+				"Mayicrush", -- [1]
+				"Accountant", -- [2]
+				"Elziash", -- [3]
 			},
 			["AutoCompleteRecent"] = true,
 			["AutoCompleteContacts"] = true,

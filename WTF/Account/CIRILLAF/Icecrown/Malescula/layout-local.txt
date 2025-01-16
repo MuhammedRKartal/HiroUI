@@ -1,6 +1,6 @@
 Version: 1
 Frame: InterfaceOptionsFrame
-FrameLevel: 20
+FrameLevel: 5
 Anchor: CENTER
 X: 0
 Y: 0
@@ -97,13 +97,6 @@ X: -427
 Y: -219
 W: 160
 H: 60
-Frame: _NPCScanButton
-FrameLevel: 1
-Anchor: BOTTOM
-X: 0
-Y: 128
-W: 150
-H: 42
 Frame: AfkFrame
 FrameLevel: 0
 Anchor: CENTER

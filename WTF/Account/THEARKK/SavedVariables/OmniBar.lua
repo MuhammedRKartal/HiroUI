@@ -193,17 +193,17 @@ OmniBarDB = {
 			[12809] = {
 				["enabled"] = false,
 			},
-			[47585] = {
-				["enabled"] = false,
+			[23920] = {
+				["enabled"] = true,
 			},
 			[11958] = {
 				["enabled"] = false,
 			},
-			[10308] = {
-				["enabled"] = true,
+			[11578] = {
+				["enabled"] = false,
 			},
-			[23920] = {
-				["enabled"] = true,
+			[47585] = {
+				["enabled"] = false,
 			},
 			[59159] = {
 				["enabled"] = false,
@@ -235,7 +235,7 @@ OmniBarDB = {
 			[34433] = {
 				["enabled"] = false,
 			},
-			[51713] = {
+			[42950] = {
 				["enabled"] = false,
 			},
 			[676] = {
@@ -250,7 +250,7 @@ OmniBarDB = {
 			[16166] = {
 				["enabled"] = false,
 			},
-			[48792] = {
+			[51713] = {
 				["enabled"] = false,
 			},
 			[1044] = {
@@ -259,7 +259,7 @@ OmniBarDB = {
 			[46968] = {
 				["enabled"] = false,
 			},
-			[42950] = {
+			[48792] = {
 				["enabled"] = false,
 			},
 			[18499] = {
@@ -280,8 +280,8 @@ OmniBarDB = {
 			[12043] = {
 				["enabled"] = false,
 			},
-			[11578] = {
-				["enabled"] = false,
+			[10308] = {
+				["enabled"] = true,
 			},
 			[17116] = {
 				["enabled"] = false,

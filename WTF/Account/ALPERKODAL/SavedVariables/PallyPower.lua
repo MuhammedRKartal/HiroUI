@@ -2,7 +2,12 @@
 PallyPowerDB = {
 	["profiles"] = {
 		["Default"] = {
-			["buffscale"] = 0.8,
+			["cBuffGood"] = {
+				["b"] = 0.05098039215686274,
+				["t"] = 0.69,
+				["g"] = 0.05098039215686274,
+				["r"] = 0.05098039215686274,
+			},
 			["hideClassButtons"] = true,
 			["configscale"] = 0.8500000000000001,
 			["skin"] = "None",
@@ -63,12 +68,7 @@ PallyPowerDB = {
 				["g"] = 0.5,
 				["r"] = 0.5,
 			},
-			["cBuffGood"] = {
-				["b"] = 0.05098039215686274,
-				["t"] = 0.69,
-				["g"] = 0.05098039215686274,
-				["r"] = 0.05098039215686274,
-			},
+			["buffscale"] = 0.8,
 			["disable"] = false,
 		},
 	},
@@ -424,6 +424,19 @@ PallyPower_Assignments = {
 		0, -- [9]
 		0, -- [10]
 		0, -- [11]
+	},
+	["Diamondtema"] = {
+		3, -- [1]
+		3, -- [2]
+		3, -- [3]
+		3, -- [4]
+		3, -- [5]
+		3, -- [6]
+		3, -- [7]
+		3, -- [8]
+		3, -- [9]
+		3, -- [10]
+		3, -- [11]
 	},
 	["Venzisac"] = {
 		0, -- [1]
@@ -1127,6 +1140,19 @@ PallyPower_Assignments = {
 		0, -- [10]
 		0, -- [11]
 	},
+	["Mayicrush"] = {
+		4, -- [1]
+		4, -- [2]
+		4, -- [3]
+		4, -- [4]
+		4, -- [5]
+		4, -- [6]
+		4, -- [7]
+		4, -- [8]
+		4, -- [9]
+		4, -- [10]
+		4, -- [11]
+	},
 	["Inhalator"] = {
 		3, -- [1]
 		3, -- [2]
@@ -1218,7 +1244,7 @@ PallyPower_Assignments = {
 		0, -- [10]
 		0, -- [11]
 	},
-	["Anatema"] = {
+	["Jeppediah"] = {
 		0, -- [1]
 		0, -- [2]
 		0, -- [3]
@@ -1244,7 +1270,7 @@ PallyPower_Assignments = {
 		0, -- [10]
 		0, -- [11]
 	},
-	["Jeppediah"] = {
+	["Anatema"] = {
 		0, -- [1]
 		0, -- [2]
 		0, -- [3]
@@ -1361,18 +1387,18 @@ PallyPower_Assignments = {
 		0, -- [10]
 		0, -- [11]
 	},
-	["Noors"] = {
-		0, -- [1]
-		0, -- [2]
-		0, -- [3]
-		0, -- [4]
-		0, -- [5]
-		0, -- [6]
-		0, -- [7]
-		0, -- [8]
-		0, -- [9]
-		0, -- [10]
-		0, -- [11]
+	["Deaths"] = {
+		3, -- [1]
+		3, -- [2]
+		3, -- [3]
+		3, -- [4]
+		3, -- [5]
+		3, -- [6]
+		3, -- [7]
+		3, -- [8]
+		3, -- [9]
+		3, -- [10]
+		3, -- [11]
 	},
 	["Vissarion"] = {
 		0, -- [1]
@@ -1569,7 +1595,7 @@ PallyPower_Assignments = {
 		0, -- [10]
 		0, -- [11]
 	},
-	["Morezz"] = {
+	["Luck"] = {
 		0, -- [1]
 		0, -- [2]
 		0, -- [3]
@@ -1582,7 +1608,7 @@ PallyPower_Assignments = {
 		0, -- [10]
 		0, -- [11]
 	},
-	["Luck"] = {
+	["Morezz"] = {
 		0, -- [1]
 		0, -- [2]
 		0, -- [3]
@@ -1816,18 +1842,18 @@ PallyPower_Assignments = {
 		0, -- [10]
 		0, -- [11]
 	},
-	["Deaths"] = {
-		3, -- [1]
-		3, -- [2]
-		3, -- [3]
-		3, -- [4]
-		3, -- [5]
-		3, -- [6]
-		3, -- [7]
-		3, -- [8]
-		3, -- [9]
-		3, -- [10]
-		3, -- [11]
+	["Noors"] = {
+		0, -- [1]
+		0, -- [2]
+		0, -- [3]
+		0, -- [4]
+		0, -- [5]
+		0, -- [6]
+		0, -- [7]
+		0, -- [8]
+		0, -- [9]
+		0, -- [10]
+		0, -- [11]
 	},
 	["Jolspammer"] = {
 		0, -- [1]
@@ -2041,6 +2067,8 @@ PallyPower_NormalAssignments = {
 	},
 	["Kunstler"] = {
 	},
+	["Diamondtema"] = {
+	},
 	["Venzisac"] = {
 	},
 	["Restrain"] = {
@@ -2153,6 +2181,8 @@ PallyPower_NormalAssignments = {
 	},
 	["Inhalator"] = {
 	},
+	["Mayicrush"] = {
+	},
 	["Reapercrew"] = {
 	},
 	["Shizzprot"] = {
@@ -2174,9 +2204,9 @@ PallyPower_NormalAssignments = {
 			["Banedie"] = 2,
 		},
 	},
-	["Ajla"] = {
-	},
 	["Jeppediah"] = {
+	},
+	["Ajla"] = {
 	},
 	["Wloskarobota"] = {
 	},
@@ -2224,17 +2254,17 @@ PallyPower_NormalAssignments = {
 	},
 	["Morezz"] = {
 	},
-	["Hailieqp"] = {
-	},
 	["Macaronada"] = {
 	},
-	["Yanyih"] = {
+	["Hailieqp"] = {
 	},
-	["Holyscream"] = {
+	["Yanyih"] = {
 	},
 	["Luck"] = {
 		[5] = {
 		},
+	},
+	["Holyscream"] = {
 	},
 	["Parmark"] = {
 	},
@@ -2327,6 +2357,7 @@ PallyPower_AuraAssignments = {
 	["Bucephaluss"] = 0,
 	["Superduker"] = 1,
 	["Kunstler"] = 0,
+	["Diamondtema"] = 0,
 	["Venzisac"] = 0,
 	["Restrain"] = 0,
 	["Protezione"] = 0,
@@ -2381,6 +2412,7 @@ PallyPower_AuraAssignments = {
 	["Rendeyvia"] = 0,
 	["Billybob"] = 0,
 	["Kalyda"] = 0,
+	["Mayicrush"] = 1,
 	["Inhalator"] = 0,
 	["Pangashield"] = 0,
 	["Milos"] = 0,
@@ -2388,9 +2420,9 @@ PallyPower_AuraAssignments = {
 	["Kromaku"] = 0,
 	["Lies"] = 0,
 	["Bobaspaladin"] = 0,
-	["Anatema"] = 0,
-	["Celesta"] = 0,
 	["Jeppediah"] = 0,
+	["Celesta"] = 0,
+	["Anatema"] = 0,
 	["Daviinnchi"] = 0,
 	["Wloskarobota"] = 0,
 	["Cyberdina"] = 0,
@@ -2399,7 +2431,7 @@ PallyPower_AuraAssignments = {
 	["Phydishock"] = 0,
 	["Easonpala"] = 0,
 	["Wespypalaa"] = 0,
-	["Noors"] = 0,
+	["Deaths"] = 0,
 	["Vissarion"] = 0,
 	["Nio"] = 0,
 	["Kurolapach"] = 0,
@@ -2415,8 +2447,8 @@ PallyPower_AuraAssignments = {
 	["Holyscream"] = 0,
 	["Hailieqp"] = 0,
 	["Macaronada"] = 0,
-	["Morezz"] = 0,
 	["Luck"] = 0,
+	["Morezz"] = 0,
 	["Omnishield"] = 0,
 	["Eisq"] = 0,
 	["Unclapped"] = 0,
@@ -2434,7 +2466,7 @@ PallyPower_AuraAssignments = {
 	["Nikczemny"] = 0,
 	["Apalatank"] = 0,
 	["Ahkmaster"] = 0,
-	["Deaths"] = 0,
+	["Noors"] = 0,
 	["Jolspammer"] = 0,
 	["Icaniwill"] = 0,
 	["Lendwiik"] = 0,

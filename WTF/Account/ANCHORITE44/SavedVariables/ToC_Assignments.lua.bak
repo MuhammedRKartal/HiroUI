@@ -1,0 +1,13 @@
+
+ToC_AssignmentsDB = {
+	["profileKeys"] = {
+		["Mayiascend - Icecrown"] = "Mayiascend - Icecrown",
+		["Plaacebo - Icecrown"] = "Plaacebo - Icecrown",
+	},
+	["profiles"] = {
+		["Mayiascend - Icecrown"] = {
+		},
+		["Plaacebo - Icecrown"] = {
+		},
+	},
+}

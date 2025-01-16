@@ -7,8 +7,8 @@ RAID_SINGLE_POSITIONS = {
 		["x"] = 159.8307607307614,
 		["point"] = "TOP",
 		["relativePoint"] = "BOTTOMLEFT",
+		["name"] = "Mayicurse",
 		["settings"] = {
 		},
-		["name"] = "Mayicurse",
 	}, -- [1]
 }

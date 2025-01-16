@@ -22,10 +22,10 @@ OmniBarDB = {
 		["noTooltips"] = false,
 		["padding"] = 2,
 		["position"] = {
-			["yOfs"] = 249.9995876249461,
-			["xOfs"] = -8.33339545174251,
-			["point"] = "CENTER",
-			["relativePoint"] = "CENTER",
+			["yOfs"] = -223.6670559040379,
+			["xOfs"] = -0.8334125143587557,
+			["point"] = "TOP",
+			["relativePoint"] = "TOP",
 		},
 		["cooldowns"] = {
 		},

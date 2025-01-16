@@ -9,50 +9,73 @@ KPackCharDB = {
 			},
 			["AutoCompleteAlts"] = true,
 			["AutoCompleteGuild"] = true,
-			["AutoCompleteFriends"] = true,
-			["AutoCompleteRecent"] = true,
 			["recent"] = {
-				"Quennel", -- [1]
-				"Elziash", -- [2]
-				"Mayiascend", -- [3]
-				"Fareci", -- [4]
-				"Druth", -- [5]
-				"Trancemute", -- [6]
+				"Hirobankw", -- [1]
+				"Demonologic", -- [2]
+				"Mayislash", -- [3]
+				"Mayicrush", -- [4]
+				"Quennel", -- [5]
+				"Elziash", -- [6]
+				"Mayiascend", -- [7]
+				"Fareci", -- [8]
+				"Druth", -- [9]
+				"Trancemute", -- [10]
 			},
+			["alts"] = {
+				"Casette|Icecrown|Horde", -- [1]
+				"Plaacebo|Icecrown|Alliance", -- [2]
+			},
+			["AutoCompleteRecent"] = true,
 			["AutoCompleteContacts"] = true,
 			["DisableBlizzardAutoComplete"] = false,
-			["alts"] = {
-				"Plaacebo|Icecrown|Alliance", -- [1]
+			["AutoCompleteFriends"] = true,
+		},
+	},
+	["LFR"] = {
+		["currentset"] = "active",
+		["raidsets"] = {
+			["Secondary"] = {
+			},
+			["Primary"] = {
 			},
 		},
 	},
-	["Viewporter"] = {
-		["enabled"] = false,
-		["firstTime"] = true,
-		["bottom"] = 0,
-		["right"] = 0,
-		["left"] = 0,
-		["top"] = 0,
+	["Tooltip"] = {
+		["spell"] = false,
+		["point"] = "RIGHT",
+		["moved"] = true,
+		["yOfs"] = -100,
+		["class"] = false,
+		["unit"] = false,
+		["petspell"] = false,
+		["xOfs"] = 350,
+		["enhance"] = true,
+		["scale"] = 1,
+	},
+	["Automate"] = {
+		["groundmount"] = "",
+		["sets"] = {
+			"Sp", -- [1]
+			"Holy", -- [2]
+		},
+		["flyingmount"] = "",
 	},
 	["Combuctor"] = {
 		["inventory"] = {
+			["showBags"] = false,
+			["h"] = 512,
 			["exclude"] = {
 				["All"] = {
 					"All", -- [1]
 					"Keys", -- [2]
 				},
 			},
-			["h"] = 512,
 			["position"] = {
 				"BOTTOMRIGHT", -- [1]
 				nil, -- [2]
 				"BOTTOMRIGHT", -- [3]
 				-63.99995185538342, -- [4]
 				64, -- [5]
-			},
-			["showBags"] = false,
-			["sets"] = {
-				"All", -- [1]
 			},
 			["bags"] = {
 				0, -- [1]
@@ -61,17 +84,20 @@ KPackCharDB = {
 				3, -- [4]
 				4, -- [5]
 			},
+			["sets"] = {
+				"All", -- [1]
+			},
 			["w"] = 383.9999912464334,
 			["leftSideFilter"] = true,
 		},
 		["bank"] = {
 			["h"] = 512,
 			["showBags"] = false,
-			["sets"] = {
-				"All", -- [1]
-				"Equipment", -- [2]
-				"Trade Goods", -- [3]
-				"Miscellaneous", -- [4]
+			["exclude"] = {
+				["All"] = {
+					"All", -- [1]
+					"Keys", -- [2]
+				},
 			},
 			["bags"] = {
 				-1, -- [1]
@@ -84,41 +110,20 @@ KPackCharDB = {
 				11, -- [8]
 			},
 			["w"] = 512,
-			["exclude"] = {
-				["All"] = {
-					"All", -- [1]
-					"Keys", -- [2]
-				},
+			["sets"] = {
+				"All", -- [1]
+				"Equipment", -- [2]
+				"Trade Goods", -- [3]
+				"Miscellaneous", -- [4]
 			},
 		},
 	},
-	["Tooltip"] = {
-		["spell"] = false,
-		["point"] = "RIGHT",
-		["moved"] = true,
-		["yOfs"] = -100,
-		["class"] = false,
-		["unit"] = false,
-		["scale"] = 1,
-		["xOfs"] = 350,
-		["enhance"] = true,
-		["petspell"] = false,
-	},
-	["Automate"] = {
-		["groundmount"] = "",
-		["sets"] = {
-			"Sp", -- [1]
-			"Holy", -- [2]
-		},
-		["flyingmount"] = "",
-	},
-	["LFR"] = {
-		["currentset"] = "active",
-		["raidsets"] = {
-			["Primary"] = {
-			},
-			["Secondary"] = {
-			},
-		},
+	["Viewporter"] = {
+		["enabled"] = false,
+		["firstTime"] = true,
+		["bottom"] = 0,
+		["right"] = 0,
+		["left"] = 0,
+		["top"] = 0,
 	},
 }

@@ -1,7 +1,0 @@
-WeakAurasCompanion: enabled
-WeakAurasArchive: enabled
-XPerl_TeamSpeak: disabled
-lossofcontrol: disabled
-xCT+: disabled
-TellMeWhen: disabled
-Grid2: disabled

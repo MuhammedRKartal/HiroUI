@@ -1,0 +1,37 @@
+
+WDMdb = {
+	["profileKeys"] = {
+		["Moohepain - Icecrown"] = "Default",
+		["Mayiascend - Icecrown"] = "Default",
+		["Scheathy - Icecrown"] = "Default",
+		["Cezzarged - Icecrown"] = "Default",
+		["Mayistab - Icecrown"] = "Default",
+		["Elynass - Icecrown"] = "Default",
+		["Mayibite - Icecrown"] = "Default",
+		["Paoneyne - Icecrown"] = "Default",
+		["Mayicurse - Icecrown"] = "Default",
+		["Immadraenei - Icecrown"] = "Default",
+		["Duhht - Blackrock [PvP only]"] = "Default",
+		["Lindisel - Icecrown"] = "Default",
+		["Unalivemoo - Icecrown"] = "Default",
+		["Plaacebo - Icecrown"] = "Default",
+		["Analbuster - Onyxia"] = "Default",
+		["Ancaz - Icecrown"] = "Default",
+		["Mayislash - Icecrown"] = "Default",
+		["Mayicrush - Icecrown"] = "Default",
+		["Casette - Icecrown"] = "Default",
+		["Kraktou - Icecrown"] = "Default",
+		["Fliktah - Icecrown"] = "Default",
+		["Fareci - Icecrown"] = "Default",
+		["Mayihunt - Icecrown"] = "Default",
+		["Schelle - Icecrown"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["show_zonelevel"] = true,
+			["show_taxinode_continent_opposite"] = true,
+			["show_taxinode_opposite"] = true,
+			["show_minimap"] = true,
+		},
+	},
+}

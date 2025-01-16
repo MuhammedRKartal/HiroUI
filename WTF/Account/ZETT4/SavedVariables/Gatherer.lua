@@ -125,13 +125,13 @@ LibSwagData = {
 			["cat"] = "HERB",
 			["name"] = "Briarthorn",
 		},
-		[11370] = {
-			["cat"] = "MINE",
-			["name"] = "Dark Iron Ore",
-		},
-		[2453] = {
+		[8831] = {
 			["cat"] = "HERB",
-			["name"] = "Bruiseweed",
+			["name"] = "Purple Lotus",
+		},
+		[4625] = {
+			["cat"] = "HERB",
+			["name"] = "Firebloom",
 		},
 		[3356] = {
 			["cat"] = "HERB",
@@ -141,40 +141,36 @@ LibSwagData = {
 			["cat"] = "MINE",
 			["name"] = "Thorium Ore",
 		},
-		[3818] = {
+		[8845] = {
 			["cat"] = "HERB",
-			["name"] = "Fadeleaf",
+			["name"] = "Ghost Mushroom",
 		},
 		[3821] = {
 			["cat"] = "HERB",
 			["name"] = "Goldthorn",
 		},
-		[2449] = {
-			["cat"] = "HERB",
-			["name"] = "Earthroot",
-		},
 		[7911] = {
 			["cat"] = "MINE",
 			["name"] = "Truesilver Ore",
 		},
-		[8845] = {
+		[2449] = {
 			["cat"] = "HERB",
-			["name"] = "Ghost Mushroom",
+			["name"] = "Earthroot",
 		},
-		[4625] = {
+		[3818] = {
 			["cat"] = "HERB",
-			["name"] = "Firebloom",
+			["name"] = "Fadeleaf",
 		},
-		[8831] = {
+		[2453] = {
 			["cat"] = "HERB",
-			["name"] = "Purple Lotus",
+			["name"] = "Bruiseweed",
+		},
+		[11370] = {
+			["cat"] = "MINE",
+			["name"] = "Dark Iron Ore",
 		},
 	},
-	["ai"] = {
-	},
-	["MINE"] = {
-	},
-	["spells"] = {
+	["HERB"] = {
 	},
 	["cats"] = {
 		["MINE"] = {
@@ -183,10 +179,10 @@ LibSwagData = {
 			["Tin Ore"] = 2771,
 			["Copper Ore"] = 2770,
 			["Thorium Ore"] = 10620,
-			["Iron Ore"] = 2772,
+			["Mithril Ore"] = 3858,
 			["Silver Ore"] = 2775,
 			["Gold Ore"] = 2776,
-			["Mithril Ore"] = 3858,
+			["Iron Ore"] = 2772,
 		},
 		["HERB"] = {
 			["Briarthorn"] = 2450,
@@ -195,16 +191,16 @@ LibSwagData = {
 			["Gromsblood"] = 8846,
 			["Khadgar's Whisker"] = 3358,
 			["Swiftthistle"] = 2452,
-			["Icecap"] = 13467,
+			["Golden Sansam"] = 13464,
 			["Earthroot"] = 2449,
 			["Sungrass"] = 8838,
 			["Mountain Silversage"] = 13465,
 			["Goldthorn"] = 3821,
 			["Mageroyal"] = 785,
-			["Wildvine"] = 8153,
-			["Silverleaf"] = 765,
+			["Icecap"] = 13467,
 			["Wintersbite"] = 3819,
-			["Black Lotus"] = 13468,
+			["Silverleaf"] = 765,
+			["Peacebloom"] = 2447,
 			["Bruiseweed"] = 2453,
 			["Kingsblood"] = 3356,
 			["Liferoot"] = 3357,
@@ -212,16 +208,20 @@ LibSwagData = {
 			["Dreamfoil"] = 13463,
 			["Arthas' Tears"] = 8836,
 			["Plaguebloom"] = 13466,
-			["Ghost Mushroom"] = 8845,
+			["Firebloom"] = 4625,
 			["Stranglekelp"] = 3820,
 			["Blindweed"] = 8839,
-			["Firebloom"] = 4625,
-			["Peacebloom"] = 2447,
+			["Ghost Mushroom"] = 8845,
+			["Black Lotus"] = 13468,
 			["Purple Lotus"] = 8831,
-			["Golden Sansam"] = 13464,
+			["Wildvine"] = 8153,
 		},
 	},
-	["HERB"] = {
+	["spells"] = {
+	},
+	["MINE"] = {
+	},
+	["ai"] = {
 	},
 }
 Gatherer_SharingBlacklist = {

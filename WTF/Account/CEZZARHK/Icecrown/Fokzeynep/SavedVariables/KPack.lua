@@ -9,10 +9,10 @@ KPackCharDB = {
 			},
 			["AutoCompleteAlts"] = true,
 			["AutoCompleteGuild"] = true,
+			["recent"] = {
+			},
 			["alts"] = {
 				"Fokzeynep|Icecrown|Alliance", -- [1]
-			},
-			["recent"] = {
 			},
 			["AutoCompleteRecent"] = true,
 			["AutoCompleteContacts"] = true,

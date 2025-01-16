@@ -14,6 +14,13 @@ AF_config = {
 		["rate"] = 45,
 		["system"] = "CHANNEL",
 	},
+	["Icecrown-Yaramdk"] = {
+		["message"] = "AutoFlood 1.1",
+		["channel"] = "1",
+		["idChannel"] = "1",
+		["rate"] = 60,
+		["system"] = "CHANNEL",
+	},
 	["Onyxia-Analbuster"] = {
 		["message"] = "AutoFlood 1.1",
 		["channel"] = "1",
@@ -141,10 +148,10 @@ AF_config = {
 		["system"] = "CHANNEL",
 	},
 	["Icecrown-Mayiblast"] = {
-		["message"] = "AutoFlood 1.1",
-		["channel"] = "1",
-		["idChannel"] = "1",
-		["rate"] = 60,
+		["message"] = "WTB Lichbloom 1350G, Frozen Orb 100G",
+		["channel"] = "2",
+		["idChannel"] = "2",
+		["rate"] = 20,
 		["system"] = "CHANNEL",
 	},
 }

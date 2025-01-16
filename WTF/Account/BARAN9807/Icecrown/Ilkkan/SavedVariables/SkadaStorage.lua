@@ -17,82 +17,6 @@ SkadaStorageDB = {
 		["type"] = "party",
 		["edamage"] = 561,
 		["actors"] = {
-			["Shattered Hand Sentry"] = {
-				["damagespells"] = {
-					["22911.1"] = {
-						["total"] = 1179,
-						["targets"] = {
-							["Mayiswallow"] = {
-								["amount"] = 561,
-								["total"] = 1179,
-							},
-						},
-						["amount"] = 561,
-					},
-					["6603.1"] = {
-						["total"] = 1119,
-						["targets"] = {
-							["Mayiswallow"] = {
-								["amount"] = 0,
-								["total"] = 1119,
-							},
-						},
-						["amount"] = 0,
-					},
-				},
-				["totaldamage"] = 2298,
-				["damage"] = 561,
-				["id"] = "0xF13000407B000012",
-				["damagedspells"] = {
-					["20467.2"] = {
-						["o_amt"] = 2279,
-						["sources"] = {
-							["Mayiswallow"] = {
-								["o_amt"] = 2279,
-								["amount"] = 5535,
-							},
-						},
-						["amount"] = 5535,
-					},
-					["20424.2"] = {
-						["amount"] = 5442,
-						["sources"] = {
-							["Mayiswallow"] = {
-								["amount"] = 5442,
-							},
-						},
-					},
-					["6603.1"] = {
-						["amount"] = 14614,
-						["sources"] = {
-							["Mayiswallow"] = {
-								["amount"] = 14614,
-							},
-						},
-					},
-					["69403.2"] = {
-						["o_amt"] = 1548,
-						["sources"] = {
-							["Mayiswallow"] = {
-								["o_amt"] = 1548,
-								["amount"] = 3755,
-							},
-						},
-						["amount"] = 3755,
-					},
-					["53385.1"] = {
-						["amount"] = 8237,
-						["sources"] = {
-							["Mayiswallow"] = {
-								["amount"] = 8237,
-							},
-						},
-					},
-				},
-				["class"] = "MONSTER",
-				["damaged"] = 37583,
-				["enemy"] = true,
-			},
 			["Mayiswallow"] = {
 				["last"] = 13324.927,
 				["damagedspells"] = {
@@ -107,10 +31,10 @@ SkadaStorageDB = {
 						},
 						["count"] = 2,
 						["amount"] = 561,
-						["n_amt"] = 561,
 						["n_min"] = 561,
-						["n_num"] = 1,
 						["abs_n"] = 1,
+						["n_num"] = 1,
+						["n_amt"] = 561,
 					},
 					["6603.1"] = {
 						["total"] = 1119,
@@ -207,15 +131,15 @@ SkadaStorageDB = {
 				},
 				["absorbspells"] = {
 					["58597.2"] = {
-						["n_amt"] = 1132,
+						["n_max"] = 618,
 						["count"] = 2,
 						["amount"] = 1132,
 						["n_num"] = 2,
-						["n_max"] = 618,
+						["n_min"] = 514,
 						["targets"] = {
 							["Mayiswallow"] = 1132,
 						},
-						["n_min"] = 514,
+						["n_amt"] = 1132,
 					},
 				},
 				["role"] = "DAMAGER",
@@ -301,17 +225,17 @@ SkadaStorageDB = {
 				["spec"] = 70,
 				["healspells"] = {
 					["-54172.2"] = {
-						["n_amt"] = 2059,
+						["n_max"] = 2059,
 						["count"] = 1,
 						["amount"] = 2059,
 						["n_num"] = 1,
-						["n_max"] = 2059,
+						["n_min"] = 2059,
 						["targets"] = {
 							["Mayiswallow"] = {
 								["amount"] = 2059,
 							},
 						},
-						["n_min"] = 2059,
+						["n_amt"] = 2059,
 					},
 				},
 				["overkill"] = 3827,
@@ -340,6 +264,82 @@ SkadaStorageDB = {
 						["n"] = 1,
 					},
 				},
+			},
+			["Shattered Hand Sentry"] = {
+				["damagespells"] = {
+					["22911.1"] = {
+						["total"] = 1179,
+						["targets"] = {
+							["Mayiswallow"] = {
+								["amount"] = 561,
+								["total"] = 1179,
+							},
+						},
+						["amount"] = 561,
+					},
+					["6603.1"] = {
+						["total"] = 1119,
+						["targets"] = {
+							["Mayiswallow"] = {
+								["amount"] = 0,
+								["total"] = 1119,
+							},
+						},
+						["amount"] = 0,
+					},
+				},
+				["totaldamage"] = 2298,
+				["damage"] = 561,
+				["id"] = "0xF13000407B000012",
+				["damagedspells"] = {
+					["20467.2"] = {
+						["o_amt"] = 2279,
+						["sources"] = {
+							["Mayiswallow"] = {
+								["o_amt"] = 2279,
+								["amount"] = 5535,
+							},
+						},
+						["amount"] = 5535,
+					},
+					["20424.2"] = {
+						["amount"] = 5442,
+						["sources"] = {
+							["Mayiswallow"] = {
+								["amount"] = 5442,
+							},
+						},
+					},
+					["6603.1"] = {
+						["amount"] = 14614,
+						["sources"] = {
+							["Mayiswallow"] = {
+								["amount"] = 14614,
+							},
+						},
+					},
+					["69403.2"] = {
+						["o_amt"] = 1548,
+						["sources"] = {
+							["Mayiswallow"] = {
+								["o_amt"] = 1548,
+								["amount"] = 3755,
+							},
+						},
+						["amount"] = 3755,
+					},
+					["53385.1"] = {
+						["amount"] = 8237,
+						["sources"] = {
+							["Mayiswallow"] = {
+								["amount"] = 8237,
+							},
+						},
+					},
+				},
+				["class"] = "MONSTER",
+				["damaged"] = 37583,
+				["enemy"] = true,
 			},
 		},
 		["endtime"] = 1718027929,
@@ -370,14 +370,10 @@ SkadaStorageDB = {
 						["total"] = 4703,
 						["n_max"] = 482,
 						["blo_n"] = 1,
+						["abs_n"] = 3,
 						["n_amt"] = 2820,
-						["n_min"] = 215,
 						["count"] = 26,
 						["sources"] = {
-							["Shattered Hand Savage"] = {
-								["amount"] = 267,
-								["total"] = 754,
-							},
 							["Shattered Hand Legionnaire"] = {
 								["amount"] = 433,
 								["total"] = 1367,
@@ -386,11 +382,15 @@ SkadaStorageDB = {
 								["amount"] = 2120,
 								["total"] = 2582,
 							},
+							["Shattered Hand Savage"] = {
+								["amount"] = 267,
+								["total"] = 754,
+							},
 						},
 						["mis_n"] = 8,
 						["amount"] = 2820,
 						["dod_n"] = 5,
-						["abs_n"] = 3,
+						["n_min"] = 215,
 						["n_num"] = 9,
 						["b_amt"] = 683,
 					},
@@ -402,10 +402,10 @@ SkadaStorageDB = {
 						},
 						["count"] = 2,
 						["amount"] = 1023,
-						["n_amt"] = 1023,
 						["n_max"] = 512,
-						["n_num"] = 2,
 						["n_min"] = 511,
+						["n_num"] = 2,
+						["n_amt"] = 1023,
 					},
 					["-36023.1"] = {
 						["sources"] = {
@@ -415,10 +415,10 @@ SkadaStorageDB = {
 						},
 						["count"] = 2,
 						["amount"] = 640,
-						["n_amt"] = 640,
 						["n_max"] = 323,
-						["n_num"] = 2,
 						["n_min"] = 317,
+						["n_num"] = 2,
+						["n_amt"] = 640,
 					},
 					["30474.1"] = {
 						["sources"] = {
@@ -428,10 +428,10 @@ SkadaStorageDB = {
 						},
 						["count"] = 1,
 						["amount"] = 563,
-						["n_amt"] = 563,
 						["n_max"] = 563,
-						["n_num"] = 1,
 						["n_min"] = 563,
+						["n_num"] = 1,
+						["n_amt"] = 563,
 					},
 				},
 				["class"] = "PALADIN",
@@ -543,11 +543,6 @@ SkadaStorageDB = {
 					["-61840.2"] = {
 						["u"] = 4,
 						["t"] = {
-							["Shattered Hand Heathen"] = {
-								["u"] = 2,
-								["n"] = 1,
-								["r"] = 1,
-							},
 							["Shattered Hand Legionnaire"] = {
 								["u"] = 3,
 								["n"] = 1,
@@ -556,6 +551,11 @@ SkadaStorageDB = {
 							["Shattered Hand Savage"] = {
 								["u"] = 2,
 								["n"] = 2,
+								["r"] = 1,
+							},
+							["Shattered Hand Heathen"] = {
+								["u"] = 2,
+								["n"] = 1,
 								["r"] = 1,
 							},
 						},
@@ -568,15 +568,15 @@ SkadaStorageDB = {
 				},
 				["absorbspells"] = {
 					["58597.2"] = {
-						["n_amt"] = 1883,
+						["n_max"] = 682,
 						["count"] = 4,
 						["amount"] = 1883,
 						["n_num"] = 4,
-						["n_max"] = 682,
+						["n_min"] = 252,
 						["targets"] = {
 							["Mayiswallow"] = 1883,
 						},
-						["n_min"] = 252,
+						["n_amt"] = 1883,
 					},
 				},
 				["role"] = "DAMAGER",
@@ -597,11 +597,11 @@ SkadaStorageDB = {
 						["c_max"] = 4245,
 					},
 					["-48819.2"] = {
-						["n_amt"] = 4182,
+						["n_max"] = 703,
 						["count"] = 6,
 						["amount"] = 4182,
 						["n_num"] = 6,
-						["n_max"] = 703,
+						["n_min"] = 694,
 						["targets"] = {
 							["Shattered Hand Savage"] = {
 								["amount"] = 694,
@@ -610,14 +610,14 @@ SkadaStorageDB = {
 								["amount"] = 3488,
 							},
 						},
-						["n_min"] = 694,
+						["n_amt"] = 4182,
 					},
 					["-61840.2"] = {
-						["n_amt"] = 1267,
+						["n_max"] = 671,
 						["count"] = 2,
 						["amount"] = 1267,
 						["n_num"] = 2,
-						["n_max"] = 671,
+						["n_min"] = 596,
 						["targets"] = {
 							["Shattered Hand Heathen"] = {
 								["amount"] = 671,
@@ -626,33 +626,33 @@ SkadaStorageDB = {
 								["amount"] = 596,
 							},
 						},
-						["n_min"] = 596,
+						["n_amt"] = 1267,
 					},
 					["71904.32"] = {
-						["n_amt"] = 1453,
+						["n_max"] = 727,
 						["count"] = 2,
 						["amount"] = 1453,
 						["n_num"] = 2,
-						["n_max"] = 727,
+						["n_min"] = 726,
 						["targets"] = {
 							["Shattered Hand Heathen"] = {
 								["amount"] = 1453,
 							},
 						},
-						["n_min"] = 726,
+						["n_amt"] = 1453,
 					},
 					["71433.1"] = {
-						["n_amt"] = 1703,
+						["n_max"] = 1703,
 						["count"] = 1,
 						["amount"] = 1703,
 						["n_num"] = 1,
-						["n_max"] = 1703,
+						["n_min"] = 1703,
 						["targets"] = {
 							["Shattered Hand Legionnaire"] = {
 								["amount"] = 1703,
 							},
 						},
-						["n_min"] = 1703,
+						["n_amt"] = 1703,
 					},
 					["20424.2"] = {
 						["c_amt"] = 24460,
@@ -661,16 +661,16 @@ SkadaStorageDB = {
 						["c_num"] = 7,
 						["n_max"] = 1879,
 						["targets"] = {
-							["Shattered Hand Savage"] = {
-								["o_amt"] = 545,
-								["amount"] = 11436,
-							},
 							["Shattered Hand Legionnaire"] = {
 								["amount"] = 4966,
 							},
 							["Shattered Hand Heathen"] = {
 								["o_amt"] = 3828,
 								["amount"] = 13092,
+							},
+							["Shattered Hand Savage"] = {
+								["o_amt"] = 545,
+								["amount"] = 11436,
 							},
 						},
 						["count"] = 10,
@@ -710,36 +710,36 @@ SkadaStorageDB = {
 						["c_num"] = 6,
 						["c_min"] = 3252,
 						["targets"] = {
-							["Shattered Hand Legionnaire"] = {
-								["amount"] = 3475,
-							},
 							["Shattered Hand Savage"] = {
 								["amount"] = 6906,
 							},
 							["Shattered Hand Heathen"] = {
 								["amount"] = 11640,
 							},
+							["Shattered Hand Legionnaire"] = {
+								["amount"] = 3475,
+							},
 						},
 						["c_max"] = 3971,
 					},
 					["54043.2"] = {
-						["n_amt"] = 2719,
+						["n_max"] = 308,
 						["count"] = 9,
 						["amount"] = 2719,
 						["n_num"] = 9,
-						["n_max"] = 308,
+						["n_min"] = 281,
 						["targets"] = {
-							["Shattered Hand Savage"] = {
-								["amount"] = 298,
-							},
 							["Shattered Hand Legionnaire"] = {
 								["amount"] = 281,
 							},
 							["Shattered Hand Heathen"] = {
 								["amount"] = 2140,
 							},
+							["Shattered Hand Savage"] = {
+								["amount"] = 298,
+							},
 						},
-						["n_min"] = 281,
+						["n_amt"] = 2719,
 					},
 					["53385.1"] = {
 						["c_amt"] = 50125,
@@ -747,9 +747,6 @@ SkadaStorageDB = {
 						["c_num"] = 6,
 						["n_max"] = 4423,
 						["targets"] = {
-							["Shattered Hand Legionnaire"] = {
-								["amount"] = 7916,
-							},
 							["Shattered Hand Savage"] = {
 								["o_amt"] = 4947,
 								["amount"] = 24790,
@@ -757,6 +754,9 @@ SkadaStorageDB = {
 							["Shattered Hand Heathen"] = {
 								["o_amt"] = 3551,
 								["amount"] = 26019,
+							},
+							["Shattered Hand Legionnaire"] = {
+								["amount"] = 7916,
 							},
 						},
 						["count"] = 8,
@@ -773,17 +773,17 @@ SkadaStorageDB = {
 				["spec"] = 70,
 				["healspells"] = {
 					["-54172.2"] = {
-						["n_amt"] = 2811,
+						["n_max"] = 1873,
 						["count"] = 2,
 						["amount"] = 2811,
 						["n_num"] = 2,
-						["n_max"] = 1873,
+						["n_min"] = 938,
 						["targets"] = {
 							["Mayiswallow"] = {
 								["amount"] = 2811,
 							},
 						},
-						["n_min"] = 938,
+						["n_amt"] = 2811,
 					},
 				},
 				["overkill"] = 17286,
@@ -797,9 +797,9 @@ SkadaStorageDB = {
 				["mana"] = 2454,
 				["totaldamaged"] = 6929,
 				["timespent"] = {
-					["Shattered Hand Savage"] = 2.6,
 					["Shattered Hand Legionnaire"] = 1.1,
 					["Shattered Hand Heathen"] = 2.38,
+					["Shattered Hand Savage"] = 2.6,
 				},
 			},
 			["Shattered Hand Legionnaire"] = {
@@ -1301,17 +1301,17 @@ SkadaStorageDB = {
 						["c_max"] = 6680,
 					},
 					["-61840.2"] = {
-						["n_amt"] = 2887,
+						["n_max"] = 1655,
 						["count"] = 2,
 						["amount"] = 2887,
 						["n_num"] = 2,
-						["n_max"] = 1655,
+						["n_min"] = 1232,
 						["targets"] = {
 							["Warchief Kargath Bladefist"] = {
 								["amount"] = 2887,
 							},
 						},
-						["n_min"] = 1232,
+						["n_amt"] = 2887,
 					},
 					["20424.2"] = {
 						["c_amt"] = 15338,
@@ -1365,30 +1365,30 @@ SkadaStorageDB = {
 						["n_amt"] = 3680,
 					},
 					["69403.2"] = {
-						["n_amt"] = 6184,
+						["n_max"] = 2279,
 						["count"] = 3,
 						["amount"] = 6184,
 						["n_num"] = 3,
-						["n_max"] = 2279,
+						["n_min"] = 1874,
 						["targets"] = {
 							["Warchief Kargath Bladefist"] = {
 								["amount"] = 6184,
 							},
 						},
-						["n_min"] = 1874,
+						["n_amt"] = 6184,
 					},
 					["54043.2"] = {
-						["n_amt"] = 2090,
+						["n_max"] = 369,
 						["count"] = 6,
 						["amount"] = 2090,
 						["n_num"] = 6,
-						["n_max"] = 369,
+						["n_min"] = 315,
 						["targets"] = {
 							["Warchief Kargath Bladefist"] = {
 								["amount"] = 2090,
 							},
 						},
-						["n_min"] = 315,
+						["n_amt"] = 2090,
 					},
 					["53385.1"] = {
 						["c_amt"] = 30036,
@@ -1410,19 +1410,19 @@ SkadaStorageDB = {
 				["spec"] = 70,
 				["healspells"] = {
 					["-54172.2"] = {
-						["n_amt"] = 7663,
+						["n_max"] = 2879,
 						["n_num"] = 3,
 						["count"] = 3,
 						["amount"] = 7663,
 						["o_amt"] = 1168,
-						["n_max"] = 2879,
+						["n_min"] = 2219,
 						["targets"] = {
 							["Mayiswallow"] = {
 								["o_amt"] = 1168,
 								["amount"] = 7663,
 							},
 						},
-						["n_min"] = 2219,
+						["n_amt"] = 7663,
 					},
 				},
 				["heal"] = 7663,
@@ -1547,19 +1547,6 @@ SkadaStorageDB = {
 	}, -- [3]
 	{
 		["actors"] = {
-			["Ilkkan"] = {
-				["role"] = "DAMAGER",
-				["last"] = 13051.886,
-				["id"] = "0x0700000000AA9991",
-				["class"] = "DEATHKNIGHT",
-				["spec"] = 252,
-				["auras"] = {
-					["48266.1"] = {
-						["u"] = 5,
-						["n"] = 1,
-					},
-				},
-			},
 			["Shattered Hand Champion"] = {
 				["damagespells"] = {
 					["6603.1"] = {
@@ -1756,15 +1743,15 @@ SkadaStorageDB = {
 				},
 				["absorbspells"] = {
 					["58597.2"] = {
-						["n_amt"] = 1558,
+						["n_max"] = 788,
 						["count"] = 2,
 						["amount"] = 1558,
 						["n_num"] = 2,
-						["n_max"] = 788,
+						["n_min"] = 770,
 						["targets"] = {
 							["Mayiswallow"] = 1558,
 						},
-						["n_min"] = 770,
+						["n_amt"] = 1558,
 					},
 				},
 				["role"] = "DAMAGER",
@@ -1807,17 +1794,17 @@ SkadaStorageDB = {
 						["c_min"] = 3283,
 					},
 					["6603.1"] = {
-						["n_amt"] = 3493,
+						["n_max"] = 3493,
 						["count"] = 1,
 						["amount"] = 3493,
 						["n_num"] = 1,
-						["n_max"] = 3493,
+						["n_min"] = 3493,
 						["targets"] = {
 							["Shattered Hand Champion"] = {
 								["amount"] = 3493,
 							},
 						},
-						["n_min"] = 3493,
+						["n_amt"] = 3493,
 					},
 					["35395.1"] = {
 						["c_amt"] = 6114,
@@ -1853,32 +1840,32 @@ SkadaStorageDB = {
 						["n_amt"] = 3532,
 					},
 					["54043.2"] = {
-						["n_amt"] = 305,
+						["n_max"] = 305,
 						["count"] = 1,
 						["amount"] = 305,
 						["n_num"] = 1,
-						["n_max"] = 305,
+						["n_min"] = 305,
 						["targets"] = {
 							["Shattered Hand Champion"] = {
 								["amount"] = 305,
 							},
 						},
-						["n_min"] = 305,
+						["n_amt"] = 305,
 					},
 					["71904.32"] = {
-						["n_amt"] = 1246,
+						["n_max"] = 1246,
 						["n_num"] = 1,
 						["count"] = 1,
 						["amount"] = 1246,
 						["o_amt"] = 971,
-						["n_max"] = 1246,
+						["n_min"] = 1246,
 						["targets"] = {
 							["Shattered Hand Champion"] = {
 								["o_amt"] = 971,
 								["amount"] = 1246,
 							},
 						},
-						["n_min"] = 1246,
+						["n_amt"] = 1246,
 					},
 				},
 				["absorb"] = 1558,
@@ -1886,17 +1873,17 @@ SkadaStorageDB = {
 				["spec"] = 70,
 				["healspells"] = {
 					["-54172.2"] = {
-						["n_amt"] = 1049,
+						["n_max"] = 1042,
 						["count"] = 2,
 						["amount"] = 1049,
 						["n_num"] = 2,
-						["n_max"] = 1042,
+						["n_min"] = 7,
 						["targets"] = {
 							["Mayiswallow"] = {
 								["amount"] = 1049,
 							},
 						},
-						["n_min"] = 7,
+						["n_amt"] = 1049,
 					},
 				},
 				["overkill"] = 2352,
@@ -1908,6 +1895,19 @@ SkadaStorageDB = {
 				["mana"] = 60,
 				["timespent"] = {
 					["Shattered Hand Champion"] = 3.370000000000001,
+				},
+			},
+			["Ilkkan"] = {
+				["role"] = "DAMAGER",
+				["last"] = 13051.886,
+				["id"] = "0x0700000000AA9991",
+				["class"] = "DEATHKNIGHT",
+				["spec"] = 252,
+				["auras"] = {
+					["48266.1"] = {
+						["u"] = 5,
+						["n"] = 1,
+					},
 				},
 			},
 		},
@@ -2043,45 +2043,45 @@ SkadaStorageDB = {
 						["c_max"] = 3819,
 					},
 					["6603.1"] = {
-						["n_amt"] = 3733,
+						["n_max"] = 3733,
 						["n_num"] = 1,
 						["count"] = 1,
 						["amount"] = 3733,
 						["o_amt"] = 826,
-						["n_max"] = 3733,
+						["n_min"] = 3733,
 						["targets"] = {
 							["Shattered Hand Assassin"] = {
 								["o_amt"] = 826,
 								["amount"] = 3733,
 							},
 						},
-						["n_min"] = 3733,
+						["n_amt"] = 3733,
 					},
 					["54043.2"] = {
-						["n_amt"] = 646,
+						["n_max"] = 323,
 						["count"] = 2,
 						["amount"] = 646,
 						["n_num"] = 2,
-						["n_max"] = 323,
+						["n_min"] = 323,
 						["targets"] = {
 							["Shattered Hand Assassin"] = {
 								["amount"] = 646,
 							},
 						},
-						["n_min"] = 323,
+						["n_amt"] = 646,
 					},
 					["-61840.2"] = {
-						["n_amt"] = 444,
+						["n_max"] = 444,
 						["count"] = 1,
 						["amount"] = 444,
 						["n_num"] = 1,
-						["n_max"] = 444,
+						["n_min"] = 444,
 						["targets"] = {
 							["Shattered Hand Assassin"] = {
 								["amount"] = 444,
 							},
 						},
-						["n_min"] = 444,
+						["n_amt"] = 444,
 					},
 				},
 				["last"] = 13048.687,
@@ -2457,15 +2457,15 @@ SkadaStorageDB = {
 				},
 				["absorbspells"] = {
 					["58597.2"] = {
-						["n_amt"] = 787,
+						["n_max"] = 787,
 						["count"] = 1,
 						["amount"] = 787,
 						["n_num"] = 1,
-						["n_max"] = 787,
+						["n_min"] = 787,
 						["targets"] = {
 							["Mayiswallow"] = 787,
 						},
-						["n_min"] = 787,
+						["n_amt"] = 787,
 					},
 				},
 				["role"] = "DAMAGER",
@@ -2520,17 +2520,17 @@ SkadaStorageDB = {
 						["n_amt"] = 3946,
 					},
 					["35395.1"] = {
-						["n_amt"] = 3539,
+						["n_max"] = 3539,
 						["count"] = 1,
 						["amount"] = 3539,
 						["n_num"] = 1,
-						["n_max"] = 3539,
+						["n_min"] = 3539,
 						["targets"] = {
 							["Shattered Hand Assassin"] = {
 								["amount"] = 3539,
 							},
 						},
-						["n_min"] = 3539,
+						["n_amt"] = 3539,
 					},
 					["6603.1"] = {
 						["c_amt"] = 7908,
@@ -2546,43 +2546,43 @@ SkadaStorageDB = {
 						["c_max"] = 7908,
 					},
 					["48801.2"] = {
-						["n_amt"] = 4134,
+						["n_max"] = 4134,
 						["count"] = 1,
 						["amount"] = 4134,
 						["n_num"] = 1,
-						["n_max"] = 4134,
+						["n_min"] = 4134,
 						["targets"] = {
 							["Shattered Hand Assassin"] = {
 								["amount"] = 4134,
 							},
 						},
-						["n_min"] = 4134,
+						["n_amt"] = 4134,
 					},
 					["54043.2"] = {
-						["n_amt"] = 326,
+						["n_max"] = 326,
 						["count"] = 1,
 						["amount"] = 326,
 						["n_num"] = 1,
-						["n_max"] = 326,
+						["n_min"] = 326,
 						["targets"] = {
 							["Shattered Hand Assassin"] = {
 								["amount"] = 326,
 							},
 						},
-						["n_min"] = 326,
+						["n_amt"] = 326,
 					},
 					["67485.2"] = {
-						["n_amt"] = 5718,
+						["n_max"] = 5718,
 						["count"] = 1,
 						["amount"] = 5718,
 						["n_num"] = 1,
-						["n_max"] = 5718,
+						["n_min"] = 5718,
 						["targets"] = {
 							["Shattered Hand Assassin"] = {
 								["amount"] = 5718,
 							},
 						},
-						["n_min"] = 5718,
+						["n_amt"] = 5718,
 					},
 				},
 				["absorb"] = 787,
@@ -2836,7 +2836,7 @@ SkadaStorageDB = {
 						["total"] = 2978,
 						["dod_n"] = 2,
 						["n_max"] = 611,
-						["n_min"] = 257,
+						["n_amt"] = 868,
 						["sources"] = {
 							["Shattered Hand Houndmaster"] = {
 								["amount"] = 611,
@@ -2852,8 +2852,8 @@ SkadaStorageDB = {
 						},
 						["count"] = 17,
 						["amount"] = 868,
+						["n_min"] = 257,
 						["abs_n"] = 7,
-						["n_amt"] = 868,
 						["n_num"] = 2,
 						["mis_n"] = 6,
 					},
@@ -2865,10 +2865,10 @@ SkadaStorageDB = {
 						},
 						["count"] = 1,
 						["amount"] = 693,
-						["n_amt"] = 693,
 						["n_max"] = 693,
-						["n_num"] = 1,
 						["n_min"] = 693,
+						["n_num"] = 1,
+						["n_amt"] = 693,
 					},
 				},
 				["mana"] = 2391,
@@ -2951,15 +2951,15 @@ SkadaStorageDB = {
 				},
 				["absorbspells"] = {
 					["58597.2"] = {
-						["n_amt"] = 2110,
+						["n_max"] = 558,
 						["count"] = 8,
 						["amount"] = 2110,
 						["n_num"] = 8,
-						["n_max"] = 558,
+						["n_min"] = 43,
 						["targets"] = {
 							["Mayiswallow"] = 2110,
 						},
-						["n_min"] = 43,
+						["n_amt"] = 2110,
 					},
 				},
 				["role"] = "DAMAGER",
@@ -2980,32 +2980,32 @@ SkadaStorageDB = {
 						["c_max"] = 5149,
 					},
 					["35395.1"] = {
-						["n_amt"] = 3261,
+						["n_max"] = 3261,
 						["n_num"] = 1,
 						["count"] = 1,
 						["amount"] = 3261,
 						["o_amt"] = 1504,
-						["n_max"] = 3261,
+						["n_min"] = 3261,
 						["targets"] = {
 							["Shattered Hand Assassin"] = {
 								["o_amt"] = 1504,
 								["amount"] = 3261,
 							},
 						},
-						["n_min"] = 3261,
+						["n_amt"] = 3261,
 					},
 					["71904.32"] = {
-						["n_amt"] = 1214,
+						["n_max"] = 626,
 						["count"] = 2,
 						["amount"] = 1214,
 						["n_num"] = 2,
-						["n_max"] = 626,
+						["n_min"] = 588,
 						["targets"] = {
 							["Shattered Hand Assassin"] = {
 								["amount"] = 1214,
 							},
 						},
-						["n_min"] = 588,
+						["n_amt"] = 1214,
 					},
 					["20424.2"] = {
 						["c_amt"] = 14798,
@@ -3033,19 +3033,19 @@ SkadaStorageDB = {
 						["n_amt"] = 5123,
 					},
 					["71433.1"] = {
-						["n_amt"] = 1631,
+						["n_max"] = 1631,
 						["n_num"] = 1,
 						["count"] = 1,
 						["amount"] = 1631,
 						["o_amt"] = 253,
-						["n_max"] = 1631,
+						["n_min"] = 1631,
 						["targets"] = {
 							["Shattered Hand Assassin"] = {
 								["o_amt"] = 253,
 								["amount"] = 1631,
 							},
 						},
-						["n_min"] = 1631,
+						["n_amt"] = 1631,
 					},
 					["6603.1"] = {
 						["c_amt"] = 14193,
@@ -3085,11 +3085,11 @@ SkadaStorageDB = {
 						["c_min"] = 3679,
 					},
 					["54043.2"] = {
-						["n_amt"] = 629,
+						["n_max"] = 315,
 						["count"] = 2,
 						["amount"] = 629,
 						["n_num"] = 2,
-						["n_max"] = 315,
+						["n_min"] = 314,
 						["targets"] = {
 							["Shattered Hand Houndmaster"] = {
 								["amount"] = 314,
@@ -3098,7 +3098,7 @@ SkadaStorageDB = {
 								["amount"] = 315,
 							},
 						},
-						["n_min"] = 314,
+						["n_amt"] = 629,
 					},
 					["53385.1"] = {
 						["c_amt"] = 25455,
@@ -3128,30 +3128,30 @@ SkadaStorageDB = {
 				["spec"] = 70,
 				["healspells"] = {
 					["-54203.2"] = {
-						["n_amt"] = 1306,
+						["n_max"] = 653,
 						["count"] = 2,
 						["amount"] = 1306,
 						["n_num"] = 2,
-						["n_max"] = 653,
+						["n_min"] = 653,
 						["targets"] = {
 							["Mayiswallow"] = {
 								["amount"] = 1306,
 							},
 						},
-						["n_min"] = 653,
+						["n_amt"] = 1306,
 					},
 					["-54172.2"] = {
-						["n_amt"] = 2081,
+						["n_max"] = 2081,
 						["count"] = 1,
 						["amount"] = 2081,
 						["n_num"] = 1,
-						["n_max"] = 2081,
+						["n_min"] = 2081,
 						["targets"] = {
 							["Mayiswallow"] = {
 								["amount"] = 2081,
 							},
 						},
-						["n_min"] = 2081,
+						["n_amt"] = 2081,
 					},
 				},
 				["overkill"] = 9142,
@@ -3252,10 +3252,10 @@ SkadaStorageDB = {
 						},
 						["count"] = 2,
 						["amount"] = 54,
-						["n_amt"] = 54,
 						["n_max"] = 27,
-						["n_num"] = 2,
 						["n_min"] = 27,
+						["n_num"] = 2,
+						["n_amt"] = 54,
 					},
 					["32588.1"] = {
 						["n_max"] = 751,
@@ -3481,11 +3481,11 @@ SkadaStorageDB = {
 						["count"] = 3,
 					},
 					["-48819.2"] = {
-						["n_amt"] = 14423,
+						["n_max"] = 621,
 						["count"] = 24,
 						["amount"] = 14423,
 						["n_num"] = 24,
-						["n_max"] = 621,
+						["n_min"] = 595,
 						["targets"] = {
 							["Shattered Hand Champion"] = {
 								["amount"] = 10196,
@@ -3494,7 +3494,7 @@ SkadaStorageDB = {
 								["amount"] = 4227,
 							},
 						},
-						["n_min"] = 595,
+						["n_amt"] = 14423,
 					},
 					["35395.1"] = {
 						["c_amt"] = 7337,
@@ -3519,25 +3519,25 @@ SkadaStorageDB = {
 						["count"] = 3,
 					},
 					["48801.2"] = {
-						["n_amt"] = 4030,
+						["n_max"] = 4030,
 						["count"] = 1,
 						["amount"] = 4030,
 						["n_num"] = 1,
-						["n_max"] = 4030,
+						["n_min"] = 4030,
 						["targets"] = {
 							["Warbringer O'mrogg"] = {
 								["amount"] = 4030,
 							},
 						},
-						["n_min"] = 4030,
+						["n_amt"] = 4030,
 					},
 					["-61840.2"] = {
-						["n_amt"] = 7078,
+						["n_max"] = 1935,
 						["n_num"] = 10,
 						["count"] = 10,
 						["amount"] = 7078,
 						["o_amt"] = 274,
-						["n_max"] = 1935,
+						["n_min"] = 354,
 						["targets"] = {
 							["Warbringer O'mrogg"] = {
 								["o_amt"] = 274,
@@ -3547,20 +3547,20 @@ SkadaStorageDB = {
 								["amount"] = 1704,
 							},
 						},
-						["n_min"] = 354,
+						["n_amt"] = 7078,
 					},
 					["71904.32"] = {
-						["n_amt"] = 2415,
+						["n_max"] = 2415,
 						["count"] = 1,
 						["amount"] = 2415,
 						["n_num"] = 1,
-						["n_max"] = 2415,
+						["n_min"] = 2415,
 						["targets"] = {
 							["Warbringer O'mrogg"] = {
 								["amount"] = 2415,
 							},
 						},
-						["n_min"] = 2415,
+						["n_amt"] = 2415,
 					},
 					["71433.1"] = {
 						["c_amt"] = 7884,
@@ -3646,11 +3646,11 @@ SkadaStorageDB = {
 						["c_min"] = 3551,
 					},
 					["54043.2"] = {
-						["n_amt"] = 5311,
+						["n_max"] = 334,
 						["count"] = 17,
 						["amount"] = 5311,
 						["n_num"] = 17,
-						["n_max"] = 334,
+						["n_min"] = 306,
 						["targets"] = {
 							["Shattered Hand Assassin"] = {
 								["amount"] = 1841,
@@ -3662,7 +3662,7 @@ SkadaStorageDB = {
 								["amount"] = 1629,
 							},
 						},
-						["n_min"] = 306,
+						["n_amt"] = 5311,
 					},
 					["53385.1"] = {
 						["c_amt"] = 26397,
@@ -3691,17 +3691,17 @@ SkadaStorageDB = {
 				["spec"] = 70,
 				["healspells"] = {
 					["-54172.2"] = {
-						["n_amt"] = 7056,
+						["n_max"] = 2398,
 						["count"] = 4,
 						["amount"] = 7056,
 						["n_num"] = 4,
-						["n_max"] = 2398,
+						["n_min"] = 1003,
 						["targets"] = {
 							["Mayiswallow"] = {
 								["amount"] = 7056,
 							},
 						},
-						["n_min"] = 1003,
+						["n_amt"] = 7056,
 					},
 					["48785.2"] = {
 						["c_amt"] = 7047,
@@ -3723,19 +3723,19 @@ SkadaStorageDB = {
 						["n_amt"] = 3453,
 					},
 					["-54203.2"] = {
-						["n_amt"] = 3723,
+						["n_max"] = 743,
 						["n_num"] = 7,
 						["count"] = 7,
 						["amount"] = 3723,
 						["o_amt"] = 498,
-						["n_max"] = 743,
+						["n_min"] = 498,
 						["targets"] = {
 							["Mayiswallow"] = {
 								["o_amt"] = 498,
 								["amount"] = 3723,
 							},
 						},
-						["n_min"] = 498,
+						["n_amt"] = 3723,
 					},
 				},
 				["overkill"] = 6538,
@@ -4129,10 +4129,10 @@ SkadaStorageDB = {
 						},
 						["count"] = 4,
 						["amount"] = 52,
-						["abs_n"] = 2,
 						["n_amt"] = 52,
-						["n_num"] = 2,
 						["n_min"] = 26,
+						["n_num"] = 2,
+						["abs_n"] = 2,
 					},
 					["-30639.1"] = {
 						["n_max"] = 442,
@@ -4160,10 +4160,10 @@ SkadaStorageDB = {
 						},
 						["count"] = 4,
 						["amount"] = 1724,
-						["abs_n"] = 1,
 						["n_amt"] = 1724,
-						["n_num"] = 3,
 						["n_min"] = 322,
+						["n_num"] = 3,
+						["abs_n"] = 1,
 					},
 					["15620.1"] = {
 						["total"] = 1330,
@@ -4176,10 +4176,10 @@ SkadaStorageDB = {
 						},
 						["count"] = 6,
 						["amount"] = 723,
-						["abs_n"] = 3,
 						["n_amt"] = 723,
-						["n_num"] = 3,
 						["n_min"] = 237,
+						["n_num"] = 3,
+						["abs_n"] = 3,
 					},
 					["6603.1"] = {
 						["total"] = 14175,
@@ -4327,15 +4327,15 @@ SkadaStorageDB = {
 				},
 				["absorbspells"] = {
 					["58597.2"] = {
-						["n_amt"] = 6318,
+						["n_max"] = 772,
 						["count"] = 16,
 						["amount"] = 6318,
 						["n_num"] = 16,
-						["n_max"] = 772,
+						["n_min"] = 26,
 						["targets"] = {
 							["Mayiswallow"] = 6318,
 						},
-						["n_min"] = 26,
+						["n_amt"] = 6318,
 					},
 				},
 				["role"] = "DAMAGER",
@@ -4356,11 +4356,11 @@ SkadaStorageDB = {
 						["c_max"] = 5246,
 					},
 					["-48819.2"] = {
-						["n_amt"] = 13781,
+						["n_max"] = 668,
 						["count"] = 22,
 						["amount"] = 13781,
 						["n_num"] = 22,
-						["n_max"] = 668,
+						["n_min"] = 568,
 						["targets"] = {
 							["Shattered Hand Houndmaster"] = {
 								["amount"] = 2515,
@@ -4372,7 +4372,7 @@ SkadaStorageDB = {
 								["amount"] = 8062,
 							},
 						},
-						["n_min"] = 568,
+						["n_amt"] = 13781,
 					},
 					["35395.1"] = {
 						["c_amt"] = 12030,
@@ -4404,24 +4404,24 @@ SkadaStorageDB = {
 						["c_max"] = 5717,
 					},
 					["-61840.2"] = {
-						["n_amt"] = 2945,
+						["n_max"] = 572,
 						["count"] = 7,
 						["amount"] = 2945,
 						["n_num"] = 7,
-						["n_max"] = 572,
+						["n_min"] = 367,
 						["targets"] = {
 							["Shattered Hand Champion"] = {
 								["amount"] = 2945,
 							},
 						},
-						["n_min"] = 367,
+						["n_amt"] = 2945,
 					},
 					["71904.32"] = {
-						["n_amt"] = 1812,
+						["n_max"] = 624,
 						["count"] = 3,
 						["amount"] = 1812,
 						["n_num"] = 3,
-						["n_max"] = 624,
+						["n_min"] = 582,
 						["targets"] = {
 							["Shattered Hand Champion"] = {
 								["amount"] = 1230,
@@ -4430,7 +4430,7 @@ SkadaStorageDB = {
 								["amount"] = 582,
 							},
 						},
-						["n_min"] = 582,
+						["n_amt"] = 1812,
 					},
 					["20424.2"] = {
 						["c_amt"] = 35192,
@@ -4515,12 +4515,12 @@ SkadaStorageDB = {
 						["n_amt"] = 1662,
 					},
 					["54043.2"] = {
-						["n_amt"] = 5549,
+						["n_max"] = 312,
 						["n_num"] = 18,
 						["count"] = 18,
 						["amount"] = 5549,
 						["o_amt"] = 192,
-						["n_max"] = 312,
+						["n_min"] = 300,
 						["targets"] = {
 							["Shattered Hand Houndmaster"] = {
 								["o_amt"] = 192,
@@ -4533,7 +4533,7 @@ SkadaStorageDB = {
 								["amount"] = 3732,
 							},
 						},
-						["n_min"] = 300,
+						["n_amt"] = 5549,
 					},
 					["53385.1"] = {
 						["c_amt"] = 32573,
@@ -4561,17 +4561,17 @@ SkadaStorageDB = {
 				["spec"] = 70,
 				["healspells"] = {
 					["-54172.2"] = {
-						["n_amt"] = 8143,
+						["n_max"] = 8143,
 						["count"] = 1,
 						["amount"] = 8143,
 						["n_num"] = 1,
-						["n_max"] = 8143,
+						["n_min"] = 8143,
 						["targets"] = {
 							["Mayiswallow"] = {
 								["amount"] = 8143,
 							},
 						},
-						["n_min"] = 8143,
+						["n_amt"] = 8143,
 					},
 				},
 				["overkill"] = 20215,
@@ -4754,6 +4754,16 @@ SkadaStorageDB = {
 				["totaldamage"] = 2463,
 				["damage"] = 1700,
 				["damagedspells"] = {
+					["20424.2"] = {
+						["o_amt"] = 1550,
+						["sources"] = {
+							["Mayiswallow"] = {
+								["o_amt"] = 1550,
+								["amount"] = 8528,
+							},
+						},
+						["amount"] = 8528,
+					},
 					["54043.2"] = {
 						["amount"] = 1508,
 						["sources"] = {
@@ -4769,16 +4779,6 @@ SkadaStorageDB = {
 								["amount"] = 3204,
 							},
 						},
-					},
-					["20424.2"] = {
-						["o_amt"] = 1550,
-						["sources"] = {
-							["Mayiswallow"] = {
-								["o_amt"] = 1550,
-								["amount"] = 8528,
-							},
-						},
-						["amount"] = 8528,
 					},
 					["53385.1"] = {
 						["o_amt"] = 1765,
@@ -5123,10 +5123,10 @@ SkadaStorageDB = {
 						},
 						["count"] = 2,
 						["amount"] = 855,
-						["n_amt"] = 855,
 						["n_max"] = 428,
-						["n_num"] = 2,
 						["n_min"] = 427,
+						["n_num"] = 2,
+						["n_amt"] = 855,
 					},
 				},
 				["class"] = "PALADIN",
@@ -5208,15 +5208,15 @@ SkadaStorageDB = {
 				},
 				["absorbspells"] = {
 					["58597.2"] = {
-						["n_amt"] = 1901,
+						["n_max"] = 699,
 						["count"] = 4,
 						["amount"] = 1901,
 						["n_num"] = 4,
-						["n_max"] = 699,
+						["n_min"] = 299,
 						["targets"] = {
 							["Mayiswallow"] = 1901,
 						},
-						["n_min"] = 299,
+						["n_amt"] = 1901,
 					},
 				},
 				["role"] = "DAMAGER",
@@ -5239,27 +5239,27 @@ SkadaStorageDB = {
 						["count"] = 1,
 					},
 					["-61840.2"] = {
-						["n_amt"] = 4329,
+						["n_max"] = 777,
 						["n_num"] = 6,
 						["count"] = 6,
 						["amount"] = 4329,
 						["o_amt"] = 3999,
-						["n_max"] = 777,
+						["n_min"] = 666,
 						["targets"] = {
 							["Hellfire Training Dummy"] = {
 								["o_amt"] = 3999,
 								["amount"] = 4329,
 							},
 						},
-						["n_min"] = 666,
+						["n_amt"] = 4329,
 					},
 					["71904.32"] = {
-						["n_amt"] = 2330,
+						["n_max"] = 407,
 						["n_num"] = 6,
 						["count"] = 6,
 						["amount"] = 2330,
 						["o_amt"] = 971,
-						["n_max"] = 407,
+						["n_min"] = 372,
 						["targets"] = {
 							["Hellfire Training Dummy"] = {
 								["o_amt"] = 971,
@@ -5272,7 +5272,7 @@ SkadaStorageDB = {
 								["amount"] = 406,
 							},
 						},
-						["n_min"] = 372,
+						["n_amt"] = 2330,
 					},
 					["20424.2"] = {
 						["c_amt"] = 24830,
@@ -5357,11 +5357,11 @@ SkadaStorageDB = {
 						["count"] = 4,
 					},
 					["54043.2"] = {
-						["n_amt"] = 657,
+						["n_max"] = 329,
 						["count"] = 2,
 						["amount"] = 657,
 						["n_num"] = 2,
-						["n_max"] = 329,
+						["n_min"] = 328,
 						["targets"] = {
 							["Shattered Hand Savage"] = {
 								["amount"] = 329,
@@ -5370,7 +5370,7 @@ SkadaStorageDB = {
 								["amount"] = 328,
 							},
 						},
-						["n_min"] = 328,
+						["n_amt"] = 657,
 					},
 					["53385.1"] = {
 						["c_amt"] = 34000,
@@ -5399,17 +5399,17 @@ SkadaStorageDB = {
 				["spec"] = 70,
 				["healspells"] = {
 					["-54172.2"] = {
-						["n_amt"] = 2664,
+						["n_max"] = 2664,
 						["count"] = 1,
 						["amount"] = 2664,
 						["n_num"] = 1,
-						["n_max"] = 2664,
+						["n_min"] = 2664,
 						["targets"] = {
 							["Mayiswallow"] = {
 								["amount"] = 2664,
 							},
 						},
-						["n_min"] = 2664,
+						["n_amt"] = 2664,
 					},
 				},
 				["overkill"] = 52453,
@@ -5444,6 +5444,19 @@ SkadaStorageDB = {
 		["name"] = "Shattered Hand Centurion (4)",
 		["mobname"] = "Shattered Hand Centurion",
 		["actors"] = {
+			["Ilkkan"] = {
+				["role"] = "DAMAGER",
+				["last"] = 12928.617,
+				["id"] = "0x0700000000AA9991",
+				["spec"] = 252,
+				["class"] = "DEATHKNIGHT",
+				["auras"] = {
+					["48266.1"] = {
+						["u"] = 14,
+						["n"] = 1,
+					},
+				},
+			},
 			["Mayiswallow"] = {
 				["last"] = 12939.971,
 				["damagedspells"] = {
@@ -5597,15 +5610,15 @@ SkadaStorageDB = {
 				},
 				["absorbspells"] = {
 					["58597.2"] = {
-						["n_amt"] = 2444,
+						["n_max"] = 728,
 						["count"] = 4,
 						["amount"] = 2444,
 						["n_num"] = 4,
-						["n_max"] = 728,
+						["n_min"] = 412,
 						["targets"] = {
 							["Mayiswallow"] = 2444,
 						},
-						["n_min"] = 412,
+						["n_amt"] = 2444,
 					},
 				},
 				["role"] = "DAMAGER",
@@ -5629,58 +5642,58 @@ SkadaStorageDB = {
 						["c_max"] = 6188,
 					},
 					["-48819.2"] = {
-						["n_amt"] = 6765,
+						["n_max"] = 615,
 						["count"] = 11,
 						["amount"] = 6765,
 						["n_num"] = 11,
-						["n_max"] = 615,
+						["n_min"] = 615,
 						["targets"] = {
 							["Shattered Hand Gladiator"] = {
 								["amount"] = 6765,
 							},
 						},
-						["n_min"] = 615,
+						["n_amt"] = 6765,
 					},
 					["35395.1"] = {
-						["n_amt"] = 2943,
+						["n_max"] = 2943,
 						["count"] = 1,
 						["amount"] = 2943,
 						["n_num"] = 1,
-						["n_max"] = 2943,
+						["n_min"] = 2943,
 						["targets"] = {
 							["Shattered Hand Gladiator"] = {
 								["amount"] = 2943,
 							},
 						},
-						["n_min"] = 2943,
+						["n_amt"] = 2943,
 					},
 					["-61840.2"] = {
-						["n_amt"] = 1862,
+						["n_max"] = 739,
 						["n_num"] = 3,
 						["count"] = 3,
 						["amount"] = 1862,
 						["o_amt"] = 477,
-						["n_max"] = 739,
+						["n_min"] = 384,
 						["targets"] = {
 							["Shattered Hand Gladiator"] = {
 								["o_amt"] = 477,
 								["amount"] = 1862,
 							},
 						},
-						["n_min"] = 384,
+						["n_amt"] = 1862,
 					},
 					["71904.32"] = {
-						["n_amt"] = 2374,
+						["n_max"] = 484,
 						["count"] = 5,
 						["amount"] = 2374,
 						["n_num"] = 5,
-						["n_max"] = 484,
+						["n_min"] = 462,
 						["targets"] = {
 							["Shattered Hand Gladiator"] = {
 								["amount"] = 2374,
 							},
 						},
-						["n_min"] = 462,
+						["n_amt"] = 2374,
 					},
 					["20424.2"] = {
 						["c_amt"] = 30444,
@@ -5744,17 +5757,17 @@ SkadaStorageDB = {
 						["c_min"] = 4443,
 					},
 					["54043.2"] = {
-						["n_amt"] = 2971,
+						["n_max"] = 372,
 						["count"] = 9,
 						["amount"] = 2971,
 						["n_num"] = 9,
-						["n_max"] = 372,
+						["n_min"] = 309,
 						["targets"] = {
 							["Shattered Hand Gladiator"] = {
 								["amount"] = 2971,
 							},
 						},
-						["n_min"] = 309,
+						["n_amt"] = 2971,
 					},
 					["53385.1"] = {
 						["c_amt"] = 29411,
@@ -5784,19 +5797,19 @@ SkadaStorageDB = {
 				["spec"] = 70,
 				["healspells"] = {
 					["-54172.2"] = {
-						["n_amt"] = 3453,
+						["n_max"] = 3453,
 						["n_num"] = 1,
 						["count"] = 1,
 						["amount"] = 3453,
 						["o_amt"] = 690,
-						["n_max"] = 3453,
+						["n_min"] = 3453,
 						["targets"] = {
 							["Mayiswallow"] = {
 								["o_amt"] = 690,
 								["amount"] = 3453,
 							},
 						},
-						["n_min"] = 3453,
+						["n_amt"] = 3453,
 					},
 				},
 				["overkill"] = 7619,
@@ -5922,19 +5935,6 @@ SkadaStorageDB = {
 				["damaged"] = 106739,
 				["enemy"] = true,
 			},
-			["Ilkkan"] = {
-				["role"] = "DAMAGER",
-				["last"] = 12928.617,
-				["id"] = "0x0700000000AA9991",
-				["spec"] = 252,
-				["class"] = "DEATHKNIGHT",
-				["auras"] = {
-					["48266.1"] = {
-						["u"] = 14,
-						["n"] = 1,
-					},
-				},
-			},
 			["Shattered Hand Centurion"] = {
 				["damagespells"] = {
 					["6603.1"] = {
@@ -5998,6 +5998,318 @@ SkadaStorageDB = {
 	}, -- [11]
 	{
 		["actors"] = {
+			["Mayiswallow"] = {
+				["last"] = 12920.741,
+				["damagedspells"] = {
+					["6603.1"] = {
+						["total"] = 6987,
+						["n_max"] = 748,
+						["n_min"] = 128,
+						["count"] = 17,
+						["n_amt"] = 4246,
+						["sources"] = {
+							["Shattered Hand Gladiator"] = {
+								["amount"] = 3566,
+								["total"] = 5565,
+							},
+							["Shattered Hand Centurion"] = {
+								["amount"] = 680,
+								["total"] = 1422,
+							},
+						},
+						["mis_n"] = 1,
+						["amount"] = 4246,
+						["dod_n"] = 4,
+						["abs_n"] = 3,
+						["n_num"] = 7,
+						["par_n"] = 2,
+					},
+					["16856.1"] = {
+						["sources"] = {
+							["Shattered Hand Gladiator"] = {
+								["amount"] = 1444,
+							},
+						},
+						["count"] = 1,
+						["amount"] = 1444,
+						["n_max"] = 1444,
+						["n_min"] = 1444,
+						["n_num"] = 1,
+						["n_amt"] = 1444,
+					},
+				},
+				["class"] = "PALADIN",
+				["damaged"] = 5690,
+				["auras"] = {
+					["71905.1"] = {
+						["u"] = 4,
+						["n"] = 1,
+						["r"] = 2,
+					},
+					["73422.1"] = {
+						["u"] = 4,
+						["n"] = 1,
+					},
+					["59620.2"] = {
+						["u"] = 9,
+						["n"] = 1,
+					},
+					["53601.2"] = {
+						["u"] = 9,
+						["n"] = 1,
+					},
+					["59578.1"] = {
+						["u"] = 9,
+						["n"] = 1,
+						["r"] = 5,
+					},
+					["-61840.2"] = {
+						["u"] = 5,
+						["t"] = {
+							["Shattered Hand Gladiator"] = {
+								["u"] = 5,
+								["n"] = 4,
+							},
+							["Shattered Hand Centurion"] = {
+								["u"] = 2,
+								["n"] = 1,
+								["r"] = 1,
+							},
+						},
+						["n"] = 5,
+						["r"] = 1,
+					},
+					["25898.2"] = {
+						["u"] = 9,
+						["n"] = 1,
+					},
+					["20053.1"] = {
+						["u"] = 9,
+						["n"] = 1,
+						["r"] = 8,
+					},
+					["58597.2"] = {
+						["u"] = 5,
+						["n"] = 2,
+					},
+					["31884.2"] = {
+						["u"] = 9,
+						["n"] = 1,
+					},
+					["71432.1"] = {
+						["u"] = 9,
+						["n"] = 3,
+						["r"] = 5,
+					},
+					["20375.2"] = {
+						["u"] = 9,
+						["n"] = 1,
+					},
+					["-57669.8"] = {
+						["u"] = 9,
+					},
+					["54043.2"] = {
+						["u"] = 9,
+						["n"] = 1,
+					},
+					["25780.2"] = {
+						["u"] = 9,
+						["n"] = 1,
+					},
+				},
+				["absorbspells"] = {
+					["58597.2"] = {
+						["n_max"] = 742,
+						["count"] = 4,
+						["amount"] = 2741,
+						["n_num"] = 4,
+						["n_min"] = 569,
+						["targets"] = {
+							["Mayiswallow"] = 2741,
+						},
+						["n_amt"] = 2741,
+					},
+				},
+				["role"] = "DAMAGER",
+				["time"] = 7.760000000000002,
+				["damage"] = 148443,
+				["overheal"] = 1811,
+				["absorb"] = 2741,
+				["id"] = "0x0700000000000D41",
+				["spec"] = 70,
+				["healspells"] = {
+					["-54172.2"] = {
+						["n_max"] = 6932,
+						["n_num"] = 2,
+						["count"] = 2,
+						["amount"] = 9052,
+						["o_amt"] = 1811,
+						["n_min"] = 2120,
+						["targets"] = {
+							["Mayiswallow"] = {
+								["o_amt"] = 1811,
+								["amount"] = 9052,
+							},
+						},
+						["n_amt"] = 9052,
+					},
+				},
+				["overkill"] = 25306,
+				["heal"] = 9052,
+				["manaspells"] = {
+					["-57669.8"] = 108,
+					["31930.2"] = 1098,
+				},
+				["mana"] = 1206,
+				["damagespells"] = {
+					["6603.1"] = {
+						["c_amt"] = 8979,
+						["c_max"] = 8979,
+						["c_num"] = 1,
+						["n_max"] = 4264,
+						["targets"] = {
+							["Shattered Hand Gladiator"] = {
+								["o_amt"] = 5147,
+								["amount"] = 13243,
+							},
+							["Shattered Hand Centurion"] = {
+								["amount"] = 4020,
+							},
+						},
+						["n_min"] = 4020,
+						["c_min"] = 8979,
+						["amount"] = 17263,
+						["o_amt"] = 5147,
+						["n_amt"] = 8284,
+						["n_num"] = 2,
+						["count"] = 3,
+					},
+					["20467.2"] = {
+						["c_amt"] = 6285,
+						["c_num"] = 1,
+						["c_max"] = 6285,
+						["amount"] = 6285,
+						["o_amt"] = 849,
+						["c_min"] = 6285,
+						["targets"] = {
+							["Shattered Hand Centurion"] = {
+								["o_amt"] = 849,
+								["amount"] = 6285,
+							},
+						},
+						["count"] = 1,
+					},
+					["20424.2"] = {
+						["c_amt"] = 17173,
+						["c_max"] = 4674,
+						["c_num"] = 4,
+						["n_max"] = 2165,
+						["targets"] = {
+							["Shattered Hand Gladiator"] = {
+								["amount"] = 25313,
+							},
+						},
+						["count"] = 8,
+						["amount"] = 25313,
+						["n_min"] = 1960,
+						["n_amt"] = 8140,
+						["n_num"] = 4,
+						["c_min"] = 3955,
+					},
+					["54043.2"] = {
+						["n_max"] = 378,
+						["count"] = 7,
+						["amount"] = 2564,
+						["n_num"] = 7,
+						["n_min"] = 310,
+						["targets"] = {
+							["Shattered Hand Gladiator"] = {
+								["amount"] = 2254,
+							},
+							["Shattered Hand Centurion"] = {
+								["amount"] = 310,
+							},
+						},
+						["n_amt"] = 2564,
+					},
+					["35395.1"] = {
+						["c_amt"] = 13749,
+						["c_num"] = 2,
+						["c_max"] = 7090,
+						["amount"] = 13749,
+						["o_amt"] = 4307,
+						["c_min"] = 6659,
+						["targets"] = {
+							["Shattered Hand Gladiator"] = {
+								["o_amt"] = 4307,
+								["amount"] = 13749,
+							},
+						},
+						["count"] = 2,
+					},
+					["69403.2"] = {
+						["c_amt"] = 12185,
+						["c_max"] = 4276,
+						["c_num"] = 3,
+						["n_max"] = 2004,
+						["targets"] = {
+							["Shattered Hand Gladiator"] = {
+								["amount"] = 16142,
+							},
+							["Shattered Hand Centurion"] = {
+								["amount"] = 1917,
+							},
+						},
+						["count"] = 6,
+						["amount"] = 18059,
+						["n_min"] = 1917,
+						["n_amt"] = 5874,
+						["n_num"] = 3,
+						["c_min"] = 3901,
+					},
+					["-61840.2"] = {
+						["n_max"] = 757,
+						["count"] = 4,
+						["amount"] = 2992,
+						["n_num"] = 4,
+						["n_min"] = 739,
+						["targets"] = {
+							["Shattered Hand Gladiator"] = {
+								["amount"] = 2992,
+							},
+						},
+						["n_amt"] = 2992,
+					},
+					["53385.1"] = {
+						["c_amt"] = 48922,
+						["b_amt"] = 35,
+						["c_max"] = 10143,
+						["c_num"] = 5,
+						["n_max"] = 4711,
+						["targets"] = {
+							["Shattered Hand Gladiator"] = {
+								["o_amt"] = 15003,
+								["amount"] = 52821,
+							},
+							["Shattered Hand Centurion"] = {
+								["amount"] = 9397,
+							},
+						},
+						["count"] = 8,
+						["c_min"] = 9397,
+						["amount"] = 62218,
+						["o_amt"] = 15003,
+						["n_min"] = 4232,
+						["n_num"] = 3,
+						["n_amt"] = 13296,
+					},
+				},
+				["totaldamaged"] = 8431,
+				["timespent"] = {
+					["Shattered Hand Gladiator"] = 5.67,
+					["Shattered Hand Centurion"] = 2.09,
+				},
+			},
 			["Ilkkan"] = {
 				["last"] = 12912.979,
 				["role"] = "DAMAGER",
@@ -6102,318 +6414,6 @@ SkadaStorageDB = {
 				["class"] = "MONSTER",
 				["damaged"] = 126514,
 				["enemy"] = true,
-			},
-			["Mayiswallow"] = {
-				["last"] = 12920.741,
-				["damagedspells"] = {
-					["6603.1"] = {
-						["total"] = 6987,
-						["n_max"] = 748,
-						["n_min"] = 128,
-						["count"] = 17,
-						["n_amt"] = 4246,
-						["sources"] = {
-							["Shattered Hand Gladiator"] = {
-								["amount"] = 3566,
-								["total"] = 5565,
-							},
-							["Shattered Hand Centurion"] = {
-								["amount"] = 680,
-								["total"] = 1422,
-							},
-						},
-						["mis_n"] = 1,
-						["amount"] = 4246,
-						["dod_n"] = 4,
-						["abs_n"] = 3,
-						["n_num"] = 7,
-						["par_n"] = 2,
-					},
-					["16856.1"] = {
-						["sources"] = {
-							["Shattered Hand Gladiator"] = {
-								["amount"] = 1444,
-							},
-						},
-						["count"] = 1,
-						["amount"] = 1444,
-						["n_amt"] = 1444,
-						["n_max"] = 1444,
-						["n_num"] = 1,
-						["n_min"] = 1444,
-					},
-				},
-				["class"] = "PALADIN",
-				["damaged"] = 5690,
-				["auras"] = {
-					["71905.1"] = {
-						["u"] = 4,
-						["n"] = 1,
-						["r"] = 2,
-					},
-					["73422.1"] = {
-						["u"] = 4,
-						["n"] = 1,
-					},
-					["59620.2"] = {
-						["u"] = 9,
-						["n"] = 1,
-					},
-					["53601.2"] = {
-						["u"] = 9,
-						["n"] = 1,
-					},
-					["59578.1"] = {
-						["u"] = 9,
-						["n"] = 1,
-						["r"] = 5,
-					},
-					["-61840.2"] = {
-						["u"] = 5,
-						["t"] = {
-							["Shattered Hand Gladiator"] = {
-								["u"] = 5,
-								["n"] = 4,
-							},
-							["Shattered Hand Centurion"] = {
-								["u"] = 2,
-								["n"] = 1,
-								["r"] = 1,
-							},
-						},
-						["n"] = 5,
-						["r"] = 1,
-					},
-					["25898.2"] = {
-						["u"] = 9,
-						["n"] = 1,
-					},
-					["20053.1"] = {
-						["u"] = 9,
-						["n"] = 1,
-						["r"] = 8,
-					},
-					["58597.2"] = {
-						["u"] = 5,
-						["n"] = 2,
-					},
-					["31884.2"] = {
-						["u"] = 9,
-						["n"] = 1,
-					},
-					["71432.1"] = {
-						["u"] = 9,
-						["n"] = 3,
-						["r"] = 5,
-					},
-					["20375.2"] = {
-						["u"] = 9,
-						["n"] = 1,
-					},
-					["-57669.8"] = {
-						["u"] = 9,
-					},
-					["54043.2"] = {
-						["u"] = 9,
-						["n"] = 1,
-					},
-					["25780.2"] = {
-						["u"] = 9,
-						["n"] = 1,
-					},
-				},
-				["absorbspells"] = {
-					["58597.2"] = {
-						["n_amt"] = 2741,
-						["count"] = 4,
-						["amount"] = 2741,
-						["n_num"] = 4,
-						["n_max"] = 742,
-						["targets"] = {
-							["Mayiswallow"] = 2741,
-						},
-						["n_min"] = 569,
-					},
-				},
-				["role"] = "DAMAGER",
-				["time"] = 7.760000000000002,
-				["damage"] = 148443,
-				["overheal"] = 1811,
-				["absorb"] = 2741,
-				["id"] = "0x0700000000000D41",
-				["spec"] = 70,
-				["healspells"] = {
-					["-54172.2"] = {
-						["n_amt"] = 9052,
-						["n_num"] = 2,
-						["count"] = 2,
-						["amount"] = 9052,
-						["o_amt"] = 1811,
-						["n_max"] = 6932,
-						["targets"] = {
-							["Mayiswallow"] = {
-								["o_amt"] = 1811,
-								["amount"] = 9052,
-							},
-						},
-						["n_min"] = 2120,
-					},
-				},
-				["overkill"] = 25306,
-				["heal"] = 9052,
-				["manaspells"] = {
-					["-57669.8"] = 108,
-					["31930.2"] = 1098,
-				},
-				["mana"] = 1206,
-				["damagespells"] = {
-					["6603.1"] = {
-						["c_amt"] = 8979,
-						["c_max"] = 8979,
-						["c_num"] = 1,
-						["n_max"] = 4264,
-						["targets"] = {
-							["Shattered Hand Gladiator"] = {
-								["o_amt"] = 5147,
-								["amount"] = 13243,
-							},
-							["Shattered Hand Centurion"] = {
-								["amount"] = 4020,
-							},
-						},
-						["n_min"] = 4020,
-						["c_min"] = 8979,
-						["amount"] = 17263,
-						["o_amt"] = 5147,
-						["n_amt"] = 8284,
-						["n_num"] = 2,
-						["count"] = 3,
-					},
-					["20467.2"] = {
-						["c_amt"] = 6285,
-						["c_num"] = 1,
-						["c_max"] = 6285,
-						["amount"] = 6285,
-						["o_amt"] = 849,
-						["c_min"] = 6285,
-						["targets"] = {
-							["Shattered Hand Centurion"] = {
-								["o_amt"] = 849,
-								["amount"] = 6285,
-							},
-						},
-						["count"] = 1,
-					},
-					["20424.2"] = {
-						["c_amt"] = 17173,
-						["c_max"] = 4674,
-						["c_num"] = 4,
-						["n_max"] = 2165,
-						["targets"] = {
-							["Shattered Hand Gladiator"] = {
-								["amount"] = 25313,
-							},
-						},
-						["count"] = 8,
-						["amount"] = 25313,
-						["n_min"] = 1960,
-						["n_amt"] = 8140,
-						["n_num"] = 4,
-						["c_min"] = 3955,
-					},
-					["54043.2"] = {
-						["n_amt"] = 2564,
-						["count"] = 7,
-						["amount"] = 2564,
-						["n_num"] = 7,
-						["n_max"] = 378,
-						["targets"] = {
-							["Shattered Hand Gladiator"] = {
-								["amount"] = 2254,
-							},
-							["Shattered Hand Centurion"] = {
-								["amount"] = 310,
-							},
-						},
-						["n_min"] = 310,
-					},
-					["35395.1"] = {
-						["c_amt"] = 13749,
-						["c_num"] = 2,
-						["c_max"] = 7090,
-						["amount"] = 13749,
-						["o_amt"] = 4307,
-						["c_min"] = 6659,
-						["targets"] = {
-							["Shattered Hand Gladiator"] = {
-								["o_amt"] = 4307,
-								["amount"] = 13749,
-							},
-						},
-						["count"] = 2,
-					},
-					["69403.2"] = {
-						["c_amt"] = 12185,
-						["c_max"] = 4276,
-						["c_num"] = 3,
-						["n_max"] = 2004,
-						["targets"] = {
-							["Shattered Hand Gladiator"] = {
-								["amount"] = 16142,
-							},
-							["Shattered Hand Centurion"] = {
-								["amount"] = 1917,
-							},
-						},
-						["count"] = 6,
-						["amount"] = 18059,
-						["n_min"] = 1917,
-						["n_amt"] = 5874,
-						["n_num"] = 3,
-						["c_min"] = 3901,
-					},
-					["-61840.2"] = {
-						["n_amt"] = 2992,
-						["count"] = 4,
-						["amount"] = 2992,
-						["n_num"] = 4,
-						["n_max"] = 757,
-						["targets"] = {
-							["Shattered Hand Gladiator"] = {
-								["amount"] = 2992,
-							},
-						},
-						["n_min"] = 739,
-					},
-					["53385.1"] = {
-						["c_amt"] = 48922,
-						["b_amt"] = 35,
-						["c_max"] = 10143,
-						["c_num"] = 5,
-						["n_max"] = 4711,
-						["targets"] = {
-							["Shattered Hand Gladiator"] = {
-								["o_amt"] = 15003,
-								["amount"] = 52821,
-							},
-							["Shattered Hand Centurion"] = {
-								["amount"] = 9397,
-							},
-						},
-						["count"] = 8,
-						["c_min"] = 9397,
-						["amount"] = 62218,
-						["o_amt"] = 15003,
-						["n_min"] = 4232,
-						["n_num"] = 3,
-						["n_amt"] = 13296,
-					},
-				},
-				["totaldamaged"] = 8431,
-				["timespent"] = {
-					["Shattered Hand Gladiator"] = 5.67,
-					["Shattered Hand Centurion"] = 2.09,
-				},
 			},
 			["Shattered Hand Centurion"] = {
 				["damagespells"] = {
@@ -6878,10 +6878,10 @@ SkadaStorageDB = {
 						},
 						["count"] = 2,
 						["amount"] = 151,
-						["abs_n"] = 1,
 						["n_amt"] = 151,
-						["n_num"] = 1,
 						["n_min"] = 151,
+						["n_num"] = 1,
+						["abs_n"] = 1,
 					},
 					["15496.1"] = {
 						["total"] = 617,
@@ -6934,10 +6934,10 @@ SkadaStorageDB = {
 						},
 						["count"] = 1,
 						["amount"] = 63,
-						["n_amt"] = 63,
 						["n_max"] = 63,
-						["n_num"] = 1,
 						["n_min"] = 63,
+						["n_num"] = 1,
+						["n_amt"] = 63,
 					},
 					["30478.1"] = {
 						["sources"] = {
@@ -6947,17 +6947,17 @@ SkadaStorageDB = {
 						},
 						["count"] = 1,
 						["amount"] = 271,
-						["n_amt"] = 271,
 						["n_max"] = 271,
-						["n_num"] = 1,
 						["n_min"] = 271,
+						["n_num"] = 1,
+						["n_amt"] = 271,
 					},
 					["6603.1"] = {
 						["total"] = 10787,
 						["dod_n"] = 3,
-						["n_amt"] = 7634,
+						["abs_n"] = 6,
 						["blo_n"] = 1,
-						["n_min"] = 208,
+						["n_amt"] = 7634,
 						["count"] = 36,
 						["mis_n"] = 8,
 						["sources"] = {
@@ -6987,7 +6987,7 @@ SkadaStorageDB = {
 						["par_n"] = 2,
 						["amount"] = 7634,
 						["n_max"] = 749,
-						["abs_n"] = 6,
+						["n_min"] = 208,
 						["n_num"] = 16,
 						["b_amt"] = 622,
 					},
@@ -7019,10 +7019,10 @@ SkadaStorageDB = {
 						},
 						["count"] = 1,
 						["amount"] = 669,
-						["n_amt"] = 669,
 						["n_max"] = 669,
-						["n_num"] = 1,
 						["n_min"] = 669,
+						["n_num"] = 1,
+						["n_amt"] = 669,
 					},
 				},
 				["mana"] = 2625,
@@ -7173,15 +7173,15 @@ SkadaStorageDB = {
 				},
 				["absorbspells"] = {
 					["58597.2"] = {
-						["n_amt"] = 4651,
+						["n_max"] = 1265,
 						["count"] = 10,
 						["amount"] = 4651,
 						["n_num"] = 10,
-						["n_max"] = 1265,
+						["n_min"] = 41,
 						["targets"] = {
 							["Mayiswallow"] = 4651,
 						},
-						["n_min"] = 41,
+						["n_amt"] = 4651,
 					},
 				},
 				["role"] = "DAMAGER",
@@ -7205,12 +7205,12 @@ SkadaStorageDB = {
 						["c_max"] = 6087,
 					},
 					["-48819.2"] = {
-						["n_amt"] = 15605,
+						["n_max"] = 715,
 						["n_num"] = 22,
 						["count"] = 22,
 						["amount"] = 15605,
 						["o_amt"] = 1086,
-						["n_max"] = 715,
+						["n_min"] = 705,
 						["targets"] = {
 							["Shattered Hand Savage"] = {
 								["amount"] = 2835,
@@ -7234,7 +7234,7 @@ SkadaStorageDB = {
 								["amount"] = 3550,
 							},
 						},
-						["n_min"] = 705,
+						["n_amt"] = 15605,
 					},
 					["35395.1"] = {
 						["c_amt"] = 19160,
@@ -7243,25 +7243,25 @@ SkadaStorageDB = {
 						["c_num"] = 3,
 						["c_min"] = 5790,
 						["targets"] = {
-							["Shattered Hand Legionnaire"] = {
-								["amount"] = 5790,
-							},
 							["Shattered Hand Heathen"] = {
 								["amount"] = 6882,
 							},
 							["Shattered Hand Savage"] = {
 								["amount"] = 6488,
 							},
+							["Shattered Hand Legionnaire"] = {
+								["amount"] = 5790,
+							},
 						},
 						["c_max"] = 6882,
 					},
 					["-61840.2"] = {
-						["n_amt"] = 5204,
+						["n_max"] = 824,
 						["n_num"] = 9,
 						["count"] = 9,
 						["amount"] = 5204,
 						["o_amt"] = 769,
-						["n_max"] = 824,
+						["n_min"] = 428,
 						["targets"] = {
 							["Shattered Hand Reaver"] = {
 								["amount"] = 700,
@@ -7280,14 +7280,14 @@ SkadaStorageDB = {
 								["amount"] = 1388,
 							},
 						},
-						["n_min"] = 428,
+						["n_amt"] = 5204,
 					},
 					["71904.32"] = {
-						["n_amt"] = 1456,
+						["n_max"] = 504,
 						["count"] = 3,
 						["amount"] = 1456,
 						["n_num"] = 3,
-						["n_max"] = 504,
+						["n_min"] = 463,
 						["targets"] = {
 							["Fel Orc Convert"] = {
 								["amount"] = 463,
@@ -7299,7 +7299,7 @@ SkadaStorageDB = {
 								["amount"] = 489,
 							},
 						},
-						["n_min"] = 463,
+						["n_amt"] = 1456,
 					},
 					["71433.1"] = {
 						["c_amt"] = 3852,
@@ -7417,11 +7417,11 @@ SkadaStorageDB = {
 						["count"] = 3,
 					},
 					["54043.2"] = {
-						["n_amt"] = 5128,
+						["n_max"] = 329,
 						["count"] = 16,
 						["amount"] = 5128,
 						["n_num"] = 16,
-						["n_max"] = 329,
+						["n_min"] = 304,
 						["targets"] = {
 							["Shattered Hand Reaver"] = {
 								["amount"] = 634,
@@ -7442,7 +7442,7 @@ SkadaStorageDB = {
 								["amount"] = 635,
 							},
 						},
-						["n_min"] = 304,
+						["n_amt"] = 5128,
 					},
 					["53385.1"] = {
 						["c_amt"] = 33540,
@@ -7471,30 +7471,30 @@ SkadaStorageDB = {
 				["spec"] = 70,
 				["healspells"] = {
 					["-54172.2"] = {
-						["n_amt"] = 1825,
+						["n_max"] = 1825,
 						["count"] = 1,
 						["amount"] = 1825,
 						["n_num"] = 1,
-						["n_max"] = 1825,
+						["n_min"] = 1825,
 						["targets"] = {
 							["Mayiswallow"] = {
 								["amount"] = 1825,
 							},
 						},
-						["n_min"] = 1825,
+						["n_amt"] = 1825,
 					},
 					["48785.2"] = {
-						["n_amt"] = 2869,
+						["n_max"] = 2869,
 						["count"] = 1,
 						["amount"] = 2869,
 						["n_num"] = 1,
-						["n_max"] = 2869,
+						["n_min"] = 2869,
 						["targets"] = {
 							["Mayiswallow"] = {
 								["amount"] = 2869,
 							},
 						},
-						["n_min"] = 2869,
+						["n_amt"] = 2869,
 					},
 				},
 				["overkill"] = 22913,
@@ -7626,6 +7626,14 @@ SkadaStorageDB = {
 				["enemy"] = true,
 				["id"] = "0xF1300042BB000109",
 				["damagedspells"] = {
+					["54043.2"] = {
+						["amount"] = 653,
+						["sources"] = {
+							["Mayiswallow"] = {
+								["amount"] = 653,
+							},
+						},
+					},
 					["-48819.2"] = {
 						["amount"] = 2845,
 						["sources"] = {
@@ -7643,14 +7651,6 @@ SkadaStorageDB = {
 							},
 						},
 						["amount"] = 7464,
-					},
-					["54043.2"] = {
-						["amount"] = 653,
-						["sources"] = {
-							["Mayiswallow"] = {
-								["amount"] = 653,
-							},
-						},
 					},
 					["71904.32"] = {
 						["amount"] = 463,
@@ -8129,10 +8129,10 @@ SkadaStorageDB = {
 						},
 						["count"] = 3,
 						["amount"] = 638,
-						["n_amt"] = 638,
 						["n_min"] = 319,
-						["n_num"] = 2,
 						["abs_n"] = 1,
+						["n_num"] = 2,
+						["n_amt"] = 638,
 					},
 					["-30639.1"] = {
 						["total"] = 576,
@@ -8145,15 +8145,73 @@ SkadaStorageDB = {
 						},
 						["count"] = 3,
 						["amount"] = 192,
-						["n_amt"] = 192,
 						["n_min"] = 192,
-						["n_num"] = 1,
 						["abs_n"] = 2,
+						["n_num"] = 1,
+						["n_amt"] = 192,
 					},
 					["15496.1"] = {
 						["count"] = 1,
 						["sources"] = {
 							["Shattered Hand Reaver"] = {
+								["amount"] = 0,
+							},
+						},
+						["par_n"] = 1,
+						["amount"] = 0,
+					},
+					["30471.1"] = {
+						["total"] = 566,
+						["count"] = 1,
+						["amount"] = 0,
+						["abs_n"] = 1,
+						["sources"] = {
+							["Shattered Hand Reaver"] = {
+								["amount"] = 0,
+								["total"] = 566,
+							},
+						},
+					},
+					["6603.1"] = {
+						["total"] = 8089,
+						["dod_n"] = 7,
+						["count"] = 31,
+						["par_n"] = 1,
+						["abs_n"] = 7,
+						["sources"] = {
+							["Shattered Hand Reaver"] = {
+								["amount"] = 0,
+							},
+							["Shattered Hand Savage"] = {
+								["amount"] = 3545,
+								["total"] = 4662,
+							},
+							["Shattered Hand Houndmaster"] = {
+								["amount"] = 540,
+								["total"] = 1735,
+							},
+							["Rabid Warhound"] = {
+								["amount"] = 220,
+								["total"] = 714,
+							},
+							["Shattered Hand Heathen"] = {
+								["amount"] = 978,
+							},
+							["Shattered Hand Legionnaire"] = {
+								["amount"] = 0,
+							},
+						},
+						["mis_n"] = 3,
+						["amount"] = 5283,
+						["n_amt"] = 5283,
+						["n_min"] = 79,
+						["n_num"] = 13,
+						["n_max"] = 635,
+					},
+					["30639.1"] = {
+						["count"] = 1,
+						["sources"] = {
+							["Rabid Warhound"] = {
 								["amount"] = 0,
 							},
 						},
@@ -8175,64 +8233,6 @@ SkadaStorageDB = {
 						["n_min"] = 144,
 						["n_num"] = 1,
 						["n_amt"] = 144,
-					},
-					["6603.1"] = {
-						["total"] = 8089,
-						["dod_n"] = 7,
-						["count"] = 31,
-						["par_n"] = 1,
-						["abs_n"] = 7,
-						["sources"] = {
-							["Shattered Hand Reaver"] = {
-								["amount"] = 0,
-							},
-							["Shattered Hand Savage"] = {
-								["amount"] = 3545,
-								["total"] = 4662,
-							},
-							["Shattered Hand Houndmaster"] = {
-								["amount"] = 540,
-								["total"] = 1735,
-							},
-							["Shattered Hand Legionnaire"] = {
-								["amount"] = 0,
-							},
-							["Rabid Warhound"] = {
-								["amount"] = 220,
-								["total"] = 714,
-							},
-							["Shattered Hand Heathen"] = {
-								["amount"] = 978,
-							},
-						},
-						["mis_n"] = 3,
-						["amount"] = 5283,
-						["n_amt"] = 5283,
-						["n_min"] = 79,
-						["n_num"] = 13,
-						["n_max"] = 635,
-					},
-					["30471.1"] = {
-						["total"] = 566,
-						["count"] = 1,
-						["amount"] = 0,
-						["abs_n"] = 1,
-						["sources"] = {
-							["Shattered Hand Reaver"] = {
-								["amount"] = 0,
-								["total"] = 566,
-							},
-						},
-					},
-					["30639.1"] = {
-						["count"] = 1,
-						["sources"] = {
-							["Rabid Warhound"] = {
-								["amount"] = 0,
-							},
-						},
-						["par_n"] = 1,
-						["amount"] = 0,
 					},
 					["15587.32"] = {
 						["n_max"] = 783,
@@ -8379,15 +8379,15 @@ SkadaStorageDB = {
 				},
 				["absorbspells"] = {
 					["58597.2"] = {
-						["n_amt"] = 4429,
+						["n_max"] = 616,
 						["count"] = 13,
 						["amount"] = 4429,
 						["n_num"] = 13,
-						["n_max"] = 616,
+						["n_min"] = 66,
 						["targets"] = {
 							["Mayiswallow"] = 4429,
 						},
-						["n_min"] = 66,
+						["n_amt"] = 4429,
 					},
 				},
 				["role"] = "DAMAGER",
@@ -8448,12 +8448,12 @@ SkadaStorageDB = {
 						["count"] = 2,
 					},
 					["-61840.2"] = {
-						["n_amt"] = 5821,
+						["n_max"] = 824,
 						["n_num"] = 9,
 						["count"] = 9,
 						["amount"] = 5821,
 						["o_amt"] = 2969,
-						["n_max"] = 824,
+						["n_min"] = 376,
 						["targets"] = {
 							["Hellfire Training Dummy"] = {
 								["o_amt"] = 2307,
@@ -8471,15 +8471,15 @@ SkadaStorageDB = {
 								["amount"] = 661,
 							},
 						},
-						["n_min"] = 376,
+						["n_amt"] = 5821,
 					},
 					["71904.32"] = {
-						["n_amt"] = 2167,
+						["n_max"] = 1099,
 						["n_num"] = 2,
 						["count"] = 2,
 						["amount"] = 2167,
 						["o_amt"] = 1228,
-						["n_max"] = 1099,
+						["n_min"] = 1068,
 						["targets"] = {
 							["Hellfire Training Dummy"] = {
 								["o_amt"] = 1013,
@@ -8490,7 +8490,7 @@ SkadaStorageDB = {
 								["amount"] = 1099,
 							},
 						},
-						["n_min"] = 1068,
+						["n_amt"] = 2167,
 					},
 					["71433.1"] = {
 						["c_amt"] = 3703,
@@ -8515,15 +8515,15 @@ SkadaStorageDB = {
 								["o_amt"] = 851,
 								["amount"] = 9659,
 							},
-							["Shattered Hand Legionnaire"] = {
-								["o_amt"] = 1006,
-								["amount"] = 8619,
+							["Rabid Warhound"] = {
+								["amount"] = 9332,
 							},
 							["Shattered Hand Savage"] = {
 								["amount"] = 10092,
 							},
-							["Shattered Hand Heathen"] = {
-								["amount"] = 3448,
+							["Shattered Hand Legionnaire"] = {
+								["o_amt"] = 1006,
+								["amount"] = 8619,
 							},
 							["Shattered Hand Houndmaster"] = {
 								["amount"] = 8065,
@@ -8531,8 +8531,8 @@ SkadaStorageDB = {
 							["Shadowmoon Acolyte"] = {
 								["amount"] = 5143,
 							},
-							["Rabid Warhound"] = {
-								["amount"] = 9332,
+							["Shattered Hand Heathen"] = {
+								["amount"] = 3448,
 							},
 							["Shadowmoon Darkcaster"] = {
 								["amount"] = 3460,
@@ -8552,17 +8552,17 @@ SkadaStorageDB = {
 						["c_num"] = 1,
 						["n_max"] = 3493,
 						["targets"] = {
-							["Shattered Hand Legionnaire"] = {
-								["amount"] = 6884,
+							["Rabid Warhound"] = {
+								["amount"] = 3087,
 							},
 							["Shadowmoon Acolyte"] = {
 								["amount"] = 6528,
 							},
-							["Rabid Warhound"] = {
-								["amount"] = 3087,
-							},
 							["Shattered Hand Heathen"] = {
 								["amount"] = 3137,
+							},
+							["Shattered Hand Legionnaire"] = {
+								["amount"] = 6884,
 							},
 						},
 						["count"] = 5,
@@ -8605,18 +8605,15 @@ SkadaStorageDB = {
 						["n_amt"] = 1658,
 					},
 					["54043.2"] = {
-						["n_amt"] = 3815,
+						["n_max"] = 300,
 						["n_num"] = 13,
 						["count"] = 13,
 						["amount"] = 3815,
 						["o_amt"] = 44,
-						["n_max"] = 300,
+						["n_min"] = 287,
 						["targets"] = {
 							["Shattered Hand Houndmaster"] = {
 								["amount"] = 297,
-							},
-							["Rabid Warhound"] = {
-								["amount"] = 576,
 							},
 							["Shattered Hand Savage"] = {
 								["o_amt"] = 44,
@@ -8625,8 +8622,11 @@ SkadaStorageDB = {
 							["Shattered Hand Heathen"] = {
 								["amount"] = 596,
 							},
+							["Rabid Warhound"] = {
+								["amount"] = 576,
+							},
 						},
-						["n_min"] = 287,
+						["n_amt"] = 3815,
 					},
 					["53385.1"] = {
 						["c_amt"] = 67012,
@@ -8669,17 +8669,17 @@ SkadaStorageDB = {
 				["spec"] = 70,
 				["healspells"] = {
 					["-54172.2"] = {
-						["n_amt"] = 9958,
+						["n_max"] = 7136,
 						["count"] = 2,
 						["amount"] = 9958,
 						["n_num"] = 2,
-						["n_max"] = 7136,
+						["n_min"] = 2822,
 						["targets"] = {
 							["Mayiswallow"] = {
 								["amount"] = 9958,
 							},
 						},
-						["n_min"] = 2822,
+						["n_amt"] = 9958,
 					},
 				},
 				["overkill"] = 34043,
@@ -8957,6 +8957,19 @@ SkadaStorageDB = {
 		["totaldamaged"] = 8675,
 		["edamage"] = 4423,
 		["actors"] = {
+			["Ilkkan"] = {
+				["role"] = "DAMAGER",
+				["last"] = 12863.464,
+				["id"] = "0x0700000000AA9991",
+				["spec"] = 252,
+				["class"] = "DEATHKNIGHT",
+				["auras"] = {
+					["48266.1"] = {
+						["u"] = 10,
+						["n"] = 1,
+					},
+				},
+			},
 			["Mayiswallow"] = {
 				["last"] = 12872.41,
 				["damagedspells"] = {
@@ -8964,7 +8977,7 @@ SkadaStorageDB = {
 						["total"] = 6357,
 						["dod_n"] = 3,
 						["n_max"] = 611,
-						["abs_n"] = 4,
+						["n_amt"] = 3211,
 						["sources"] = {
 							["Shattered Hand Gladiator"] = {
 								["amount"] = 3211,
@@ -8973,8 +8986,8 @@ SkadaStorageDB = {
 						},
 						["mis_n"] = 1,
 						["amount"] = 3211,
+						["abs_n"] = 4,
 						["n_min"] = 141,
-						["n_amt"] = 3211,
 						["n_num"] = 7,
 						["count"] = 15,
 					},
@@ -9089,15 +9102,15 @@ SkadaStorageDB = {
 				},
 				["absorbspells"] = {
 					["58597.2"] = {
-						["n_amt"] = 4252,
+						["n_max"] = 1106,
 						["count"] = 7,
 						["amount"] = 4252,
 						["n_num"] = 7,
-						["n_max"] = 1106,
+						["n_min"] = 410,
 						["targets"] = {
 							["Mayiswallow"] = 4252,
 						},
-						["n_min"] = 410,
+						["n_amt"] = 4252,
 					},
 				},
 				["role"] = "DAMAGER",
@@ -9131,32 +9144,32 @@ SkadaStorageDB = {
 						["c_max"] = 5650,
 					},
 					["-61840.2"] = {
-						["n_amt"] = 735,
+						["n_max"] = 368,
 						["count"] = 2,
 						["amount"] = 735,
 						["n_num"] = 2,
-						["n_max"] = 368,
+						["n_min"] = 367,
 						["targets"] = {
 							["Shattered Hand Gladiator"] = {
 								["amount"] = 735,
 							},
 						},
-						["n_min"] = 367,
+						["n_amt"] = 735,
 					},
 					["71904.32"] = {
-						["n_amt"] = 2241,
+						["n_max"] = 587,
 						["n_num"] = 4,
 						["count"] = 4,
 						["amount"] = 2241,
 						["o_amt"] = 447,
-						["n_max"] = 587,
+						["n_min"] = 545,
 						["targets"] = {
 							["Shattered Hand Gladiator"] = {
 								["o_amt"] = 447,
 								["amount"] = 2241,
 							},
 						},
-						["n_min"] = 545,
+						["n_amt"] = 2241,
 					},
 					["20424.2"] = {
 						["c_amt"] = 26907,
@@ -9227,17 +9240,17 @@ SkadaStorageDB = {
 						["count"] = 4,
 					},
 					["54043.2"] = {
-						["n_amt"] = 2060,
+						["n_max"] = 295,
 						["count"] = 7,
 						["amount"] = 2060,
 						["n_num"] = 7,
-						["n_max"] = 295,
+						["n_min"] = 292,
 						["targets"] = {
 							["Shattered Hand Gladiator"] = {
 								["amount"] = 2060,
 							},
 						},
-						["n_min"] = 292,
+						["n_amt"] = 2060,
 					},
 					["53385.1"] = {
 						["c_amt"] = 32558,
@@ -9267,17 +9280,17 @@ SkadaStorageDB = {
 				["spec"] = 70,
 				["healspells"] = {
 					["-54172.2"] = {
-						["n_amt"] = 5422,
+						["n_max"] = 3210,
 						["count"] = 2,
 						["amount"] = 5422,
 						["n_num"] = 2,
-						["n_max"] = 3210,
+						["n_min"] = 2212,
 						["targets"] = {
 							["Mayiswallow"] = {
 								["amount"] = 5422,
 							},
 						},
-						["n_min"] = 2212,
+						["n_amt"] = 5422,
 					},
 				},
 				["overkill"] = 6935,
@@ -9407,19 +9420,6 @@ SkadaStorageDB = {
 				["class"] = "MONSTER",
 				["damaged"] = 106827,
 				["enemy"] = true,
-			},
-			["Ilkkan"] = {
-				["role"] = "DAMAGER",
-				["last"] = 12863.464,
-				["id"] = "0x0700000000AA9991",
-				["spec"] = 252,
-				["class"] = "DEATHKNIGHT",
-				["auras"] = {
-					["48266.1"] = {
-						["u"] = 10,
-						["n"] = 1,
-					},
-				},
 			},
 			["Shattered Hand Centurion"] = {
 				["id"] = "0xF1300044390000A1",

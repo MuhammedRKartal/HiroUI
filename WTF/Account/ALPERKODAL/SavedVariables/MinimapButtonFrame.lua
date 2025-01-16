@@ -2,6 +2,7 @@
 MBFDB = {
 	["profileKeys"] = {
 		["Mayiascend - Icecrown"] = "Main",
+		["Daemonarc - Icecrown"] = "Default",
 		["Canavi - Icecrown"] = "Default",
 		["Cezzarged - Icecrown"] = "Default",
 		["Mayistab - Icecrown"] = "Default",
@@ -13,6 +14,8 @@ MBFDB = {
 		["Aegwyn - Icecrown"] = "Default",
 		["Gelkucama - Icecrown"] = "Default",
 		["Plaacebo - Icecrown"] = "Default",
+		["Kilibiksa - Icecrown"] = "Default",
+		["Garaambar - Icecrown"] = "Default",
 		["Zoolock - Icecrown"] = "Default",
 		["Suleymanpro - Icecrown"] = "Default",
 		["Kirikox - Icecrown"] = "Default",

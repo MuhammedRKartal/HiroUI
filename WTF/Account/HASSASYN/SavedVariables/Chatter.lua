@@ -419,9 +419,9 @@ ChatterDB = {
 							["b"] = 0.03921568859368563,
 						},
 						["CHANNEL5"] = {
-							["r"] = 1.000000059138984,
-							["g"] = 0.752941220998764,
-							["b"] = 0.752941220998764,
+							["r"] = 0.8980392687954009,
+							["g"] = 0.8980392687954009,
+							["b"] = 0.8980392687954009,
 						},
 						["MONSTER_SAY"] = {
 							["r"] = 1.000000059138984,
@@ -623,10 +623,10 @@ ChatterDB = {
 							["g"] = 0.8666667179204524,
 							["b"] = 0,
 						},
-						["RAID_LEADER"] = {
+						["AFK"] = {
 							["r"] = 1.000000059138984,
-							["g"] = 0.2823529578745365,
-							["b"] = 0.03529411973431706,
+							["g"] = 0.501960813999176,
+							["b"] = 1.000000059138984,
 						},
 						["Party Leader"] = {
 							["r"] = 0.4627451254054904,
@@ -643,10 +643,10 @@ ChatterDB = {
 							["g"] = 0.752941220998764,
 							["r"] = 1.000000059138984,
 						},
-						["AFK"] = {
+						["RAID_LEADER"] = {
 							["r"] = 1.000000059138984,
-							["g"] = 0.501960813999176,
-							["b"] = 1.000000059138984,
+							["g"] = 0.2823529578745365,
+							["b"] = 0.03529411973431706,
 						},
 						["RESTRICTED"] = {
 							["r"] = 1.000000059138984,
@@ -831,12 +831,7 @@ ChatterDB = {
 							["inset"] = 1,
 						},
 						["FRAME_9"] = {
-							["backgroundColor"] = {
-								["a"] = 0.9200000017881393,
-								["r"] = 0.1411764705882353,
-								["g"] = 0.1411764705882353,
-								["b"] = 0.1411764705882353,
-							},
+							["border"] = "None",
 							["edgeSize"] = 1,
 							["borderColor"] = {
 								["a"] = 0.9200000017881393,
@@ -845,128 +840,133 @@ ChatterDB = {
 								["b"] = 0.1411764705882353,
 							},
 							["background"] = "Solid",
-							["border"] = "None",
 							["inset"] = 1,
+							["backgroundColor"] = {
+								["a"] = 0.9200000017881393,
+								["r"] = 0.1411764705882353,
+								["g"] = 0.1411764705882353,
+								["b"] = 0.1411764705882353,
+							},
 						},
 						["FRAME_6"] = {
-							["border"] = "None",
-							["edgeSize"] = 1,
-							["borderColor"] = {
-								["a"] = 0,
-							},
-							["background"] = "Solid",
 							["backgroundColor"] = {
 								["a"] = 0.9200000017881393,
 								["r"] = 0.1411764705882353,
 								["g"] = 0.1411764705882353,
 								["b"] = 0.1411764705882353,
 							},
+							["edgeSize"] = 1,
+							["borderColor"] = {
+								["a"] = 0,
+							},
+							["background"] = "Solid",
 							["inset"] = 1,
+							["border"] = "None",
 						},
 						["FRAME_5"] = {
+							["border"] = "None",
+							["edgeSize"] = 1,
+							["borderColor"] = {
+								["a"] = 0,
+							},
+							["background"] = "Solid",
+							["inset"] = 1,
 							["backgroundColor"] = {
 								["a"] = 0.9200000017881393,
 								["r"] = 0.1411764705882353,
 								["g"] = 0.1411764705882353,
 								["b"] = 0.1411764705882353,
 							},
-							["edgeSize"] = 1,
-							["borderColor"] = {
-								["a"] = 0,
-							},
-							["background"] = "Solid",
-							["border"] = "None",
-							["inset"] = 1,
 						},
 						["FRAME_8"] = {
+							["border"] = "None",
+							["edgeSize"] = 1,
+							["borderColor"] = {
+								["a"] = 0,
+							},
+							["background"] = "Solid",
+							["inset"] = 1,
 							["backgroundColor"] = {
 								["a"] = 0.9200000017881393,
 								["r"] = 0.1411764705882353,
 								["g"] = 0.1411764705882353,
 								["b"] = 0.1411764705882353,
 							},
-							["edgeSize"] = 1,
-							["borderColor"] = {
-								["a"] = 0,
-							},
-							["background"] = "Solid",
-							["border"] = "None",
-							["inset"] = 1,
 						},
 						["FRAME_7"] = {
+							["border"] = "None",
+							["edgeSize"] = 1,
+							["borderColor"] = {
+								["a"] = 0,
+							},
+							["background"] = "Solid",
+							["inset"] = 1,
 							["backgroundColor"] = {
 								["a"] = 0.9200000017881393,
 								["r"] = 0.1411764705882353,
 								["g"] = 0.1411764705882353,
 								["b"] = 0.1411764705882353,
 							},
-							["edgeSize"] = 1,
-							["borderColor"] = {
-								["a"] = 0,
-							},
-							["background"] = "Solid",
-							["border"] = "None",
-							["inset"] = 1,
 						},
 						["FRAME_3"] = {
+							["border"] = "None",
+							["edgeSize"] = 1,
+							["borderColor"] = {
+								["a"] = 0,
+							},
+							["background"] = "Solid",
+							["inset"] = 1,
 							["backgroundColor"] = {
 								["a"] = 0.9200000017881393,
 								["r"] = 0.1411764705882353,
 								["g"] = 0.1411764705882353,
 								["b"] = 0.1411764705882353,
 							},
-							["edgeSize"] = 1,
-							["borderColor"] = {
-								["a"] = 0,
-							},
-							["background"] = "Solid",
-							["border"] = "None",
-							["inset"] = 1,
 						},
 						["FRAME_4"] = {
+							["border"] = "None",
+							["edgeSize"] = 1,
+							["borderColor"] = {
+								["a"] = 0,
+							},
+							["background"] = "Solid",
+							["inset"] = 1,
 							["backgroundColor"] = {
 								["a"] = 0.9200000017881393,
 								["r"] = 0.1411764705882353,
 								["g"] = 0.1411764705882353,
 								["b"] = 0.1411764705882353,
 							},
-							["edgeSize"] = 1,
-							["borderColor"] = {
-								["a"] = 0,
-							},
-							["background"] = "Solid",
-							["border"] = "None",
-							["inset"] = 1,
 						},
 						["FRAME_10"] = {
+							["border"] = "None",
+							["edgeSize"] = 1,
+							["borderColor"] = {
+								["a"] = 0,
+							},
+							["background"] = "Solid",
+							["inset"] = 1,
 							["backgroundColor"] = {
 								["a"] = 0.9200000017881393,
 								["r"] = 0.1411764705882353,
 								["g"] = 0.1411764705882353,
 								["b"] = 0.1411764705882353,
 							},
-							["edgeSize"] = 1,
-							["borderColor"] = {
-								["a"] = 0,
-							},
-							["background"] = "Solid",
-							["border"] = "None",
-							["inset"] = 1,
 						},
 						["FRAME_2"] = {
+							["border"] = "None",
+							["edgeSize"] = 1,
+							["borderColor"] = {
+								["a"] = 0,
+							},
+							["background"] = "Solid",
+							["inset"] = 1,
 							["backgroundColor"] = {
 								["a"] = 0.9200000017881393,
 								["r"] = 0.1411764705882353,
 								["g"] = 0.1411764705882353,
 								["b"] = 0.1411764705882353,
 							},
-							["edgeSize"] = 1,
-							["borderColor"] = {
-								["a"] = 0,
-							},
-							["background"] = "Solid",
-							["border"] = "None",
-							["inset"] = 1,
 						},
 					},
 				},
@@ -1000,9 +1000,9 @@ ChatterDB = {
 						{
 							["point"] = "BOTTOMLEFT",
 							["xOffset"] = 0,
-							["width"] = 360.8334670189886,
+							["width"] = 360.0001274738144,
 							["height"] = 119.9999841341604,
-							["yOffset"] = 0.1980662116290318,
+							["yOffset"] = 0.2001497939527093,
 						}, -- [3]
 						{
 							["point"] = "BOTTOMLEFT",
@@ -1210,6 +1210,7 @@ ChatterDB = {
 		["Enkz - Blackrock [PvP only]"] = "Default",
 		["Mayistab - Icecrown"] = "Default",
 		["Erindan - Icecrown"] = "Default",
+		["Spectia - Icecrown"] = "Default",
 		["Theedgar - Icecrown"] = "Default",
 		["Elynass - Icecrown"] = "Default",
 		["Mayicurse - Icecrown"] = "Default",
@@ -1218,8 +1219,8 @@ ChatterDB = {
 		["Makiio - Icecrown"] = "Default",
 		["Duhht - Blackrock [PvP only]"] = "Default",
 		["Ancaz - Icecrown"] = "Default",
-		["Fliktah - Icecrown"] = "Default",
 		["Plaacebo - Icecrown"] = "Default",
+		["Fliktah - Icecrown"] = "Default",
 		["Diamondtema - Icecrown"] = "Default",
 		["Cezzarged - Blackrock [PvP only]"] = "Default",
 		["Hirobank - Icecrown"] = "Default",

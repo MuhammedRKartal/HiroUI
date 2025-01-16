@@ -4,7 +4,7 @@ SkadaStorageDB = {
 		["actors"] = {
 		},
 		["starttime"] = 1718113555,
-		["name"] = "Total",
 		["time"] = 0,
+		["name"] = "Total",
 	},
 }

@@ -1,11 +1,5 @@
 
 KPackCharDB = {
-	["Automate"] = {
-		["groundmount"] = "",
-		["sets"] = {
-		},
-		["flyingmount"] = "",
-	},
 	["Postal"] = {
 		["BlackBook"] = {
 			["ExcludeRandoms"] = true,
@@ -15,15 +9,21 @@ KPackCharDB = {
 			},
 			["AutoCompleteAlts"] = true,
 			["AutoCompleteGuild"] = true,
-			["alts"] = {
-			},
+			["AutoCompleteFriends"] = true,
+			["AutoCompleteRecent"] = true,
 			["recent"] = {
 			},
-			["AutoCompleteRecent"] = true,
 			["AutoCompleteContacts"] = true,
 			["DisableBlizzardAutoComplete"] = false,
-			["AutoCompleteFriends"] = true,
+			["alts"] = {
+			},
 		},
+	},
+	["Automate"] = {
+		["groundmount"] = "",
+		["sets"] = {
+		},
+		["flyingmount"] = "",
 	},
 	["Tooltip"] = {
 		["spell"] = false,
@@ -32,17 +32,17 @@ KPackCharDB = {
 		["yOfs"] = -25,
 		["class"] = false,
 		["unit"] = false,
-		["petspell"] = false,
+		["scale"] = 1,
 		["xOfs"] = 0,
 		["enhance"] = true,
-		["scale"] = 1,
+		["petspell"] = false,
 	},
 	["LFR"] = {
 		["currentset"] = "active",
 		["raidsets"] = {
-			["Secondary"] = {
-			},
 			["Primary"] = {
+			},
+			["Secondary"] = {
 			},
 		},
 	},

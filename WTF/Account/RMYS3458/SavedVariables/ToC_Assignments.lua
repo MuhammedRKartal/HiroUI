@@ -3,10 +3,13 @@ ToC_AssignmentsDB = {
 	["profileKeys"] = {
 		["Aegwyn - Icecrown"] = "Aegwyn - Icecrown",
 		["Gelkucama - Icecrown"] = "Gelkucama - Icecrown",
+		["Zoolock - Icecrown"] = "Zoolock - Icecrown",
+		["Sourbang - Icecrown"] = "Sourbang - Icecrown",
 		["Canavi - Icecrown"] = "Canavi - Icecrown",
 		["Rupturer - Icecrown"] = "Rupturer - Icecrown",
 		["Minikserce - Icecrown"] = "Minikserce - Icecrown",
-		["Zoolock - Icecrown"] = "Zoolock - Icecrown",
+		["Denragar - Icecrown"] = "Denragar - Icecrown",
+		["Mayislice - Icecrown"] = "Mayislice - Icecrown",
 		["Kirikox - Icecrown"] = "Kirikox - Icecrown",
 		["Mayijudge - Icecrown"] = "Mayijudge - Icecrown",
 		["Healite - Icecrown"] = "Healite - Icecrown",
@@ -18,13 +21,19 @@ ToC_AssignmentsDB = {
 		},
 		["Gelkucama - Icecrown"] = {
 		},
+		["Zoolock - Icecrown"] = {
+		},
+		["Sourbang - Icecrown"] = {
+		},
 		["Canavi - Icecrown"] = {
 		},
 		["Rupturer - Icecrown"] = {
 		},
 		["Minikserce - Icecrown"] = {
 		},
-		["Zoolock - Icecrown"] = {
+		["Denragar - Icecrown"] = {
+		},
+		["Mayislice - Icecrown"] = {
 		},
 		["Kirikox - Icecrown"] = {
 		},

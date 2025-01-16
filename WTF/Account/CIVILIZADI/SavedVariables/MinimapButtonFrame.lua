@@ -2,17 +2,22 @@
 MBFDB = {
 	["profileKeys"] = {
 		["Mayiascend - Icecrown"] = "Default",
+		["Durrozdor - Icecrown"] = "Default",
 		["Canavi - Icecrown"] = "Default",
 		["Cezzarged - Icecrown"] = "Default",
 		["Mayistab - Icecrown"] = "Default",
 		["Elynass - Icecrown"] = "Default",
+		["Mayibite - Icecrown"] = "Default",
 		["Mayijudge - Icecrown"] = "Default",
 		["Mayicurse - Icecrown"] = "Default",
 		["Aegwyn - Icecrown"] = "Default",
 		["Gelkucama - Icecrown"] = "Default",
 		["Plaacebo - Icecrown"] = "Default",
+		["Mayicrush - Icecrown"] = "Default",
+		["Mayihunt - Icecrown"] = "Default",
 		["Mayislash - Icecrown"] = "Default",
 		["Zoolock - Icecrown"] = "Default",
+		["Nekimi - Icecrown"] = "Default",
 		["Casette - Icecrown"] = "Default",
 		["Kirikox - Icecrown"] = "Default",
 		["Fareci - Icecrown"] = "Default",
@@ -20,6 +25,14 @@ MBFDB = {
 		["Tokatlarim - Icecrown"] = "Default",
 	},
 	["profiles"] = {
+		["Mayiascend - Icecrown"] = {
+			["MBF_FrameLocation"] = {
+				nil, -- [1]
+				nil, -- [2]
+				-298.9563601192701, -- [3]
+				-185.4165782020735, -- [4]
+			},
+		},
 		["Main"] = {
 			["MBF_FrameLocation"] = {
 				"TOPLEFT", -- [1]
@@ -74,6 +87,7 @@ MBFDB = {
 		["Default"] = {
 			["addonScale"] = 0.6,
 			["locked"] = true,
+			["currentMinimapIcon"] = "SmartMinimapZoom",
 			["GrowUp"] = false,
 			["sort_by_rows"] = true,
 			["currentButtonOverride"] = "DropCount_MinimapIcon",
@@ -134,14 +148,6 @@ MBFDB = {
 				"kifnmecigpcpgdwltrcv", -- [37]
 			},
 			["mbfAnchor"] = "TOPLEFT",
-		},
-		["Mayiascend - Icecrown"] = {
-			["MBF_FrameLocation"] = {
-				nil, -- [1]
-				nil, -- [2]
-				-298.9563601192701, -- [3]
-				-185.4165782020735, -- [4]
-			},
 		},
 	},
 }

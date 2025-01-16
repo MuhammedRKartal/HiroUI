@@ -1,5 +1,11 @@
 
 KPackCharDB = {
+	["Automate"] = {
+		["groundmount"] = "",
+		["sets"] = {
+		},
+		["flyingmount"] = "",
+	},
 	["Postal"] = {
 		["BlackBook"] = {
 			["ExcludeRandoms"] = true,
@@ -9,25 +15,19 @@ KPackCharDB = {
 			},
 			["AutoCompleteAlts"] = true,
 			["AutoCompleteGuild"] = true,
+			["AutoCompleteFriends"] = true,
+			["AutoCompleteRecent"] = true,
 			["recent"] = {
 				"Elziash", -- [1]
 				"Hirobank", -- [2]
 			},
+			["AutoCompleteContacts"] = true,
+			["DisableBlizzardAutoComplete"] = false,
 			["alts"] = {
 				"Mayistab|Icecrown|Alliance", -- [1]
 				"Shinobukocho|Icecrown|Alliance", -- [2]
 			},
-			["AutoCompleteRecent"] = true,
-			["AutoCompleteContacts"] = true,
-			["DisableBlizzardAutoComplete"] = false,
-			["AutoCompleteFriends"] = true,
 		},
-	},
-	["Automate"] = {
-		["groundmount"] = "",
-		["sets"] = {
-		},
-		["flyingmount"] = "",
 	},
 	["Tooltip"] = {
 		["spell"] = false,
@@ -36,17 +36,17 @@ KPackCharDB = {
 		["yOfs"] = -100,
 		["class"] = false,
 		["unit"] = false,
-		["petspell"] = false,
+		["scale"] = 1,
 		["xOfs"] = 0,
 		["enhance"] = true,
-		["scale"] = 1,
+		["petspell"] = false,
 	},
 	["LFR"] = {
 		["currentset"] = "active",
 		["raidsets"] = {
-			["Secondary"] = {
-			},
 			["Primary"] = {
+			},
+			["Secondary"] = {
 			},
 		},
 	},

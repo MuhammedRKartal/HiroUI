@@ -17,12 +17,13 @@ KPackCharDB = {
 			["AutoCompleteGuild"] = true,
 			["AutoCompleteFriends"] = true,
 			["AutoCompleteRecent"] = true,
-			["alts"] = {
-				"Gnomite|Icecrown|Alliance", -- [1]
+			["recent"] = {
 			},
 			["AutoCompleteContacts"] = true,
 			["DisableBlizzardAutoComplete"] = false,
-			["recent"] = {
+			["alts"] = {
+				"Gnomite|Icecrown|Alliance", -- [1]
+				"Koboldminer|Icecrown|Horde", -- [2]
 			},
 		},
 	},

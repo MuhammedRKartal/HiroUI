@@ -4,6 +4,7 @@ MBFDB = {
 		["Mayiascend - Icecrown"] = "Main",
 		["Canavi - Icecrown"] = "Default",
 		["Cezzarged - Icecrown"] = "Default",
+		["Erkeksikici - Icecrown"] = "Default",
 		["Mayistab - Icecrown"] = "Default",
 		["Elynass - Icecrown"] = "Default",
 		["Mayijudge - Icecrown"] = "Default",
@@ -33,6 +34,11 @@ MBFDB = {
 			},
 			["GrowUp"] = false,
 			["sort_by_rows"] = true,
+			["mbfHidden"] = true,
+			["minimapButton"] = {
+				["minimapPos"] = 231.5698387710189,
+				["hide"] = false,
+			},
 			["customChildren"] = {
 				"MinimapButtonFrameDragButton", -- [1]
 				"MiniMapMailFrameDisabled", -- [2]
@@ -48,11 +54,6 @@ MBFDB = {
 				"FuBarPluginAtlasLootFuFrameMinimapButton", -- [12]
 				"LibDBIcon10_TidyPlatesIcon", -- [13]
 			},
-			["minimapButton"] = {
-				["minimapPos"] = 231.5698387710189,
-				["hide"] = false,
-			},
-			["mbfHidden"] = true,
 		},
 		["Default"] = {
 			["addonScale"] = 0.6,

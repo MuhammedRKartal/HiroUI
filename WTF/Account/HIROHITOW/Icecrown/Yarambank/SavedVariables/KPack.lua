@@ -27,10 +27,10 @@ KPackCharDB = {
 			},
 			["AutoCompleteAlts"] = true,
 			["AutoCompleteGuild"] = true,
+			["recent"] = {
+			},
 			["alts"] = {
 				"Yarambank|Icecrown|Horde", -- [1]
-			},
-			["recent"] = {
 			},
 			["AutoCompleteRecent"] = true,
 			["AutoCompleteContacts"] = true,

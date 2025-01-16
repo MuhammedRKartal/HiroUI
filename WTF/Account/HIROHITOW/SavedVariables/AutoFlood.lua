@@ -70,10 +70,10 @@ AF_config = {
 		["rate"] = 60,
 		["system"] = "CHANNEL",
 	},
-	["Icecrown-Mayicurse"] = {
-		["message"] = "SELECT YOUR ITEMS BIS ROGUE \"Kirikox\", BIS HUNTER \"Elynass\"",
-		["channel"] = "4",
-		["idChannel"] = "4",
+	["Icecrown-Mayiflash"] = {
+		["message"] = "TST #4 ||  TOC25N +5.3 ||1 Heals, Rest Dps || /w Gs Spec Ach (BoP Reserved) 22/25",
+		["channel"] = "5",
+		["idChannel"] = "5",
 		["rate"] = 60,
 		["system"] = "CHANNEL",
 	},
@@ -154,10 +154,10 @@ AF_config = {
 		["rate"] = 60,
 		["system"] = "CHANNEL",
 	},
-	["Icecrown-Mayiflash"] = {
-		["message"] = "TST #4 ||  TOC25N +5.3 ||1 Heals, Rest Dps || /w Gs Spec Ach (BoP Reserved) 22/25",
-		["channel"] = "5",
-		["idChannel"] = "5",
+	["Icecrown-Mayicurse"] = {
+		["message"] = "SELECT YOUR ITEMS BIS ROGUE \"Kirikox\", BIS HUNTER \"Elynass\"",
+		["channel"] = "4",
+		["idChannel"] = "4",
 		["rate"] = 60,
 		["system"] = "CHANNEL",
 	},

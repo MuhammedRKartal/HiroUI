@@ -3,9 +3,9 @@ SkadaCharDB = {
 	[0] = {
 		["actors"] = {
 		},
+		["starttime"] = 1707562579,
 		["name"] = "Total",
 		["time"] = 0,
-		["starttime"] = 1707562579,
 	},
 	["total"] = {
 		["overheal"] = 443,
@@ -20,8 +20,8 @@ SkadaCharDB = {
 				["totaldamage"] = 441602,
 				["time"] = 44.41000000000001,
 				["role"] = "DAMAGER",
-				["flag"] = 1297,
 				["name"] = "Mayistab",
+				["flag"] = 1297,
 				["energy"] = 105,
 				["damage"] = 441602,
 			}, -- [1]
@@ -33,16 +33,16 @@ SkadaCharDB = {
 				["heal"] = 2216,
 				["time"] = 41.00000000000001,
 				["totaldamage"] = 238589,
-				["name"] = "Oroku",
 				["id"] = "0x07000000003AB12E",
+				["name"] = "Oroku",
 				["damage"] = 238589,
 			}, -- [2]
 		},
 		["totaldamage"] = 680191,
 		["time"] = 47,
 		["name"] = "Total",
-		["starttime"] = 1674144146,
 		["heal"] = 2216,
+		["starttime"] = 1674144146,
 		["energy"] = 105,
 		["damage"] = 680191,
 	},

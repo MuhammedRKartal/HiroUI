@@ -1,7 +1,7 @@
 
 TidyPlatesOptions = {
-	["WelcomeShown"] = true,
 	["autohide"] = 1,
+	["WelcomeShown"] = true,
 	["EnemyAutomation"] = "Show during Combat, Hide when Combat ends",
 	["primary"] = "Threat Plates",
 	["EnableCastWatcher"] = 1,

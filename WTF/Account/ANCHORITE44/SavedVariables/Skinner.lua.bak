@@ -1,0 +1,24 @@
+
+SkinnerDB = {
+	["namespaces"] = {
+		["ViewPort"] = {
+		},
+		["MiddleFrames"] = {
+		},
+		["TopFrame"] = {
+		},
+		["UIButtons"] = {
+		},
+		["BottomFrame"] = {
+		},
+		["UnitFrames"] = {
+		},
+	},
+	["profileKeys"] = {
+		["Plaacebo - Icecrown"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}

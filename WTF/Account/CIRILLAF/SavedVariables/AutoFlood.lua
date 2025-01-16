@@ -49,6 +49,13 @@ AF_config = {
 		["rate"] = 60,
 		["system"] = "CHANNEL",
 	},
+	["Onyxia-Pussfeeder"] = {
+		["message"] = "AutoFlood 1.1",
+		["channel"] = "1",
+		["idChannel"] = "1",
+		["rate"] = 60,
+		["system"] = "CHANNEL",
+	},
 	["Icecrown-Mayicurse"] = {
 		["message"] = "SELECT YOUR ITEMS BIS ROGUE \"Kirikox\", BIS HUNTER \"Elynass\"",
 		["channel"] = "4",
@@ -56,7 +63,7 @@ AF_config = {
 		["rate"] = 60,
 		["system"] = "CHANNEL",
 	},
-	["Icecrown-Analbasher"] = {
+	["Blackrock [PvP only]-Enkz"] = {
 		["message"] = "AutoFlood 1.1",
 		["channel"] = "1",
 		["idChannel"] = "1",
@@ -84,28 +91,7 @@ AF_config = {
 		["rate"] = 60,
 		["system"] = "CHANNEL",
 	},
-	["Icecrown-Ancaz"] = {
-		["message"] = "AutoFlood 1.1",
-		["channel"] = "1",
-		["idChannel"] = "1",
-		["rate"] = 60,
-		["system"] = "CHANNEL",
-	},
-	["Icecrown-Mayiride"] = {
-		["message"] = "LFM ICC10 REP FARM HAVE BIS TANK HEAL DPS",
-		["channel"] = "6",
-		["idChannel"] = "6",
-		["rate"] = 60,
-		["system"] = "CHANNEL",
-	},
-	["Blackrock [PvP only]-Yaramiemm"] = {
-		["message"] = "AutoFlood 1.1",
-		["channel"] = "1",
-		["idChannel"] = "1",
-		["rate"] = 60,
-		["system"] = "CHANNEL",
-	},
-	["Icecrown-Elynass"] = {
+	["Lordaeron-Lapperisey"] = {
 		["message"] = "AutoFlood 1.1",
 		["channel"] = "1",
 		["idChannel"] = "1",
@@ -119,7 +105,28 @@ AF_config = {
 		["rate"] = 30,
 		["system"] = "CHANNEL",
 	},
-	["Lordaeron-Lapperisey"] = {
+	["Icecrown-Elynass"] = {
+		["message"] = "AutoFlood 1.1",
+		["channel"] = "1",
+		["idChannel"] = "1",
+		["rate"] = 60,
+		["system"] = "CHANNEL",
+	},
+	["Blackrock [PvP only]-Yaramiemm"] = {
+		["message"] = "AutoFlood 1.1",
+		["channel"] = "1",
+		["idChannel"] = "1",
+		["rate"] = 60,
+		["system"] = "CHANNEL",
+	},
+	["Icecrown-Mayiride"] = {
+		["message"] = "LFM ICC10 REP FARM HAVE BIS TANK HEAL DPS",
+		["channel"] = "6",
+		["idChannel"] = "6",
+		["rate"] = 60,
+		["system"] = "CHANNEL",
+	},
+	["Icecrown-Ancaz"] = {
 		["message"] = "AutoFlood 1.1",
 		["channel"] = "1",
 		["idChannel"] = "1",
@@ -133,14 +140,14 @@ AF_config = {
 		["rate"] = 60,
 		["system"] = "CHANNEL",
 	},
-	["Onyxia-Pussfeeder"] = {
+	["Icecrown-Analbasher"] = {
 		["message"] = "AutoFlood 1.1",
 		["channel"] = "1",
 		["idChannel"] = "1",
 		["rate"] = 60,
 		["system"] = "CHANNEL",
 	},
-	["Blackrock [PvP only]-Enkz"] = {
+	["Icecrown-Mayishadow"] = {
 		["message"] = "AutoFlood 1.1",
 		["channel"] = "1",
 		["idChannel"] = "1",

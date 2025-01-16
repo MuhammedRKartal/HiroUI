@@ -149,8 +149,8 @@ MoveAnything_CharacterSettings = {
 }
 MoveAnything_UseCharacterSettings = nil
 MADB = {
-	["modifiedFramesOnly"] = true,
 	["squareMM"] = 1,
 	["frameListRows"] = 18,
 	["collapsed"] = true,
+	["modifiedFramesOnly"] = true,
 }

@@ -1,21 +1,22 @@
 
 SoundAlerterDB = {
 	["profileKeys"] = {
-		["Yaramiem - Blackrock [PvP only]"] = "Default",
+		["Yaramdk - Icecrown"] = "Default",
+		["Analbuster - Onyxia"] = "Default",
 		["Mayiascend - Icecrown"] = "Default",
 		["Aluneht - Icecrown"] = "Default",
-		["Analbuster - Onyxia"] = "Default",
+		["Elynass - Icecrown"] = "Default",
 		["Plaacebo - Icecrown"] = "Default",
 		["Mayiread - Icecrown"] = "Default",
 		["Cezzarged - Icecrown"] = "Default",
-		["Vecnaa - Icecrown"] = "Default",
+		["Mayiblast - Icecrown"] = "Default",
 		["Mayistab - Icecrown"] = "Default",
-		["Elynass - Icecrown"] = "Default",
+		["Yaramiem - Blackrock [PvP only]"] = "Default",
 		["Shinobukocho - Icecrown"] = "Default",
 		["Kathriela - Icecrown"] = "Default",
 		["Fareci - Icecrown"] = "Default",
 		["Mayicurse - Icecrown"] = "Default",
-		["Mayiblast - Icecrown"] = "Default",
+		["Vecnaa - Icecrown"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

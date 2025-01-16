@@ -7,6 +7,7 @@ WDMdb = {
 		["Fliktah - Icecrown"] = "Default",
 		["Mayiswallow - Icecrown"] = "Default",
 		["Cezzarged - Icecrown"] = "Default",
+		["Spectia - Icecrown"] = "Default",
 		["Ancaz - Icecrown"] = "Default",
 		["Elynass - Icecrown"] = "Default",
 		["Diamondtema - Icecrown"] = "Default",

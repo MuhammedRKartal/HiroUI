@@ -604,14 +604,14 @@ SkadaCharDB = {
 							["Xtremegodxqt"] = {
 								["amount"] = 6380,
 							},
-							["Cursex"] = {
-								["amount"] = 7341,
-							},
 							["Alaca"] = {
 								["amount"] = 9808,
 							},
 							["Shadowfiend <Xtremegodxqt>"] = {
 								["amount"] = 197,
+							},
+							["Cursex"] = {
+								["amount"] = 7341,
 							},
 							["Syrry"] = {
 								["amount"] = 4701,
@@ -928,19 +928,19 @@ SkadaCharDB = {
 						},
 						["count"] = 4,
 						["amount"] = 6173,
-						["n_amt"] = 6173,
 						["n_max"] = 1680,
-						["n_num"] = 4,
 						["n_min"] = 1458,
+						["n_num"] = 4,
+						["n_amt"] = 6173,
 					},
 					["-32409.32"] = {
 						["r_amt"] = 2665,
 						["count"] = 4,
 						["amount"] = 7583,
-						["n_amt"] = 7583,
 						["n_max"] = 3617,
-						["n_num"] = 4,
 						["n_min"] = 1106,
+						["n_num"] = 4,
+						["n_amt"] = 7583,
 					},
 					["6603.1"] = {
 						["sources"] = {
@@ -950,10 +950,10 @@ SkadaCharDB = {
 						},
 						["count"] = 2,
 						["amount"] = 4353,
-						["n_amt"] = 4353,
 						["n_max"] = 2202,
-						["n_num"] = 2,
 						["n_min"] = 2151,
+						["n_num"] = 2,
+						["n_amt"] = 4353,
 					},
 					["68957.8"] = {
 						["sources"] = {
@@ -963,10 +963,10 @@ SkadaCharDB = {
 						},
 						["count"] = 3,
 						["amount"] = 6380,
-						["n_amt"] = 6380,
 						["n_max"] = 2227,
-						["n_num"] = 3,
 						["n_min"] = 2021,
+						["n_num"] = 3,
+						["n_amt"] = 6380,
 					},
 				},
 				["class"] = "PRIEST",
@@ -1226,7 +1226,7 @@ SkadaCharDB = {
 						["n_amt"] = 25087,
 					},
 					["63675.32"] = {
-						["n_amt"] = 13207,
+						["n_max"] = 3552,
 						["count"] = 4,
 						["amount"] = 13207,
 						["targets"] = {
@@ -1240,9 +1240,9 @@ SkadaCharDB = {
 								["amount"] = 3552,
 							},
 						},
-						["n_max"] = 3552,
-						["n_num"] = 4,
 						["n_min"] = 3055,
+						["n_num"] = 4,
+						["n_amt"] = 13207,
 					},
 					["6603.1.Shadowfiend"] = {
 						["r_amt"] = 491,
@@ -1339,7 +1339,7 @@ SkadaCharDB = {
 				["spec"] = 258,
 				["healspells"] = {
 					["48300.32"] = {
-						["n_amt"] = 2700,
+						["n_max"] = 515,
 						["targets"] = {
 							["Xtremegodxqt"] = {
 								["o_amt"] = 4610,
@@ -1349,12 +1349,12 @@ SkadaCharDB = {
 						["count"] = 20,
 						["amount"] = 2700,
 						["o_amt"] = 4610,
-						["n_max"] = 515,
-						["n_num"] = 20,
 						["n_min"] = 0,
+						["n_num"] = 20,
+						["n_amt"] = 2700,
 					},
 					["-15290.32"] = {
-						["n_amt"] = 49205,
+						["n_max"] = 1398,
 						["targets"] = {
 							["Vulcho <Syrry>"] = {
 								["o_amt"] = 12783,
@@ -1368,10 +1368,6 @@ SkadaCharDB = {
 								["o_amt"] = 60348,
 								["amount"] = 18203,
 							},
-							["Alaca"] = {
-								["o_amt"] = 6791,
-								["amount"] = 8917,
-							},
 							["Cursex"] = {
 								["o_amt"] = 10897,
 								["amount"] = 4818,
@@ -1379,6 +1375,10 @@ SkadaCharDB = {
 							["Shadowfiend <Xtremegodxqt>"] = {
 								["o_amt"] = 4342,
 								["amount"] = 197,
+							},
+							["Alaca"] = {
+								["o_amt"] = 6791,
+								["amount"] = 8917,
 							},
 							["Syrry"] = {
 								["o_amt"] = 7599,
@@ -1392,12 +1392,12 @@ SkadaCharDB = {
 						["count"] = 734,
 						["amount"] = 49205,
 						["o_amt"] = 127441,
-						["n_max"] = 1398,
-						["n_num"] = 734,
 						["n_min"] = 0,
+						["n_num"] = 734,
+						["n_amt"] = 49205,
 					},
 					["75999.32"] = {
-						["n_amt"] = 806,
+						["n_max"] = 433,
 						["targets"] = {
 							["Xtremegodxqt"] = {
 								["o_amt"] = 828,
@@ -1407,9 +1407,9 @@ SkadaCharDB = {
 						["count"] = 4,
 						["amount"] = 806,
 						["o_amt"] = 828,
-						["n_max"] = 433,
-						["n_num"] = 4,
 						["n_min"] = 0,
+						["n_num"] = 4,
+						["n_amt"] = 806,
 					},
 				},
 				["overkill"] = 3558,
@@ -1438,10 +1438,10 @@ SkadaCharDB = {
 						},
 						["count"] = 18,
 						["amount"] = 33035,
-						["n_amt"] = 33035,
 						["n_max"] = 1935,
-						["n_num"] = 18,
 						["n_min"] = 1630,
+						["n_num"] = 18,
+						["n_amt"] = 33035,
 					},
 					["-68948.8"] = {
 						["sources"] = {
@@ -1451,10 +1451,10 @@ SkadaCharDB = {
 						},
 						["count"] = 3,
 						["amount"] = 10491,
-						["n_amt"] = 10491,
 						["n_max"] = 3497,
-						["n_num"] = 3,
 						["n_min"] = 3497,
+						["n_num"] = 3,
+						["n_amt"] = 10491,
 					},
 					["6603.1"] = {
 						["c_amt"] = 3362,
@@ -1490,10 +1490,10 @@ SkadaCharDB = {
 						},
 						["count"] = 3,
 						["amount"] = 10164,
-						["n_amt"] = 10164,
 						["n_max"] = 3388,
-						["n_num"] = 3,
 						["n_min"] = 3388,
+						["n_num"] = 3,
+						["n_amt"] = 10164,
 					},
 					["68947.8"] = {
 						["total"] = 32832,
@@ -1506,10 +1506,10 @@ SkadaCharDB = {
 						},
 						["count"] = 18,
 						["amount"] = 29349,
-						["n_amt"] = 29349,
 						["n_min"] = 36,
-						["n_num"] = 17,
 						["abs_n"] = 1,
+						["n_num"] = 17,
+						["n_amt"] = 29349,
 					},
 					["68957.8"] = {
 						["sources"] = {
@@ -1519,10 +1519,10 @@ SkadaCharDB = {
 						},
 						["count"] = 4,
 						["amount"] = 9808,
-						["n_amt"] = 9808,
 						["n_max"] = 2559,
-						["n_num"] = 4,
 						["n_min"] = 2387,
+						["n_num"] = 4,
+						["n_amt"] = 9808,
 					},
 				},
 				["class"] = "PALADIN",
@@ -1561,9 +1561,6 @@ SkadaCharDB = {
 						["r"] = 10,
 						["n"] = 1,
 					},
-					["-57669.8"] = {
-						["u"] = 63,
-					},
 					["-20186.2"] = {
 						["u"] = 64,
 						["t"] = {
@@ -1585,6 +1582,10 @@ SkadaCharDB = {
 						},
 						["r"] = 4,
 						["n"] = 3,
+					},
+					["59542.2"] = {
+						["u"] = 14,
+						["n"] = 1,
 					},
 					["-61840.2"] = {
 						["u"] = 22,
@@ -1684,9 +1685,8 @@ SkadaCharDB = {
 						},
 						["n"] = 6,
 					},
-					["59542.2"] = {
-						["u"] = 14,
-						["n"] = 1,
+					["-57669.8"] = {
+						["u"] = 63,
 					},
 					["60065.1"] = {
 						["u"] = 10,
@@ -1740,7 +1740,7 @@ SkadaCharDB = {
 						["n_amt"] = 15258,
 					},
 					["-48819.2"] = {
-						["n_amt"] = 8339,
+						["n_max"] = 572,
 						["r_amt"] = 181,
 						["count"] = 18,
 						["amount"] = 8339,
@@ -1755,9 +1755,9 @@ SkadaCharDB = {
 								["amount"] = 2828,
 							},
 						},
-						["n_max"] = 572,
-						["n_num"] = 18,
 						["n_min"] = 360,
+						["n_num"] = 18,
+						["n_amt"] = 8339,
 					},
 					["6603.1"] = {
 						["c_amt"] = 14348,
@@ -1900,7 +1900,7 @@ SkadaCharDB = {
 						["c_min"] = 0,
 					},
 					["-54203.2"] = {
-						["n_amt"] = 0,
+						["n_max"] = 0,
 						["targets"] = {
 							["Alaca"] = {
 								["o_amt"] = 1020,
@@ -1910,12 +1910,12 @@ SkadaCharDB = {
 						["count"] = 4,
 						["amount"] = 0,
 						["o_amt"] = 1020,
-						["n_max"] = 0,
-						["n_num"] = 4,
 						["n_min"] = 0,
+						["n_num"] = 4,
+						["n_amt"] = 0,
 					},
 					["-54172.2"] = {
-						["n_amt"] = 2250,
+						["n_max"] = 653,
 						["targets"] = {
 							["Alaca"] = {
 								["o_amt"] = 19,
@@ -1932,12 +1932,12 @@ SkadaCharDB = {
 						["count"] = 5,
 						["amount"] = 2250,
 						["o_amt"] = 53,
-						["n_max"] = 653,
-						["n_num"] = 5,
 						["n_min"] = 164,
+						["n_num"] = 5,
+						["n_amt"] = 2250,
 					},
 					["20167.2"] = {
-						["n_amt"] = 17702,
+						["n_max"] = 1217,
 						["targets"] = {
 							["Alaca"] = {
 								["o_amt"] = 28610,
@@ -1947,12 +1947,12 @@ SkadaCharDB = {
 						["count"] = 44,
 						["amount"] = 17702,
 						["o_amt"] = 28610,
-						["n_max"] = 1217,
-						["n_num"] = 44,
 						["n_min"] = 69,
+						["n_num"] = 44,
+						["n_amt"] = 17702,
 					},
 					["-59542.2"] = {
-						["n_amt"] = 3793,
+						["n_max"] = 1356,
 						["targets"] = {
 							["Alaca"] = {
 								["o_amt"] = 2985,
@@ -1962,9 +1962,9 @@ SkadaCharDB = {
 						["count"] = 5,
 						["amount"] = 3793,
 						["o_amt"] = 2985,
-						["n_max"] = 1356,
-						["n_num"] = 5,
 						["n_min"] = 0,
+						["n_num"] = 5,
+						["n_amt"] = 3793,
 					},
 				},
 				["overkill"] = 1011,
@@ -2167,16 +2167,16 @@ SkadaCharDB = {
 				},
 				["absorbspells"] = {
 					["58597.2"] = {
-						["n_amt"] = 19259,
+						["n_max"] = 1773,
 						["count"] = 13,
 						["amount"] = 20620,
 						["targets"] = {
 							["Hailmary"] = 17137,
 							["Alaca"] = 3483,
 						},
-						["n_max"] = 1773,
-						["n_num"] = 13,
 						["n_min"] = 222,
+						["n_num"] = 13,
+						["n_amt"] = 19259,
 					},
 				},
 				["role"] = "HEALER",
@@ -2211,7 +2211,7 @@ SkadaCharDB = {
 						["c_num"] = 1,
 					},
 					["48806.2"] = {
-						["n_amt"] = 1934,
+						["n_max"] = 1934,
 						["count"] = 1,
 						["amount"] = 1934,
 						["targets"] = {
@@ -2219,9 +2219,9 @@ SkadaCharDB = {
 								["amount"] = 1934,
 							},
 						},
-						["n_max"] = 1934,
-						["n_num"] = 1,
 						["n_min"] = 1934,
+						["n_num"] = 1,
+						["n_amt"] = 1934,
 					},
 					["54158.2"] = {
 						["c_amt"] = 5773,
@@ -2250,7 +2250,7 @@ SkadaCharDB = {
 				["spec"] = 65,
 				["healspells"] = {
 					["54968.2"] = {
-						["n_amt"] = 11880,
+						["n_max"] = 2793,
 						["targets"] = {
 							["Vulcho <Syrry>"] = {
 								["o_amt"] = 6783,
@@ -2264,10 +2264,6 @@ SkadaCharDB = {
 								["o_amt"] = 2793,
 								["amount"] = 0,
 							},
-							["Cursex"] = {
-								["o_amt"] = 3665,
-								["amount"] = 542,
-							},
 							["Shadowfiend <Xtremegodxqt>"] = {
 								["o_amt"] = 2663,
 								["amount"] = 0,
@@ -2275,6 +2271,10 @@ SkadaCharDB = {
 							["Alaca"] = {
 								["o_amt"] = 4132,
 								["amount"] = 4575,
+							},
+							["Cursex"] = {
+								["o_amt"] = 3665,
+								["amount"] = 542,
 							},
 							["Syrry"] = {
 								["o_amt"] = 5381,
@@ -2288,9 +2288,9 @@ SkadaCharDB = {
 						["count"] = 26,
 						["amount"] = 11880,
 						["o_amt"] = 43105,
-						["n_max"] = 2793,
-						["n_num"] = 26,
 						["n_min"] = 542,
+						["n_num"] = 26,
+						["n_amt"] = 11880,
 					},
 					["48785.2"] = {
 						["c_amt"] = 8669,
@@ -2302,10 +2302,6 @@ SkadaCharDB = {
 								["o_amt"] = 18762,
 								["amount"] = 5666,
 							},
-							["Xtremegodxqt"] = {
-								["o_amt"] = 15268,
-								["amount"] = 0,
-							},
 							["Hailmary"] = {
 								["o_amt"] = 57931,
 								["amount"] = 4074,
@@ -2313,6 +2309,10 @@ SkadaCharDB = {
 							["Syrry"] = {
 								["o_amt"] = 21999,
 								["amount"] = 4973,
+							},
+							["Xtremegodxqt"] = {
+								["o_amt"] = 15268,
+								["amount"] = 0,
 							},
 						},
 						["count"] = 17,
@@ -2324,15 +2324,11 @@ SkadaCharDB = {
 						["n_amt"] = 6044,
 					},
 					["48782.2"] = {
-						["n_amt"] = 6019,
+						["n_max"] = 5167,
 						["targets"] = {
 							["Cursex"] = {
 								["o_amt"] = 29576,
 								["amount"] = 5167,
-							},
-							["Hailmary"] = {
-								["o_amt"] = 20690,
-								["amount"] = 0,
 							},
 							["Xtremegodxqt"] = {
 								["o_amt"] = 46883,
@@ -2342,16 +2338,20 @@ SkadaCharDB = {
 								["o_amt"] = 26676,
 								["amount"] = 0,
 							},
+							["Hailmary"] = {
+								["o_amt"] = 20690,
+								["amount"] = 0,
+							},
 						},
 						["count"] = 8,
 						["amount"] = 6019,
 						["o_amt"] = 123825,
-						["n_max"] = 5167,
-						["n_num"] = 8,
 						["n_min"] = 0,
+						["n_num"] = 8,
+						["n_amt"] = 6019,
 					},
 					["53654.2"] = {
-						["n_amt"] = 71770,
+						["n_max"] = 13478,
 						["targets"] = {
 							["Alaca"] = {
 								["o_amt"] = 221375,
@@ -2361,9 +2361,9 @@ SkadaCharDB = {
 						["count"] = 30,
 						["amount"] = 71770,
 						["o_amt"] = 221375,
-						["n_max"] = 13478,
-						["n_num"] = 30,
 						["n_min"] = 358,
+						["n_num"] = 30,
+						["n_amt"] = 71770,
 					},
 					["48821.2"] = {
 						["c_amt"] = 2309,
@@ -2400,7 +2400,7 @@ SkadaCharDB = {
 						["n_amt"] = 6584,
 					},
 					["-66922.2"] = {
-						["n_amt"] = 15439,
+						["n_max"] = 1724,
 						["targets"] = {
 							["Hailmary"] = {
 								["o_amt"] = 37282,
@@ -2410,12 +2410,12 @@ SkadaCharDB = {
 						["count"] = 49,
 						["amount"] = 15439,
 						["o_amt"] = 37282,
-						["n_max"] = 1724,
-						["n_num"] = 49,
 						["n_min"] = 99,
+						["n_num"] = 49,
+						["n_amt"] = 15439,
 					},
 					["-20267.2"] = {
-						["n_amt"] = 10348,
+						["n_max"] = 893,
 						["targets"] = {
 							["Xtremegodxqt"] = {
 								["o_amt"] = 2575,
@@ -2449,9 +2449,9 @@ SkadaCharDB = {
 						["count"] = 59,
 						["amount"] = 10348,
 						["o_amt"] = 24366,
-						["n_max"] = 893,
-						["n_num"] = 59,
 						["n_min"] = 0,
+						["n_num"] = 59,
+						["n_amt"] = 10348,
 					},
 				},
 				["heal"] = 139062,
@@ -2499,7 +2499,7 @@ SkadaCharDB = {
 						["c_min"] = 29387,
 					},
 					["-63468.1"] = {
-						["n_amt"] = 21377,
+						["n_max"] = 903,
 						["count"] = 34,
 						["amount"] = 21377,
 						["targets"] = {
@@ -2513,9 +2513,9 @@ SkadaCharDB = {
 								["amount"] = 10793,
 							},
 						},
-						["n_max"] = 903,
-						["n_num"] = 34,
 						["n_min"] = 316,
+						["n_num"] = 34,
+						["n_amt"] = 21377,
 					},
 					["49045.64"] = {
 						["c_amt"] = 5933,
@@ -2574,7 +2574,7 @@ SkadaCharDB = {
 						["count"] = 5,
 					},
 					["-49001.8"] = {
-						["n_amt"] = 12495,
+						["n_max"] = 865,
 						["r_amt"] = 493,
 						["count"] = 16,
 						["amount"] = 12495,
@@ -2589,9 +2589,9 @@ SkadaCharDB = {
 								["amount"] = 4929,
 							},
 						},
-						["n_max"] = 865,
-						["n_num"] = 16,
 						["n_min"] = 677,
+						["n_num"] = 16,
+						["n_amt"] = 12495,
 					},
 					["53254.8"] = {
 						["c_amt"] = 11172,
@@ -2634,7 +2634,7 @@ SkadaCharDB = {
 						["count"] = 5,
 					},
 					["52474.1.Vulcho"] = {
-						["n_amt"] = 773,
+						["n_max"] = 397,
 						["count"] = 2,
 						["amount"] = 773,
 						["targets"] = {
@@ -2642,9 +2642,9 @@ SkadaCharDB = {
 								["amount"] = 773,
 							},
 						},
-						["n_max"] = 397,
-						["n_num"] = 2,
 						["n_min"] = 376,
+						["n_num"] = 2,
+						["n_amt"] = 773,
 					},
 					["6603.1"] = {
 						["c_amt"] = 12732,
@@ -2754,10 +2754,10 @@ SkadaCharDB = {
 						},
 						["count"] = 4,
 						["amount"] = 6758,
-						["n_amt"] = 6758,
 						["n_max"] = 1769,
-						["n_num"] = 4,
 						["n_min"] = 1598,
+						["n_num"] = 4,
+						["n_amt"] = 6758,
 					},
 					["68957.8"] = {
 						["sources"] = {
@@ -2767,10 +2767,10 @@ SkadaCharDB = {
 						},
 						["count"] = 2,
 						["amount"] = 4701,
-						["n_amt"] = 4701,
 						["n_max"] = 2392,
-						["n_num"] = 2,
 						["n_min"] = 2309,
+						["n_num"] = 2,
+						["n_amt"] = 4701,
 					},
 				},
 				["id"] = "0x0700000000A2189A",
@@ -2948,10 +2948,10 @@ SkadaCharDB = {
 						},
 						["count"] = 1,
 						["amount"] = 1712,
-						["n_amt"] = 1712,
 						["n_max"] = 1712,
-						["n_num"] = 1,
 						["n_min"] = 1712,
+						["n_num"] = 1,
+						["n_amt"] = 1712,
 					},
 					["6603.1"] = {
 						["sources"] = {
@@ -2961,10 +2961,10 @@ SkadaCharDB = {
 						},
 						["count"] = 1,
 						["amount"] = 3081,
-						["n_amt"] = 3081,
 						["n_max"] = 3081,
-						["n_num"] = 1,
 						["n_min"] = 3081,
+						["n_num"] = 1,
+						["n_amt"] = 3081,
 					},
 					["68947.8"] = {
 						["sources"] = {
@@ -2974,10 +2974,10 @@ SkadaCharDB = {
 						},
 						["count"] = 2,
 						["amount"] = 3716,
-						["n_amt"] = 3716,
 						["n_max"] = 1930,
-						["n_num"] = 2,
 						["n_min"] = 1786,
+						["n_num"] = 2,
+						["n_amt"] = 3716,
 					},
 					["68957.8"] = {
 						["sources"] = {
@@ -2987,10 +2987,10 @@ SkadaCharDB = {
 						},
 						["count"] = 3,
 						["amount"] = 7341,
-						["n_amt"] = 7341,
 						["n_max"] = 2493,
-						["n_num"] = 3,
 						["n_min"] = 2423,
+						["n_num"] = 3,
+						["n_amt"] = 7341,
 					},
 				},
 				["class"] = "WARLOCK",
@@ -3155,7 +3155,7 @@ SkadaCharDB = {
 				["spec"] = 266,
 				["healspells"] = {
 					["54181.2"] = {
-						["n_amt"] = 562,
+						["n_max"] = 423,
 						["targets"] = {
 							["Zorpep <Cursex>"] = {
 								["o_amt"] = 8725,
@@ -3165,12 +3165,12 @@ SkadaCharDB = {
 						["count"] = 56,
 						["amount"] = 562,
 						["o_amt"] = 8725,
-						["n_max"] = 423,
-						["n_num"] = 56,
 						["n_min"] = 66,
+						["n_num"] = 56,
+						["n_amt"] = 562,
 					},
 					["47860.32"] = {
-						["n_amt"] = 0,
+						["n_max"] = 0,
 						["targets"] = {
 							["Cursex"] = {
 								["o_amt"] = 4691,
@@ -3180,12 +3180,12 @@ SkadaCharDB = {
 						["count"] = 1,
 						["amount"] = 0,
 						["o_amt"] = 4691,
-						["n_max"] = 0,
-						["n_num"] = 1,
 						["n_min"] = 0,
+						["n_num"] = 1,
+						["n_amt"] = 0,
 					},
 					["47857.32"] = {
-						["n_amt"] = 1557,
+						["n_max"] = 567,
 						["targets"] = {
 							["Cursex"] = {
 								["o_amt"] = 3926,
@@ -3195,9 +3195,9 @@ SkadaCharDB = {
 						["count"] = 11,
 						["amount"] = 1557,
 						["o_amt"] = 3926,
-						["n_max"] = 567,
-						["n_num"] = 11,
 						["n_min"] = 16,
+						["n_num"] = 11,
+						["n_amt"] = 1557,
 					},
 				},
 				["overkill"] = 4064,
@@ -3205,7 +3205,7 @@ SkadaCharDB = {
 				["ccdone"] = 1,
 				["damagespells"] = {
 					["-47864.32"] = {
-						["n_amt"] = 6087,
+						["n_max"] = 419,
 						["r_amt"] = 287,
 						["count"] = 19,
 						["amount"] = 6087,
@@ -3220,12 +3220,12 @@ SkadaCharDB = {
 								["amount"] = 1398,
 							},
 						},
-						["n_max"] = 419,
-						["n_num"] = 19,
 						["n_min"] = 238,
+						["n_num"] = 19,
+						["n_amt"] = 6087,
 					},
 					["-47813.32"] = {
-						["n_amt"] = 4275,
+						["n_max"] = 638,
 						["r_amt"] = 189,
 						["count"] = 7,
 						["amount"] = 4275,
@@ -3237,12 +3237,12 @@ SkadaCharDB = {
 								["amount"] = 2425,
 							},
 						},
-						["n_max"] = 638,
-						["n_num"] = 7,
 						["n_min"] = 575,
+						["n_num"] = 7,
+						["n_amt"] = 4275,
 					},
 					["47860.32"] = {
-						["n_amt"] = 1405,
+						["n_max"] = 1405,
 						["count"] = 1,
 						["amount"] = 1405,
 						["targets"] = {
@@ -3250,12 +3250,12 @@ SkadaCharDB = {
 								["amount"] = 1405,
 							},
 						},
-						["n_max"] = 1405,
-						["n_num"] = 1,
 						["n_min"] = 1405,
+						["n_num"] = 1,
+						["n_amt"] = 1405,
 					},
 					["-47857.32"] = {
-						["n_amt"] = 4931,
+						["n_max"] = 510,
 						["r_amt"] = 286,
 						["count"] = 11,
 						["amount"] = 4931,
@@ -3270,9 +3270,9 @@ SkadaCharDB = {
 								["amount"] = 461,
 							},
 						},
-						["n_max"] = 510,
-						["n_num"] = 11,
 						["n_min"] = 408,
+						["n_num"] = 11,
+						["n_amt"] = 4931,
 					},
 					["47818.4"] = {
 						["c_amt"] = 9093,
@@ -3324,7 +3324,7 @@ SkadaCharDB = {
 						["n_amt"] = 10406,
 					},
 					["47838.4"] = {
-						["n_amt"] = 4781,
+						["n_max"] = 2504,
 						["r_amt"] = 253,
 						["count"] = 2,
 						["amount"] = 4781,
@@ -3336,12 +3336,12 @@ SkadaCharDB = {
 								["amount"] = 2504,
 							},
 						},
-						["n_max"] = 2504,
-						["n_num"] = 2,
 						["n_min"] = 2277,
+						["n_num"] = 2,
+						["n_amt"] = 4781,
 					},
 					["47809.32"] = {
-						["n_amt"] = 5645,
+						["n_max"] = 2984,
 						["r_amt"] = 295,
 						["count"] = 2,
 						["amount"] = 5645,
@@ -3353,9 +3353,9 @@ SkadaCharDB = {
 								["amount"] = 2661,
 							},
 						},
-						["n_max"] = 2984,
-						["n_num"] = 2,
 						["n_min"] = 2661,
+						["n_num"] = 2,
+						["n_amt"] = 5645,
 					},
 				},
 				["timespent"] = {

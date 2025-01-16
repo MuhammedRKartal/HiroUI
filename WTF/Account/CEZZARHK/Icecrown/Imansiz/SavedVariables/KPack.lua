@@ -11,13 +11,13 @@ KPackCharDB = {
 			["AutoCompleteGuild"] = true,
 			["AutoCompleteFriends"] = true,
 			["AutoCompleteRecent"] = true,
-			["alts"] = {
-				"Cezzarpala|Icecrown|Alliance", -- [1]
+			["recent"] = {
+				"Hirobank", -- [1]
 			},
 			["AutoCompleteContacts"] = true,
 			["DisableBlizzardAutoComplete"] = false,
-			["recent"] = {
-				"Hirobank", -- [1]
+			["alts"] = {
+				"Cezzarpala|Icecrown|Alliance", -- [1]
 			},
 		},
 	},

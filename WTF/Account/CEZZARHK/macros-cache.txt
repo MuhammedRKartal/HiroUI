@@ -1,13 +1,3 @@
-MACRO 46 " " INV_Misc_QuestionMark
-/use Bauble of True Blood
-/use Runic Healing Potion
-END
-MACRO 19 "a" Ability_Creature_Disease_04
-/run local f = CreateFrame("frame",nil,UIParent); f:SetScript("OnUpdate",CombatLogClearEntries);
-END
-MACRO 53 "Accept" INV_Misc_QuestionMark
-/run AcceptGroup()
-END
 MACRO 52 "Alchemy" INV_Misc_QuestionMark
 #show Alchemy
 /cast Alchemy
@@ -57,25 +47,12 @@ MACRO 30 "Maul" INV_Misc_QuestionMark
 /cast Faerie Fire (Feral)
 /cast Maul
 END
-MACRO 50 "Orb" INV_Misc_QuestionMark
-#showtooltip Frozen Orb
-/run local tab = 5; SetCurrentGuildBankTab(tab); for slot = 1, 4 do AutoStoreGuildBankItem(tab, slot) end
-END
 MACRO 41 "Pain" INV_Misc_QuestionMark
 /cast [@target=Reiila] Pain Supression
 END
 MACRO 40 "Penance" INV_Misc_QuestionMark
 #showtooltip
 /use [@mouseover, help] Penance
-END
-MACRO 44 "PI" INV_Misc_QuestionMark
-END
-MACRO 45 "Rebirth" INV_Misc_QuestionMark
-#showtooltip Flash of Light
-/cast [@mouseover, help][@target, help][@player]  Rebirth(Rank 7)
-END
-MACRO 47 "sdas" INV_Misc_QuestionMark
-/cast [@mouseover, help][@target, help][@player] Cyclone
 END
 MACRO 34 "Wicked" INV_Misc_QuestionMark
 /target Living Inferno

@@ -2,47 +2,47 @@
 AtlasLootOptions = nil
 AtlasLootDB = {
 	["profileKeys"] = {
-		["Mirreila - Blackrock [PvP only]"] = "Mirreila - Blackrock [PvP only]",
-		["Kertenkele - Icecrown"] = "Kertenkele - Icecrown",
-		["Fatnkz - Icecrown"] = "Fatnkz - Icecrown",
+		["Hirokhan - Icecrown"] = "Hirokhan - Icecrown",
+		["Mayiascend - Icecrown"] = "Mayiascend - Icecrown",
 		["Malescula - Icecrown"] = "Malescula - Icecrown",
 		["Yaramiemm - Blackrock [PvP only]"] = "Yaramiemm - Blackrock [PvP only]",
-		["Mayistab - Icecrown"] = "Mayistab - Icecrown",
-		["Elynass - Icecrown"] = "Elynass - Icecrown",
-		["Cezzarged - Icecrown"] = "Cezzarged - Icecrown",
 		["Enkz - Blackrock [PvP only]"] = "Enkz - Blackrock [PvP only]",
-		["Gowtheru - Icecrown"] = "Gowtheru - Icecrown",
+		["Ancaz - Icecrown"] = "Ancaz - Icecrown",
 		["Erindan - Icecrown"] = "Erindan - Icecrown",
-		["Mayiascend - Icecrown"] = "Mayiascend - Icecrown",
 		["Mayijudge - Icecrown"] = "Mayijudge - Icecrown",
-		["Makiio - Icecrown"] = "Makiio - Icecrown",
 		["Mayicurse - Icecrown"] = "Mayicurse - Icecrown",
-		["Ajjde - Blackrock [PvP only]"] = "Ajjde - Blackrock [PvP only]",
-		["Itadori - Icecrown"] = "Itadori - Icecrown",
 		["Aegwyn - Icecrown"] = "Aegwyn - Icecrown",
-		["Gelkucama - Icecrown"] = "Gelkucama - Icecrown",
+		["Ajjde - Blackrock [PvP only]"] = "Ajjde - Blackrock [PvP only]",
+		["Plaacebo - Icecrown"] = "Plaacebo - Icecrown",
 		["Zoolock - Icecrown"] = "Zoolock - Icecrown",
+		["Mayifire - Icecrown"] = "Mayifire - Icecrown",
+		["Kirikox - Icecrown"] = "Kirikox - Icecrown",
+		["Fareci - Icecrown"] = "Fareci - Icecrown",
+		["Reiila - Icecrown"] = "Reiila - Icecrown",
+		["Kertenkele - Icecrown"] = "Kertenkele - Icecrown",
+		["Fatnkz - Icecrown"] = "Fatnkz - Icecrown",
+		["Cezzarged - Icecrown"] = "Cezzarged - Icecrown",
+		["Fatalfire - Icecrown"] = "Fatalfire - Icecrown",
+		["Elynass - Icecrown"] = "Elynass - Icecrown",
+		["Makiio - Icecrown"] = "Makiio - Icecrown",
+		["Duhht - Blackrock [PvP only]"] = "Duhht - Blackrock [PvP only]",
 		["Kathriel - Icecrown"] = "Kathriel - Icecrown",
 		["Quennel - Icecrown"] = "Quennel - Icecrown",
-		["Duhht - Blackrock [PvP only]"] = "Duhht - Blackrock [PvP only]",
-		["Plaacebo - Icecrown"] = "Plaacebo - Icecrown",
-		["Fliktah - Icecrown"] = "Fliktah - Icecrown",
-		["Hirobank - Icecrown"] = "Hirobank - Icecrown",
+		["Morellonomi - Icecrown"] = "Morellonomi - Icecrown",
+		["Mirreila - Blackrock [PvP only]"] = "Mirreila - Blackrock [PvP only]",
+		["Itadori - Icecrown"] = "Itadori - Icecrown",
 		["Yaramiem - Blackrock [PvP only]"] = "Yaramiem - Blackrock [PvP only]",
-		["Kirikox - Icecrown"] = "Kirikox - Icecrown",
-		["Ancaz - Icecrown"] = "Ancaz - Icecrown",
-		["Fareci - Icecrown"] = "Fareci - Icecrown",
-		["Fatalfire - Icecrown"] = "Fatalfire - Icecrown",
-		["Reiila - Icecrown"] = "Reiila - Icecrown",
+		["Mayistab - Icecrown"] = "Mayistab - Icecrown",
+		["Gowtheru - Icecrown"] = "Gowtheru - Icecrown",
+		["Gelkucama - Icecrown"] = "Gelkucama - Icecrown",
+		["Hirobank - Icecrown"] = "Hirobank - Icecrown",
+		["Fliktah - Icecrown"] = "Fliktah - Icecrown",
 	},
 	["profiles"] = {
-		["Mirreila - Blackrock [PvP only]"] = {
+		["Hirokhan - Icecrown"] = {
 			["AtlasType"] = "Unknown",
 		},
-		["Kertenkele - Icecrown"] = {
-			["AtlasType"] = "Unknown",
-		},
-		["Fatnkz - Icecrown"] = {
+		["Mayiascend - Icecrown"] = {
 			["AtlasType"] = "Unknown",
 		},
 		["Malescula - Icecrown"] = {
@@ -51,57 +51,72 @@ AtlasLootDB = {
 		["Yaramiemm - Blackrock [PvP only]"] = {
 			["AtlasType"] = "Unknown",
 		},
-		["Mayistab - Icecrown"] = {
-			["AtlasType"] = "Unknown",
-		},
-		["Elynass - Icecrown"] = {
-			["AtlasType"] = "Unknown",
-		},
-		["Cezzarged - Icecrown"] = {
-			["AtlasType"] = "Unknown",
-		},
 		["Enkz - Blackrock [PvP only]"] = {
 			["AtlasType"] = "Unknown",
 		},
-		["Gowtheru - Icecrown"] = {
+		["Ancaz - Icecrown"] = {
 			["AtlasType"] = "Unknown",
 		},
 		["Erindan - Icecrown"] = {
 			["AtlasType"] = "Unknown",
 		},
-		["Mayiascend - Icecrown"] = {
-			["AtlasType"] = "Unknown",
-		},
 		["Mayijudge - Icecrown"] = {
 			["AllLinks"] = false,
+			["AtlasType"] = "Unknown",
 			["AtlasLootVersion"] = "51104",
-			["AtlasType"] = "Unknown",
-		},
-		["Makiio - Icecrown"] = {
-			["AtlasType"] = "Unknown",
 		},
 		["Mayicurse - Icecrown"] = {
+			["AtlasType"] = "Unknown",
+		},
+		["Aegwyn - Icecrown"] = {
+			["AllLinks"] = false,
+			["AtlasLootVersion"] = "51104",
 			["AtlasType"] = "Unknown",
 		},
 		["Ajjde - Blackrock [PvP only]"] = {
 			["AtlasType"] = "Unknown",
 		},
-		["Itadori - Icecrown"] = {
+		["Plaacebo - Icecrown"] = {
 			["AtlasType"] = "Unknown",
-		},
-		["Aegwyn - Icecrown"] = {
-			["AllLinks"] = false,
-			["AtlasType"] = "Unknown",
-			["AtlasLootVersion"] = "51104",
-		},
-		["Gelkucama - Icecrown"] = {
-			["AllLinks"] = false,
-			["AtlasType"] = "Unknown",
-			["AtlasLootVersion"] = "51104",
 		},
 		["Zoolock - Icecrown"] = {
 			["AllLinks"] = false,
+			["AtlasType"] = "Unknown",
 			["AtlasLootVersion"] = "51104",
+		},
+		["Mayifire - Icecrown"] = {
+			["AtlasType"] = "Unknown",
+		},
+		["Kirikox - Icecrown"] = {
+			["AtlasType"] = "Unknown",
+		},
+		["Fareci - Icecrown"] = {
+			["AtlasType"] = "Unknown",
+		},
+		["Reiila - Icecrown"] = {
+			["AtlasType"] = "Unknown",
+		},
+		["Kertenkele - Icecrown"] = {
+			["AtlasType"] = "Unknown",
+		},
+		["Fatnkz - Icecrown"] = {
+			["AtlasType"] = "Unknown",
+		},
+		["Cezzarged - Icecrown"] = {
+			["AtlasType"] = "Unknown",
+		},
+		["Fatalfire - Icecrown"] = {
+			["BigraidHeroic"] = true,
+			["AtlasType"] = "Unknown",
+			["LastBoss"] = "ICCLordMarrowgar",
+		},
+		["Elynass - Icecrown"] = {
+			["AtlasType"] = "Unknown",
+		},
+		["Makiio - Icecrown"] = {
+			["AtlasType"] = "Unknown",
+		},
+		["Duhht - Blackrock [PvP only]"] = {
 			["AtlasType"] = "Unknown",
 		},
 		["Kathriel - Icecrown"] = {
@@ -110,287 +125,295 @@ AtlasLootDB = {
 		["Quennel - Icecrown"] = {
 			["AtlasType"] = "Unknown",
 		},
-		["Duhht - Blackrock [PvP only]"] = {
+		["Morellonomi - Icecrown"] = {
 			["AtlasType"] = "Unknown",
 		},
-		["Plaacebo - Icecrown"] = {
+		["Mirreila - Blackrock [PvP only]"] = {
 			["AtlasType"] = "Unknown",
 		},
-		["Fliktah - Icecrown"] = {
-			["AtlasType"] = "Unknown",
-		},
-		["Hirobank - Icecrown"] = {
+		["Itadori - Icecrown"] = {
 			["AtlasType"] = "Unknown",
 		},
 		["Yaramiem - Blackrock [PvP only]"] = {
 			["AtlasType"] = "Unknown",
 		},
-		["Kirikox - Icecrown"] = {
+		["Mayistab - Icecrown"] = {
 			["AtlasType"] = "Unknown",
 		},
-		["Ancaz - Icecrown"] = {
+		["Gowtheru - Icecrown"] = {
 			["AtlasType"] = "Unknown",
 		},
-		["Fareci - Icecrown"] = {
+		["Gelkucama - Icecrown"] = {
+			["AllLinks"] = false,
+			["AtlasLootVersion"] = "51104",
 			["AtlasType"] = "Unknown",
 		},
-		["Fatalfire - Icecrown"] = {
+		["Hirobank - Icecrown"] = {
 			["AtlasType"] = "Unknown",
 		},
-		["Reiila - Icecrown"] = {
+		["Fliktah - Icecrown"] = {
 			["AtlasType"] = "Unknown",
 		},
 	},
 }
 AtlasLootWishList = {
-	["Options"] = {
-		["Fatalfire"] = {
-			["AllowShareWishlistInCombat"] = true,
-			["UseDefaultWishlist"] = false,
-			["Mark"] = true,
-			["AllowShareWishlist"] = true,
-			["markInTable"] = "own",
-		},
-		["Ancaz"] = {
-			["AllowShareWishlistInCombat"] = true,
-			["UseDefaultWishlist"] = false,
-			["Mark"] = true,
-			["markInTable"] = "own",
-			["AllowShareWishlist"] = true,
-		},
-		["Itadori"] = {
-			["AllowShareWishlistInCombat"] = true,
-			["UseDefaultWishlist"] = false,
-			["Mark"] = true,
-			["AllowShareWishlist"] = true,
-			["markInTable"] = "own",
-		},
-		["Kathriel"] = {
-			["AllowShareWishlistInCombat"] = true,
-			["UseDefaultWishlist"] = false,
-			["Mark"] = true,
-			["AllowShareWishlist"] = true,
-			["markInTable"] = "own",
-		},
-		["Elynass"] = {
-			["AllowShareWishlistInCombat"] = true,
-			["UseDefaultWishlist"] = false,
-			["Mark"] = true,
-			["markInTable"] = "own",
-			["AllowShareWishlist"] = true,
-		},
-		["Mayijudge"] = {
-			["AllowShareWishlistInCombat"] = true,
-			["UseDefaultWishlist"] = false,
-			["Mark"] = true,
-			["AllowShareWishlist"] = true,
-			["markInTable"] = "own",
-		},
-		["Duhht"] = {
-			["AllowShareWishlistInCombat"] = true,
-			["UseDefaultWishlist"] = false,
-			["Mark"] = true,
-			["AllowShareWishlist"] = true,
-			["markInTable"] = "own",
-		},
-		["Fatnkz"] = {
-			["AllowShareWishlistInCombat"] = true,
-			["UseDefaultWishlist"] = false,
-			["Mark"] = true,
-			["AllowShareWishlist"] = true,
-			["markInTable"] = "own",
-		},
-		["Mayistab"] = {
-			["AllowShareWishlistInCombat"] = true,
-			["UseDefaultWishlist"] = false,
-			["Mark"] = true,
-			["markInTable"] = "own",
-			["AllowShareWishlist"] = true,
-		},
-		["Mayiascend"] = {
-			["AllowShareWishlistInCombat"] = true,
-			["UseDefaultWishlist"] = false,
-			["Mark"] = true,
-			["AllowShareWishlist"] = true,
-			["markInTable"] = "own",
-		},
-		["Mayicurse"] = {
-			["AllowShareWishlistInCombat"] = true,
-			["UseDefaultWishlist"] = false,
-			["Mark"] = true,
-			["markInTable"] = "own",
-			["AllowShareWishlist"] = true,
-		},
-		["Reiila"] = {
-			["AllowShareWishlistInCombat"] = true,
-			["UseDefaultWishlist"] = false,
-			["Mark"] = true,
-			["markInTable"] = "own",
-			["AllowShareWishlist"] = true,
-		},
-		["Ajjde"] = {
-			["AllowShareWishlistInCombat"] = true,
-			["UseDefaultWishlist"] = false,
-			["Mark"] = true,
-			["AllowShareWishlist"] = true,
-			["markInTable"] = "own",
-		},
-		["Kirikox"] = {
-			["AllowShareWishlistInCombat"] = true,
-			["UseDefaultWishlist"] = false,
-			["Mark"] = true,
-			["AllowShareWishlist"] = true,
-			["markInTable"] = "own",
-		},
-		["Yaramiemm"] = {
-			["AllowShareWishlistInCombat"] = true,
-			["UseDefaultWishlist"] = false,
-			["Mark"] = true,
-			["AllowShareWishlist"] = true,
-			["markInTable"] = "own",
-		},
-		["Gelkucama"] = {
-			["AllowShareWishlistInCombat"] = true,
-			["UseDefaultWishlist"] = false,
-			["Mark"] = true,
-			["markInTable"] = "own",
-			["AllowShareWishlist"] = true,
-		},
-		["Makiio"] = {
-			["AllowShareWishlistInCombat"] = true,
-			["UseDefaultWishlist"] = false,
-			["Mark"] = true,
-			["markInTable"] = "own",
-			["AllowShareWishlist"] = true,
-		},
-		["Fliktah"] = {
-			["AllowShareWishlistInCombat"] = true,
-			["UseDefaultWishlist"] = false,
-			["Mark"] = true,
-			["markInTable"] = "own",
-			["AllowShareWishlist"] = true,
-		},
-		["Yaramiem"] = {
-			["AllowShareWishlistInCombat"] = true,
-			["UseDefaultWishlist"] = false,
-			["Mark"] = true,
-			["markInTable"] = "own",
-			["AllowShareWishlist"] = true,
-		},
-		["Mirreila"] = {
-			["AllowShareWishlistInCombat"] = true,
-			["UseDefaultWishlist"] = false,
-			["Mark"] = true,
-			["AllowShareWishlist"] = true,
-			["markInTable"] = "own",
-		},
-		["Fareci"] = {
-			["AllowShareWishlistInCombat"] = true,
-			["UseDefaultWishlist"] = false,
-			["Mark"] = true,
-			["markInTable"] = "own",
-			["AllowShareWishlist"] = true,
-		},
-		["Cezzarged"] = {
-			["AllowShareWishlistInCombat"] = true,
-			["UseDefaultWishlist"] = false,
-			["Mark"] = true,
-			["AllowShareWishlist"] = true,
-			["markInTable"] = "own",
-		},
-		["Hirobank"] = {
-			["AllowShareWishlistInCombat"] = true,
-			["UseDefaultWishlist"] = false,
-			["Mark"] = true,
-			["markInTable"] = "own",
-			["AllowShareWishlist"] = true,
-		},
-		["Malescula"] = {
-			["AllowShareWishlistInCombat"] = true,
-			["UseDefaultWishlist"] = false,
-			["Mark"] = true,
-			["AllowShareWishlist"] = true,
-			["markInTable"] = "own",
-		},
-		["Erindan"] = {
-			["AllowShareWishlistInCombat"] = true,
-			["UseDefaultWishlist"] = false,
-			["Mark"] = true,
-			["markInTable"] = "own",
-			["AllowShareWishlist"] = true,
-		},
-		["Kertenkele"] = {
-			["AllowShareWishlistInCombat"] = true,
-			["UseDefaultWishlist"] = false,
-			["Mark"] = true,
-			["markInTable"] = "own",
-			["AllowShareWishlist"] = true,
-		},
-		["Aegwyn"] = {
-			["AllowShareWishlistInCombat"] = true,
-			["UseDefaultWishlist"] = false,
-			["Mark"] = true,
-			["markInTable"] = "own",
-			["AllowShareWishlist"] = true,
-		},
-		["Zoolock"] = {
-			["AllowShareWishlistInCombat"] = true,
-			["UseDefaultWishlist"] = false,
-			["Mark"] = true,
-			["AllowShareWishlist"] = true,
-			["markInTable"] = "own",
-		},
-		["Gowtheru"] = {
-			["AllowShareWishlistInCombat"] = true,
-			["UseDefaultWishlist"] = false,
-			["Mark"] = true,
-			["AllowShareWishlist"] = true,
-			["markInTable"] = "own",
-		},
-		["Quennel"] = {
-			["AllowShareWishlistInCombat"] = true,
-			["UseDefaultWishlist"] = false,
-			["Mark"] = true,
-			["AllowShareWishlist"] = true,
-			["markInTable"] = "own",
-		},
-		["Plaacebo"] = {
-			["AllowShareWishlistInCombat"] = true,
-			["UseDefaultWishlist"] = false,
-			["Mark"] = true,
-			["markInTable"] = "own",
-			["AllowShareWishlist"] = true,
-		},
-		["Enkz"] = {
-			["AllowShareWishlistInCombat"] = true,
-			["UseDefaultWishlist"] = false,
-			["Mark"] = true,
-			["AllowShareWishlist"] = true,
-			["markInTable"] = "own",
-		},
-	},
 	["Shared"] = {
 	},
-	["Own"] = {
-		["Fatalfire"] = {
+	["Options"] = {
+		["Enkz"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["markInTable"] = "own",
+			["AllowShareWishlist"] = true,
+		},
+		["Kathriel"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["markInTable"] = "own",
+			["AllowShareWishlist"] = true,
+		},
+		["Mayijudge"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["markInTable"] = "own",
+			["AllowShareWishlist"] = true,
+		},
+		["Mayifire"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["AllowShareWishlist"] = true,
+			["markInTable"] = "own",
+		},
+		["Mayicurse"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["AllowShareWishlist"] = true,
+			["markInTable"] = "own",
+		},
+		["Reiila"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["AllowShareWishlist"] = true,
+			["markInTable"] = "own",
+		},
+		["Ajjde"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["markInTable"] = "own",
+			["AllowShareWishlist"] = true,
+		},
+		["Kirikox"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["markInTable"] = "own",
+			["AllowShareWishlist"] = true,
+		},
+		["Mirreila"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["markInTable"] = "own",
+			["AllowShareWishlist"] = true,
+		},
+		["Mayiascend"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["markInTable"] = "own",
+			["AllowShareWishlist"] = true,
+		},
+		["Fatnkz"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["markInTable"] = "own",
+			["AllowShareWishlist"] = true,
+		},
+		["Hirokhan"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["AllowShareWishlist"] = true,
+			["markInTable"] = "own",
+		},
+		["Quennel"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["markInTable"] = "own",
+			["AllowShareWishlist"] = true,
 		},
 		["Ancaz"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["AllowShareWishlist"] = true,
+			["markInTable"] = "own",
+		},
+		["Mayistab"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["AllowShareWishlist"] = true,
+			["markInTable"] = "own",
+		},
+		["Morellonomi"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["markInTable"] = "own",
+			["AllowShareWishlist"] = true,
+		},
+		["Fatalfire"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["markInTable"] = "own",
+			["AllowShareWishlist"] = true,
+		},
+		["Gowtheru"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["markInTable"] = "own",
+			["AllowShareWishlist"] = true,
+		},
+		["Gelkucama"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["AllowShareWishlist"] = true,
+			["markInTable"] = "own",
+		},
+		["Makiio"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["AllowShareWishlist"] = true,
+			["markInTable"] = "own",
+		},
+		["Duhht"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["markInTable"] = "own",
+			["AllowShareWishlist"] = true,
+		},
+		["Malescula"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["markInTable"] = "own",
+			["AllowShareWishlist"] = true,
 		},
 		["Itadori"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["markInTable"] = "own",
+			["AllowShareWishlist"] = true,
+		},
+		["Fareci"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["AllowShareWishlist"] = true,
+			["markInTable"] = "own",
+		},
+		["Cezzarged"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["markInTable"] = "own",
+			["AllowShareWishlist"] = true,
+		},
+		["Yaramiem"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["AllowShareWishlist"] = true,
+			["markInTable"] = "own",
+		},
+		["Aegwyn"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["AllowShareWishlist"] = true,
+			["markInTable"] = "own",
+		},
+		["Yaramiemm"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["markInTable"] = "own",
+			["AllowShareWishlist"] = true,
+		},
+		["Kertenkele"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["AllowShareWishlist"] = true,
+			["markInTable"] = "own",
+		},
+		["Erindan"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["AllowShareWishlist"] = true,
+			["markInTable"] = "own",
+		},
+		["Zoolock"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["markInTable"] = "own",
+			["AllowShareWishlist"] = true,
+		},
+		["Hirobank"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["AllowShareWishlist"] = true,
+			["markInTable"] = "own",
+		},
+		["Elynass"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["AllowShareWishlist"] = true,
+			["markInTable"] = "own",
+		},
+		["Plaacebo"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["AllowShareWishlist"] = true,
+			["markInTable"] = "own",
+		},
+		["Fliktah"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["AllowShareWishlist"] = true,
+			["markInTable"] = "own",
+		},
+	},
+	["Own"] = {
+		["Enkz"] = {
 		},
 		["Kathriel"] = {
 		},
-		["Elynass"] = {
-		},
 		["Mayijudge"] = {
 		},
-		["Duhht"] = {
-		},
-		["Fatnkz"] = {
-		},
-		["Mayistab"] = {
-		},
-		["Mayiascend"] = {
+		["Mayifire"] = {
 		},
 		["Mayicurse"] = {
 		},
@@ -400,41 +423,59 @@ AtlasLootWishList = {
 		},
 		["Kirikox"] = {
 		},
-		["Yaramiemm"] = {
+		["Mirreila"] = {
+		},
+		["Mayiascend"] = {
+		},
+		["Fatnkz"] = {
+		},
+		["Hirokhan"] = {
+		},
+		["Quennel"] = {
+		},
+		["Ancaz"] = {
+		},
+		["Mayistab"] = {
+		},
+		["Morellonomi"] = {
+		},
+		["Fatalfire"] = {
+		},
+		["Gowtheru"] = {
 		},
 		["Gelkucama"] = {
 		},
 		["Makiio"] = {
 		},
-		["Fliktah"] = {
+		["Duhht"] = {
 		},
-		["Yaramiem"] = {
+		["Malescula"] = {
 		},
-		["Mirreila"] = {
+		["Itadori"] = {
 		},
 		["Fareci"] = {
 		},
 		["Cezzarged"] = {
 		},
-		["Hirobank"] = {
-		},
-		["Malescula"] = {
-		},
-		["Erindan"] = {
-		},
-		["Kertenkele"] = {
+		["Yaramiem"] = {
 		},
 		["Aegwyn"] = {
 		},
+		["Yaramiemm"] = {
+		},
+		["Kertenkele"] = {
+		},
+		["Erindan"] = {
+		},
 		["Zoolock"] = {
 		},
-		["Gowtheru"] = {
+		["Hirobank"] = {
 		},
-		["Quennel"] = {
+		["Elynass"] = {
 		},
 		["Plaacebo"] = {
 		},
-		["Enkz"] = {
+		["Fliktah"] = {
 		},
 	},
 }

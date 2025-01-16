@@ -143,7 +143,7 @@ DBMChamberOfAspects_AllSavedVars = {
 				["Timer78722activeCVoice"] = 0,
 			},
 		},
-		["talent2"] = "Demonology",
+		["talent2"] = "Frost",
 		["Zarithrian"] = {
 			{
 				["CancelBuff"] = true,

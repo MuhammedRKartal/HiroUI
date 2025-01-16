@@ -1,0 +1,61 @@
+MACRO 16777229 "Blood Strike" INV_Misc_QuestionMark
+#showtooltip Blood Strike
+/cast Blood Strike
+/cast Rune Strike
+/cancelaura Hand of Protection
+/cancelaura Divine Intervene 
+/use 10
+END
+MACRO 16777246 "Callpet" Ability_Tracking
+#showtooltip Track Beasts
+/petfollow
+END
+MACRO 16777243 "Focus Strang" INV_Misc_QuestionMark
+/cast [@focus, exists, nodead] [] Strangulate
+END
+MACRO 16777231 "Heal" INV_Misc_QuestionMark
+#showtooltip
+/cast [@pet,dead][nopet]Raise Dead;Death Pact
+/use Fel Healthstone
+END
+MACRO 16777247 "Hysteria" INV_Misc_QuestionMark
+/cast [@focus, exists, nodead] [] Hysteria
+END
+MACRO 16777227 "Icy Touch" INV_Misc_QuestionMark
+#showtooltip Icy Touch
+/cast Icy Touch
+/cast Rune Strike
+/cancelaura Hand of Protection
+/cancelaura Divine Intervene 
+/petattack
+/use 10
+END
+MACRO 16777241 "Mind Freeze" INV_Misc_QuestionMark
+/cast [@focus, exists, nodead] [] Mind Freeze
+END
+MACRO 16777249 "Petattack" Ability_GhoulFrenzy
+/petattack
+END
+MACRO 16777228 "Plague Strike" INV_Misc_QuestionMark
+#showtooltip Plague Strike
+/cast Plague Strike
+/cast Rune Strike
+/cancelaura Hand of Protection
+/cancelaura Divine Intervene 
+END
+MACRO 16777237 "Presence Blood" INV_Misc_QuestionMark
+#showtooltip
+/cast Blood Presence
+/cast Frost Presence
+END
+MACRO 16777238 "Presence Unholy" INV_Misc_QuestionMark
+#showtooltip
+/cast Unholy Presence
+/cast Frost Presence
+END
+MACRO 16777236 "Scourge" INV_Misc_QuestionMark
+#showtooltip
+/cast Scourge Strike
+/use 10
+/startattack
+END

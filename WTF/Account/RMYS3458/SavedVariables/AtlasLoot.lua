@@ -25,15 +25,18 @@ AtlasLootDB = {
 		["Dinsiz - Icecrown"] = "Dinsiz - Icecrown",
 		["Makiio - Icecrown"] = "Makiio - Icecrown",
 		["Healite - Icecrown"] = "Healite - Icecrown",
-		["Plaacebo - Icecrown"] = "Plaacebo - Icecrown",
+		["Denragar - Icecrown"] = "Denragar - Icecrown",
 		["Duhht - Blackrock [PvP only]"] = "Duhht - Blackrock [PvP only]",
+		["Sourbang - Icecrown"] = "Sourbang - Icecrown",
 		["Mayiascend - Icecrown"] = "Mayiascend - Icecrown",
-		["Itadori - Icecrown"] = "Itadori - Icecrown",
-		["Yaramiem - Blackrock [PvP only]"] = "Yaramiem - Blackrock [PvP only]",
 		["Hirobank - Icecrown"] = "Hirobank - Icecrown",
 		["Gelkucama - Icecrown"] = "Gelkucama - Icecrown",
+		["Itadori - Icecrown"] = "Itadori - Icecrown",
+		["Yaramiem - Blackrock [PvP only]"] = "Yaramiem - Blackrock [PvP only]",
 		["Mayistab - Icecrown"] = "Mayistab - Icecrown",
 		["Rupturer - Icecrown"] = "Rupturer - Icecrown",
+		["Plaacebo - Icecrown"] = "Plaacebo - Icecrown",
+		["Mayislice - Icecrown"] = "Mayislice - Icecrown",
 		["Tokatlarim - Icecrown"] = "Tokatlarim - Icecrown",
 	},
 	["profiles"] = {
@@ -78,8 +81,8 @@ AtlasLootDB = {
 			["AtlasType"] = "Unknown",
 		},
 		["Zoolock - Icecrown"] = {
-			["AllLinks"] = false,
 			["AtlasType"] = "Unknown",
+			["AllLinks"] = false,
 			["AtlasLootVersion"] = "51104",
 		},
 		["Kirikox - Icecrown"] = {
@@ -112,13 +115,24 @@ AtlasLootDB = {
 		["Healite - Icecrown"] = {
 			["AtlasType"] = "Unknown",
 		},
-		["Plaacebo - Icecrown"] = {
+		["Denragar - Icecrown"] = {
 			["AtlasType"] = "Unknown",
 		},
 		["Duhht - Blackrock [PvP only]"] = {
 			["AtlasType"] = "Unknown",
 		},
+		["Sourbang - Icecrown"] = {
+			["AtlasType"] = "Unknown",
+		},
 		["Mayiascend - Icecrown"] = {
+			["AtlasType"] = "Unknown",
+		},
+		["Hirobank - Icecrown"] = {
+			["AtlasType"] = "Unknown",
+		},
+		["Gelkucama - Icecrown"] = {
+			["AllLinks"] = false,
+			["AtlasLootVersion"] = "51104",
 			["AtlasType"] = "Unknown",
 		},
 		["Itadori - Icecrown"] = {
@@ -127,18 +141,16 @@ AtlasLootDB = {
 		["Yaramiem - Blackrock [PvP only]"] = {
 			["AtlasType"] = "Unknown",
 		},
-		["Hirobank - Icecrown"] = {
-			["AtlasType"] = "Unknown",
-		},
-		["Gelkucama - Icecrown"] = {
-			["AllLinks"] = false,
-			["AtlasType"] = "Unknown",
-			["AtlasLootVersion"] = "51104",
-		},
 		["Mayistab - Icecrown"] = {
 			["AtlasType"] = "Unknown",
 		},
 		["Rupturer - Icecrown"] = {
+			["AtlasType"] = "Unknown",
+		},
+		["Plaacebo - Icecrown"] = {
+			["AtlasType"] = "Unknown",
+		},
+		["Mayislice - Icecrown"] = {
 			["AtlasType"] = "Unknown",
 		},
 		["Tokatlarim - Icecrown"] = {
@@ -211,6 +223,13 @@ AtlasLootWishList = {
 			["AllowShareWishlist"] = true,
 			["markInTable"] = "own",
 		},
+		["Sourbang"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["markInTable"] = "own",
+			["AllowShareWishlist"] = true,
+		},
 		["Hirobank"] = {
 			["AllowShareWishlistInCombat"] = true,
 			["UseDefaultWishlist"] = false,
@@ -246,12 +265,26 @@ AtlasLootWishList = {
 			["markInTable"] = "own",
 			["AllowShareWishlist"] = true,
 		},
+		["Denragar"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["AllowShareWishlist"] = true,
+			["markInTable"] = "own",
+		},
 		["Mayistab"] = {
 			["AllowShareWishlistInCombat"] = true,
 			["UseDefaultWishlist"] = false,
 			["Mark"] = true,
 			["markInTable"] = "own",
 			["AllowShareWishlist"] = true,
+		},
+		["Mayislice"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["AllowShareWishlist"] = true,
+			["markInTable"] = "own",
 		},
 		["Itadori"] = {
 			["AllowShareWishlistInCombat"] = true,
@@ -323,12 +356,12 @@ AtlasLootWishList = {
 			["markInTable"] = "own",
 			["AllowShareWishlist"] = true,
 		},
-		["Erindan"] = {
+		["Yaramiemm"] = {
 			["AllowShareWishlistInCombat"] = true,
 			["UseDefaultWishlist"] = false,
 			["Mark"] = true,
-			["markInTable"] = "own",
 			["AllowShareWishlist"] = true,
+			["markInTable"] = "own",
 		},
 		["Aegwyn"] = {
 			["AllowShareWishlistInCombat"] = true,
@@ -351,12 +384,12 @@ AtlasLootWishList = {
 			["AllowShareWishlist"] = true,
 			["markInTable"] = "own",
 		},
-		["Yaramiemm"] = {
+		["Erindan"] = {
 			["AllowShareWishlistInCombat"] = true,
 			["UseDefaultWishlist"] = false,
 			["Mark"] = true,
-			["AllowShareWishlist"] = true,
 			["markInTable"] = "own",
+			["AllowShareWishlist"] = true,
 		},
 		["Elynass"] = {
 			["AllowShareWishlistInCombat"] = true,
@@ -401,6 +434,8 @@ AtlasLootWishList = {
 		},
 		["Mirreila"] = {
 		},
+		["Sourbang"] = {
+		},
 		["Hirobank"] = {
 		},
 		["Minikserce"] = {
@@ -411,7 +446,11 @@ AtlasLootWishList = {
 		},
 		["Ancaz"] = {
 		},
+		["Denragar"] = {
+		},
 		["Mayistab"] = {
+		},
+		["Mayislice"] = {
 		},
 		["Itadori"] = {
 		},
@@ -433,7 +472,7 @@ AtlasLootWishList = {
 		},
 		["Fliktah"] = {
 		},
-		["Erindan"] = {
+		["Yaramiemm"] = {
 		},
 		["Aegwyn"] = {
 		},
@@ -441,7 +480,7 @@ AtlasLootWishList = {
 		},
 		["Zoolock"] = {
 		},
-		["Yaramiemm"] = {
+		["Erindan"] = {
 		},
 		["Elynass"] = {
 		},

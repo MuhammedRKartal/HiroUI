@@ -6,9 +6,9 @@ SkadaImprovementDB = {
 			{
 				["starttime"] = 1678903190,
 				["data"] = {
-					["Overhealing"] = 763414,
-					["Healing"] = 302165,
 					["DamageTaken"] = 21486,
+					["Healing"] = 302165,
+					["Overhealing"] = 763414,
 					["ActiveTime"] = 96.08999999999999,
 				},
 			}, -- [1]
@@ -41,9 +41,9 @@ SkadaImprovementDB = {
 			{
 				["starttime"] = 1709412746,
 				["data"] = {
-					["DamageTaken"] = 207949,
-					["Healing"] = 3070180,
 					["Overhealing"] = 1320709,
+					["Healing"] = 3070180,
+					["DamageTaken"] = 207949,
 					["ActiveTime"] = 210.1300000000004,
 				},
 			}, -- [2]
@@ -80,18 +80,18 @@ SkadaImprovementDB = {
 			{
 				["starttime"] = 1678905883,
 				["data"] = {
-					["Overhealing"] = 1757659,
-					["Healing"] = 5558447,
 					["DamageTaken"] = 25243,
+					["Healing"] = 5558447,
+					["Overhealing"] = 1757659,
 					["ActiveTime"] = 134.4400000000001,
 				},
 			}, -- [1]
 			{
 				["starttime"] = 1709410649,
 				["data"] = {
-					["DamageTaken"] = 323059,
-					["Healing"] = 7018053,
 					["Overhealing"] = 2745531,
+					["Healing"] = 7018053,
+					["DamageTaken"] = 323059,
 					["ActiveTime"] = 205.0800000000002,
 				},
 			}, -- [2]
@@ -103,9 +103,9 @@ SkadaImprovementDB = {
 			{
 				["starttime"] = 1678903854,
 				["data"] = {
-					["Overhealing"] = 702142,
-					["Healing"] = 549943,
 					["DamageTaken"] = 54437,
+					["Healing"] = 549943,
+					["Overhealing"] = 702142,
 					["ActiveTime"] = 78.57999999999998,
 				},
 			}, -- [1]
@@ -127,9 +127,9 @@ SkadaImprovementDB = {
 			{
 				["starttime"] = 1678902741,
 				["data"] = {
-					["Overhealing"] = 696854,
-					["Healing"] = 891421,
 					["DamageTaken"] = 100312,
+					["Healing"] = 891421,
+					["Overhealing"] = 696854,
 					["ActiveTime"] = 98.09999999999995,
 				},
 			}, -- [1]
@@ -162,9 +162,9 @@ SkadaImprovementDB = {
 			{
 				["starttime"] = 1678631855,
 				["data"] = {
-					["DamageTaken"] = 52016,
-					["Healing"] = 824648,
 					["Overhealing"] = 826514,
+					["Healing"] = 824648,
+					["DamageTaken"] = 52016,
 					["ActiveTime"] = 158.92,
 				},
 			}, -- [2]
@@ -236,9 +236,9 @@ SkadaImprovementDB = {
 			{
 				["starttime"] = 1709402353,
 				["data"] = {
-					["DamageTaken"] = 95812,
-					["Healing"] = 1251498,
 					["Overhealing"] = 1614176,
+					["Healing"] = 1251498,
+					["DamageTaken"] = 95812,
 					["ActiveTime"] = 133.4,
 				},
 			}, -- [2]
@@ -250,19 +250,57 @@ SkadaImprovementDB = {
 			{
 				["starttime"] = 1678904343,
 				["data"] = {
-					["Overhealing"] = 758048,
-					["Healing"] = 507950,
 					["DamageTaken"] = 16050,
+					["Healing"] = 507950,
+					["Overhealing"] = 758048,
 					["ActiveTime"] = 56.96,
 				},
 			}, -- [1]
 			{
 				["starttime"] = 1709409147,
 				["data"] = {
-					["DamageTaken"] = 85071,
-					["Healing"] = 1112303,
 					["Overhealing"] = 1912560,
+					["Healing"] = 1112303,
+					["DamageTaken"] = 85071,
 					["ActiveTime"] = 158.3300000000001,
+				},
+			}, -- [2]
+		},
+	},
+	["Rotface"] = {
+		["count"] = 1,
+		["encounters"] = {
+			{
+				["starttime"] = 1709405218,
+				["data"] = {
+					["Overhealing"] = 1821124,
+					["ActiveTime"] = 186.9700000000001,
+					["Fails"] = 2,
+					["Healing"] = 1496587,
+					["DamageTaken"] = 88548,
+				},
+			}, -- [1]
+		},
+	},
+	["Deathbringer Saurfang"] = {
+		["count"] = 2,
+		["encounters"] = {
+			{
+				["starttime"] = 1678903453,
+				["data"] = {
+					["DamageTaken"] = 44330,
+					["Healing"] = 1121712,
+					["Overhealing"] = 1501858,
+					["ActiveTime"] = 117,
+				},
+			}, -- [1]
+			{
+				["starttime"] = 1709404491,
+				["data"] = {
+					["Overhealing"] = 2156884,
+					["Healing"] = 1005264,
+					["DamageTaken"] = 93838,
+					["ActiveTime"] = 169.7800000000001,
 				},
 			}, -- [2]
 		},
@@ -283,10 +321,10 @@ SkadaImprovementDB = {
 			{
 				["starttime"] = 1678909142,
 				["data"] = {
-					["Damage"] = 2904,
+					["ActiveTime"] = 3.5,
 					["Healing"] = 25025,
 					["Overhealing"] = 62891,
-					["ActiveTime"] = 3.5,
+					["Damage"] = 2904,
 				},
 			}, -- [2]
 			{
@@ -312,44 +350,6 @@ SkadaImprovementDB = {
 					["ActiveTime"] = 22,
 				},
 			}, -- [5]
-		},
-	},
-	["Deathbringer Saurfang"] = {
-		["count"] = 2,
-		["encounters"] = {
-			{
-				["starttime"] = 1678903453,
-				["data"] = {
-					["Overhealing"] = 1501858,
-					["Healing"] = 1121712,
-					["DamageTaken"] = 44330,
-					["ActiveTime"] = 117,
-				},
-			}, -- [1]
-			{
-				["starttime"] = 1709404491,
-				["data"] = {
-					["DamageTaken"] = 93838,
-					["Healing"] = 1005264,
-					["Overhealing"] = 2156884,
-					["ActiveTime"] = 169.7800000000001,
-				},
-			}, -- [2]
-		},
-	},
-	["Rotface"] = {
-		["count"] = 1,
-		["encounters"] = {
-			{
-				["starttime"] = 1709405218,
-				["data"] = {
-					["Overhealing"] = 1821124,
-					["ActiveTime"] = 186.9700000000001,
-					["Fails"] = 2,
-					["Healing"] = 1496587,
-					["DamageTaken"] = 88548,
-				},
-			}, -- [1]
 		},
 	},
 }

@@ -5,19 +5,31 @@ GladiusDB = {
 		["Gelkucama - Icecrown"] = "Default",
 		["Kathriel - Icecrown"] = "Kathriel - Icecrown",
 		["Quennel - Icecrown"] = "Quennel - Icecrown",
+		["Morellonomi - Icecrown"] = "Morellonomi - Icecrown",
 		["Gowtheru - Icecrown"] = "Gowtheru - Icecrown",
+		["Zoolock - Icecrown"] = "Default",
+		["Mayifire - Icecrown"] = "Main",
 		["Kirikox - Icecrown"] = "Kirikox - Icecrown",
 		["Mayijudge - Icecrown"] = "Mayijudge - Icecrown",
-		["Kertenkele - Icecrown"] = "Kertenkele - Icecrown",
 		["Fatalfire - Icecrown"] = "Fatalfire - Icecrown",
-		["Zoolock - Icecrown"] = "Default",
+		["Kertenkele - Icecrown"] = "Kertenkele - Icecrown",
+		["Hirokhan - Icecrown"] = "Hirokhan - Icecrown",
 	},
 	["profiles"] = {
+		["Hirokhan - Icecrown"] = {
+			["locked"] = true,
+			["x"] = 947.1995996239314,
+			["y"] = 480.0000266488927,
+		},
 		["Aegwyn - Icecrown"] = {
 			["y"] = 480.0000266488927,
 			["x"] = 947.1995996239314,
 		},
 		["Gelkucama - Icecrown"] = {
+		},
+		["Zoolock - Icecrown"] = {
+			["y"] = 478.9333520549117,
+			["x"] = 983.4668943653676,
 		},
 		["Kathriel - Icecrown"] = {
 			["y"] = 480.0000266488927,
@@ -31,7 +43,17 @@ GladiusDB = {
 			["y"] = 480.0000266488927,
 			["x"] = 947.1995996239314,
 		},
-		["Kertenkele - Icecrown"] = {
+		["Default"] = {
+			["locked"] = true,
+			["x"] = 947.1995996239314,
+			["y"] = 480.0000266488927,
+		},
+		["Fatalfire - Icecrown"] = {
+			["locked"] = true,
+			["x"] = 947.1995996239314,
+			["y"] = 480.0000266488927,
+		},
+		["Main"] = {
 			["locked"] = true,
 			["y"] = 480.0000266488927,
 			["x"] = 947.1995996239314,
@@ -41,10 +63,7 @@ GladiusDB = {
 			["x"] = 947.1995996239314,
 			["y"] = 480.0000266488927,
 		},
-		["Default"] = {
-			["locked"] = true,
-			["x"] = 947.1995996239314,
-			["y"] = 480.0000266488927,
+		["WARLOCK"] = {
 		},
 		["Kirikox - Icecrown"] = {
 			["locked"] = true,
@@ -53,16 +72,19 @@ GladiusDB = {
 		},
 		["Mayijudge - Icecrown"] = {
 		},
-		["WARLOCK"] = {
+		["Mayifire - Icecrown"] = {
+			["y"] = 442.6667295873793,
+			["x"] = 997.8665532015086,
 		},
-		["Fatalfire - Icecrown"] = {
+		["Kertenkele - Icecrown"] = {
 			["locked"] = true,
 			["x"] = 947.1995996239314,
 			["y"] = 480.0000266488927,
 		},
-		["Zoolock - Icecrown"] = {
-			["y"] = 478.9333520549117,
-			["x"] = 983.4668943653676,
+		["Morellonomi - Icecrown"] = {
+			["locked"] = true,
+			["x"] = 947.1995996239314,
+			["y"] = 480.0000266488927,
 		},
 	},
 }

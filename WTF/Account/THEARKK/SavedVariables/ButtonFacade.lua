@@ -15,6 +15,7 @@ ButtonFacadeDB = {
 		["Vecnaa - Icecrown"] = "Default",
 		["Cezzarged - Blackrock [PvP only]"] = "Default",
 		["Yaramiem - Blackrock [PvP only]"] = "Default",
+		["Yaramdk - Icecrown"] = "Default",
 		["Kathriela - Icecrown"] = "Default",
 		["Fareci - Icecrown"] = "Default",
 		["Analbuster - Onyxia"] = "Default",

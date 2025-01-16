@@ -47,7 +47,7 @@ SexyMapDB = {
 					["lfg"] = {
 						["hide"] = "always",
 					},
-					["pvp"] = {
+					["Gatherer_MinimapOptionsButton"] = {
 						["hide"] = "always",
 					},
 					["LibDBIcon10_KPack"] = {
@@ -56,7 +56,7 @@ SexyMapDB = {
 					["MBB_MinimapButtonFrame"] = {
 						["hide"] = "always",
 					},
-					["HealBot_ButtonFrame"] = {
+					["LibDBIcon10_WeakAuras"] = {
 						["hide"] = "always",
 					},
 					["LibDBIcon10_Bartender4"] = {
@@ -65,13 +65,13 @@ SexyMapDB = {
 					["mapclock"] = {
 						["hide"] = "always",
 					},
-					["mail"] = {
-						["hide"] = "always",
-					},
 					["difficulty"] = {
 						["hide"] = "always",
 					},
-					["LibDBIcon10_WeakAuras"] = {
+					["mail"] = {
+						["hide"] = "always",
+					},
+					["HealBot_ButtonFrame"] = {
 						["hide"] = "always",
 					},
 					["dragPositions"] = {
@@ -85,7 +85,7 @@ SexyMapDB = {
 					["tracking"] = {
 						["hide"] = "always",
 					},
-					["Gatherer_MinimapOptionsButton"] = {
+					["pvp"] = {
 						["hide"] = "always",
 					},
 				},
@@ -135,7 +135,7 @@ SexyMapDB = {
 					["lfg"] = {
 						["hide"] = "always",
 					},
-					["Gatherer_MinimapOptionsButton"] = {
+					["pvp"] = {
 						["hide"] = "always",
 					},
 					["MBB_MinimapButtonFrame"] = {
@@ -144,7 +144,7 @@ SexyMapDB = {
 					["LibDBIcon10_KPack"] = {
 						["hide"] = "always",
 					},
-					["HealBot_ButtonFrame"] = {
+					["LibDBIcon10_WeakAuras"] = {
 						["hide"] = "always",
 					},
 					["LibDBIcon10_Bartender4"] = {
@@ -153,13 +153,13 @@ SexyMapDB = {
 					["mapclock"] = {
 						["hide"] = "always",
 					},
-					["mail"] = {
-						["hide"] = "always",
-					},
 					["difficulty"] = {
 						["hide"] = "always",
 					},
-					["LibDBIcon10_WeakAuras"] = {
+					["mail"] = {
+						["hide"] = "always",
+					},
+					["HealBot_ButtonFrame"] = {
 						["hide"] = "always",
 					},
 					["dragPositions"] = {
@@ -172,7 +172,7 @@ SexyMapDB = {
 					["tracking"] = {
 						["hide"] = "always",
 					},
-					["pvp"] = {
+					["Gatherer_MinimapOptionsButton"] = {
 						["hide"] = "always",
 					},
 				},
@@ -221,575 +221,6 @@ SexyMapDB = {
 					["lfg"] = {
 						["hide"] = "always",
 					},
-					["pvp"] = {
-						["hide"] = "always",
-					},
-					["LibDBIcon10_KPack"] = {
-						["hide"] = "always",
-					},
-					["LibDBIcon10_WeakAuras"] = {
-						["hide"] = "always",
-					},
-					["mail"] = {
-						["hide"] = "always",
-					},
-					["LibDBIcon10_Bartender4"] = {
-						["hide"] = "always",
-					},
-					["mapclock"] = {
-						["hide"] = "always",
-					},
-					["MBB_MinimapButtonFrame"] = {
-						["hide"] = "always",
-					},
-					["difficulty"] = {
-						["hide"] = "always",
-					},
-					["HealBot_ButtonFrame"] = {
-						["hide"] = "always",
-					},
-					["dragPositions"] = {
-						["LibDBIcon10_Bartender4"] = 111.6220367474655,
-						["LibDBIcon10_Omen"] = 247.9944713618571,
-						["GameTimeFrame"] = 29.93262123176038,
-						["MiniMapTrackingButton"] = 165.7945729144758,
-						["XPerl_MinimapButton_Frame"] = -19.81270584939471,
-					},
-					["tracking"] = {
-						["hide"] = "always",
-					},
-					["Gatherer_MinimapOptionsButton"] = {
-						["hide"] = "always",
-					},
-				},
-				["Ilkkan - Icecrown"] = {
-					["MiniMapRecordingButton"] = {
-						["hide"] = "always",
-					},
-					["LibDBIcon10_Omen"] = {
-						["hide"] = "hover",
-					},
-					["LibDBIcon10_Skada"] = {
-						["hide"] = "always",
-					},
-					["LibDBIcon10_GladiusMinimapIcon"] = {
-						["hide"] = "always",
-					},
-					["FuBarPluginAtlasLootFuFrameMinimapButton"] = {
-						["hide"] = "always",
-					},
-					["LibDBIcon10_MBF"] = {
-						["hide"] = "always",
-					},
-					["LibDBIcon10_DBM"] = {
-						["hide"] = "always",
-					},
-					["MiniMapLFGFrame"] = {
-						["hide"] = "always",
-					},
-					["XPerl_MinimapButton_Frame"] = {
-						["hide"] = "always",
-					},
-					["MiniMapInstanceDifficulty"] = {
-						["hide"] = "always",
-					},
-					["zoom"] = {
-						["hide"] = "hover",
-					},
-					["LibDBIcon10_Grid2"] = {
-						["hide"] = "always",
-					},
-					["lfg"] = {
-						["hide"] = "always",
-					},
-					["pvp"] = {
-						["hide"] = "always",
-					},
-					["LibDBIcon10_KPack"] = {
-						["hide"] = "always",
-					},
-					["MBB_MinimapButtonFrame"] = {
-						["hide"] = "always",
-					},
-					["HealBot_ButtonFrame"] = {
-						["hide"] = "always",
-					},
-					["LibDBIcon10_Bartender4"] = {
-						["hide"] = "always",
-					},
-					["mapclock"] = {
-						["hide"] = "always",
-					},
-					["mail"] = {
-						["hide"] = "always",
-					},
-					["difficulty"] = {
-						["hide"] = "always",
-					},
-					["LibDBIcon10_WeakAuras"] = {
-						["hide"] = "always",
-					},
-					["dragPositions"] = {
-						["LibDBIcon10_Bartender4"] = 111.6220367474655,
-						["LibDBIcon10_Omen"] = 247.9944713618571,
-						["GameTimeFrame"] = 29.93262123176038,
-						["MiniMapTrackingButton"] = 165.7945729144758,
-						["XPerl_MinimapButton_Frame"] = -19.81270584939471,
-					},
-					["tracking"] = {
-						["hide"] = "always",
-					},
-					["Gatherer_MinimapOptionsButton"] = {
-						["hide"] = "always",
-					},
-				},
-				["Enayi - Icecrown"] = {
-					["MiniMapRecordingButton"] = {
-						["hide"] = "always",
-					},
-					["LibDBIcon10_Omen"] = {
-						["hide"] = "hover",
-					},
-					["LibDBIcon10_Skada"] = {
-						["hide"] = "always",
-					},
-					["LibDBIcon10_GladiusMinimapIcon"] = {
-						["hide"] = "always",
-					},
-					["FuBarPluginAtlasLootFuFrameMinimapButton"] = {
-						["hide"] = "always",
-					},
-					["LibDBIcon10_MBF"] = {
-						["hide"] = "always",
-					},
-					["LibDBIcon10_DBM"] = {
-						["hide"] = "always",
-					},
-					["LibDBIcon10_KPack"] = {
-						["hide"] = "always",
-					},
-					["XPerl_MinimapButton_Frame"] = {
-						["hide"] = "always",
-					},
-					["MiniMapInstanceDifficulty"] = {
-						["hide"] = "always",
-					},
-					["zoom"] = {
-						["hide"] = "hover",
-					},
-					["LibDBIcon10_Grid2"] = {
-						["hide"] = "always",
-					},
-					["lfg"] = {
-						["hide"] = "always",
-					},
-					["pvp"] = {
-						["hide"] = "always",
-					},
-					["MiniMapLFGFrame"] = {
-						["hide"] = "always",
-					},
-					["MBB_MinimapButtonFrame"] = {
-						["hide"] = "always",
-					},
-					["HealBot_ButtonFrame"] = {
-						["hide"] = "always",
-					},
-					["LibDBIcon10_Bartender4"] = {
-						["hide"] = "always",
-					},
-					["mapclock"] = {
-						["hide"] = "always",
-					},
-					["mail"] = {
-						["hide"] = "always",
-					},
-					["difficulty"] = {
-						["hide"] = "always",
-					},
-					["LibDBIcon10_WeakAuras"] = {
-						["hide"] = "always",
-					},
-					["dragPositions"] = {
-						["LibDBIcon10_Bartender4"] = 111.6220367474655,
-						["LibDBIcon10_Omen"] = 247.9944713618571,
-						["GameTimeFrame"] = 29.93262123176038,
-						["MiniMapTrackingButton"] = 165.7945729144758,
-						["XPerl_MinimapButton_Frame"] = -19.81270584939471,
-					},
-					["tracking"] = {
-						["hide"] = "always",
-					},
-					["Gatherer_MinimapOptionsButton"] = {
-						["hide"] = "always",
-					},
-				},
-				["Default"] = {
-					["MiniMapRecordingButton"] = {
-						["hide"] = "always",
-					},
-					["LibDBIcon10_Omen"] = {
-						["hide"] = "hover",
-					},
-					["LibDBIcon10_Skada"] = {
-						["hide"] = "always",
-					},
-					["LibDBIcon10_GladiusMinimapIcon"] = {
-						["hide"] = "always",
-					},
-					["FuBarPluginAtlasLootFuFrameMinimapButton"] = {
-						["hide"] = "always",
-					},
-					["LibDBIcon10_MBF"] = {
-						["hide"] = "always",
-					},
-					["LibDBIcon10_DBM"] = {
-						["hide"] = "always",
-					},
-					["MiniMapLFGFrame"] = {
-						["hide"] = "always",
-					},
-					["XPerl_MinimapButton_Frame"] = {
-						["hide"] = "always",
-					},
-					["MiniMapInstanceDifficulty"] = {
-						["hide"] = "always",
-					},
-					["zoom"] = {
-						["hide"] = "hover",
-					},
-					["LibDBIcon10_Grid2"] = {
-						["hide"] = "always",
-					},
-					["lfg"] = {
-						["hide"] = "always",
-					},
-					["Gatherer_MinimapOptionsButton"] = {
-						["hide"] = "always",
-					},
-					["MBB_MinimapButtonFrame"] = {
-						["hide"] = "always",
-					},
-					["LibDBIcon10_KPack"] = {
-						["hide"] = "always",
-					},
-					["HealBot_ButtonFrame"] = {
-						["hide"] = "always",
-					},
-					["LibDBIcon10_Bartender4"] = {
-						["hide"] = "always",
-					},
-					["mapclock"] = {
-						["hide"] = "always",
-					},
-					["mail"] = {
-						["hide"] = "always",
-					},
-					["difficulty"] = {
-						["hide"] = "always",
-					},
-					["LibDBIcon10_WeakAuras"] = {
-						["hide"] = "always",
-					},
-					["dragPositions"] = {
-						["LibDBIcon10_Bartender4"] = 111.6220367474655,
-						["LibDBIcon10_Omen"] = 247.9944713618571,
-						["GameTimeFrame"] = 29.93262123176038,
-						["MiniMapTrackingButton"] = 165.7945729144758,
-						["XPerl_MinimapButton_Frame"] = -19.81270584939471,
-					},
-					["tracking"] = {
-						["hide"] = "always",
-					},
-					["pvp"] = {
-						["hide"] = "always",
-					},
-				},
-				["Sikelet - Icecrown"] = {
-					["MiniMapRecordingButton"] = {
-						["hide"] = "always",
-					},
-					["LibDBIcon10_Omen"] = {
-						["hide"] = "hover",
-					},
-					["LibDBIcon10_Skada"] = {
-						["hide"] = "always",
-					},
-					["LibDBIcon10_GladiusMinimapIcon"] = {
-						["hide"] = "always",
-					},
-					["FuBarPluginAtlasLootFuFrameMinimapButton"] = {
-						["hide"] = "always",
-					},
-					["LibDBIcon10_MBF"] = {
-						["hide"] = "always",
-					},
-					["LibDBIcon10_DBM"] = {
-						["hide"] = "always",
-					},
-					["MiniMapLFGFrame"] = {
-						["hide"] = "always",
-					},
-					["XPerl_MinimapButton_Frame"] = {
-						["hide"] = "always",
-					},
-					["MiniMapInstanceDifficulty"] = {
-						["hide"] = "always",
-					},
-					["zoom"] = {
-						["hide"] = "hover",
-					},
-					["LibDBIcon10_Grid2"] = {
-						["hide"] = "always",
-					},
-					["lfg"] = {
-						["hide"] = "always",
-					},
-					["pvp"] = {
-						["hide"] = "always",
-					},
-					["LibDBIcon10_KPack"] = {
-						["hide"] = "always",
-					},
-					["MBB_MinimapButtonFrame"] = {
-						["hide"] = "always",
-					},
-					["HealBot_ButtonFrame"] = {
-						["hide"] = "always",
-					},
-					["LibDBIcon10_Bartender4"] = {
-						["hide"] = "always",
-					},
-					["mapclock"] = {
-						["hide"] = "always",
-					},
-					["mail"] = {
-						["hide"] = "always",
-					},
-					["difficulty"] = {
-						["hide"] = "always",
-					},
-					["LibDBIcon10_WeakAuras"] = {
-						["hide"] = "always",
-					},
-					["dragPositions"] = {
-						["LibDBIcon10_Bartender4"] = 111.6220367474655,
-						["LibDBIcon10_MBF"] = 237.7593516091118,
-						["MiniMapTrackingButton"] = 165.7945729144758,
-						["LibDBIcon10_Omen"] = 247.9944713618571,
-						["GameTimeFrame"] = 29.93262123176038,
-						["LibDBIcon10_GladiusMinimapIcon"] = -10.69549113552641,
-						["XPerl_MinimapButton_Frame"] = -19.81270584939471,
-					},
-					["tracking"] = {
-						["hide"] = "always",
-					},
-					["Gatherer_MinimapOptionsButton"] = {
-						["hide"] = "always",
-					},
-				},
-				["Canubet - Icecrown"] = {
-					["MiniMapRecordingButton"] = {
-						["hide"] = "always",
-					},
-					["LibDBIcon10_Omen"] = {
-						["hide"] = "hover",
-					},
-					["LibDBIcon10_Skada"] = {
-						["hide"] = "always",
-					},
-					["LibDBIcon10_GladiusMinimapIcon"] = {
-						["hide"] = "always",
-					},
-					["FuBarPluginAtlasLootFuFrameMinimapButton"] = {
-						["hide"] = "always",
-					},
-					["LibDBIcon10_MBF"] = {
-						["hide"] = "always",
-					},
-					["LibDBIcon10_DBM"] = {
-						["hide"] = "always",
-					},
-					["MiniMapLFGFrame"] = {
-						["hide"] = "always",
-					},
-					["XPerl_MinimapButton_Frame"] = {
-						["hide"] = "always",
-					},
-					["MiniMapInstanceDifficulty"] = {
-						["hide"] = "always",
-					},
-					["zoom"] = {
-						["hide"] = "hover",
-					},
-					["LibDBIcon10_Grid2"] = {
-						["hide"] = "always",
-					},
-					["lfg"] = {
-						["hide"] = "always",
-					},
-					["pvp"] = {
-						["hide"] = "always",
-					},
-					["LibDBIcon10_KPack"] = {
-						["hide"] = "always",
-					},
-					["MBB_MinimapButtonFrame"] = {
-						["hide"] = "always",
-					},
-					["HealBot_ButtonFrame"] = {
-						["hide"] = "always",
-					},
-					["LibDBIcon10_Bartender4"] = {
-						["hide"] = "always",
-					},
-					["mapclock"] = {
-						["hide"] = "always",
-					},
-					["mail"] = {
-						["hide"] = "always",
-					},
-					["difficulty"] = {
-						["hide"] = "always",
-					},
-					["LibDBIcon10_WeakAuras"] = {
-						["hide"] = "always",
-					},
-					["dragPositions"] = {
-						["LibDBIcon10_Bartender4"] = 111.6220367474655,
-						["LibDBIcon10_Omen"] = 247.9944713618571,
-						["GameTimeFrame"] = 29.93262123176038,
-						["MiniMapTrackingButton"] = 165.7945729144758,
-						["XPerl_MinimapButton_Frame"] = -19.81270584939471,
-					},
-					["tracking"] = {
-						["hide"] = "always",
-					},
-					["Gatherer_MinimapOptionsButton"] = {
-						["hide"] = "always",
-					},
-				},
-				["Ramozan - Icecrown"] = {
-					["MiniMapRecordingButton"] = {
-						["hide"] = "always",
-					},
-					["LibDBIcon10_Omen"] = {
-						["hide"] = "hover",
-					},
-					["LibDBIcon10_Skada"] = {
-						["hide"] = "always",
-					},
-					["LibDBIcon10_GladiusMinimapIcon"] = {
-						["hide"] = "always",
-					},
-					["FuBarPluginAtlasLootFuFrameMinimapButton"] = {
-						["hide"] = "always",
-					},
-					["LibDBIcon10_MBF"] = {
-						["hide"] = "always",
-					},
-					["LibDBIcon10_DBM"] = {
-						["hide"] = "always",
-					},
-					["MiniMapLFGFrame"] = {
-						["hide"] = "always",
-					},
-					["XPerl_MinimapButton_Frame"] = {
-						["hide"] = "always",
-					},
-					["MiniMapInstanceDifficulty"] = {
-						["hide"] = "always",
-					},
-					["zoom"] = {
-						["hide"] = "hover",
-					},
-					["LibDBIcon10_Grid2"] = {
-						["hide"] = "always",
-					},
-					["lfg"] = {
-						["hide"] = "always",
-					},
-					["pvp"] = {
-						["hide"] = "always",
-					},
-					["LibDBIcon10_KPack"] = {
-						["hide"] = "always",
-					},
-					["MBB_MinimapButtonFrame"] = {
-						["hide"] = "always",
-					},
-					["HealBot_ButtonFrame"] = {
-						["hide"] = "always",
-					},
-					["LibDBIcon10_Bartender4"] = {
-						["hide"] = "always",
-					},
-					["mapclock"] = {
-						["hide"] = "always",
-					},
-					["mail"] = {
-						["hide"] = "always",
-					},
-					["difficulty"] = {
-						["hide"] = "always",
-					},
-					["LibDBIcon10_WeakAuras"] = {
-						["hide"] = "always",
-					},
-					["dragPositions"] = {
-						["LibDBIcon10_Bartender4"] = 111.6220367474655,
-						["LibDBIcon10_Omen"] = 247.9944713618571,
-						["GameTimeFrame"] = 29.93262123176038,
-						["MiniMapTrackingButton"] = 165.7945729144758,
-						["XPerl_MinimapButton_Frame"] = -19.81270584939471,
-					},
-					["tracking"] = {
-						["hide"] = "always",
-					},
-					["Gatherer_MinimapOptionsButton"] = {
-						["hide"] = "always",
-					},
-				},
-				["Druth"] = {
-					["MiniMapRecordingButton"] = {
-						["hide"] = "always",
-					},
-					["LibDBIcon10_Omen"] = {
-						["hide"] = "hover",
-					},
-					["LibDBIcon10_Skada"] = {
-						["hide"] = "always",
-					},
-					["LibDBIcon10_GladiusMinimapIcon"] = {
-						["hide"] = "always",
-					},
-					["FuBarPluginAtlasLootFuFrameMinimapButton"] = {
-						["hide"] = "always",
-					},
-					["LibDBIcon10_MBF"] = {
-						["hide"] = "always",
-					},
-					["LibDBIcon10_DBM"] = {
-						["hide"] = "always",
-					},
-					["MiniMapLFGFrame"] = {
-						["hide"] = "always",
-					},
-					["XPerl_MinimapButton_Frame"] = {
-						["hide"] = "always",
-					},
-					["MiniMapInstanceDifficulty"] = {
-						["hide"] = "always",
-					},
-					["zoom"] = {
-						["hide"] = "hover",
-					},
-					["LibDBIcon10_Grid2"] = {
-						["hide"] = "always",
-					},
-					["lfg"] = {
-						["hide"] = "always",
-					},
 					["Gatherer_MinimapOptionsButton"] = {
 						["hide"] = "always",
 					},
@@ -799,22 +230,22 @@ SexyMapDB = {
 					["HealBot_ButtonFrame"] = {
 						["hide"] = "always",
 					},
-					["mail"] = {
-						["hide"] = "always",
-					},
-					["difficulty"] = {
-						["hide"] = "always",
-					},
-					["mapclock"] = {
+					["LibDBIcon10_WeakAuras"] = {
 						["hide"] = "always",
 					},
 					["LibDBIcon10_Bartender4"] = {
 						["hide"] = "always",
 					},
+					["mapclock"] = {
+						["hide"] = "always",
+					},
+					["difficulty"] = {
+						["hide"] = "always",
+					},
 					["MBB_MinimapButtonFrame"] = {
 						["hide"] = "always",
 					},
-					["LibDBIcon10_WeakAuras"] = {
+					["mail"] = {
 						["hide"] = "always",
 					},
 					["dragPositions"] = {
@@ -871,7 +302,7 @@ SexyMapDB = {
 					["lfg"] = {
 						["hide"] = "always",
 					},
-					["Gatherer_MinimapOptionsButton"] = {
+					["pvp"] = {
 						["hide"] = "always",
 					},
 					["MBB_MinimapButtonFrame"] = {
@@ -880,7 +311,7 @@ SexyMapDB = {
 					["LibDBIcon10_KPack"] = {
 						["hide"] = "always",
 					},
-					["HealBot_ButtonFrame"] = {
+					["LibDBIcon10_WeakAuras"] = {
 						["hide"] = "always",
 					},
 					["LibDBIcon10_Bartender4"] = {
@@ -889,13 +320,582 @@ SexyMapDB = {
 					["mapclock"] = {
 						["hide"] = "always",
 					},
+					["difficulty"] = {
+						["hide"] = "always",
+					},
 					["mail"] = {
+						["hide"] = "always",
+					},
+					["HealBot_ButtonFrame"] = {
+						["hide"] = "always",
+					},
+					["dragPositions"] = {
+						["LibDBIcon10_Bartender4"] = 111.6220367474655,
+						["LibDBIcon10_Omen"] = 247.9944713618571,
+						["GameTimeFrame"] = 29.93262123176038,
+						["MiniMapTrackingButton"] = 165.7945729144758,
+						["XPerl_MinimapButton_Frame"] = -19.81270584939471,
+					},
+					["tracking"] = {
+						["hide"] = "always",
+					},
+					["Gatherer_MinimapOptionsButton"] = {
+						["hide"] = "always",
+					},
+				},
+				["Druth"] = {
+					["MiniMapRecordingButton"] = {
+						["hide"] = "always",
+					},
+					["LibDBIcon10_Omen"] = {
+						["hide"] = "hover",
+					},
+					["LibDBIcon10_Skada"] = {
+						["hide"] = "always",
+					},
+					["LibDBIcon10_GladiusMinimapIcon"] = {
+						["hide"] = "always",
+					},
+					["FuBarPluginAtlasLootFuFrameMinimapButton"] = {
+						["hide"] = "always",
+					},
+					["LibDBIcon10_MBF"] = {
+						["hide"] = "always",
+					},
+					["LibDBIcon10_DBM"] = {
+						["hide"] = "always",
+					},
+					["MiniMapLFGFrame"] = {
+						["hide"] = "always",
+					},
+					["XPerl_MinimapButton_Frame"] = {
+						["hide"] = "always",
+					},
+					["MiniMapInstanceDifficulty"] = {
+						["hide"] = "always",
+					},
+					["zoom"] = {
+						["hide"] = "hover",
+					},
+					["LibDBIcon10_Grid2"] = {
+						["hide"] = "always",
+					},
+					["lfg"] = {
+						["hide"] = "always",
+					},
+					["pvp"] = {
+						["hide"] = "always",
+					},
+					["LibDBIcon10_KPack"] = {
+						["hide"] = "always",
+					},
+					["LibDBIcon10_WeakAuras"] = {
+						["hide"] = "always",
+					},
+					["HealBot_ButtonFrame"] = {
 						["hide"] = "always",
 					},
 					["difficulty"] = {
 						["hide"] = "always",
 					},
+					["mapclock"] = {
+						["hide"] = "always",
+					},
+					["MBB_MinimapButtonFrame"] = {
+						["hide"] = "always",
+					},
+					["LibDBIcon10_Bartender4"] = {
+						["hide"] = "always",
+					},
+					["mail"] = {
+						["hide"] = "always",
+					},
+					["dragPositions"] = {
+						["LibDBIcon10_Bartender4"] = 111.6220367474655,
+						["LibDBIcon10_Omen"] = 247.9944713618571,
+						["GameTimeFrame"] = 29.93262123176038,
+						["MiniMapTrackingButton"] = 165.7945729144758,
+						["XPerl_MinimapButton_Frame"] = -19.81270584939471,
+					},
+					["tracking"] = {
+						["hide"] = "always",
+					},
+					["Gatherer_MinimapOptionsButton"] = {
+						["hide"] = "always",
+					},
+				},
+				["Default"] = {
+					["MiniMapRecordingButton"] = {
+						["hide"] = "always",
+					},
+					["LibDBIcon10_Omen"] = {
+						["hide"] = "hover",
+					},
+					["LibDBIcon10_Skada"] = {
+						["hide"] = "always",
+					},
+					["LibDBIcon10_GladiusMinimapIcon"] = {
+						["hide"] = "always",
+					},
+					["FuBarPluginAtlasLootFuFrameMinimapButton"] = {
+						["hide"] = "always",
+					},
+					["LibDBIcon10_MBF"] = {
+						["hide"] = "always",
+					},
+					["LibDBIcon10_DBM"] = {
+						["hide"] = "always",
+					},
+					["MiniMapLFGFrame"] = {
+						["hide"] = "always",
+					},
+					["XPerl_MinimapButton_Frame"] = {
+						["hide"] = "always",
+					},
+					["MiniMapInstanceDifficulty"] = {
+						["hide"] = "always",
+					},
+					["zoom"] = {
+						["hide"] = "hover",
+					},
+					["LibDBIcon10_Grid2"] = {
+						["hide"] = "always",
+					},
+					["lfg"] = {
+						["hide"] = "always",
+					},
+					["pvp"] = {
+						["hide"] = "always",
+					},
+					["MBB_MinimapButtonFrame"] = {
+						["hide"] = "always",
+					},
+					["LibDBIcon10_KPack"] = {
+						["hide"] = "always",
+					},
 					["LibDBIcon10_WeakAuras"] = {
+						["hide"] = "always",
+					},
+					["LibDBIcon10_Bartender4"] = {
+						["hide"] = "always",
+					},
+					["mapclock"] = {
+						["hide"] = "always",
+					},
+					["difficulty"] = {
+						["hide"] = "always",
+					},
+					["mail"] = {
+						["hide"] = "always",
+					},
+					["HealBot_ButtonFrame"] = {
+						["hide"] = "always",
+					},
+					["dragPositions"] = {
+						["LibDBIcon10_Bartender4"] = 111.6220367474655,
+						["LibDBIcon10_Omen"] = 247.9944713618571,
+						["GameTimeFrame"] = 29.93262123176038,
+						["MiniMapTrackingButton"] = 165.7945729144758,
+						["XPerl_MinimapButton_Frame"] = -19.81270584939471,
+					},
+					["tracking"] = {
+						["hide"] = "always",
+					},
+					["Gatherer_MinimapOptionsButton"] = {
+						["hide"] = "always",
+					},
+				},
+				["Sikelet - Icecrown"] = {
+					["MiniMapRecordingButton"] = {
+						["hide"] = "always",
+					},
+					["LibDBIcon10_Omen"] = {
+						["hide"] = "hover",
+					},
+					["LibDBIcon10_Skada"] = {
+						["hide"] = "always",
+					},
+					["LibDBIcon10_GladiusMinimapIcon"] = {
+						["hide"] = "always",
+					},
+					["FuBarPluginAtlasLootFuFrameMinimapButton"] = {
+						["hide"] = "always",
+					},
+					["LibDBIcon10_MBF"] = {
+						["hide"] = "always",
+					},
+					["LibDBIcon10_DBM"] = {
+						["hide"] = "always",
+					},
+					["MiniMapLFGFrame"] = {
+						["hide"] = "always",
+					},
+					["XPerl_MinimapButton_Frame"] = {
+						["hide"] = "always",
+					},
+					["MiniMapInstanceDifficulty"] = {
+						["hide"] = "always",
+					},
+					["zoom"] = {
+						["hide"] = "hover",
+					},
+					["LibDBIcon10_Grid2"] = {
+						["hide"] = "always",
+					},
+					["lfg"] = {
+						["hide"] = "always",
+					},
+					["Gatherer_MinimapOptionsButton"] = {
+						["hide"] = "always",
+					},
+					["LibDBIcon10_KPack"] = {
+						["hide"] = "always",
+					},
+					["MBB_MinimapButtonFrame"] = {
+						["hide"] = "always",
+					},
+					["LibDBIcon10_WeakAuras"] = {
+						["hide"] = "always",
+					},
+					["LibDBIcon10_Bartender4"] = {
+						["hide"] = "always",
+					},
+					["mapclock"] = {
+						["hide"] = "always",
+					},
+					["difficulty"] = {
+						["hide"] = "always",
+					},
+					["mail"] = {
+						["hide"] = "always",
+					},
+					["HealBot_ButtonFrame"] = {
+						["hide"] = "always",
+					},
+					["dragPositions"] = {
+						["LibDBIcon10_Bartender4"] = 111.6220367474655,
+						["LibDBIcon10_MBF"] = 237.7593516091118,
+						["MiniMapTrackingButton"] = 165.7945729144758,
+						["LibDBIcon10_Omen"] = 247.9944713618571,
+						["GameTimeFrame"] = 29.93262123176038,
+						["LibDBIcon10_GladiusMinimapIcon"] = -10.69549113552641,
+						["XPerl_MinimapButton_Frame"] = -19.81270584939471,
+					},
+					["tracking"] = {
+						["hide"] = "always",
+					},
+					["pvp"] = {
+						["hide"] = "always",
+					},
+				},
+				["Canubet - Icecrown"] = {
+					["MiniMapRecordingButton"] = {
+						["hide"] = "always",
+					},
+					["LibDBIcon10_Omen"] = {
+						["hide"] = "hover",
+					},
+					["LibDBIcon10_Skada"] = {
+						["hide"] = "always",
+					},
+					["LibDBIcon10_GladiusMinimapIcon"] = {
+						["hide"] = "always",
+					},
+					["FuBarPluginAtlasLootFuFrameMinimapButton"] = {
+						["hide"] = "always",
+					},
+					["LibDBIcon10_MBF"] = {
+						["hide"] = "always",
+					},
+					["LibDBIcon10_DBM"] = {
+						["hide"] = "always",
+					},
+					["MiniMapLFGFrame"] = {
+						["hide"] = "always",
+					},
+					["XPerl_MinimapButton_Frame"] = {
+						["hide"] = "always",
+					},
+					["MiniMapInstanceDifficulty"] = {
+						["hide"] = "always",
+					},
+					["zoom"] = {
+						["hide"] = "hover",
+					},
+					["LibDBIcon10_Grid2"] = {
+						["hide"] = "always",
+					},
+					["lfg"] = {
+						["hide"] = "always",
+					},
+					["Gatherer_MinimapOptionsButton"] = {
+						["hide"] = "always",
+					},
+					["LibDBIcon10_KPack"] = {
+						["hide"] = "always",
+					},
+					["MBB_MinimapButtonFrame"] = {
+						["hide"] = "always",
+					},
+					["LibDBIcon10_WeakAuras"] = {
+						["hide"] = "always",
+					},
+					["LibDBIcon10_Bartender4"] = {
+						["hide"] = "always",
+					},
+					["mapclock"] = {
+						["hide"] = "always",
+					},
+					["difficulty"] = {
+						["hide"] = "always",
+					},
+					["mail"] = {
+						["hide"] = "always",
+					},
+					["HealBot_ButtonFrame"] = {
+						["hide"] = "always",
+					},
+					["dragPositions"] = {
+						["LibDBIcon10_Bartender4"] = 111.6220367474655,
+						["LibDBIcon10_Omen"] = 247.9944713618571,
+						["GameTimeFrame"] = 29.93262123176038,
+						["MiniMapTrackingButton"] = 165.7945729144758,
+						["XPerl_MinimapButton_Frame"] = -19.81270584939471,
+					},
+					["tracking"] = {
+						["hide"] = "always",
+					},
+					["pvp"] = {
+						["hide"] = "always",
+					},
+				},
+				["Ramozan - Icecrown"] = {
+					["MiniMapRecordingButton"] = {
+						["hide"] = "always",
+					},
+					["LibDBIcon10_Omen"] = {
+						["hide"] = "hover",
+					},
+					["LibDBIcon10_Skada"] = {
+						["hide"] = "always",
+					},
+					["LibDBIcon10_GladiusMinimapIcon"] = {
+						["hide"] = "always",
+					},
+					["FuBarPluginAtlasLootFuFrameMinimapButton"] = {
+						["hide"] = "always",
+					},
+					["LibDBIcon10_MBF"] = {
+						["hide"] = "always",
+					},
+					["LibDBIcon10_DBM"] = {
+						["hide"] = "always",
+					},
+					["MiniMapLFGFrame"] = {
+						["hide"] = "always",
+					},
+					["XPerl_MinimapButton_Frame"] = {
+						["hide"] = "always",
+					},
+					["MiniMapInstanceDifficulty"] = {
+						["hide"] = "always",
+					},
+					["zoom"] = {
+						["hide"] = "hover",
+					},
+					["LibDBIcon10_Grid2"] = {
+						["hide"] = "always",
+					},
+					["lfg"] = {
+						["hide"] = "always",
+					},
+					["Gatherer_MinimapOptionsButton"] = {
+						["hide"] = "always",
+					},
+					["LibDBIcon10_KPack"] = {
+						["hide"] = "always",
+					},
+					["MBB_MinimapButtonFrame"] = {
+						["hide"] = "always",
+					},
+					["LibDBIcon10_WeakAuras"] = {
+						["hide"] = "always",
+					},
+					["LibDBIcon10_Bartender4"] = {
+						["hide"] = "always",
+					},
+					["mapclock"] = {
+						["hide"] = "always",
+					},
+					["difficulty"] = {
+						["hide"] = "always",
+					},
+					["mail"] = {
+						["hide"] = "always",
+					},
+					["HealBot_ButtonFrame"] = {
+						["hide"] = "always",
+					},
+					["dragPositions"] = {
+						["LibDBIcon10_Bartender4"] = 111.6220367474655,
+						["LibDBIcon10_Omen"] = 247.9944713618571,
+						["GameTimeFrame"] = 29.93262123176038,
+						["MiniMapTrackingButton"] = 165.7945729144758,
+						["XPerl_MinimapButton_Frame"] = -19.81270584939471,
+					},
+					["tracking"] = {
+						["hide"] = "always",
+					},
+					["pvp"] = {
+						["hide"] = "always",
+					},
+				},
+				["Enayi - Icecrown"] = {
+					["MiniMapRecordingButton"] = {
+						["hide"] = "always",
+					},
+					["LibDBIcon10_Omen"] = {
+						["hide"] = "hover",
+					},
+					["LibDBIcon10_Skada"] = {
+						["hide"] = "always",
+					},
+					["LibDBIcon10_GladiusMinimapIcon"] = {
+						["hide"] = "always",
+					},
+					["FuBarPluginAtlasLootFuFrameMinimapButton"] = {
+						["hide"] = "always",
+					},
+					["LibDBIcon10_MBF"] = {
+						["hide"] = "always",
+					},
+					["LibDBIcon10_DBM"] = {
+						["hide"] = "always",
+					},
+					["LibDBIcon10_KPack"] = {
+						["hide"] = "always",
+					},
+					["XPerl_MinimapButton_Frame"] = {
+						["hide"] = "always",
+					},
+					["MiniMapInstanceDifficulty"] = {
+						["hide"] = "always",
+					},
+					["zoom"] = {
+						["hide"] = "hover",
+					},
+					["LibDBIcon10_Grid2"] = {
+						["hide"] = "always",
+					},
+					["lfg"] = {
+						["hide"] = "always",
+					},
+					["Gatherer_MinimapOptionsButton"] = {
+						["hide"] = "always",
+					},
+					["MiniMapLFGFrame"] = {
+						["hide"] = "always",
+					},
+					["MBB_MinimapButtonFrame"] = {
+						["hide"] = "always",
+					},
+					["LibDBIcon10_WeakAuras"] = {
+						["hide"] = "always",
+					},
+					["LibDBIcon10_Bartender4"] = {
+						["hide"] = "always",
+					},
+					["mapclock"] = {
+						["hide"] = "always",
+					},
+					["difficulty"] = {
+						["hide"] = "always",
+					},
+					["mail"] = {
+						["hide"] = "always",
+					},
+					["HealBot_ButtonFrame"] = {
+						["hide"] = "always",
+					},
+					["dragPositions"] = {
+						["LibDBIcon10_Bartender4"] = 111.6220367474655,
+						["LibDBIcon10_Omen"] = 247.9944713618571,
+						["GameTimeFrame"] = 29.93262123176038,
+						["MiniMapTrackingButton"] = 165.7945729144758,
+						["XPerl_MinimapButton_Frame"] = -19.81270584939471,
+					},
+					["tracking"] = {
+						["hide"] = "always",
+					},
+					["pvp"] = {
+						["hide"] = "always",
+					},
+				},
+				["Ilkkan - Icecrown"] = {
+					["MiniMapRecordingButton"] = {
+						["hide"] = "always",
+					},
+					["LibDBIcon10_Omen"] = {
+						["hide"] = "hover",
+					},
+					["LibDBIcon10_Skada"] = {
+						["hide"] = "always",
+					},
+					["LibDBIcon10_GladiusMinimapIcon"] = {
+						["hide"] = "always",
+					},
+					["FuBarPluginAtlasLootFuFrameMinimapButton"] = {
+						["hide"] = "always",
+					},
+					["LibDBIcon10_MBF"] = {
+						["hide"] = "always",
+					},
+					["LibDBIcon10_DBM"] = {
+						["hide"] = "always",
+					},
+					["MiniMapLFGFrame"] = {
+						["hide"] = "always",
+					},
+					["XPerl_MinimapButton_Frame"] = {
+						["hide"] = "always",
+					},
+					["MiniMapInstanceDifficulty"] = {
+						["hide"] = "always",
+					},
+					["zoom"] = {
+						["hide"] = "hover",
+					},
+					["LibDBIcon10_Grid2"] = {
+						["hide"] = "always",
+					},
+					["lfg"] = {
+						["hide"] = "always",
+					},
+					["Gatherer_MinimapOptionsButton"] = {
+						["hide"] = "always",
+					},
+					["LibDBIcon10_KPack"] = {
+						["hide"] = "always",
+					},
+					["MBB_MinimapButtonFrame"] = {
+						["hide"] = "always",
+					},
+					["LibDBIcon10_WeakAuras"] = {
+						["hide"] = "always",
+					},
+					["LibDBIcon10_Bartender4"] = {
+						["hide"] = "always",
+					},
+					["mapclock"] = {
+						["hide"] = "always",
+					},
+					["difficulty"] = {
+						["hide"] = "always",
+					},
+					["mail"] = {
+						["hide"] = "always",
+					},
+					["HealBot_ButtonFrame"] = {
 						["hide"] = "always",
 					},
 					["dragPositions"] = {
@@ -942,7 +942,7 @@ SexyMapDB = {
 				["Druth"] = {
 					["shape"] = "Interface\\BUTTONS\\WHITE8X8",
 				},
-				["Enayi - Icecrown"] = {
+				["Icecrown"] = {
 					["shape"] = "Interface\\BUTTONS\\WHITE8X8",
 				},
 				["Sikelet - Icecrown"] = {
@@ -951,8 +951,8 @@ SexyMapDB = {
 				["Ajjde - Blackrock [PvP only]"] = {
 					["shape"] = "Textures\\MinimapMask",
 				},
-				["Default"] = {
-					["shape"] = "Interface\\BUTTONS\\WHITE8X8",
+				["Fatnkz - Icecrown"] = {
+					["shape"] = "Textures\\MinimapMask",
 				},
 				["Cezzarged - Blackrock [PvP only]"] = {
 					["shape"] = "Textures\\MinimapMask",
@@ -963,8 +963,8 @@ SexyMapDB = {
 				["Yaramiem - Blackrock [PvP only]"] = {
 					["shape"] = "Interface\\BUTTONS\\WHITE8X8",
 				},
-				["Fatnkz - Icecrown"] = {
-					["shape"] = "Textures\\MinimapMask",
+				["Default"] = {
+					["shape"] = "Interface\\BUTTONS\\WHITE8X8",
 				},
 				["Ramozan - Icecrown"] = {
 					["shape"] = "Interface\\BUTTONS\\WHITE8X8",
@@ -972,7 +972,7 @@ SexyMapDB = {
 				["Analbuster - Onyxia"] = {
 					["shape"] = "Textures\\MinimapMask",
 				},
-				["Icecrown"] = {
+				["Enayi - Icecrown"] = {
 					["shape"] = "Interface\\BUTTONS\\WHITE8X8",
 				},
 			},
@@ -1004,19 +1004,19 @@ SexyMapDB = {
 				["Default"] = {
 					["scale"] = 1.5,
 				},
-				["Enayi - Icecrown"] = {
-					["scale"] = 1.5,
-				},
-				["Sikelet - Icecrown"] = {
-					["scale"] = 1.5,
-				},
-				["Ramozan - Icecrown"] = {
+				["Icecrown"] = {
 					["scale"] = 1.5,
 				},
 				["Canubet - Icecrown"] = {
 					["scale"] = 1.5,
 				},
-				["Icecrown"] = {
+				["Ramozan - Icecrown"] = {
+					["scale"] = 1.5,
+				},
+				["Sikelet - Icecrown"] = {
+					["scale"] = 1.5,
+				},
+				["Enayi - Icecrown"] = {
 					["scale"] = 1.5,
 				},
 			},
@@ -1058,9 +1058,9 @@ SexyMapDB = {
 					["borders"] = {
 						{
 							["a"] = 1,
-							["b"] = 1,
-							["name"] = "Rune 1",
 							["r"] = 0.3098039215686275,
+							["name"] = "Rune 1",
+							["b"] = 1,
 							["scale"] = 1.4,
 							["rotSpeed"] = -16,
 							["g"] = 0.4784313725490196,
@@ -1068,9 +1068,9 @@ SexyMapDB = {
 						}, -- [1]
 						{
 							["a"] = 0.3799999952316284,
-							["b"] = 1,
-							["rotSpeed"] = 4,
 							["r"] = 0.196078431372549,
+							["rotSpeed"] = 4,
+							["b"] = 1,
 							["scale"] = 2.1,
 							["name"] = "Rune 2",
 							["g"] = 0.2901960784313725,
@@ -1102,9 +1102,9 @@ SexyMapDB = {
 					["borders"] = {
 						{
 							["a"] = 1,
-							["r"] = 0.3098039215686275,
-							["name"] = "Rune 1",
 							["b"] = 1,
+							["name"] = "Rune 1",
+							["r"] = 0.3098039215686275,
 							["scale"] = 1.4,
 							["rotSpeed"] = -16,
 							["g"] = 0.4784313725490196,
@@ -1112,9 +1112,9 @@ SexyMapDB = {
 						}, -- [1]
 						{
 							["a"] = 0.3799999952316284,
-							["r"] = 0.196078431372549,
-							["rotSpeed"] = 4,
 							["b"] = 1,
+							["rotSpeed"] = 4,
+							["r"] = 0.196078431372549,
 							["scale"] = 2.1,
 							["name"] = "Rune 2",
 							["g"] = 0.2901960784313725,
@@ -1136,9 +1136,9 @@ SexyMapDB = {
 					["borders"] = {
 						{
 							["a"] = 1,
-							["b"] = 1,
-							["name"] = "Rune 1",
 							["r"] = 0.3098039215686275,
+							["name"] = "Rune 1",
+							["b"] = 1,
 							["scale"] = 1.4,
 							["rotSpeed"] = -16,
 							["g"] = 0.4784313725490196,
@@ -1146,9 +1146,9 @@ SexyMapDB = {
 						}, -- [1]
 						{
 							["a"] = 0.3799999952316284,
-							["b"] = 1,
-							["rotSpeed"] = 4,
 							["r"] = 0.196078431372549,
+							["rotSpeed"] = 4,
+							["b"] = 1,
 							["scale"] = 2.1,
 							["name"] = "Rune 2",
 							["g"] = 0.2901960784313725,
@@ -1175,7 +1175,7 @@ SexyMapDB = {
 						["scale"] = 1.07,
 					},
 				},
-				["Enayi - Icecrown"] = {
+				["Icecrown"] = {
 					["applyPreset"] = false,
 					["backdrop"] = {
 						["show"] = true,
@@ -1199,9 +1199,9 @@ SexyMapDB = {
 							["disableRotation"] = true,
 							["name"] = "Square Overlay",
 							["blendMode"] = "ADD",
-							["rotation"] = 66,
-							["drawLayer"] = "ARTWORK",
 							["b"] = 1,
+							["drawLayer"] = "ARTWORK",
+							["rotation"] = 66,
 							["texture"] = "World\\GENERIC\\ACTIVEDOODADS\\WORLDTREEPORTALS\\TWISTEDNETHER8.BLP",
 						}, -- [1]
 						{
@@ -1215,8 +1215,8 @@ SexyMapDB = {
 							["disableRotation"] = true,
 							["name"] = "Circle 2",
 							["drawLayer"] = "BACKGROUND",
-							["blendMode"] = "ADD",
 							["r"] = 0.3607843137254902,
+							["blendMode"] = "ADD",
 							["texture"] = "World\\GENERIC\\ACTIVEDOODADS\\INSTANCEPORTAL\\GENERICGLOW2.BLP",
 						}, -- [2]
 					},
@@ -1226,9 +1226,9 @@ SexyMapDB = {
 					["borders"] = {
 						{
 							["a"] = 1,
-							["r"] = 0.3098039215686275,
-							["name"] = "Rune 1",
 							["b"] = 1,
+							["name"] = "Rune 1",
+							["r"] = 0.3098039215686275,
 							["scale"] = 1.4,
 							["rotSpeed"] = -16,
 							["g"] = 0.4784313725490196,
@@ -1236,9 +1236,9 @@ SexyMapDB = {
 						}, -- [1]
 						{
 							["a"] = 0.3799999952316284,
-							["r"] = 0.196078431372549,
-							["rotSpeed"] = 4,
 							["b"] = 1,
+							["rotSpeed"] = 4,
+							["r"] = 0.196078431372549,
 							["scale"] = 2.1,
 							["name"] = "Rune 2",
 							["g"] = 0.2901960784313725,
@@ -1255,24 +1255,14 @@ SexyMapDB = {
 						}, -- [3]
 					},
 				},
-				["Default"] = {
-					["applyPreset"] = false,
-					["backdrop"] = {
-						["show"] = true,
-						["settings"] = {
-							["edgeSize"] = 17,
-						},
-						["scale"] = 1.07,
-					},
-				},
-				["Cezzarged - Blackrock [PvP only]"] = {
+				["Fatnkz - Icecrown"] = {
 					["applyPreset"] = false,
 					["borders"] = {
 						{
 							["a"] = 1,
-							["r"] = 0.3098039215686275,
-							["name"] = "Rune 1",
 							["b"] = 1,
+							["name"] = "Rune 1",
+							["r"] = 0.3098039215686275,
 							["scale"] = 1.4,
 							["rotSpeed"] = -16,
 							["g"] = 0.4784313725490196,
@@ -1280,9 +1270,43 @@ SexyMapDB = {
 						}, -- [1]
 						{
 							["a"] = 0.3799999952316284,
-							["r"] = 0.196078431372549,
-							["rotSpeed"] = 4,
 							["b"] = 1,
+							["rotSpeed"] = 4,
+							["r"] = 0.196078431372549,
+							["scale"] = 2.1,
+							["name"] = "Rune 2",
+							["g"] = 0.2901960784313725,
+							["texture"] = "SPELLS\\AuraRune_A.blp",
+						}, -- [2]
+						{
+							["a"] = 0.3,
+							["name"] = "Fade",
+							["b"] = 1,
+							["scale"] = 1.6,
+							["r"] = 0,
+							["g"] = 0.2235294117647059,
+							["texture"] = "SPELLS\\T_VFX_HERO_CIRCLE.BLP",
+						}, -- [3]
+					},
+				},
+				["Cezzarged - Blackrock [PvP only]"] = {
+					["applyPreset"] = false,
+					["borders"] = {
+						{
+							["a"] = 1,
+							["b"] = 1,
+							["name"] = "Rune 1",
+							["r"] = 0.3098039215686275,
+							["scale"] = 1.4,
+							["rotSpeed"] = -16,
+							["g"] = 0.4784313725490196,
+							["texture"] = "SPELLS\\AURARUNE256.BLP",
+						}, -- [1]
+						{
+							["a"] = 0.3799999952316284,
+							["b"] = 1,
+							["rotSpeed"] = 4,
+							["r"] = 0.196078431372549,
 							["scale"] = 2.1,
 							["name"] = "Rune 2",
 							["g"] = 0.2901960784313725,
@@ -1323,9 +1347,9 @@ SexyMapDB = {
 							["disableRotation"] = true,
 							["name"] = "Square Overlay",
 							["blendMode"] = "ADD",
-							["rotation"] = 66,
-							["drawLayer"] = "ARTWORK",
 							["b"] = 1,
+							["drawLayer"] = "ARTWORK",
+							["rotation"] = 66,
 							["texture"] = "World\\GENERIC\\ACTIVEDOODADS\\WORLDTREEPORTALS\\TWISTEDNETHER8.BLP",
 						}, -- [1]
 						{
@@ -1339,44 +1363,20 @@ SexyMapDB = {
 							["disableRotation"] = true,
 							["name"] = "Circle 2",
 							["drawLayer"] = "BACKGROUND",
-							["blendMode"] = "ADD",
 							["r"] = 0.3607843137254902,
+							["blendMode"] = "ADD",
 							["texture"] = "World\\GENERIC\\ACTIVEDOODADS\\INSTANCEPORTAL\\GENERICGLOW2.BLP",
 						}, -- [2]
 					},
 				},
-				["Fatnkz - Icecrown"] = {
+				["Default"] = {
 					["applyPreset"] = false,
-					["borders"] = {
-						{
-							["a"] = 1,
-							["r"] = 0.3098039215686275,
-							["name"] = "Rune 1",
-							["b"] = 1,
-							["scale"] = 1.4,
-							["rotSpeed"] = -16,
-							["g"] = 0.4784313725490196,
-							["texture"] = "SPELLS\\AURARUNE256.BLP",
-						}, -- [1]
-						{
-							["a"] = 0.3799999952316284,
-							["r"] = 0.196078431372549,
-							["rotSpeed"] = 4,
-							["b"] = 1,
-							["scale"] = 2.1,
-							["name"] = "Rune 2",
-							["g"] = 0.2901960784313725,
-							["texture"] = "SPELLS\\AuraRune_A.blp",
-						}, -- [2]
-						{
-							["a"] = 0.3,
-							["name"] = "Fade",
-							["b"] = 1,
-							["scale"] = 1.6,
-							["r"] = 0,
-							["g"] = 0.2235294117647059,
-							["texture"] = "SPELLS\\T_VFX_HERO_CIRCLE.BLP",
-						}, -- [3]
+					["backdrop"] = {
+						["show"] = true,
+						["settings"] = {
+							["edgeSize"] = 17,
+						},
+						["scale"] = 1.07,
 					},
 				},
 				["Ramozan - Icecrown"] = {
@@ -1394,9 +1394,9 @@ SexyMapDB = {
 					["borders"] = {
 						{
 							["a"] = 1,
-							["b"] = 1,
-							["name"] = "Rune 1",
 							["r"] = 0.3098039215686275,
+							["name"] = "Rune 1",
+							["b"] = 1,
 							["scale"] = 1.4,
 							["rotSpeed"] = -16,
 							["g"] = 0.4784313725490196,
@@ -1404,9 +1404,9 @@ SexyMapDB = {
 						}, -- [1]
 						{
 							["a"] = 0.3799999952316284,
-							["b"] = 1,
-							["rotSpeed"] = 4,
 							["r"] = 0.196078431372549,
+							["rotSpeed"] = 4,
+							["b"] = 1,
 							["scale"] = 2.1,
 							["name"] = "Rune 2",
 							["g"] = 0.2901960784313725,
@@ -1423,7 +1423,7 @@ SexyMapDB = {
 						}, -- [3]
 					},
 				},
-				["Icecrown"] = {
+				["Enayi - Icecrown"] = {
 					["applyPreset"] = false,
 					["backdrop"] = {
 						["show"] = true,
@@ -1442,8 +1442,8 @@ SexyMapDB = {
 					["setNewScale"] = true,
 				},
 				["Ilkkan - Icecrown"] = {
-					["scale"] = 1.4,
 					["setNewScale"] = true,
+					["scale"] = 1.4,
 				},
 				["PALADIN"] = {
 					["scale"] = 1.4,
@@ -1454,8 +1454,8 @@ SexyMapDB = {
 					["setNewScale"] = true,
 				},
 				["Koboldminer - Icecrown"] = {
-					["setNewScale"] = true,
 					["scale"] = 1.4,
+					["setNewScale"] = true,
 				},
 				["Enkz - Blackrock [PvP only]"] = {
 					["scale"] = 1.4,
@@ -1469,7 +1469,7 @@ SexyMapDB = {
 					["scale"] = 1.4,
 					["setNewScale"] = true,
 				},
-				["Enayi - Icecrown"] = {
+				["Icecrown"] = {
 					["scale"] = 1.4,
 					["setNewScale"] = true,
 				},
@@ -1481,7 +1481,7 @@ SexyMapDB = {
 					["scale"] = 1.4,
 					["setNewScale"] = true,
 				},
-				["Default"] = {
+				["Fatnkz - Icecrown"] = {
 					["scale"] = 1.4,
 					["setNewScale"] = true,
 				},
@@ -1497,7 +1497,7 @@ SexyMapDB = {
 					["scale"] = 1.4,
 					["setNewScale"] = true,
 				},
-				["Fatnkz - Icecrown"] = {
+				["Default"] = {
 					["scale"] = 1.4,
 					["setNewScale"] = true,
 				},
@@ -1509,7 +1509,7 @@ SexyMapDB = {
 					["scale"] = 1.4,
 					["setNewScale"] = true,
 				},
-				["Icecrown"] = {
+				["Enayi - Icecrown"] = {
 					["scale"] = 1.4,
 					["setNewScale"] = true,
 				},
@@ -1535,19 +1535,19 @@ SexyMapDB = {
 				["Default"] = {
 					["show"] = "hover",
 				},
-				["Enayi - Icecrown"] = {
-					["show"] = "hover",
-				},
-				["Sikelet - Icecrown"] = {
-					["show"] = "hover",
-				},
-				["Ramozan - Icecrown"] = {
+				["Icecrown"] = {
 					["show"] = "hover",
 				},
 				["Canubet - Icecrown"] = {
 					["show"] = "hover",
 				},
-				["Icecrown"] = {
+				["Ramozan - Icecrown"] = {
+					["show"] = "hover",
+				},
+				["Sikelet - Icecrown"] = {
+					["show"] = "hover",
+				},
+				["Enayi - Icecrown"] = {
 					["show"] = "hover",
 				},
 			},
@@ -1556,7 +1556,7 @@ SexyMapDB = {
 	["profileKeys"] = {
 		["Gnomite - Icecrown"] = "Gnomite - Icecrown",
 		["Fatnkz - Icecrown"] = "Fatnkz - Icecrown",
-		["Sikelet - Icecrown"] = "Sikelet - Icecrown",
+		["Ajjde - Blackrock [PvP only]"] = "Ajjde - Blackrock [PvP only]",
 		["Yaramiemm - Blackrock [PvP only]"] = "Yaramiemm - Blackrock [PvP only]",
 		["Ilkkan - Icecrown"] = "Ilkkan - Icecrown",
 		["Koboldminer - Icecrown"] = "Koboldminer - Icecrown",
@@ -1564,11 +1564,11 @@ SexyMapDB = {
 		["Enkz - Blackrock [PvP only]"] = "Enkz - Blackrock [PvP only]",
 		["Cezzarged - Blackrock [PvP only]"] = "Cezzarged - Blackrock [PvP only]",
 		["Yaramiem - Blackrock [PvP only]"] = "Yaramiem - Blackrock [PvP only]",
-		["Canubet - Icecrown"] = "Canubet - Icecrown",
 		["Duhht - Blackrock [PvP only]"] = "Duhht - Blackrock [PvP only]",
+		["Canubet - Icecrown"] = "Canubet - Icecrown",
 		["Ramozan - Icecrown"] = "Ramozan - Icecrown",
 		["Analbuster - Onyxia"] = "Analbuster - Onyxia",
-		["Ajjde - Blackrock [PvP only]"] = "Ajjde - Blackrock [PvP only]",
+		["Sikelet - Icecrown"] = "Sikelet - Icecrown",
 	},
 	["profiles"] = {
 		["Gnomite - Icecrown"] = {
@@ -1583,15 +1583,15 @@ SexyMapDB = {
 		},
 		["Default"] = {
 		},
-		["Enayi - Icecrown"] = {
-		},
-		["Sikelet - Icecrown"] = {
-		},
-		["Ramozan - Icecrown"] = {
+		["Icecrown"] = {
 		},
 		["Canubet - Icecrown"] = {
 		},
-		["Icecrown"] = {
+		["Ramozan - Icecrown"] = {
+		},
+		["Sikelet - Icecrown"] = {
+		},
+		["Enayi - Icecrown"] = {
 		},
 	},
 }

@@ -237,8 +237,17 @@ HEALBOT_VAMPIRIC_BLOOD                  = GetSpellInfo(55233) or "Vampiric Blood
 HEALBOT_UNBREAKABLE_ARMOR               = GetSpellInfo(51271) or "Unbreakable Armor";
 HEALBOT_BONE_SHIELD                     = GetSpellInfo(49222) or "Bone Shield";
 HEALBOT_HORN_OF_WINTER                  = GetSpellInfo(57330) or "Horn of Winter";
-HEALBOT_HYSTERIA                        = GetSpellInfo(49016) or "Hysteria";
 HEALBOT_INNERVATE                       = GetSpellInfo(29166) or "Innervate";
+
+HEALBOT_DEATH_WISH                      = GetSpellInfo(12292) or "Death Wish";
+HEALBOT_METAMORPHOSIS                   = GetSpellInfo(47241) or "Metamorphosis";
+HEALBOT_AVENGING_WRATH                  = GetSpellInfo(31884) or "Avenging Wrath";
+HEALBOT_HYSTERIA                        = GetSpellInfo(49016) or "Hysteria";
+HEALBOT_ENRAGE                          = GetSpellInfo(14203) or GetSpellInfo(13048) or GetSpellInfo(13046);
+HEALBOT_OWLKIN_FRENZY                   = GetSpellInfo(48393) or "Owlkin Frenzy";
+HEALBOT_SIPHONED_POWER                  = GetSpellInfo(71605) or GetSpellInfo(71636) or "Siphoned Power";
+HEALBOT_DEVIOUS_MINDS                   = GetSpellInfo(70840) or "Devious Minds";
+HEALBOT_DIVINE_GUARDIAN                 = GetSpellInfo(70940) or "Divine Guardian";
 
 HEALBOT_A_MONKEY                        = GetSpellInfo(13163) or "Aspect of the Monkey"
 HEALBOT_A_HAWK                          = GetSpellInfo(13165) or "Aspect of the Hawk"

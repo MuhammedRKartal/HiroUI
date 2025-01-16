@@ -98,7 +98,7 @@ AF_config = {
 		["rate"] = 60,
 		["system"] = "CHANNEL",
 	},
-	["Blackrock [PvP only]-Cezzarged"] = {
+	["Icecrown-Canubet"] = {
 		["message"] = "AutoFlood 1.1",
 		["channel"] = "1",
 		["idChannel"] = "1",
@@ -126,7 +126,7 @@ AF_config = {
 		["rate"] = 60,
 		["system"] = "CHANNEL",
 	},
-	["Icecrown-Ancaz"] = {
+	["Blackrock [PvP only]-Enkz"] = {
 		["message"] = "AutoFlood 1.1",
 		["channel"] = "1",
 		["idChannel"] = "1",
@@ -140,14 +140,14 @@ AF_config = {
 		["rate"] = 60,
 		["system"] = "CHANNEL",
 	},
-	["Blackrock [PvP only]-Enkz"] = {
+	["Icecrown-Ancaz"] = {
 		["message"] = "AutoFlood 1.1",
 		["channel"] = "1",
 		["idChannel"] = "1",
 		["rate"] = 60,
 		["system"] = "CHANNEL",
 	},
-	["Icecrown-Canubet"] = {
+	["Blackrock [PvP only]-Cezzarged"] = {
 		["message"] = "AutoFlood 1.1",
 		["channel"] = "1",
 		["idChannel"] = "1",

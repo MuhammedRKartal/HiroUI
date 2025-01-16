@@ -3,6 +3,7 @@ MBFDB = {
 	["profileKeys"] = {
 		["Mayiascend - Icecrown"] = "Main",
 		["Malescula - Icecrown"] = "Default",
+		["Pussfeeder - Onyxia"] = "Default",
 		["Canavi - Icecrown"] = "Default",
 		["Cezzarged - Icecrown"] = "Default",
 		["Mayistab - Icecrown"] = "Default",
@@ -16,53 +17,16 @@ MBFDB = {
 		["Plaacebo - Icecrown"] = "Default",
 		["Analbasher - Icecrown"] = "Default",
 		["Mayikiss - Icecrown"] = "Default",
+		["Mayishadow - Icecrown"] = "Default",
 		["Zoolock - Icecrown"] = "Default",
-		["Hirobank - Icecrown"] = "Default",
+		["Elynass - Icecrown"] = "Default",
 		["Kirikox - Icecrown"] = "Default",
 		["Itadori - Icecrown"] = "Default",
 		["Fareci - Icecrown"] = "Default",
-		["Elynass - Icecrown"] = "Default",
+		["Hirobank - Icecrown"] = "Default",
 		["Tokatlarim - Icecrown"] = "Default",
 	},
 	["profiles"] = {
-		["Mayiascend - Icecrown"] = {
-			["MBF_FrameLocation"] = {
-				nil, -- [1]
-				nil, -- [2]
-				-298.9563601192701, -- [3]
-				-185.4165782020735, -- [4]
-			},
-		},
-		["Main"] = {
-			["MBF_FrameLocation"] = {
-				nil, -- [1]
-				nil, -- [2]
-				-298.9563601192701, -- [3]
-				-185.4165782020735, -- [4]
-			},
-			["GrowUp"] = false,
-			["sort_by_rows"] = true,
-			["customChildren"] = {
-				"MinimapButtonFrameDragButton", -- [1]
-				"MiniMapMailFrameDisabled", -- [2]
-				"LibDBIcon10_Bartender4", -- [3]
-				"LibDBIcon10_DBM", -- [4]
-				"Gatherer_MinimapOptionsButton", -- [5]
-				"HealBot_ButtonFrame", -- [6]
-				"LibDBIcon10_Skinner", -- [7]
-				"LibDBIcon10_WeakAuras", -- [8]
-				"XPerl_MinimapButton_Frame", -- [9]
-				"LibDBIcon10_Skada", -- [10]
-				"LibDBIcon10_KPack", -- [11]
-				"FuBarPluginAtlasLootFuFrameMinimapButton", -- [12]
-				"LibDBIcon10_TidyPlatesIcon", -- [13]
-			},
-			["minimapButton"] = {
-				["minimapPos"] = 231.5698387710189,
-				["hide"] = false,
-			},
-			["mbfHidden"] = true,
-		},
 		["Default"] = {
 			["addonScale"] = 0.6,
 			["locked"] = true,
@@ -131,8 +95,47 @@ MBFDB = {
 				"hrbcldgxuuwlnmvwytwk", -- [42]
 				"hbopkdbtgalqreqgmxrk", -- [43]
 				"srktxotvyvrbmsjxgrxf", -- [44]
+				"LibDBIcon10_Grid2", -- [45]
 			},
 			["disabledMail"] = false,
+		},
+		["Mayiascend - Icecrown"] = {
+			["MBF_FrameLocation"] = {
+				nil, -- [1]
+				nil, -- [2]
+				-298.9563601192701, -- [3]
+				-185.4165782020735, -- [4]
+			},
+		},
+		["Main"] = {
+			["MBF_FrameLocation"] = {
+				nil, -- [1]
+				nil, -- [2]
+				-298.9563601192701, -- [3]
+				-185.4165782020735, -- [4]
+			},
+			["GrowUp"] = false,
+			["sort_by_rows"] = true,
+			["mbfHidden"] = true,
+			["minimapButton"] = {
+				["minimapPos"] = 231.5698387710189,
+				["hide"] = false,
+			},
+			["customChildren"] = {
+				"MinimapButtonFrameDragButton", -- [1]
+				"MiniMapMailFrameDisabled", -- [2]
+				"LibDBIcon10_Bartender4", -- [3]
+				"LibDBIcon10_DBM", -- [4]
+				"Gatherer_MinimapOptionsButton", -- [5]
+				"HealBot_ButtonFrame", -- [6]
+				"LibDBIcon10_Skinner", -- [7]
+				"LibDBIcon10_WeakAuras", -- [8]
+				"XPerl_MinimapButton_Frame", -- [9]
+				"LibDBIcon10_Skada", -- [10]
+				"LibDBIcon10_KPack", -- [11]
+				"FuBarPluginAtlasLootFuFrameMinimapButton", -- [12]
+				"LibDBIcon10_TidyPlatesIcon", -- [13]
+			},
 		},
 	},
 }

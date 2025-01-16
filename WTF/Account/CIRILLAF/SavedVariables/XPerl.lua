@@ -20,9 +20,9 @@ XPerlConfigNew = {
 		},
 		["rangeFinder"] = {
 			["StatsFrame"] = {
+				["FadeAmount"] = 0.5,
 				["HealthLowPoint"] = 0.85,
 				["item"] = "Heavy Netherweave Bandage",
-				["FadeAmount"] = 0.5,
 			},
 			["Main"] = {
 				["enabled"] = true,
@@ -31,9 +31,9 @@ XPerlConfigNew = {
 				["HealthLowPoint"] = 0.85,
 			},
 			["NameFrame"] = {
+				["FadeAmount"] = 0.5,
 				["HealthLowPoint"] = 0.85,
 				["item"] = "Heavy Netherweave Bandage",
-				["FadeAmount"] = 0.5,
 			},
 		},
 		["showAFK"] = 1,
@@ -619,6 +619,118 @@ XPerlConfigNew = {
 					["left"] = 646.6667211051451,
 				},
 			},
+			["Mayishadow"] = {
+				["XPerl_RosterTextAnchor"] = {
+					["height"] = 250.0000077961453,
+					["top"] = 498.0000006838724,
+					["left"] = 507.6667394078937,
+					["width"] = 350.0000179174567,
+				},
+				["XPerl_Assists_FrameAnchor"] = {
+					["height"] = 124.0000051974302,
+					["top"] = 610.5714980724031,
+					["left"] = 810.2381124684231,
+					["width"] = 330.0000088903411,
+				},
+				["XPerl_RaidMonitor_Anchor"] = {
+					["height"] = 80.00000109419584,
+					["top"] = 424.0000093006645,
+					["left"] = 582.6666682167775,
+					["width"] = 200.0000027354896,
+				},
+				["XPerl_MTList_Anchor"] = {
+					["top"] = 424.0000093006645,
+					["height"] = 80.00000109419584,
+					["left"] = 579.6666458541502,
+					["width"] = 205.9999949393443,
+				},
+				["XPerl_Raid_Title8"] = {
+					["top"] = 489.8314060366306,
+					["left"] = 1897.676170555681,
+				},
+				["XPerl_AdminFrameAnchor"] = {
+					["top"] = 623.571454920055,
+					["height"] = 149.9999976748339,
+					["left"] = 905.2380503044224,
+					["width"] = 140.0000106684094,
+				},
+				["XPerl_FocusTarget"] = {
+					["top"] = 1150.900226054088,
+					["left"] = 1438.809328054027,
+				},
+				["XPerl_Raid_Title4"] = {
+					["top"] = 149.1600200996579,
+					["left"] = 1897.676170555681,
+				},
+				["XPerl_Raid_Title1"] = {
+					["top"] = 150.4800068822496,
+					["left"] = 1739.936282588011,
+				},
+				["XPerl_Player"] = {
+					["top"] = 1161.988384179608,
+					["left"] = 44.34894729967306,
+				},
+				["XPerl_Raid_Title9"] = {
+					["top"] = 715.5514336920676,
+					["left"] = 1897.676170555681,
+				},
+				["XPerl_Raid_Title5"] = {
+					["top"] = 301.7313829904331,
+					["left"] = 1897.676170555681,
+				},
+				["XPerl_Player_Pet"] = {
+					["top"] = 1057.99983327191,
+					["left"] = 227.6666130282752,
+				},
+				["XPerl_OptionsAnchor"] = {
+					["top"] = 870.0001125653962,
+					["height"] = 540.0001737035882,
+					["left"] = 716.6668267383985,
+					["width"] = 700.0000358349134,
+				},
+				["XPerl_Raid_Title6"] = {
+					["top"] = 490.4914109826349,
+					["left"] = 1792.736308517681,
+				},
+				["XPerl_CheckAnchor"] = {
+					["top"] = 504.000045409127,
+					["height"] = 240.0000032825875,
+					["left"] = 432.6667405704768,
+					["width"] = 500.0000155922906,
+				},
+				["XPerl_Raid_Title2"] = {
+					["top"] = 149.1600200996579,
+					["left"] = 1792.736308517681,
+				},
+				["XPerl_Party_Anchor"] = {
+					["top"] = 1082.496515470798,
+					["left"] = -0,
+				},
+				["XPerl_Focus"] = {
+					["top"] = 1199.983335936789,
+					["left"] = 1327.820820415734,
+				},
+				["XPerl_Raid_Title10"] = {
+					["top"] = 714.2314238000593,
+					["left"] = 1897.676170555681,
+				},
+				["XPerl_Raid_Title7"] = {
+					["top"] = 490.4914109826349,
+					["left"] = 1845.536149572015,
+				},
+				["XPerl_Target"] = {
+					["top"] = 1164.526653222305,
+					["left"] = 328.6766324768555,
+				},
+				["XPerl_TargetTarget"] = {
+					["top"] = 1021.797501195263,
+					["left"] = 477.8743873442959,
+				},
+				["XPerl_Raid_Title3"] = {
+					["top"] = 149.1600200996579,
+					["left"] = 1844.876144626011,
+				},
+			},
 			["Malescula"] = {
 				["XPerl_Player"] = {
 					["top"] = 1085.759978962667,
@@ -923,6 +1035,34 @@ XPerlConfigNew = {
 			},
 		},
 		["Blackrock [PvP only]"] = {
+		},
+		["Onyxia"] = {
+			["Pussfeeder"] = {
+				["XPerl_Player"] = {
+					["top"] = 1191.670106858943,
+					["left"] = 55.93000293350403,
+				},
+				["XPerl_Party_Anchor"] = {
+					["top"] = 1078.200096719288,
+					["left"] = -0,
+				},
+				["XPerl_Focus"] = {
+					["top"] = 1200.000039142261,
+					["left"] = 1483.186932624016,
+				},
+				["XPerl_Player_Pet"] = {
+					["top"] = 1143.500050435589,
+					["left"] = 75.50000256452148,
+				},
+				["XPerl_Target"] = {
+					["top"] = 1192.860032452714,
+					["left"] = 332.0100324848143,
+				},
+				["XPerl_TargetTarget"] = {
+					["top"] = 1036.899966455343,
+					["left"] = 646.6667211051451,
+				},
+			},
 		},
 		["saved"] = {
 			["Main"] = {

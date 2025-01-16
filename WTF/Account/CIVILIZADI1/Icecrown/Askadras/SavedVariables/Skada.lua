@@ -9,18 +9,18 @@ SkadaCharDB = {
 		["cctaken"] = 1,
 		["actors"] = {
 			["Hirohitow"] = {
-				["role"] = "DAMAGER",
 				["last"] = 17802.681,
-				["id"] = "0x070000000047DA91",
-				["class"] = "DEATHKNIGHT",
+				["role"] = "DAMAGER",
 				["cctaken"] = 1,
 				["spec"] = 252,
+				["id"] = "0x070000000047DA91",
+				["class"] = "DEATHKNIGHT",
 				["cctakenspells"] = {
 					["-12826.64"] = {
+						["n"] = 1,
 						["sources"] = {
 							["Aegwyn"] = 1,
 						},
-						["n"] = 1,
 					},
 				},
 				["auras"] = {
@@ -34,9 +34,9 @@ SkadaCharDB = {
 				["dispel"] = 3,
 				["last"] = 17802.681,
 				["role"] = "TANK",
-				["class"] = "PALADIN",
-				["id"] = "0x07000000006CB373",
 				["spec"] = 66,
+				["id"] = "0x07000000006CB373",
+				["class"] = "PALADIN",
 				["dispelspells"] = {
 					["4987.2"] = {
 						["spells"] = {
@@ -67,6 +67,7 @@ SkadaCharDB = {
 		["name"] = "Aegwyn (4)",
 		["mobname"] = "Aegwyn",
 		["dispel"] = 4,
+		["time"] = 9,
 		["actors"] = {
 			["Hirohitow"] = {
 				["role"] = "DAMAGER",
@@ -85,9 +86,9 @@ SkadaCharDB = {
 				["dispel"] = 4,
 				["last"] = 17766.906,
 				["role"] = "TANK",
-				["class"] = "PALADIN",
-				["id"] = "0x07000000006CB373",
 				["spec"] = 66,
+				["id"] = "0x07000000006CB373",
+				["class"] = "PALADIN",
 				["dispelspells"] = {
 					["4987.2"] = {
 						["spells"] = {
@@ -109,7 +110,6 @@ SkadaCharDB = {
 				},
 			},
 		},
-		["time"] = 9,
 		["endtime"] = 1710606232,
 	}, -- [2]
 	{
@@ -127,8 +127,8 @@ SkadaCharDB = {
 				},
 				["id"] = "0x0700000000565331",
 				["class"] = "PLAYER",
-				["damage"] = 595,
 				["enemy"] = true,
+				["damage"] = 595,
 			},
 			["Hirohitow"] = {
 				["last"] = 17729.766,
@@ -143,6 +143,15 @@ SkadaCharDB = {
 				},
 				["role"] = "DAMAGER",
 				["cctaken"] = 1,
+				["class"] = "DEATHKNIGHT",
+				["cctakenspells"] = {
+					["-12826.64"] = {
+						["n"] = 1,
+						["sources"] = {
+							["Aegwyn"] = 1,
+						},
+					},
+				},
 				["damagedspells"] = {
 					["42914.16"] = {
 						["sources"] = {
@@ -152,29 +161,20 @@ SkadaCharDB = {
 						},
 						["count"] = 1,
 						["amount"] = 595,
-						["n_min"] = 595,
-						["n_amt"] = 595,
-						["n_num"] = 1,
 						["n_max"] = 595,
+						["n_min"] = 595,
+						["n_num"] = 1,
+						["n_amt"] = 595,
 					},
 				},
-				["cctakenspells"] = {
-					["-12826.64"] = {
-						["sources"] = {
-							["Aegwyn"] = 1,
-						},
-						["n"] = 1,
-					},
-				},
-				["class"] = "DEATHKNIGHT",
 			},
 			["Askadras"] = {
 				["dispel"] = 3,
 				["last"] = 17729.766,
 				["role"] = "TANK",
-				["class"] = "PALADIN",
-				["id"] = "0x07000000006CB373",
 				["spec"] = 66,
+				["id"] = "0x07000000006CB373",
+				["class"] = "PALADIN",
 				["dispelspells"] = {
 					["4987.2"] = {
 						["spells"] = {
@@ -198,8 +198,8 @@ SkadaCharDB = {
 		["type"] = "pvp",
 		["damaged"] = 595,
 		["dispel"] = 3,
-		["name"] = "Aegwyn (3)",
 		["time"] = 20,
+		["name"] = "Aegwyn (3)",
 		["mobname"] = "Aegwyn",
 		["cctaken"] = 1,
 		["edamage"] = 595,
@@ -232,8 +232,8 @@ SkadaCharDB = {
 				},
 				["id"] = "0x0700000000565331",
 				["class"] = "PLAYER",
-				["enemy"] = true,
 				["damage"] = 2571,
+				["enemy"] = true,
 			},
 			["Hirohitow"] = {
 				["last"] = 17679.442,
@@ -248,6 +248,15 @@ SkadaCharDB = {
 				},
 				["role"] = "DAMAGER",
 				["cctaken"] = 1,
+				["class"] = "DEATHKNIGHT",
+				["cctakenspells"] = {
+					["-12826.64"] = {
+						["n"] = 1,
+						["sources"] = {
+							["Aegwyn"] = 1,
+						},
+					},
+				},
 				["damagedspells"] = {
 					["42914.16"] = {
 						["c_amt"] = 1318,
@@ -261,10 +270,10 @@ SkadaCharDB = {
 						},
 						["count"] = 3,
 						["amount"] = 2532,
-						["c_min"] = 1318,
+						["n_amt"] = 1214,
 						["n_min"] = 602,
 						["n_num"] = 2,
-						["n_amt"] = 1214,
+						["c_min"] = 1318,
 					},
 					["116.16"] = {
 						["c_amt"] = 39,
@@ -275,20 +284,11 @@ SkadaCharDB = {
 						},
 						["count"] = 1,
 						["amount"] = 39,
-						["c_min"] = 39,
-						["c_max"] = 39,
 						["c_num"] = 1,
+						["c_max"] = 39,
+						["c_min"] = 39,
 					},
 				},
-				["cctakenspells"] = {
-					["-12826.64"] = {
-						["sources"] = {
-							["Aegwyn"] = 1,
-						},
-						["n"] = 1,
-					},
-				},
-				["class"] = "DEATHKNIGHT",
 			},
 			["Askadras"] = {
 				["role"] = "TANK",
@@ -329,8 +329,8 @@ SkadaCharDB = {
 				},
 				["id"] = "0x0700000000565331",
 				["class"] = "MAGE",
-				["damage"] = 6484,
 				["enemy"] = true,
+				["damage"] = 6484,
 			},
 			["Hirohitow"] = {
 				["last"] = 17644.634,
@@ -353,6 +353,15 @@ SkadaCharDB = {
 				},
 				["role"] = "DAMAGER",
 				["cctaken"] = 1,
+				["class"] = "DEATHKNIGHT",
+				["cctakenspells"] = {
+					["-12826.64"] = {
+						["n"] = 1,
+						["sources"] = {
+							["Aegwyn"] = 1,
+						},
+					},
+				},
 				["damagedspells"] = {
 					["42914.16"] = {
 						["c_amt"] = 3411,
@@ -366,21 +375,12 @@ SkadaCharDB = {
 						},
 						["c_min"] = 3411,
 						["amount"] = 6484,
-						["n_amt"] = 3073,
-						["n_min"] = 619,
-						["n_num"] = 3,
 						["count"] = 4,
+						["n_amt"] = 3073,
+						["n_num"] = 3,
+						["n_min"] = 619,
 					},
 				},
-				["cctakenspells"] = {
-					["-12826.64"] = {
-						["sources"] = {
-							["Aegwyn"] = 1,
-						},
-						["n"] = 1,
-					},
-				},
-				["class"] = "DEATHKNIGHT",
 			},
 			["Askadras"] = {
 				["role"] = "TANK",

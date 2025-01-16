@@ -21,6 +21,13 @@ AF_config = {
 		["rate"] = 60,
 		["system"] = "CHANNEL",
 	},
+	["Icecrown-Mayifire"] = {
+		["message"] = "Do you want to have Weakauras designed just for you, or sell your Weakauras in-game?Join our community in discord: https://discord.gg/7E6jAPsJD9",
+		["channel"] = "5",
+		["idChannel"] = "5",
+		["rate"] = 60,
+		["system"] = "CHANNEL",
+	},
 	["Blackrock [PvP only]-Yaramiem"] = {
 		["message"] = "AutoFlood 1.1",
 		["channel"] = "1",
@@ -35,7 +42,21 @@ AF_config = {
 		["rate"] = 60,
 		["system"] = "CHANNEL",
 	},
+	["Icecrown-Hirokhan"] = {
+		["message"] = "AutoFlood 1.1",
+		["channel"] = "1",
+		["idChannel"] = "1",
+		["rate"] = 60,
+		["system"] = "CHANNEL",
+	},
 	["Icecrown-Kirikox"] = {
+		["message"] = "AutoFlood 1.1",
+		["channel"] = "1",
+		["idChannel"] = "1",
+		["rate"] = 60,
+		["system"] = "CHANNEL",
+	},
+	["Icecrown-Morellonomi"] = {
 		["message"] = "AutoFlood 1.1",
 		["channel"] = "1",
 		["idChannel"] = "1",
@@ -70,14 +91,14 @@ AF_config = {
 		["rate"] = 60,
 		["system"] = "CHANNEL",
 	},
-	["Icecrown-Kertenkele"] = {
+	["Icecrown-Kathriel"] = {
 		["message"] = "AutoFlood 1.1",
 		["channel"] = "1",
 		["idChannel"] = "1",
 		["rate"] = 60,
 		["system"] = "CHANNEL",
 	},
-	["Icecrown-Ancaz"] = {
+	["Icecrown-Gowtheru"] = {
 		["message"] = "AutoFlood 1.1",
 		["channel"] = "1",
 		["idChannel"] = "1",
@@ -91,10 +112,10 @@ AF_config = {
 		["rate"] = 60,
 		["system"] = "CHANNEL",
 	},
-	["Icecrown-Elynass"] = {
-		["message"] = "AutoFlood 1.1",
-		["channel"] = "1",
-		["idChannel"] = "1",
+	["Icecrown-Aegwyn"] = {
+		["message"] = "WTS \"Kirikox\" BiS Rogue, with profs, LOD/RS HC and Boes, \"Kitagawa\" Rogue with boes",
+		["channel"] = "5",
+		["idChannel"] = "5",
 		["rate"] = 60,
 		["system"] = "CHANNEL",
 	},
@@ -112,10 +133,10 @@ AF_config = {
 		["rate"] = 60,
 		["system"] = "CHANNEL",
 	},
-	["Icecrown-Aegwyn"] = {
-		["message"] = "WTS \"Kirikox\" BiS Rogue, with profs, LOD/RS HC and Boes, \"Kitagawa\" Rogue with boes",
-		["channel"] = "5",
-		["idChannel"] = "5",
+	["Icecrown-Elynass"] = {
+		["message"] = "AutoFlood 1.1",
+		["channel"] = "1",
+		["idChannel"] = "1",
 		["rate"] = 60,
 		["system"] = "CHANNEL",
 	},
@@ -126,14 +147,14 @@ AF_config = {
 		["rate"] = 60,
 		["system"] = "CHANNEL",
 	},
-	["Icecrown-Gowtheru"] = {
+	["Icecrown-Ancaz"] = {
 		["message"] = "AutoFlood 1.1",
 		["channel"] = "1",
 		["idChannel"] = "1",
 		["rate"] = 60,
 		["system"] = "CHANNEL",
 	},
-	["Icecrown-Kathriel"] = {
+	["Icecrown-Kertenkele"] = {
 		["message"] = "AutoFlood 1.1",
 		["channel"] = "1",
 		["idChannel"] = "1",

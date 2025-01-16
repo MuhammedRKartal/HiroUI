@@ -1237,11 +1237,11 @@ KPackDB = {
 	},
 }
 kMADB = {
-	["collapsed"] = true,
+	["frameListRows"] = 18,
 	["characters"] = {
 	},
-	["frameListRows"] = 18,
 	["tooltips"] = true,
+	["collapsed"] = true,
 	["profiles"] = {
 		["default"] = {
 			["name"] = "default",

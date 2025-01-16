@@ -47,9 +47,9 @@ ActionBarSaverDB = {
 				[97] = "macro|97||Heroic|Interface\\Icons\\Spell_Nature_BloodLust|/cast !Bloodthirst/n/cast Heroic Strike(Rank 13)/n/use 10",
 				[25] = "macro|25||Sunder|Interface\\Icons\\Ability_Warrior_Sunder|/cast Sunder Armor/n/cast Heroic Strike(Rank 13)",
 				[43] = "macro|43||Disarm|Interface\\Icons\\Ability_Warrior_Disarm|#showtooltip Disarm/n/cast Defensive Stance/n/cast Disarm",
-				[88] = "spell|32||Rend|Rank 10|47465",
-				[36] = "item|49278||Goblin Rocket Pack",
 				[44] = "spell|55||Victory Rush||34428",
+				[36] = "item|49278||Goblin Rocket Pack",
+				[88] = "spell|32||Rend|Rank 10|47465",
 				[13] = "spell|50||Piercing Howl||12323",
 				[37] = "spell|43||Death Wish||12292",
 				[73] = "macro|73||Heroic|Interface\\Icons\\Spell_Nature_BloodLust|/cast !Bloodthirst/n/cast Heroic Strike(Rank 13)/n/use 10",
@@ -117,6 +117,75 @@ ActionBarSaverDB = {
 				[68] = "spell|100||Turn Evil||10326",
 				[72] = "spell|108||Greater Blessing of Kings||25898",
 			},
+			["retribution_pve"] = {
+				"macro|1||Crusader|Interface\\Icons\\Spell_Holy_CrusaderStrike|#showtooltip Crusader Strike/n/startattack/n/cast Crusader Strike/n/use 10/n/cancelaura Chaos Bane", -- [1]
+				"macro|2||DS|Interface\\Icons\\Ability_Paladin_DivineStorm|#showtooltip Divine Storm/n/startattack/n/cast Divine Storm/n/use 10/n/cancelaura Chaos Bane", -- [2]
+				"spell|46||Exorcism|Rank 9|48801", -- [3]
+				"spell|114||Hand of Reckoning||62124", -- [4]
+				"item|41119||Saronite Bomb", -- [5]
+				nil, -- [6]
+				"item|40211||Potion of Speed", -- [7]
+				nil, -- [8]
+				"spell|78||Holy Wrath|Rank 5|48817", -- [9]
+				"spell|36||Consecration|Rank 8|48819", -- [10]
+				"spell|150||Judgement of Wisdom||53408", -- [11]
+				"spell|147||Hammer of Wrath|Rank 6|48806", -- [12]
+				"spell|109||Hammer of Justice|Rank 4|10308", -- [13]
+				"spell|151||Repentance||20066", -- [14]
+				"item|54578||Apocalypse's Advance", -- [15]
+				nil, -- [16]
+				nil, -- [17]
+				"spell|101||Divine Protection||498", -- [18]
+				"spell|102||Divine Shield||642", -- [19]
+				"spell|149||Judgement of Light||20271", -- [20]
+				"spell|148||Judgement of Justice||53407", -- [21]
+				nil, -- [22]
+				"companion|4||retribution_pve|MOUNT|40192", -- [23]
+				"companion|21||retribution_pve|MOUNT|72286", -- [24]
+				"spell|154||Seal of Corruption||53736", -- [25]
+				"spell|153||Seal of Command||20375", -- [26]
+				"spell|27||Cleanse||4987", -- [27]
+				"spell|115||Hand of Sacrifice||6940", -- [28]
+				"spell|116||Hand of Salvation||1038", -- [29]
+				nil, -- [30]
+				"spell|113||Hand of Protection|Rank 3|10278", -- [31]
+				"spell|110||Hand of Freedom||1044", -- [32]
+				"spell|92||Sacred Shield|Rank 1|53601", -- [33]
+				"spell|97||Turn Evil||10326", -- [34]
+				nil, -- [35]
+				"companion|51||retribution_pve|MOUNT|75973", -- [36]
+				"spell|123||Avenging Wrath||31884", -- [37]
+				"spell|17||Aura Mastery||31821", -- [38]
+				"spell|2||Arcane Torrent|Racial|28730", -- [39]
+				nil, -- [40]
+				"spell|37||Divine Plea||54428", -- [41]
+				nil, -- [42]
+				"spell|55||Flash of Light|Rank 9|48785", -- [43]
+				"spell|98||Blessing of Kings||20217", -- [44]
+				"spell|73||Holy Light|Rank 13|48782", -- [45]
+				"spell|93||Seal of Light||20165", -- [46]
+				nil, -- [47]
+				"spell|118||Righteous Fury||25780", -- [48]
+				nil, -- [49]
+				nil, -- [50]
+				nil, -- [51]
+				nil, -- [52]
+				"item|33445||Honeymint Tea", -- [53]
+				"spell|100||Divine Intervention||19752", -- [54]
+				nil, -- [55]
+				"spell|83||Lay on Hands|Rank 5|48788", -- [56]
+				nil, -- [57]
+				"spell|26||Blessing of Wisdom|Rank 9|48936", -- [58]
+				"spell|133||Blessing of Might|Rank 10|48932", -- [59]
+				"spell|98||Blessing of Kings||20217", -- [60]
+				"macro|61||JC|Interface\\Icons\\INV_Misc_Gem_02|#showtooltip Jewelcrafting/n/cast Jewelcrafting/n/run for i=1,GetNumTradeSkills() do if GetTradeSkillInfo(i)==\"Icy Prism\" then CloseTradeSkill() DoTradeSkill(i) break end end/n/use Icy Prism/n/script OpenAllBags();", -- [61]
+				[70] = "spell|60||Greater Blessing of Wisdom|Rank 5|48938",
+				[72] = "spell|105||Greater Blessing of Kings||25898",
+				[71] = "spell|141||Greater Blessing of Might|Rank 5|48934",
+				[66] = "item|43236||Star's Sorrow",
+				[68] = "spell|97||Turn Evil||10326",
+				[65] = "item|43523||Conjured Mana Strudel",
+			},
 			["preg_pvp"] = {
 				"spell|127||Shield of Righteousness|Rank 2|61411", -- [1]
 				"spell|48||Exorcism|Rank 9|48801", -- [2]
@@ -175,6 +244,75 @@ ActionBarSaverDB = {
 				[58] = "spell|28||Blessing of Wisdom|Rank 9|48936",
 				[68] = "spell|99||Turn Evil||10326",
 				[72] = "spell|109||Greater Blessing of Kings||25898",
+			},
+			["retribution_pve_yedek"] = {
+				"macro|1||Crusader|Interface\\Icons\\Spell_Holy_CrusaderStrike|#showtooltip Crusader Strike/n/startattack/n/cast Crusader Strike/n/use 10/n/cancelaura Chaos Bane", -- [1]
+				"macro|2||DS|Interface\\Icons\\Ability_Paladin_DivineStorm|#showtooltip Divine Storm/n/startattack/n/cast Divine Storm/n/use 10/n/cancelaura Chaos Bane", -- [2]
+				"spell|46||Exorcism|Rank 9|48801", -- [3]
+				"spell|114||Hand of Reckoning||62124", -- [4]
+				"item|41119||Saronite Bomb", -- [5]
+				nil, -- [6]
+				"item|40211||Potion of Speed", -- [7]
+				nil, -- [8]
+				"spell|78||Holy Wrath|Rank 5|48817", -- [9]
+				"spell|36||Consecration|Rank 8|48819", -- [10]
+				"spell|150||Judgement of Wisdom||53408", -- [11]
+				"spell|147||Hammer of Wrath|Rank 6|48806", -- [12]
+				"spell|109||Hammer of Justice|Rank 4|10308", -- [13]
+				"spell|151||Repentance||20066", -- [14]
+				"item|54578||Apocalypse's Advance", -- [15]
+				nil, -- [16]
+				nil, -- [17]
+				"spell|101||Divine Protection||498", -- [18]
+				"spell|102||Divine Shield||642", -- [19]
+				"spell|149||Judgement of Light||20271", -- [20]
+				"spell|148||Judgement of Justice||53407", -- [21]
+				nil, -- [22]
+				"companion|4||retribution_pve_yedek|MOUNT|40192", -- [23]
+				"companion|21||retribution_pve_yedek|MOUNT|72286", -- [24]
+				"spell|154||Seal of Corruption||53736", -- [25]
+				"spell|153||Seal of Command||20375", -- [26]
+				"spell|27||Cleanse||4987", -- [27]
+				"spell|115||Hand of Sacrifice||6940", -- [28]
+				"spell|116||Hand of Salvation||1038", -- [29]
+				nil, -- [30]
+				"spell|113||Hand of Protection|Rank 3|10278", -- [31]
+				"spell|110||Hand of Freedom||1044", -- [32]
+				"spell|92||Sacred Shield|Rank 1|53601", -- [33]
+				"spell|97||Turn Evil||10326", -- [34]
+				nil, -- [35]
+				"companion|51||retribution_pve_yedek|MOUNT|75973", -- [36]
+				"spell|123||Avenging Wrath||31884", -- [37]
+				"spell|17||Aura Mastery||31821", -- [38]
+				"spell|2||Arcane Torrent|Racial|28730", -- [39]
+				nil, -- [40]
+				"spell|37||Divine Plea||54428", -- [41]
+				nil, -- [42]
+				"spell|55||Flash of Light|Rank 9|48785", -- [43]
+				"spell|98||Blessing of Kings||20217", -- [44]
+				"spell|73||Holy Light|Rank 13|48782", -- [45]
+				"spell|93||Seal of Light||20165", -- [46]
+				nil, -- [47]
+				"spell|118||Righteous Fury||25780", -- [48]
+				nil, -- [49]
+				nil, -- [50]
+				nil, -- [51]
+				nil, -- [52]
+				"item|33445||Honeymint Tea", -- [53]
+				"spell|100||Divine Intervention||19752", -- [54]
+				nil, -- [55]
+				"spell|83||Lay on Hands|Rank 5|48788", -- [56]
+				nil, -- [57]
+				"spell|26||Blessing of Wisdom|Rank 9|48936", -- [58]
+				"spell|133||Blessing of Might|Rank 10|48932", -- [59]
+				"spell|98||Blessing of Kings||20217", -- [60]
+				"macro|61||JC|Interface\\Icons\\INV_Misc_Gem_02|#showtooltip Jewelcrafting/n/cast Jewelcrafting/n/run for i=1,GetNumTradeSkills() do if GetTradeSkillInfo(i)==\"Icy Prism\" then CloseTradeSkill() DoTradeSkill(i) break end end/n/use Icy Prism/n/script OpenAllBags();", -- [61]
+				[70] = "spell|60||Greater Blessing of Wisdom|Rank 5|48938",
+				[72] = "spell|105||Greater Blessing of Kings||25898",
+				[71] = "spell|141||Greater Blessing of Might|Rank 5|48934",
+				[66] = "item|43236||Star's Sorrow",
+				[68] = "spell|97||Turn Evil||10326",
+				[65] = "item|43523||Conjured Mana Strudel",
 			},
 			["protection_pve"] = {
 				"spell|133||Holy Shield|Rank 6|48952", -- [1]
@@ -280,14 +418,14 @@ ActionBarSaverDB = {
 				[21] = "spell|155||Repentance||20066",
 				[24] = "companion|25||retri|MOUNT|72286",
 				[60] = "spell|102||Blessing of Kings||20217",
-				[68] = "spell|101||Turn Evil||10326",
+				[25] = "spell|105||Divine Protection||498",
 				[70] = "spell|64||Greater Blessing of Wisdom|Rank 5|48938",
 				[26] = "spell|99||Seal of Wisdom||20166",
 				[48] = "spell|153||Judgement of Light||20271",
 				[54] = "spell|104||Divine Intervention||19752",
 				[72] = "spell|109||Greater Blessing of Kings||25898",
 				[71] = "spell|145||Greater Blessing of Might|Rank 5|48934",
-				[25] = "spell|105||Divine Protection||498",
+				[68] = "spell|101||Turn Evil||10326",
 			},
 			["retri_pve"] = {
 				"spell|138||Crusader Strike||35395", -- [1]

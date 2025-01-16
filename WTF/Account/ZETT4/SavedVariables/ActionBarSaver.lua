@@ -46,8 +46,8 @@ ActionBarSaverDB = {
 				[37] = "spell|43||Anti-Magic Shell||48707",
 				[39] = "spell|9||Every Man for Himself|Racial|59752",
 				[41] = "spell|35||Horn of Winter|Rank 2|57623",
-				[46] = "spell|27||Death Pact||48743",
 				[56] = "item|47499||Flask of the North",
+				[46] = "spell|27||Death Pact||48743",
 			},
 			["blood_tank"] = {
 				"spell|52||Death Strike|Rank 5|49924", -- [1]
@@ -356,9 +356,9 @@ ActionBarSaverDB = {
 				[70] = "spell|110||Greater Blessing of Kings||25898",
 				[67] = "spell|102||Blessing of Sanctuary||20911",
 				[71] = "spell|58||Greater Blessing of Wisdom|Rank 5|48938",
-				[86] = "item|42945||Venerable Dal'Rend's Sacred Charge",
-				[72] = "spell|152||Greater Blessing of Might|Rank 5|48934",
 				[85] = "item|42943||Bloodied Arcanite Reaper",
+				[72] = "spell|152||Greater Blessing of Might|Rank 5|48934",
+				[86] = "item|42945||Venerable Dal'Rend's Sacred Charge",
 			},
 		},
 		["MAGE"] = {
@@ -373,78 +373,78 @@ ActionBarSaverDB = {
 				[24] = "companion|12||portalmeister|MOUNT|72286",
 			},
 			["fire_pve"] = {
-				"spell|171||Fireball|Rank 16|42833", -- [1]
-				"spell|171||Fireball|Rank 16|42833", -- [2]
-				"spell|200||Pyroblast|Rank 12|42891", -- [3]
-				"spell|137||Combustion||11129", -- [4]
-				"macro|5||Trinket|Interface\\Icons\\Spell_Magic_LesserInvisibilty|#showtooltip Mirror Image/n/use Talisman of Resurgence/n/cast Mirror Image", -- [5]
+				"spell|170||Fireball|Rank 16|42833", -- [1]
+				"item|51159||Sanctified Bloodmage Gloves", -- [2]
+				"spell|199||Pyroblast|Rank 12|42891", -- [3]
+				"spell|136||Combustion||11129", -- [4]
+				"macro|5||Trinket|Interface\\Icons\\Spell_Magic_LesserInvisibilty|#showtooltip Mirror Image/n/cast Mirror Image/n/cast Berserking(Racial)", -- [5]
 				nil, -- [6]
 				nil, -- [7]
 				nil, -- [8]
-				"spell|237||Frost Nova|Rank 6|42917", -- [9]
-				"spell|63||Blink||1953", -- [10]
-				"spell|185||Living Bomb|Rank 3|55360", -- [11]
-				"spell|148||Fire Blast|Rank 11|42873", -- [12]
-				"spell|180||Flamestrike|Rank 9|42926", -- [13]
-				"spell|179||Flamestrike|Rank 8|42925", -- [14]
-				"spell|114||Mana Shield|Rank 9|43020", -- [15]
-				"spell|129||Slow Fall||130", -- [16]
+				"spell|236||Frost Nova|Rank 6|42917", -- [9]
+				"spell|62||Blink||1953", -- [10]
+				"spell|184||Living Bomb|Rank 3|55360", -- [11]
+				"spell|147||Fire Blast|Rank 11|42873", -- [12]
+				"spell|179||Flamestrike|Rank 9|42926", -- [13]
+				"macro|14||Flamestrike|Interface\\Icons\\Spell_Fire_SelfDestruct|/cast Flamestrike(Rank 8)", -- [14]
+				"item|49890||Deathfrost Boots", -- [15]
+				"spell|113||Mana Shield|Rank 9|43020", -- [16]
 				nil, -- [17]
-				"spell|245||Frostbolt|Rank 1|116", -- [18]
-				"spell|211||Scorch|Rank 11|42859", -- [19]
-				"spell|155||Fire Ward|Rank 7|43010", -- [20]
-				"spell|244||Frost Ward|Rank 7|43012", -- [21]
+				"macro|18||Rank1 FB|Interface\\Icons\\Spell_Frost_FrostBolt02|/cast Frostbolt(Rank 1)", -- [18]
+				"spell|210||Scorch|Rank 11|42859", -- [19]
+				"spell|154||Fire Ward|Rank 7|43010", -- [20]
+				"spell|243||Frost Ward|Rank 7|43012", -- [21]
 				nil, -- [22]
-				"companion|1||fire_pve|MOUNT|59569", -- [23]
-				"companion|5||fire_pve|MOUNT|23228", -- [24]
-				"spell|89||Counterspell||2139", -- [25]
-				"spell|126||Remove Curse||475", -- [26]
-				"spell|130||Spellsteal||30449", -- [27]
+				"companion|2||fire_pve|MOUNT|59569", -- [23]
+				"companion|5||fire_pve|MOUNT|23252", -- [24]
+				"macro|25||PI|Interface\\Icons\\Spell_Holy_PowerInfusion|/w Morpheusee Power Infusion Please/n/w Morpheusee Power Infusion Please", -- [25]
+				"spell|125||Remove Curse||475", -- [26]
+				"spell|129||Spellsteal||30449", -- [27]
 				"macro|28||Focus|Interface\\Icons\\Spell_Frost_IceShock|/cast [@focus, exists, nodead] [] Counterspell", -- [28]
-				"spell|220||Blizzard|Rank 9|42940", -- [29]
+				"spell|219||Blizzard|Rank 9|42940", -- [29]
 				nil, -- [30]
-				"spell|42||Arcane Explosion|Rank 10|42921", -- [31]
-				"spell|188||Molten Armor|Rank 3|43046", -- [32]
-				"spell|270||Ice Lance|Rank 3|42914", -- [33]
-				"spell|228||Cone of Cold|Rank 8|42931", -- [34]
+				"spell|41||Arcane Explosion|Rank 10|42921", -- [31]
+				"spell|187||Molten Armor|Rank 3|43046", -- [32]
+				"spell|269||Ice Lance|Rank 3|42914", -- [33]
+				"spell|227||Cone of Cold|Rank 8|42931", -- [34]
 				nil, -- [35]
-				nil, -- [36]
-				"spell|97||Evocation||12051", -- [37]
+				"spell|128||Slow Fall||130", -- [36]
+				"spell|96||Evocation||12051", -- [37]
 				"macro|38||Ice|Interface\\Icons\\Spell_Frost_Frost|/cast Ice Block/n/cancelaura Ice Block", -- [38]
-				"spell|9||Every Man for Himself|Racial|59752", -- [39]
+				"spell|4||Berserking|Racial|26297", -- [39]
 				nil, -- [40]
 				"item|33312||Mana Sapphire", -- [41]
 				nil, -- [42]
-				"macro|43||Focus|Interface\\Icons\\Spell_Nature_Polymorph|/cast [@focus, exists, nodead] [] Polymorph", -- [43]
-				"spell|49||Arcane Intellect|Rank 7|42995", -- [44]
-				"spell|98||Focus Magic||54646", -- [45]
-				"spell|99||Invisibility||66", -- [46]
+				"spell|48||Arcane Intellect|Rank 7|42995", -- [43]
+				"macro|44||Focus|Interface\\Icons\\Spell_Nature_Polymorph|/cast [@focus, exists, nodead] [] Polymorph", -- [44]
+				"spell|97||Focus Magic||54646", -- [45]
+				"spell|98||Invisibility||66", -- [46]
 				nil, -- [47]
-				"spell|32||Arcane Brilliance|Rank 3|43002", -- [48]
-				nil, -- [49]
+				"item|40212||Potion of Wild Magic", -- [48]
+				"spell|24||Amplify Magic|Rank 7|43017", -- [49]
 				nil, -- [50]
 				nil, -- [51]
-				"spell|96||Dampen Magic|Rank 7|43015", -- [52]
-				"spell|135||Teleport: Stormwind||3561", -- [53]
+				"spell|95||Dampen Magic|Rank 7|43015", -- [52]
+				"spell|131||Teleport: Orgrimmar||3567", -- [53]
 				nil, -- [54]
 				"item|43523||Conjured Mana Strudel", -- [55]
-				nil, -- [56]
+				"spell|88||Counterspell||2139", -- [56]
 				nil, -- [57]
 				nil, -- [58]
 				nil, -- [59]
-				"spell|128||Ritual of Refreshment|Rank 2|58659", -- [60]
-				"spell|120||Portal: Dalaran||53142", -- [61]
+				"spell|127||Ritual of Refreshment|Rank 2|58659", -- [60]
+				"spell|119||Portal: Dalaran||53142", -- [61]
 				nil, -- [62]
 				nil, -- [63]
-				"spell|25||Amplify Magic|Rank 7|43017", -- [64]
-				"spell|131||Teleport: Dalaran||53140", -- [65]
+				"spell|24||Amplify Magic|Rank 7|43017", -- [64]
+				"spell|130||Teleport: Dalaran||53140", -- [65]
 				nil, -- [66]
-				"spell|79||Conjure Refreshment|Rank 2|42956", -- [67]
+				"spell|78||Conjure Refreshment|Rank 2|42956", -- [67]
 				nil, -- [68]
 				nil, -- [69]
 				nil, -- [70]
-				nil, -- [71]
-				"spell|77||Conjure Mana Gem|Rank 6|42985", -- [72]
+				"spell|31||Arcane Brilliance|Rank 3|43002", -- [71]
+				"spell|76||Conjure Mana Gem|Rank 6|42985", -- [72]
 				[75] = "item|40211||Potion of Speed",
 			},
 			["multibox"] = {
@@ -464,82 +464,82 @@ ActionBarSaverDB = {
 				[72] = "spell|77||Conjure Mana Gem|Rank 6|42985",
 				[53] = "spell|135||Teleport: Stormwind||3561",
 				[55] = "item|43523||Conjured Mana Strudel",
-				[67] = "spell|79||Conjure Refreshment|Rank 2|42956",
 				[52] = "spell|96||Dampen Magic|Rank 7|43015",
+				[67] = "spell|79||Conjure Refreshment|Rank 2|42956",
 			},
 			["fire_pve_yedek"] = {
-				"spell|171||Fireball|Rank 16|42833", -- [1]
-				"spell|171||Fireball|Rank 16|42833", -- [2]
-				"spell|200||Pyroblast|Rank 12|42891", -- [3]
-				"spell|137||Combustion||11129", -- [4]
-				"macro|5||Trinket|Interface\\Icons\\Spell_Magic_LesserInvisibilty|#showtooltip Mirror Image/n/use Talisman of Resurgence/n/cast Mirror Image", -- [5]
+				"spell|170||Fireball|Rank 16|42833", -- [1]
+				"item|51159||Sanctified Bloodmage Gloves", -- [2]
+				"spell|199||Pyroblast|Rank 12|42891", -- [3]
+				"spell|136||Combustion||11129", -- [4]
+				"macro|5||Trinket|Interface\\Icons\\Spell_Magic_LesserInvisibilty|#showtooltip Mirror Image/n/cast Mirror Image/n/cast Berserking(Racial)", -- [5]
 				nil, -- [6]
 				nil, -- [7]
 				nil, -- [8]
-				"spell|237||Frost Nova|Rank 6|42917", -- [9]
-				"spell|63||Blink||1953", -- [10]
-				"spell|185||Living Bomb|Rank 3|55360", -- [11]
-				"spell|148||Fire Blast|Rank 11|42873", -- [12]
-				"spell|180||Flamestrike|Rank 9|42926", -- [13]
-				"spell|179||Flamestrike|Rank 8|42925", -- [14]
-				"spell|114||Mana Shield|Rank 9|43020", -- [15]
-				"spell|129||Slow Fall||130", -- [16]
+				"spell|236||Frost Nova|Rank 6|42917", -- [9]
+				"spell|62||Blink||1953", -- [10]
+				"spell|184||Living Bomb|Rank 3|55360", -- [11]
+				"spell|147||Fire Blast|Rank 11|42873", -- [12]
+				"spell|179||Flamestrike|Rank 9|42926", -- [13]
+				"macro|14||Flamestrike|Interface\\Icons\\Spell_Fire_SelfDestruct|/cast Flamestrike(Rank 8)", -- [14]
+				"item|49890||Deathfrost Boots", -- [15]
+				"spell|113||Mana Shield|Rank 9|43020", -- [16]
 				nil, -- [17]
-				"spell|245||Frostbolt|Rank 1|116", -- [18]
-				"spell|211||Scorch|Rank 11|42859", -- [19]
-				"spell|155||Fire Ward|Rank 7|43010", -- [20]
-				"spell|244||Frost Ward|Rank 7|43012", -- [21]
+				"macro|18||Rank1 FB|Interface\\Icons\\Spell_Frost_FrostBolt02|/cast Frostbolt(Rank 1)", -- [18]
+				"spell|210||Scorch|Rank 11|42859", -- [19]
+				"spell|154||Fire Ward|Rank 7|43010", -- [20]
+				"spell|243||Frost Ward|Rank 7|43012", -- [21]
 				nil, -- [22]
-				"companion|1||fire_pve_yedek|MOUNT|59569", -- [23]
-				"companion|5||fire_pve_yedek|MOUNT|23228", -- [24]
-				"spell|89||Counterspell||2139", -- [25]
-				"spell|126||Remove Curse||475", -- [26]
-				"spell|130||Spellsteal||30449", -- [27]
+				"companion|2||fire_pve_yedek|MOUNT|59569", -- [23]
+				"companion|5||fire_pve_yedek|MOUNT|23252", -- [24]
+				"macro|25||PI|Interface\\Icons\\Spell_Holy_PowerInfusion|/w Morpheusee Power Infusion Please/n/w Morpheusee Power Infusion Please", -- [25]
+				"spell|125||Remove Curse||475", -- [26]
+				"spell|129||Spellsteal||30449", -- [27]
 				"macro|28||Focus|Interface\\Icons\\Spell_Frost_IceShock|/cast [@focus, exists, nodead] [] Counterspell", -- [28]
-				"spell|220||Blizzard|Rank 9|42940", -- [29]
+				"spell|219||Blizzard|Rank 9|42940", -- [29]
 				nil, -- [30]
-				"spell|42||Arcane Explosion|Rank 10|42921", -- [31]
-				"spell|188||Molten Armor|Rank 3|43046", -- [32]
-				"spell|270||Ice Lance|Rank 3|42914", -- [33]
-				"spell|228||Cone of Cold|Rank 8|42931", -- [34]
+				"spell|41||Arcane Explosion|Rank 10|42921", -- [31]
+				"spell|187||Molten Armor|Rank 3|43046", -- [32]
+				"spell|269||Ice Lance|Rank 3|42914", -- [33]
+				"spell|227||Cone of Cold|Rank 8|42931", -- [34]
 				nil, -- [35]
-				nil, -- [36]
-				"spell|97||Evocation||12051", -- [37]
+				"spell|128||Slow Fall||130", -- [36]
+				"spell|96||Evocation||12051", -- [37]
 				"macro|38||Ice|Interface\\Icons\\Spell_Frost_Frost|/cast Ice Block/n/cancelaura Ice Block", -- [38]
-				"spell|9||Every Man for Himself|Racial|59752", -- [39]
+				"spell|4||Berserking|Racial|26297", -- [39]
 				nil, -- [40]
 				"item|33312||Mana Sapphire", -- [41]
 				nil, -- [42]
-				"macro|43||Focus|Interface\\Icons\\Spell_Nature_Polymorph|/cast [@focus, exists, nodead] [] Polymorph", -- [43]
-				"spell|49||Arcane Intellect|Rank 7|42995", -- [44]
-				"spell|98||Focus Magic||54646", -- [45]
-				"spell|99||Invisibility||66", -- [46]
+				"spell|48||Arcane Intellect|Rank 7|42995", -- [43]
+				"macro|44||Focus|Interface\\Icons\\Spell_Nature_Polymorph|/cast [@focus, exists, nodead] [] Polymorph", -- [44]
+				"spell|97||Focus Magic||54646", -- [45]
+				"spell|98||Invisibility||66", -- [46]
 				nil, -- [47]
-				"spell|32||Arcane Brilliance|Rank 3|43002", -- [48]
-				nil, -- [49]
+				"item|40212||Potion of Wild Magic", -- [48]
+				"spell|24||Amplify Magic|Rank 7|43017", -- [49]
 				nil, -- [50]
 				nil, -- [51]
-				"spell|96||Dampen Magic|Rank 7|43015", -- [52]
-				"spell|135||Teleport: Stormwind||3561", -- [53]
+				"spell|95||Dampen Magic|Rank 7|43015", -- [52]
+				"spell|131||Teleport: Orgrimmar||3567", -- [53]
 				nil, -- [54]
 				"item|43523||Conjured Mana Strudel", -- [55]
-				nil, -- [56]
+				"spell|88||Counterspell||2139", -- [56]
 				nil, -- [57]
 				nil, -- [58]
 				nil, -- [59]
-				"spell|128||Ritual of Refreshment|Rank 2|58659", -- [60]
-				"spell|120||Portal: Dalaran||53142", -- [61]
+				"spell|127||Ritual of Refreshment|Rank 2|58659", -- [60]
+				"spell|119||Portal: Dalaran||53142", -- [61]
 				nil, -- [62]
 				nil, -- [63]
-				"spell|25||Amplify Magic|Rank 7|43017", -- [64]
-				"spell|131||Teleport: Dalaran||53140", -- [65]
+				"spell|24||Amplify Magic|Rank 7|43017", -- [64]
+				"spell|130||Teleport: Dalaran||53140", -- [65]
 				nil, -- [66]
-				"spell|79||Conjure Refreshment|Rank 2|42956", -- [67]
+				"spell|78||Conjure Refreshment|Rank 2|42956", -- [67]
 				nil, -- [68]
 				nil, -- [69]
 				nil, -- [70]
-				nil, -- [71]
-				"spell|77||Conjure Mana Gem|Rank 6|42985", -- [72]
+				"spell|31||Arcane Brilliance|Rank 3|43002", -- [71]
+				"spell|76||Conjure Mana Gem|Rank 6|42985", -- [72]
 				[75] = "item|40211||Potion of Speed",
 			},
 			["frost_pvp"] = {
@@ -661,15 +661,15 @@ ActionBarSaverDB = {
 				[43] = "macro|43||Divine|Interface\\Icons\\Spell_Holy_DivineHymn|#showtooltip Divine Hymn/n/cast Inner Focus/n/cast Divine Hymn",
 				[59] = "spell|51||Power Word: Fortitude|Rank 8|48161",
 				[71] = "spell|72||Prayer of Spirit|Rank 3|48074",
-				[66] = "spell|190||Devouring Plague|Rank 9|48300",
+				[74] = "spell|23||Divine Spirit|Rank 6|48073",
 				[70] = "spell|213||Prayer of Shadow Protection|Rank 3|48170",
 				[72] = "spell|69||Prayer of Fortitude|Rank 4|48162",
 				[44] = "spell|135||Hymn of Hope||64901",
-				[18] = "spell|205||Mind Control||605",
-				[60] = "spell|23||Divine Spirit|Rank 6|48073",
 				[73] = "spell|222||Shadow Protection|Rank 5|48169",
+				[60] = "spell|23||Divine Spirit|Rank 6|48073",
+				[18] = "spell|205||Mind Control||605",
 				[22] = "spell|208||Mind Soothe||453",
-				[74] = "spell|23||Divine Spirit|Rank 6|48073",
+				[66] = "spell|190||Devouring Plague|Rank 9|48300",
 			},
 			["kisssp1"] = {
 				"spell|241||Vampiric Touch|Rank 5|48160", -- [1]
@@ -722,97 +722,22 @@ ActionBarSaverDB = {
 				[35] = "spell|35||Levitate||1706",
 				[43] = "spell|75||Divine Hymn|Rank 1|64843",
 				[71] = "spell|63||Prayer of Fortitude|Rank 4|48162",
-				[82] = "spell|234||Shadowfiend||34433",
-				[70] = "spell|66||Prayer of Spirit|Rank 3|48074",
+				[80] = "spell|176||Dispersion||47585",
+				[78] = "spell|233||Shadow Word: Pain|Rank 12|48125",
 				[72] = "spell|208||Prayer of Shadow Protection|Rank 3|48170",
 				[44] = "spell|120||Hymn of Hope||64901",
 				[76] = "spell|241||Vampiric Touch|Rank 5|48160",
 				[74] = "spell|202||Mind Sear|Rank 2|53023",
 				[73] = "spell|200||Mind Flay|Rank 9|48156",
-				[78] = "spell|233||Shadow Word: Pain|Rank 12|48125",
-				[80] = "spell|176||Dispersion||47585",
+				[70] = "spell|66||Prayer of Spirit|Rank 3|48074",
+				[82] = "spell|234||Shadowfiend||34433",
 			},
 		},
 		["WARLOCK"] = {
 		},
-		["HUNTER"] = {
+		["ROGUE"] = {
 		},
 		["DRUID"] = {
-			["rideresto1"] = {
-				"spell|175||Regrowth|Rank 12|48443", -- [1]
-				"spell|156||Nourish|Rank 1|50464", -- [2]
-				"spell|190||Rejuvenation|Rank 15|48441", -- [3]
-				"spell|199||Swiftmend||18562", -- [4]
-				nil, -- [5]
-				nil, -- [6]
-				nil, -- [7]
-				nil, -- [8]
-				"spell|206||Tranquility|Rank 7|48447", -- [9]
-				"spell|211||Wild Growth|Rank 4|53251", -- [10]
-				"item|54573||Glowing Twilight Scale", -- [11]
-				"spell|155||Nature's Swiftness||17116", -- [12]
-				nil, -- [13]
-				"spell|15||Cyclone||33786", -- [14]
-				"item|50699||Plague Scientist's Boots", -- [15]
-				"item|2459||Swiftness Potion", -- [16]
-				[26] = "macro|26||focustarget|Interface\\Icons\\INV_Misc_QuestionMark|/target focus",
-				[30] = "spell|33||Innervate||29166",
-				[37] = "spell|14||Barkskin||22812",
-				[90] = "spell|33||Innervate||29166",
-				[106] = "spell|92||Bash|Rank 3|8983",
-				[61] = "item|6948||Hearthstone",
-				[75] = "spell|115||Savage Roar|Rank 1|52610",
-				[38] = "spell|104||Frenzied Regeneration||22842",
-				[46] = "spell|154||Mark of the Wild|Rank 9|48469",
-				[54] = "equipmentset|Tank|",
-				[62] = "spell|70||Teleport: Moonglade||18960",
-				[19] = "spell|14||Barkskin||22812",
-				[23] = "spell|117||Swift Flight Form|Shapeshift|40120",
-				[31] = "spell|55||Nature's Grasp|Rank 8|53312",
-				[39] = "spell|11||Shadowmeld|Racial|58984",
-				[47] = "spell|163||Rebirth|Rank 7|48477",
-				[55] = "equipmentset|Heal|",
-				[95] = "spell|190||Rejuvenation|Rank 15|48441",
-				[111] = "item|40211||Potion of Speed",
-				[32] = "spell|145||Lifebloom|Rank 3|48451",
-				[96] = "spell|93||Cat Form|Shapeshift|768",
-				[56] = "equipmentset|Dps|",
-				[65] = "item|46376||Flask of the Frost Wyrm",
-				[64] = "item|49278||Goblin Rocket Pack",
-				[24] = "companion|5||rideresto1|MOUNT|24252",
-				[97] = "macro|97||Inferno|Interface\\Icons\\Spell_Nature_FaerieFire|/target Living Inferno/n/cast Faerie Fire",
-				[66] = "item|33454||Salted Venison",
-				[41] = "spell|127||Gift of the Wild|Rank 4|48470",
-				[49] = "macro|49||a|Interface\\Icons\\Ability_Creature_Disease_04|/run local f = CreateFrame(\"frame\",nil,UIParent); f:SetScript(\"OnUpdate\",CombatLogClearEntries);",
-				[93] = "spell|206||Tranquility|Rank 7|48447",
-				[67] = "item|33445||Honeymint Tea",
-				[83] = "spell|119||Swipe (Cat)|Rank 1|62078",
-				[74] = "spell|111||Rake|Rank 7|48574",
-				[50] = "spell|2||Basic Campfire||818",
-				[68] = "item|43523||Conjured Mana Strudel",
-				[42] = "spell|55||Nature's Grasp|Rank 8|53312",
-				[100] = "spell|118||Swipe (Bear)|Rank 8|48562",
-				[58] = "item|33447||Runic Healing Potion",
-				[108] = "spell|98||Demoralizing Roar|Rank 8|48560",
-				[85] = "spell|156||Nourish|Rank 1|50464",
-				[25] = "spell|105||Growl||6795",
-				[98] = "macro|98||focustarget|Interface\\Icons\\INV_Misc_QuestionMark|/target focus",
-				[76] = "spell|103||Ferocious Bite|Rank 8|48577",
-				[77] = "spell|113||Rip|Rank 9|49800",
-				[51] = "spell|12||Tailoring|Grand Master|51309",
-				[59] = "spell|198||Revive|Rank 7|50763",
-				[71] = "spell|163||Rebirth|Rank 7|48477",
-				[82] = "spell|120||Tiger's Fury|Rank 6|50213",
-				[84] = "spell|110||Prowl||5215",
-				[92] = "spell|15||Cyclone||33786",
-				[72] = "spell|198||Revive|Rank 7|50763",
-				[44] = "item|33448||Runic Mana Potion",
-				[52] = "spell|7||Engineering|Grand Master|51306",
-				[34] = "spell|191||Remove Curse||2782",
-				[73] = "spell|97||Dash|Rank 3|33357",
-				[89] = "spell|97||Dash|Rank 3|33357",
-				[105] = "spell|94||Challenging Roar||5209",
-			},
 			["rideboomy1"] = {
 				"spell|82||Starfire|Rank 10|48465", -- [1]
 				"spell|103||Wrath|Rank 12|48461", -- [2]
@@ -874,49 +799,124 @@ ActionBarSaverDB = {
 				[55] = "equipmentset|Dps|",
 				[63] = "macro|63||a|Interface\\Icons\\Ability_Creature_Disease_04|/run local f = CreateFrame(\"frame\",nil,UIParent); f:SetScript(\"OnUpdate\",CombatLogClearEntries);",
 				[95] = "spell|123||Prowl||5215",
-				[108] = "spell|111||Demoralizing Roar|Rank 8|48560",
+				[48] = "spell|34||Innervate||29166",
 				[96] = "spell|123||Prowl||5215",
 				[112] = "spell|103||Wrath|Rank 12|48461",
 				[65] = "item|50665||Boots of Unnatural Growth",
 				[81] = "spell|132||Swipe (Cat)|Rank 1|62078",
 				[97] = "spell|118||Growl||6795",
 				[113] = "spell|106||Cat Form|Shapeshift|768",
-				[98] = "spell|119||Lacerate|Rank 3|48568",
-				[82] = "spell|128||Savage Roar|Rank 1|52610",
 				[49] = "item|6948||Hearthstone",
+				[82] = "spell|128||Savage Roar|Rank 1|52610",
+				[98] = "spell|119||Lacerate|Rank 3|48568",
 				[57] = "spell|210||Revive|Rank 7|50763",
 				[67] = "item|49278||Goblin Rocket Pack",
 				[83] = "spell|123||Prowl||5215",
-				[100] = "spell|121||Maul|Rank 10|48480",
-				[60] = "item|33447||Runic Healing Potion",
+				[50] = "spell|167||Mark of the Wild|Rank 9|48469",
+				[120] = "spell|11||Shadowmeld|Racial|58984",
 				[68] = "item|43523||Conjured Mana Strudel",
 				[84] = "spell|114||Faerie Fire (Feral)||16857",
-				[50] = "spell|167||Mark of the Wild|Rank 9|48469",
+				[100] = "spell|121||Maul|Rank 10|48480",
 				[58] = "spell|175||Rebirth|Rank 7|48477",
-				[110] = "spell|82||Starfire|Rank 10|48465",
+				[114] = "spell|55||Moonfire|Rank 14|48463",
 				[85] = "spell|125||Ravage|Rank 7|48579",
 				[101] = "spell|114||Faerie Fire (Feral)||16857",
 				[117] = "spell|217||Tranquility|Rank 7|48447",
-				[59] = "item|33448||Runic Mana Potion",
+				[118] = "spell|24||Faerie Fire||770",
 				[86] = "spell|122||Pounce|Rank 5|49803",
 				[51] = "spell|83||Teleport: Moonglade||18960",
-				[118] = "spell|24||Faerie Fire||770",
+				[59] = "item|33448||Runic Mana Potion",
 				[71] = "spell|34||Innervate||29166",
 				[87] = "spell|124||Rake|Rank 7|48574",
 				[116] = "spell|15||Cyclone||33786",
 				[119] = "macro|119||rebirth|Interface\\Icons\\INV_Misc_QuestionMark|#showtooltip /n/use [@mouseover, help] Rebirth",
 				[72] = "spell|91||Thorns|Rank 8|53307",
 				[88] = "spell|129||Shred|Rank 9|48572",
-				[114] = "spell|55||Moonfire|Rank 14|48463",
-				[120] = "spell|11||Shadowmeld|Racial|58984",
+				[110] = "spell|82||Starfire|Rank 10|48465",
+				[60] = "item|33447||Runic Healing Potion",
 				[73] = "spell|110||Dash|Rank 3|33357",
 				[89] = "spell|110||Dash|Rank 3|33357",
-				[48] = "spell|34||Innervate||29166",
+				[108] = "spell|111||Demoralizing Roar|Rank 8|48560",
+			},
+			["rideresto1"] = {
+				"spell|175||Regrowth|Rank 12|48443", -- [1]
+				"spell|156||Nourish|Rank 1|50464", -- [2]
+				"spell|190||Rejuvenation|Rank 15|48441", -- [3]
+				"spell|199||Swiftmend||18562", -- [4]
+				nil, -- [5]
+				nil, -- [6]
+				nil, -- [7]
+				nil, -- [8]
+				"spell|206||Tranquility|Rank 7|48447", -- [9]
+				"spell|211||Wild Growth|Rank 4|53251", -- [10]
+				"item|54573||Glowing Twilight Scale", -- [11]
+				"spell|155||Nature's Swiftness||17116", -- [12]
+				nil, -- [13]
+				"spell|15||Cyclone||33786", -- [14]
+				"item|50699||Plague Scientist's Boots", -- [15]
+				"item|2459||Swiftness Potion", -- [16]
+				[26] = "macro|26||focustarget|Interface\\Icons\\INV_Misc_QuestionMark|/target focus",
+				[30] = "spell|33||Innervate||29166",
+				[37] = "spell|14||Barkskin||22812",
+				[90] = "spell|33||Innervate||29166",
+				[106] = "spell|92||Bash|Rank 3|8983",
+				[61] = "item|6948||Hearthstone",
+				[75] = "spell|115||Savage Roar|Rank 1|52610",
+				[38] = "spell|104||Frenzied Regeneration||22842",
+				[46] = "spell|154||Mark of the Wild|Rank 9|48469",
+				[54] = "equipmentset|Tank|",
+				[62] = "spell|70||Teleport: Moonglade||18960",
+				[19] = "spell|14||Barkskin||22812",
+				[23] = "spell|117||Swift Flight Form|Shapeshift|40120",
+				[31] = "spell|55||Nature's Grasp|Rank 8|53312",
+				[39] = "spell|11||Shadowmeld|Racial|58984",
+				[47] = "spell|163||Rebirth|Rank 7|48477",
+				[55] = "equipmentset|Heal|",
+				[95] = "spell|190||Rejuvenation|Rank 15|48441",
+				[111] = "item|40211||Potion of Speed",
+				[32] = "spell|145||Lifebloom|Rank 3|48451",
+				[96] = "spell|93||Cat Form|Shapeshift|768",
+				[56] = "equipmentset|Dps|",
+				[65] = "item|46376||Flask of the Frost Wyrm",
+				[105] = "spell|94||Challenging Roar||5209",
+				[24] = "companion|5||rideresto1|MOUNT|24252",
+				[97] = "macro|97||Inferno|Interface\\Icons\\Spell_Nature_FaerieFire|/target Living Inferno/n/cast Faerie Fire",
+				[66] = "item|33454||Salted Venison",
+				[41] = "spell|127||Gift of the Wild|Rank 4|48470",
+				[49] = "macro|49||a|Interface\\Icons\\Ability_Creature_Disease_04|/run local f = CreateFrame(\"frame\",nil,UIParent); f:SetScript(\"OnUpdate\",CombatLogClearEntries);",
+				[93] = "spell|206||Tranquility|Rank 7|48447",
+				[67] = "item|33445||Honeymint Tea",
+				[83] = "spell|119||Swipe (Cat)|Rank 1|62078",
+				[34] = "spell|191||Remove Curse||2782",
+				[100] = "spell|118||Swipe (Bear)|Rank 8|48562",
+				[68] = "item|43523||Conjured Mana Strudel",
+				[42] = "spell|55||Nature's Grasp|Rank 8|53312",
+				[50] = "spell|2||Basic Campfire||818",
+				[58] = "item|33447||Runic Healing Potion",
+				[108] = "spell|98||Demoralizing Roar|Rank 8|48560",
+				[85] = "spell|156||Nourish|Rank 1|50464",
+				[25] = "spell|105||Growl||6795",
+				[98] = "macro|98||focustarget|Interface\\Icons\\INV_Misc_QuestionMark|/target focus",
+				[92] = "spell|15||Cyclone||33786",
+				[84] = "spell|110||Prowl||5215",
+				[51] = "spell|12||Tailoring|Grand Master|51309",
+				[59] = "spell|198||Revive|Rank 7|50763",
+				[71] = "spell|163||Rebirth|Rank 7|48477",
+				[82] = "spell|120||Tiger's Fury|Rank 6|50213",
+				[77] = "spell|113||Rip|Rank 9|49800",
+				[76] = "spell|103||Ferocious Bite|Rank 8|48577",
+				[72] = "spell|198||Revive|Rank 7|50763",
+				[44] = "item|33448||Runic Mana Potion",
+				[52] = "spell|7||Engineering|Grand Master|51306",
+				[74] = "spell|111||Rake|Rank 7|48574",
+				[73] = "spell|97||Dash|Rank 3|33357",
+				[89] = "spell|97||Dash|Rank 3|33357",
+				[64] = "item|49278||Goblin Rocket Pack",
 			},
 		},
 		["SHAMAN"] = {
 		},
-		["ROGUE"] = {
+		["HUNTER"] = {
 		},
 	},
 	["spellSubs"] = {

@@ -10,7 +10,9 @@ BagnonFrameSettings = {
 			["point"] = "BOTTOMLEFT",
 		},
 		["bank"] = {
-			["y"] = 178.7463078926192,
+			["y"] = -276.7533234659665,
+			["x"] = -568.0005925070427,
+			["point"] = "TOPRIGHT",
 		},
 	},
 	["version"] = "2.13.3",

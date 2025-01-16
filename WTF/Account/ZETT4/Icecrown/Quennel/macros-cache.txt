@@ -1,8 +1,0 @@
-MACRO 16777217 " " INV_Misc_QuestionMark
-/cast Shadowstep
-/cast Sap
-END
-MACRO 16777218 " " INV_Misc_QuestionMark
-/cast Premeditation
-/cast Slice and Dice
-END

@@ -1,0 +1,41 @@
+MACRO 16777218 " PreSlice" INV_Misc_QuestionMark
+/cast Premeditation
+/cast Slice and Dice
+END
+MACRO 16777217 " ShadowSap" INV_Misc_QuestionMark
+/cast Shadowstep
+/cast Sap
+END
+MACRO 16777219 " Sinister" INV_Misc_QuestionMark
+/startattack
+/cast Sinister Strike
+/use 10
+END
+MACRO 16777227 "Adrenaline" INV_Misc_QuestionMark
+/cast Adrenaline Rush
+/cast Berserking
+END
+MACRO 16777226 "Ambush" INV_Misc_QuestionMark
+#showtooltip Ambush
+/cast Berserking
+/cast Ambush
+END
+MACRO 16777224 "cancelaura" INV_Misc_QuestionMark
+/cancelaura tricks of the trade
+END
+MACRO 16777225 "Cold Blood" INV_Misc_QuestionMark
+/cast Cold Blood
+/cast Berserking
+END
+MACRO 16777222 "Focus" Ability_Hunter_MarkedForDeath
+/focus Target
+END
+MACRO 16777223 "Mouse" INV_Misc_QuestionMark
+/cast [@mouseover] Tricks of the Trade
+END
+MACRO 16777221 "rog" INV_Misc_QuestionMark
+/cast [target=Estimate] Tricks of the Trade
+END
+MACRO 16777220 "Tot" INV_Misc_QuestionMark
+/cast [target=focus] Tricks of the Trade
+END

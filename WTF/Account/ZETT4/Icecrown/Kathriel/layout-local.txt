@@ -6,6 +6,13 @@ X: 10
 Y: -118
 W: 1
 H: 1
+Frame: FPSMonitorFrame
+FrameLevel: 1
+Anchor: LEFT
+X: 11
+Y: 233
+W: 150
+H: 60
 Frame: PallyPowerFrame
 FrameLevel: 1
 Anchor: LEFT
@@ -55,13 +62,6 @@ X: 537
 Y: -228
 W: 160
 H: 60
-Frame: _NPCScanButton
-FrameLevel: 1
-Anchor: BOTTOM
-X: 0
-Y: 128
-W: 150
-H: 42
 Frame: AfkFrame
 FrameLevel: 0
 Anchor: CENTER

@@ -11,13 +11,13 @@ OmniBarDB = {
 		["locked"] = true,
 		["size"] = 40,
 		["swipeAlpha"] = 0.65,
-		["noHighlightFocus"] = true,
+		["growUpward"] = true,
 		["columns"] = 8,
 		["unusedAlpha"] = 0.45,
-		["noArena"] = false,
-		["noWorld"] = false,
-		["noCooldownCount"] = false,
+		["showUnused"] = false,
 		["adaptive"] = false,
+		["noCooldownCount"] = false,
+		["noWorld"] = false,
 		["noGlow"] = false,
 		["noTooltips"] = false,
 		["padding"] = 2,
@@ -172,11 +172,11 @@ OmniBarDB = {
 			[61384] = {
 				["enabled"] = false,
 			},
-			[871] = {
+			[53480] = {
 				["enabled"] = false,
 			},
-			[71638] = {
-				["enabled"] = false,
+			[47528] = {
+				["enabled"] = true,
 			},
 			[28730] = {
 				["enabled"] = false,
@@ -193,7 +193,7 @@ OmniBarDB = {
 			[12809] = {
 				["enabled"] = false,
 			},
-			[23920] = {
+			[10308] = {
 				["enabled"] = true,
 			},
 			[11958] = {
@@ -202,10 +202,10 @@ OmniBarDB = {
 			[11578] = {
 				["enabled"] = false,
 			},
-			[47585] = {
-				["enabled"] = false,
+			[23920] = {
+				["enabled"] = true,
 			},
-			[59159] = {
+			[12043] = {
 				["enabled"] = false,
 			},
 			[47847] = {
@@ -217,23 +217,23 @@ OmniBarDB = {
 			[12472] = {
 				["enabled"] = false,
 			},
-			[58984] = {
+			[34600] = {
 				["enabled"] = false,
 			},
-			[8983] = {
-				["enabled"] = true,
+			[44572] = {
+				["enabled"] = false,
 			},
 			[53201] = {
 				["enabled"] = false,
 			},
-			[13809] = {
+			[10890] = {
 				["enabled"] = false,
 			},
 			[47860] = {
 				["enabled"] = false,
 			},
-			[34433] = {
-				["enabled"] = false,
+			[19503] = {
+				["enabled"] = true,
 			},
 			[48792] = {
 				["enabled"] = false,
@@ -244,8 +244,8 @@ OmniBarDB = {
 			[8177] = {
 				["enabled"] = false,
 			},
-			[19503] = {
-				["enabled"] = true,
+			[34433] = {
+				["enabled"] = false,
 			},
 			[16166] = {
 				["enabled"] = false,
@@ -268,20 +268,20 @@ OmniBarDB = {
 			[19263] = {
 				["enabled"] = false,
 			},
-			[10890] = {
+			[13809] = {
 				["enabled"] = false,
 			},
-			[44572] = {
-				["enabled"] = false,
-			},
-			[34600] = {
-				["enabled"] = false,
-			},
-			[12043] = {
-				["enabled"] = false,
-			},
-			[10308] = {
+			[8983] = {
 				["enabled"] = true,
+			},
+			[58984] = {
+				["enabled"] = false,
+			},
+			[59159] = {
+				["enabled"] = false,
+			},
+			[47585] = {
+				["enabled"] = false,
 			},
 			[17116] = {
 				["enabled"] = false,
@@ -292,15 +292,15 @@ OmniBarDB = {
 			[20549] = {
 				["enabled"] = true,
 			},
-			[47528] = {
-				["enabled"] = true,
+			[71638] = {
+				["enabled"] = false,
 			},
-			[53480] = {
+			[871] = {
 				["enabled"] = false,
 			},
 		},
-		["showUnused"] = false,
-		["growUpward"] = true,
+		["noArena"] = false,
+		["noHighlightFocus"] = true,
 		["noRatedBattleground"] = false,
 	},
 }

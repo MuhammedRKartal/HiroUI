@@ -11,11 +11,11 @@ KPackCharDB = {
 			["AutoCompleteGuild"] = true,
 			["AutoCompleteFriends"] = true,
 			["AutoCompleteRecent"] = true,
-			["alts"] = {
+			["recent"] = {
 			},
 			["AutoCompleteContacts"] = true,
 			["DisableBlizzardAutoComplete"] = false,
-			["recent"] = {
+			["alts"] = {
 			},
 		},
 	},

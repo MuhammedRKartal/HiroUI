@@ -15,9 +15,9 @@ KPackCharDB = {
 			},
 			["AutoCompleteAlts"] = true,
 			["AutoCompleteGuild"] = true,
-			["recent"] = {
-			},
 			["alts"] = {
+			},
+			["recent"] = {
 			},
 			["AutoCompleteRecent"] = true,
 			["AutoCompleteContacts"] = true,

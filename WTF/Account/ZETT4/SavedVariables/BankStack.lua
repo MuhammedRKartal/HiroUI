@@ -15,20 +15,20 @@ BankStackDB = {
 	["fubar_keybinds"] = {
 		["BUTTON1"] = "sortbags",
 		["ALT-BUTTON1"] = "sortbank",
-		["ALT-SHIFT-BUTTON1"] = "stackbank",
+		["ALT-CTRL-SHIFT-BUTTON1"] = false,
 		["SHIFT-BUTTON1"] = "stackbags",
 		["CTRL-BUTTON1"] = "compressbags",
 		["ALT-CTRL-BUTTON1"] = "compressbank",
-		["ALT-CTRL-SHIFT-BUTTON1"] = false,
+		["ALT-SHIFT-BUTTON1"] = "stackbank",
 		["CTRL-SHIFT-BUTTON1"] = false,
 	},
+	["reverse"] = true,
+	["ignore"] = {
+	},
+	["junk"] = true,
 	["namespaces"] = {
 		["LDB"] = {
 		},
 	},
-	["ignore"] = {
-	},
-	["junk"] = true,
-	["reverse"] = true,
 }
 BankStackFuDB = nil

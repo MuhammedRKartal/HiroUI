@@ -42,6 +42,13 @@ AF_config = {
 		["rate"] = 60,
 		["system"] = "CHANNEL",
 	},
+	["Icecrown-Toqtir"] = {
+		["message"] = "AutoFlood 1.1",
+		["channel"] = "1",
+		["idChannel"] = "1",
+		["rate"] = 60,
+		["system"] = "CHANNEL",
+	},
 	["Icecrown-Mayicurse"] = {
 		["message"] = "SELECT YOUR ITEMS BIS ROGUE \"Kirikox\", BIS HUNTER \"Elynass\"",
 		["channel"] = "4",
@@ -63,14 +70,14 @@ AF_config = {
 		["rate"] = 60,
 		["system"] = "CHANNEL",
 	},
-	["Icecrown-Yarramwari"] = {
+	["Icecrown-Ancaz"] = {
 		["message"] = "AutoFlood 1.1",
 		["channel"] = "1",
 		["idChannel"] = "1",
 		["rate"] = 60,
 		["system"] = "CHANNEL",
 	},
-	["Icecrown-Enkzaly"] = {
+	["Icecrown-Elynass"] = {
 		["message"] = "AutoFlood 1.1",
 		["channel"] = "1",
 		["idChannel"] = "1",
@@ -119,14 +126,14 @@ AF_config = {
 		["rate"] = 60,
 		["system"] = "CHANNEL",
 	},
-	["Icecrown-Elynass"] = {
-		["message"] = "AutoFlood 1.1",
-		["channel"] = "1",
-		["idChannel"] = "1",
+	["Icecrown-Enkzaly"] = {
+		["message"] = "Do you want to have Weakauras designed just for you, or sell your Weakauras in-game?Join our community in discord: https://discord.gg/7E6jAPsJD9",
+		["channel"] = "7",
+		["idChannel"] = "7",
 		["rate"] = 60,
 		["system"] = "CHANNEL",
 	},
-	["Icecrown-Ancaz"] = {
+	["Icecrown-Yarramwari"] = {
 		["message"] = "AutoFlood 1.1",
 		["channel"] = "1",
 		["idChannel"] = "1",

@@ -75,7 +75,7 @@ Skinner: disabled
 _NPCScan: enabled
 _NPCScan.Overlay: enabled
 ActionBarSaver: enabled
-AllCheatersMustDie: enabled
+AllCheatersMustDie: disabled
 BankStack: enabled
 Bartender4: enabled
 BigDebuffs: enabled
@@ -156,4 +156,3 @@ LibTextTable-1.0: enabled
 LibSharedMedia-3.0: enabled
 LibDataBroker-1.1: enabled
 LibAboutPanel: enabled
-RosterLib: enabled

@@ -5,412 +5,172 @@ PB_DB = {
 		},
 	},
 	["profileKeys"] = {
-		["Mayiascend - Icecrown"] = "Default",
-		["Regens - Icecrown"] = "Default",
 		["Drutheil - Icecrown"] = "Default",
+		["Mayihunt - Icecrown"] = "Default",
+		["Mayiascend - Icecrown"] = "Default",
+		["Durrozdor - Icecrown"] = "Default",
+		["Druthiel - Icecrown"] = "Default",
+		["Parabellumm - Icecrown"] = "Default",
+		["Mayiheal - Icecrown"] = "Default",
 		["Cezzarged - Icecrown"] = "Default",
 		["Enkz - Blackrock [PvP only]"] = "Default",
 		["Mayistab - Icecrown"] = "Default",
 		["Elynass - Icecrown"] = "Default",
+		["Mayibite - Icecrown"] = "Default",
 		["Alaca - Icecrown"] = "Default",
 		["Hirowata - Icecrown"] = "Default",
 		["Mayicurse - Icecrown"] = "Default",
 		["Dumbcuntt - Blackrock [PvP only]"] = "Default",
-		["Yarramwari - Icecrown"] = "Default",
+		["Toqtir - Icecrown"] = "Default",
+		["Mayilick - Icecrown"] = "Default",
 		["Boomeranga - Icecrown"] = "Default",
-		["Dinozorabbas - Icecrown"] = "Default",
+		["Nekimi - Icecrown"] = "Default",
 		["Elziash - Icecrown"] = "Default",
 		["Plaacebo - Icecrown"] = "Default",
-		["Mayilick - Icecrown"] = "Default",
-		["Druthiel - Icecrown"] = "Default",
-		["Askadras - Icecrown"] = "Default",
+		["Mayishift - Icecrown"] = "Default",
+		["Yaramiem - Blackrock [PvP only]"] = "Default",
+		["Mayislash - Icecrown"] = "Default",
 		["Cezzarged - Blackrock [PvP only]"] = "Default",
 		["Enkzaly - Icecrown"] = "Default",
-		["Mayishift - Icecrown"] = "Default",
-		["Mayiheal - Icecrown"] = "Default",
+		["Casette - Icecrown"] = "Default",
+		["Mayicrush - Icecrown"] = "Default",
 		["Fareci - Icecrown"] = "Default",
-		["Parabellumm - Icecrown"] = "Default",
-		["Imacreep - Icecrown"] = "Default",
+		["Analbuster - Onyxia"] = "Default",
+		["Regens - Icecrown"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
 			["cooldownFont"] = "Arial Narrow",
 			["barOffsetY"] = 0,
 			["ignoreDefaultSpell"] = {
+				["Shockwave"] = true,
+				["Avenging Wrath"] = true,
 				["Warsong Flag"] = true,
+				["Death Coil"] = true,
+				["Free Action Potion"] = true,
+				["Netherstorm Flag"] = true,
+				["Trampled"] = true,
+				["Beacon of Light"] = true,
+				["Hibernate"] = true,
+				["Divine Protection"] = true,
+				["Blind"] = true,
+				["Banish"] = true,
+				["Seduction"] = true,
+				["Strangulate"] = true,
+				["Invisibility Potion"] = true,
+				["Ice Block"] = true,
+				["Cloak of Shadows"] = true,
+				["Bladestorm"] = true,
+				["Swiftness Potion"] = true,
+				["Entangling Roots"] = true,
+				["Sprint"] = true,
+				["Divine Shield"] = true,
+				["Intimidating Shout"] = true,
+				["Hand of Protection"] = true,
+				["Silence"] = true,
+				["Bestial Wrath"] = true,
+				["Power Infusion"] = true,
+				["Potion of Speed"] = true,
+				["Bloodlust"] = true,
+				["Scatter Shot"] = true,
+				["Evasion"] = true,
+				["Silencing Shot"] = true,
+				["Deep Freeze"] = true,
+				["Icebound Fortitude"] = true,
+				["Wyvern Sting"] = true,
+				["Potion of Petrification"] = true,
+				["Dispersion"] = true,
+				["Hex"] = true,
+				["Lichborne"] = true,
+				["Howl of Terror"] = true,
+				["Turn Evil"] = true,
+				["Icy Veins"] = true,
+				["Nature's Grasp"] = true,
+				["Indestructible Potion"] = true,
+				["Barkskin"] = true,
+				["Silverwing Flag"] = true,
+				["Mind Control"] = true,
+				["Sap"] = true,
+				["Lesser Invisibility Potion"] = true,
+				["Dash"] = true,
+				["Innervate"] = true,
+				["Pain Suppression"] = true,
+				["Repentance"] = true,
 			},
+			["skin_SkinID"] = "LiteStep XLT",
 			["iconsPerBar"] = 8,
-			["defaultBuffShow"] = 2,
-			["iconSize2"] = 18,
 			["defaultDebuffShow"] = 3,
 			["numBars"] = 4,
 			["skin_Gloss"] = 0.28,
 			["showCooldown"] = false,
 			["iconSize"] = 18,
 			["spellOpts"] = {
-				["Corruption"] = {
+				["Psychic Scream"] = {
+					["spellID"] = 10890,
+				},
+				["Freezing Arrow"] = {
 					["show"] = 1,
-					["increase"] = 1.1,
-					["spellID"] = "No spellID",
-				},
-				["Evasion"] = {
-					["increase"] = 1.7,
-				},
-				["Shadowflame"] = {
-					["show"] = 1,
-					["increase"] = 1.1,
-					["spellID"] = 61290,
-				},
-				["Shadow Word: Pain"] = {
-					["show"] = 1,
-					["spellID"] = "No spellID",
-				},
-				["Immolate"] = {
-					["show"] = 1,
-					["spellID"] = "No spellID",
-				},
-				["Polymorph"] = {
-					["increase"] = 2.3,
-				},
-				["Devouring Plague"] = {
-					["show"] = 1,
-					["spellID"] = "No spellID",
-				},
-				["Hammer of Justice"] = {
-					["show"] = 1,
-					["increase"] = 2,
-					["spellID"] = 10308,
-				},
-				["Hibernate"] = {
-					["increase"] = 2,
-				},
-				["Blind"] = {
-					["increase"] = 3,
-					["spellID"] = "No spellID",
-				},
-				["Curse of Exhaustion"] = {
-					["show"] = 1,
-					["spellID"] = "No spellID",
-				},
-				["Silenced - Shield of the Templar"] = {
-					["show"] = 1,
-					["increase"] = 1.7,
-					["spellID"] = 63529,
-				},
-				["Frost Ward"] = {
-					["show"] = 1,
-					["increase"] = 2,
-					["spellID"] = "No spellID",
-				},
-				["Sacred Shield"] = {
-					["show"] = 1,
-					["increase"] = 1.5,
-					["spellID"] = 53601,
-				},
-				["Frost Fever"] = {
-					["show"] = 1,
-					["increase"] = 1.1,
-					["spellID"] = "No spellID",
-				},
-				["Wound Poison"] = {
-					["show"] = 1,
-					["increase"] = 1.5,
-					["spellID"] = "No spellID",
-				},
-				["Freezing Trap"] = {
-					["increase"] = 2.5,
-				},
-				["Cyclone"] = {
-					["increase"] = 2.5,
-					["spellID"] = "No spellID",
-				},
-				["Taste for Blood"] = {
-					["show"] = 1,
-					["increase"] = 2,
-					["spellID"] = "No SpellID",
-				},
-				["Regrowth"] = {
-					["show"] = 1,
-					["increase"] = 1.3,
-					["spellID"] = "No spellID",
-				},
-				["Disarm"] = {
-					["show"] = 1,
-					["increase"] = 2.5,
-					["spellID"] = "No spellID",
-				},
-				["Rejuvenation"] = {
-					["show"] = 1,
-					["increase"] = 1.3,
-					["spellID"] = "No spellID",
-				},
-				["Haunt"] = {
-					["show"] = 1,
-					["increase"] = 1.1,
-					["spellID"] = "No spellID",
-				},
-				["Renew"] = {
-					["show"] = 1,
-					["increase"] = 1.3,
-					["spellID"] = "No spellID",
-				},
-				["Scatter Shot"] = {
-					["increase"] = 2,
-				},
-				["Gnaw"] = {
-					["show"] = 1,
-					["increase"] = 2,
-					["spellID"] = "No spellID",
-				},
-				["Curse of Weakness"] = {
-					["show"] = 1,
-					["spellID"] = 50511,
+					["spellID"] = 60192,
 				},
 				["Psychic Horror"] = {
 					["increase"] = 2,
 				},
-				["Silenced - Improved Kick"] = {
+				["Freezing Trap"] = {
+					["increase"] = 2,
+					["spellID"] = 37368,
+				},
+				["Cyclone"] = {
+					["spellID"] = 65859,
+				},
+				["Disarm"] = {
 					["show"] = 1,
-					["increase"] = 1.7,
-					["spellID"] = 18425,
+					["increase"] = 2,
+					["spellID"] = 676,
+				},
+				["Curse of Weakness"] = {
+					["show"] = 1,
+					["increase"] = 1.5,
+					["spellID"] = 50511,
 				},
 				["Fear"] = {
 					["increase"] = 2,
 					["spellID"] = 6215,
 				},
-				["Grounding Totem Effect"] = {
+				["Necrotic Plague"] = {
+					["show"] = 1,
+					["increase"] = 1.5,
+					["spellID"] = 70337,
+				},
+				["Dismantle"] = {
 					["show"] = 1,
 					["increase"] = 2,
-					["spellID"] = "No spellID",
+					["spellID"] = 51722,
 				},
-				["Freeze"] = {
-					["show"] = 1,
-					["increase"] = 2,
-					["spellID"] = "No spellID",
-				},
-				["Kidney Shot"] = {
-					["show"] = 1,
-					["increase"] = 1.5,
-					["spellID"] = "No spellID",
-				},
-				["Earth Shield"] = {
-					["show"] = 1,
-					["increase"] = 1.2,
-					["spellID"] = 49284,
-				},
-				["Spell Reflection"] = {
-					["show"] = 1,
-					["increase"] = 2,
-					["spellID"] = "No spellID",
-				},
-				["Sap"] = {
-					["increase"] = 2.3,
-				},
-				["Vampiric Touch"] = {
-					["show"] = 1,
-					["increase"] = 1.5,
-					["spellID"] = "No spellID",
-				},
-				["Cheap Shot"] = {
-					["show"] = 1,
-					["increase"] = 2,
-					["spellID"] = "No spellID",
-				},
-				["Strangulate"] = {
-					["increase"] = 1.7,
-				},
-				["Cloak of Shadows"] = {
-					["increase"] = 1.7,
-				},
-				["Dragon's Breath"] = {
-					["show"] = 1,
-					["increase"] = 1.5,
-					["spellID"] = "No spellID",
-				},
-				["Curse of Tongues"] = {
-					["show"] = 1,
-					["spellID"] = 11719,
-				},
-				["Flame Shock"] = {
-					["show"] = 1,
-					["spellID"] = 49233,
-				},
-				["Mortal Strike"] = {
-					["show"] = 1,
-					["increase"] = 1.5,
-					["spellID"] = "No spellID",
-				},
-				["Blood Plague"] = {
-					["show"] = 1,
-					["increase"] = 1.1,
-					["spellID"] = "No spellID",
-				},
-				["Banish"] = {
-					["increase"] = 3,
-				},
-				["Holy Vengeance"] = {
-					["show"] = 1,
-					["increase"] = 1,
-					["spellID"] = "No spellID",
-				},
-				["Silence"] = {
-					["increase"] = 1.7,
-				},
-				["Divine Sacrifice"] = {
-					["show"] = 1,
-					["increase"] = 1.7,
-					["spellID"] = 64205,
-				},
-				["Frost Shock"] = {
-					["show"] = 1,
-					["spellID"] = 49236,
-				},
-				["Unstable Affliction"] = {
-					["show"] = 1,
-					["increase"] = 1.5,
-					["spellID"] = "No spellID",
-				},
-				["Seduction"] = {
-					["increase"] = 2.3,
-					["spellID"] = "No spellID",
-				},
-				["Curse of Agony"] = {
-					["show"] = 1,
-					["spellID"] = 47864,
-				},
-				["Flash of Light"] = {
-					["show"] = 1,
-					["increase"] = 1.1,
-					["spellID"] = 66922,
-				},
-				["Hand of Sacrifice"] = {
-					["show"] = 1,
-					["increase"] = 1.5,
-					["spellID"] = 6940,
-				},
-				["Scorpid Sting"] = {
+				["Piercing Howl"] = {
 					["show"] = 1,
 					["increase"] = 1.3,
-					["spellID"] = "No spellID",
-				},
-				["Earth Shock"] = {
-					["show"] = 1,
-					["spellID"] = 49231,
-				},
-				["Crippling Poison"] = {
-					["show"] = 1,
-					["increase"] = 1.3,
-					["spellID"] = "No spellID",
-				},
-				["Hand of Protection"] = {
-					["increase"] = 2,
-				},
-				["Power Word: Shield"] = {
-					["show"] = 1,
-					["increase"] = 1.2,
-					["spellID"] = "No spellID",
-				},
-				["Stoneclaw Totem"] = {
-					["show"] = 1,
-					["increase"] = 1.5,
-					["spellID"] = 58582,
-				},
-				["Hand of Freedom"] = {
-					["show"] = 1,
-					["increase"] = 1.5,
-					["spellID"] = "No spellID",
-				},
-				["Silencing Shot"] = {
-					["increase"] = 1.7,
-				},
-				["Conflagrate"] = {
-					["show"] = 1,
-					["increase"] = 1.2,
-					["spellID"] = 17962,
-				},
-				["Judgement of Wisdom"] = {
-					["show"] = 1,
-					["spellID"] = "No spellID",
-				},
-				["Viper Sting"] = {
-					["show"] = 1,
-					["increase"] = 1.1,
-					["spellID"] = "No spellID",
-				},
-				["Lichborne"] = {
-					["increase"] = 1.7,
-				},
-				["Deep Freeze"] = {
-					["spellID"] = "No spellID",
-				},
-				["Dispersion"] = {
-					["increase"] = 2.3,
-				},
-				["Fire Ward"] = {
-					["show"] = 1,
-					["increase"] = 2,
-					["spellID"] = "No spellID",
+					["spellID"] = 12323,
 				},
 				["Curse of the Elements"] = {
 					["show"] = 1,
-					["spellID"] = 47865,
-				},
-				["Recklessness"] = {
-					["show"] = 1,
 					["increase"] = 1.5,
-					["spellID"] = "No spellID",
+					["spellID"] = 11722,
 				},
-				["Turn Evil"] = {
-					["increase"] = 2,
-				},
-				["Frost Nova"] = {
+				["Hamstring"] = {
 					["show"] = 1,
-					["increase"] = 2,
-					["spellID"] = "No spellID",
-				},
-				["Deterrence"] = {
-					["show"] = 1,
-					["increase"] = 2,
-					["spellID"] = "No spellID",
-				},
-				["Howl of Terror"] = {
-					["spellID"] = "No spellID",
-				},
-				["Judgement of Light"] = {
-					["show"] = 1,
-					["spellID"] = "No spellID",
-				},
-				["Silenced - Improved Counterspell"] = {
-					["show"] = 1,
-					["increase"] = 1.7,
-					["spellID"] = 55021,
-				},
-				["Divine Plea"] = {
-					["show"] = 1,
-					["increase"] = 1.7,
-					["spellID"] = "No spellID",
-				},
-				["Spell Lock"] = {
-					["show"] = 1,
-					["increase"] = 1.7,
-					["spellID"] = "No spellID",
-				},
-				["Repentance"] = {
-					["increase"] = 2,
-					["spellID"] = "No spellID",
+					["increase"] = 1.3,
+					["spellID"] = 1715,
 				},
 			},
 			["intervalY"] = 0,
 			["intervalX"] = 0,
 			["cooldownSize"] = 7,
-			["skin_SkinID"] = "LiteStep XLT",
-			["skin_Backdrop"] = true,
 			["skin_Colors"] = {
 				["Pushed"] = {
-					0, -- [1]
-					0, -- [2]
-					0, -- [3]
-					0.4399999976158142, -- [4]
+					0.2549019607843137, -- [1]
+					0.4745098039215686, -- [2]
+					0.7764705882352941, -- [3]
+					0.4700000286102295, -- [4]
 				},
 				["Checked"] = {
 					0, -- [1]
@@ -437,6 +197,8 @@ PB_DB = {
 					1, -- [4]
 				},
 			},
+			["iconSize2"] = 18,
+			["skin_Backdrop"] = true,
 		},
 	},
 }

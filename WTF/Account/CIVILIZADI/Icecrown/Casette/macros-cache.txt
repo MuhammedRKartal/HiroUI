@@ -29,6 +29,11 @@ MACRO 16777239 "PI Call" Spell_Holy_PowerInfusion
 #show Power Infusion
 /p Power Infusion
 END
+MACRO 16777241 "TRAP" INV_Misc_QuestionMark
+/ra Hunters Use Traps on Bridge
+/ra Warriors and Rogues on Cannon
+/ra BL on Each Encounter!
+END
 MACRO 16777223 "Wicked" INV_Misc_QuestionMark
 /target Wicked Spirit
 /cast Mind Sear

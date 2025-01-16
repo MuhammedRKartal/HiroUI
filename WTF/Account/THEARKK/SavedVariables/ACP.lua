@@ -2,7 +2,6 @@
 ACP_Data = {
 	["sorter"] = "Group By Name",
 	["NoRecurse"] = false,
-	["NoChildren"] = true,
 	["AddonSet"] = {
 		{
 			"ActionBarSaver", -- [1]
@@ -128,6 +127,7 @@ ACP_Data = {
 			"DBM-ZG", -- [114]
 		},
 	},
+	["NoChildren"] = true,
 	["collapsed"] = {
 		["DBM"] = true,
 	},

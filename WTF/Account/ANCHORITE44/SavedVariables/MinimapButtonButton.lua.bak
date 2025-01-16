@@ -1,0 +1,2 @@
+
+MinimapButtonButtonOptions = nil

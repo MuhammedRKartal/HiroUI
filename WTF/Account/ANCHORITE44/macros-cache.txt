@@ -1,3 +1,9 @@
+MACRO 3 "Alch" INV_Misc_QuestionMark
+#show Alchemy
+/cast Alchemy
+/run local skills = {"Transmute: Cardinal Ruby", "Transmute: King's Amber", "Transmute: Ametrine"} for i=1,GetNumTradeSkills() do if tContains(skills, GetTradeSkillInfo(i)) then DoTradeSkill(i) end end
+/script OpenAllBags()
+END
 MACRO 2 "CD" INV_Misc_QuestionMark
 /Cast combustion
 /use Talisman of Resurgence

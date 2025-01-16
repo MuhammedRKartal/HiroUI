@@ -1,5 +1,11 @@
 
 KPackCharDB = {
+	["Automate"] = {
+		["groundmount"] = "",
+		["sets"] = {
+		},
+		["flyingmount"] = "",
+	},
 	["Postal"] = {
 		["BlackBook"] = {
 			["ExcludeRandoms"] = true,
@@ -9,27 +15,23 @@ KPackCharDB = {
 			},
 			["AutoCompleteAlts"] = true,
 			["AutoCompleteGuild"] = true,
+			["AutoCompleteFriends"] = true,
+			["AutoCompleteRecent"] = true,
 			["alts"] = {
 				"Aegwyn|Icecrown|Alliance", -- [1]
-				"Mayiread|Icecrown|Alliance", -- [2]
+				"Mayiblast|Icecrown|Horde", -- [2]
+				"Mayiread|Icecrown|Alliance", -- [3]
 			},
-			["recent"] = {
-				"Jaglerog", -- [1]
-				"Quennel", -- [2]
-				"Elziash", -- [3]
-				"Mayiascend", -- [4]
-			},
-			["AutoCompleteRecent"] = true,
 			["AutoCompleteContacts"] = true,
 			["DisableBlizzardAutoComplete"] = false,
-			["AutoCompleteFriends"] = true,
+			["recent"] = {
+				"Mayicrush", -- [1]
+				"Jaglerog", -- [2]
+				"Quennel", -- [3]
+				"Elziash", -- [4]
+				"Mayiascend", -- [5]
+			},
 		},
-	},
-	["Automate"] = {
-		["groundmount"] = "",
-		["sets"] = {
-		},
-		["flyingmount"] = "",
 	},
 	["Tooltip"] = {
 		["spell"] = false,
@@ -38,17 +40,17 @@ KPackCharDB = {
 		["yOfs"] = -100,
 		["class"] = false,
 		["unit"] = false,
-		["petspell"] = false,
+		["scale"] = 1,
 		["xOfs"] = 0,
 		["enhance"] = true,
-		["scale"] = 1,
+		["petspell"] = false,
 	},
 	["LFR"] = {
 		["currentset"] = "active",
 		["raidsets"] = {
-			["Secondary"] = {
-			},
 			["Primary"] = {
+			},
+			["Secondary"] = {
 			},
 		},
 	},

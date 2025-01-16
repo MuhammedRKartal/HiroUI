@@ -49,10 +49,10 @@ END
 MACRO 16777245 "Mana" INV_Misc_QuestionMark
 /cast Avenging Wrath
 /cast Divine Plea
+/use Talisman of Resurgence
 END
 MACRO 16777246 "Mana 2" INV_Misc_QuestionMark
 /use Meteorite Crystal
-/use Talisman of Resurgence
 /cast Divine Illumination
 END
 MACRO 16777228 "sac" INV_Misc_QuestionMark

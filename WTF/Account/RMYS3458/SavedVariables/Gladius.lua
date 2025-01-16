@@ -1,13 +1,16 @@
 
 GladiusDB = {
 	["profileKeys"] = {
-		["Minikserce - Icecrown"] = "Minikserce - Icecrown",
 		["Aegwyn - Icecrown"] = "Aegwyn - Icecrown",
-		["Gelkucama - Icecrown"] = "Default",
-		["Zoolock - Icecrown"] = "Default",
 		["Healite - Icecrown"] = "Healite - Icecrown",
-		["Dinsiz - Icecrown"] = "Dinsiz - Icecrown",
+		["Sourbang - Icecrown"] = "Sourbang - Icecrown",
+		["Mayislice - Icecrown"] = "Mayislice - Icecrown",
 		["Rupturer - Icecrown"] = "Icecrown",
+		["Minikserce - Icecrown"] = "Minikserce - Icecrown",
+		["Zoolock - Icecrown"] = "Default",
+		["Gelkucama - Icecrown"] = "Default",
+		["Dinsiz - Icecrown"] = "Dinsiz - Icecrown",
+		["Denragar - Icecrown"] = "Denragar - Icecrown",
 	},
 	["profiles"] = {
 		["Icecrown"] = {
@@ -15,8 +18,8 @@ GladiusDB = {
 			["minimapIcon"] = {
 				["minimapPos"] = 142.8553945636746,
 			},
-			["x"] = 947.1995996239314,
 			["y"] = 480.0000266488927,
+			["x"] = 947.1995996239314,
 		},
 		["Aegwyn - Icecrown"] = {
 			["y"] = 480.0000266488927,
@@ -41,6 +44,22 @@ GladiusDB = {
 			["x"] = 947.1995996239314,
 			["y"] = 480.0000266488927,
 		},
+		["Sourbang - Icecrown"] = {
+			["locked"] = true,
+			["minimapIcon"] = {
+				["minimapPos"] = 142.8553945636746,
+			},
+			["y"] = 480.0000266488927,
+			["x"] = 947.1995996239314,
+		},
+		["Mayislice - Icecrown"] = {
+			["locked"] = true,
+			["minimapIcon"] = {
+				["minimapPos"] = 142.8553945636746,
+			},
+			["x"] = 947.1995996239314,
+			["y"] = 480.0000266488927,
+		},
 		["Rupturer - Icecrown"] = {
 			["locked"] = true,
 			["minimapIcon"] = {
@@ -50,10 +69,10 @@ GladiusDB = {
 			["y"] = 480.0000266488927,
 		},
 		["Minikserce - Icecrown"] = {
+			["locked"] = true,
 			["minimapIcon"] = {
 				["minimapPos"] = 142.8553945636746,
 			},
-			["locked"] = true,
 			["y"] = 480.0000266488927,
 			["x"] = 947.1995996239314,
 		},
@@ -74,12 +93,20 @@ GladiusDB = {
 			["y"] = 480.0000266488927,
 		},
 		["Default"] = {
+			["minimapIcon"] = {
+				["minimapPos"] = 142.8553945636746,
+			},
+			["locked"] = true,
+			["y"] = 480.0000266488927,
+			["x"] = 947.1995996239314,
+		},
+		["Healite - Icecrown"] = {
 			["locked"] = true,
 			["minimapIcon"] = {
 				["minimapPos"] = 142.8553945636746,
 			},
-			["y"] = 480.0000266488927,
 			["x"] = 947.1995996239314,
+			["y"] = 480.0000266488927,
 		},
 		["Dinsiz - Icecrown"] = {
 			["locked"] = true,
@@ -89,13 +116,7 @@ GladiusDB = {
 			["x"] = 947.1995996239314,
 			["y"] = 480.0000266488927,
 		},
-		["Healite - Icecrown"] = {
-			["locked"] = true,
-			["minimapIcon"] = {
-				["minimapPos"] = 142.8553945636746,
-			},
-			["y"] = 480.0000266488927,
-			["x"] = 947.1995996239314,
+		["Denragar - Icecrown"] = {
 		},
 	},
 }

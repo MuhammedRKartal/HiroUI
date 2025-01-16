@@ -161,4 +161,4 @@ DBM-Sunwell: enabled
 DBM-AQ40: enabled
 DBM-TheEye: enabled
 DBM-ZulAman: enabled
-DBM-ZG: enabled
+AllCheatersMustDie: disabled

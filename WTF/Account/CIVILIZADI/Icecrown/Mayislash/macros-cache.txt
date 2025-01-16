@@ -82,6 +82,7 @@ MACRO 16777237 "Retaliation" INV_Misc_QuestionMark
 #showtooltip Retaliation
 /cast Battle Stance
 /cast Retaliation
+/cast Berserker Stance
 END
 MACRO 16777224 "Revenge" INV_Misc_QuestionMark
 #showtooltip Revenge(Rank 9)
@@ -103,8 +104,8 @@ MACRO 16777218 "slam" INV_Misc_QuestionMark
 END
 MACRO 16777220 "Wall" INV_Misc_QuestionMark
 #showtooltip Shield Wall
+/equipslot 16 Shadowmourne
+/equipslot 17 Icecrown Glacial Wall
 /cast Defensive Stance
-/equipslot 17 Wrathful Gladiator's Shield Wall
-/equipslot 16 Wrathful Gladiator's Cleaver
 /cast Shield Wall
 END

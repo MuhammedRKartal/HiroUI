@@ -12,18 +12,19 @@ ButtonFacadeDB = {
 		["Dumbcuntt - Blackrock [PvP only]"] = "Default",
 		["Enayi - Icecrown"] = "Default",
 		["Plaacebo - Icecrown"] = "Default",
-		["Mayiascend - Icecrown"] = "Default",
-		["Cezzarged - Blackrock [PvP only]"] = "Default",
 		["Canubet - Icecrown"] = "Default",
-		["Sikelet - Icecrown"] = "Default",
-		["Ramozan - Icecrown"] = "Default",
-		["Fareci - Icecrown"] = "Default",
-		["Analbuster - Onyxia"] = "Default",
+		["Cezzarged - Blackrock [PvP only]"] = "Default",
 		["Yaramiem - Blackrock [PvP only]"] = "Default",
+		["Sikelet - Icecrown"] = "Default",
+		["Fareci - Icecrown"] = "Default",
+		["Ramozan - Icecrown"] = "Default",
+		["Analbuster - Onyxia"] = "Default",
+		["Mayiascend - Icecrown"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
 			["Gloss"] = 0.28,
+			["Backdrop"] = true,
 			["Colors"] = {
 				["Pushed"] = {
 					0.2549019607843137, -- [1]
@@ -62,7 +63,6 @@ ButtonFacadeDB = {
 					1, -- [4]
 				},
 			},
-			["Backdrop"] = true,
 			["SkinID"] = "LiteStep XLT",
 		},
 	},

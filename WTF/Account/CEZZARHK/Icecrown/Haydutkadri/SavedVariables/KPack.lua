@@ -9,11 +9,11 @@ KPackCharDB = {
 			},
 			["AutoCompleteAlts"] = true,
 			["AutoCompleteGuild"] = true,
-			["alts"] = {
-				"Haydutkadri|Icecrown|Alliance", -- [1]
-			},
 			["recent"] = {
 				"Cezzarpala", -- [1]
+			},
+			["alts"] = {
+				"Haydutkadri|Icecrown|Alliance", -- [1]
 			},
 			["AutoCompleteRecent"] = true,
 			["AutoCompleteContacts"] = true,

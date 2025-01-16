@@ -1,0 +1,52 @@
+MACRO 16777237 "Cleanse" INV_Misc_QuestionMark
+#showtooltip
+/cast [@mouseover,help,nodead] [help] [@player] Cleanse
+END
+MACRO 16777249 "Crusader" INV_Misc_QuestionMark
+#showtooltip Crusader Strike
+/startattack
+/cast Crusader Strike
+/use 10
+/cancelaura Chaos Bane
+END
+MACRO 16777243 "Divine Sacrifice" INV_Misc_QuestionMark
+#showtooltip Divine Sacrifice
+/cast Divine Sacrifice
+/cancelaura Divine Sacrifice
+END
+MACRO 16777231 "Divine Shield" INV_Misc_QuestionMark
+/cast Divine Shield
+/cancelaura Divine Shield
+END
+MACRO 16777244 "DS" INV_Misc_QuestionMark
+#showtooltip Divine Storm
+/startattack
+/cast Divine Storm
+/use 10
+/cancelaura Chaos Bane
+END
+MACRO 16777224 "Freedom" INV_Misc_QuestionMark
+#showtooltip Hand of Freedom
+/use [@mouseover, help] Hand of Freedom
+END
+MACRO 16777235 "Hammer" INV_Misc_QuestionMark
+#showtooltip Hammer of the Righteous
+/startattack
+/cast Hammer of the Righteous
+/use Fleshrending Gauntlets
+END
+MACRO 16777245 "sacred" INV_Misc_QuestionMark
+#showtooltip
+/cast [@mouseover,help,nodead] [help] [@player] Sacred Shield(Rank 1)
+END
+MACRO 16777232 "Self" INV_Misc_QuestionMark
+#showtooltip Hand of Salvation
+/cast target=[Mayicrush] Hand of Salvation
+/cancelaura Hand of Salvation
+END
+MACRO 16777236 "Shield" INV_Misc_QuestionMark
+#showtooltip Shield of Righteousness
+/startattack
+/cast Shield of Righteousness
+/use Fleshrending Gauntlets
+END

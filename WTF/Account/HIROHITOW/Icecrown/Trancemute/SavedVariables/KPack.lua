@@ -15,10 +15,10 @@ KPackCharDB = {
 			},
 			["AutoCompleteAlts"] = true,
 			["AutoCompleteGuild"] = true,
-			["recent"] = {
-			},
 			["alts"] = {
 				"Trancemute|Icecrown|Alliance", -- [1]
+			},
+			["recent"] = {
 			},
 			["AutoCompleteRecent"] = true,
 			["AutoCompleteContacts"] = true,

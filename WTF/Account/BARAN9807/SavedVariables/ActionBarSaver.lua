@@ -162,34 +162,34 @@ ActionBarSaverDB = {
 				[33] = "macro|33||disarm|Interface\\Icons\\Ability_Warrior_Disarm|#showtooltip Disarm/n/cast Defensive Stance/n/cast Disarm",
 				[82] = "spell|28||Shattering Throw||64382",
 				[98] = "macro|98||Cleave BT|Interface\\Icons\\Spell_Nature_BloodLust|#showtooltip Bloodthirst/n/startattack/n/cast Bloodthirst/n/cast Cleave(Rank 8)/n/use 10/n/cancelaura Hand of Protection/n/cancelaura Divine Intervation",
-				[41] = "spell|36||Commanding Shout|Rank 3|47440",
-				[22] = "spell|28||Shattering Throw||64382",
-				[18] = "spell|23||Heroic Throw||57755",
+				[78] = "spell|27||Retaliation||20230",
+				[89] = "spell|29||Thunder Clap|Rank 9|47502",
+				[73] = "spell|22||Heroic Strike|Rank 13|47450",
 				[99] = "macro|99||Heroic Whirlwind|Interface\\Icons\\Ability_Whirlwind|#showtooltip Whirlwind/n/cast !Whirlwind/n/cast Heroic Strike/n/cancelaura Hand of Protection/n/cancelaura Divine Intervation",
 				[26] = "macro|26||Reta|Interface\\Icons\\Ability_Warrior_Challange|#showtooltip Retaliation/n/cast Battle Stance/n/cast Retaliation",
 				[34] = "macro|34||rend|Interface\\Icons\\Ability_Gouge|#showtooltip Rend(Rank 10)/n/cast Battle Stance/n/use Rend(Rank 10)/n/cast Berserker Stance/n/cancelaura Hand of Protection",
-				[90] = "spell|61||Taunt||355",
+				[74] = "spell|26||Rend|Rank 10|47465",
 				[100] = "macro|100||Cleave Whirlwind|Interface\\Icons\\Ability_Whirlwind|#showtooltip Whirlwind/n/cast !Whirlwind/n/cast Cleave/n/cancelaura Hand of Protection/n/cancelaura Divine Intervation",
 				[14] = "spell|43||Piercing Howl||12323",
 				[69] = "item|49859||\"Bravado\" Cologne",
 				[38] = "spell|45||Recklessness||1719",
 				[25] = "spell|42||Intimidating Shout||5246",
-				[43] = "spell|30||Battle Shout|Rank 9|47436",
-				[35] = "macro|35||free|Interface\\Icons\\Ability_Warrior_VictoryRush|#showtooltip Intervene/n/cast Defensive Stance/n/cast [@mouseover, help, nodead] Intervene",
 				[86] = "macro|86||revenge|Interface\\Icons\\Ability_Warrior_Revenge|#showtooltip Revenge(Rank 9)/n/cast Revenge(Rank 9)/n/cast Heroic Strike(Rank 13)/n/cancelaura Hand of Protection",
-				[101] = "spell|31||Berserker Rage||18499",
-				[24] = "companion|3||cezzar1|MOUNT|72286",
+				[35] = "macro|35||free|Interface\\Icons\\Ability_Warrior_VictoryRush|#showtooltip Intervene/n/cast Defensive Stance/n/cast [@mouseover, help, nodead] Intervene",
+				[43] = "spell|30||Battle Shout|Rank 9|47436",
+				[13] = "spell|40||Execute|Rank 9|47471",
+				[19] = "item|40093||Indestructible Potion",
 				[109] = "spell|1||Auto Attack||6603",
 				[87] = "macro|87||ssslam|Interface\\Icons\\INV_Shield_05|#showtooltip Shield Slam(Rank 8)/n/cast Shield Slam(Rank 8)/n/cast Heroic Strike(Rank 13)",
-				[19] = "item|40093||Indestructible Potion",
-				[13] = "spell|40||Execute|Rank 9|47471",
+				[24] = "companion|3||cezzar1|MOUNT|72286",
+				[101] = "spell|31||Berserker Rage||18499",
 				[36] = "item|49278||Goblin Rocket Pack",
 				[88] = "spell|26||Rend|Rank 10|47465",
-				[74] = "spell|26||Rend|Rank 10|47465",
+				[90] = "spell|61||Taunt||355",
 				[60] = "item|43523||Conjured Mana Strudel",
-				[73] = "spell|22||Heroic Strike|Rank 13|47450",
-				[89] = "spell|29||Thunder Clap|Rank 9|47502",
-				[78] = "spell|27||Retaliation||20230",
+				[18] = "spell|23||Heroic Throw||57755",
+				[22] = "spell|28||Shattering Throw||64382",
+				[41] = "spell|36||Commanding Shout|Rank 3|47440",
 			},
 			["arms_pvp"] = {
 				"spell|1||Auto Attack||6603", -- [1]
@@ -259,12 +259,12 @@ ActionBarSaverDB = {
 				[97] = "macro|97||Mortal|Interface\\Icons\\Ability_Warrior_SavageBlow|#show Mortal Strike/n/startattack/n/cast !Mortal Strike",
 				[99] = "spell|41||Execute|Rank 9|47471",
 				[101] = "spell|61||Sunder Armor||7386",
-				[74] = "spell|27||Overpower||7384",
+				[75] = "spell|23||Heroic Strike|Rank 13|47450",
 				[105] = "spell|32||Thunder Clap|Rank 9|47502",
 				[76] = "spell|41||Execute|Rank 9|47471",
 				[109] = "spell|1||Auto Attack||6603",
 				[77] = "spell|61||Sunder Armor||7386",
-				[75] = "spell|23||Heroic Strike|Rank 13|47450",
+				[74] = "spell|27||Overpower||7384",
 			},
 		},
 		["PALADIN"] = {
@@ -395,8 +395,8 @@ ActionBarSaverDB = {
 				[51] = "spell|82||Holy Wrath|Rank 5|48817",
 				[52] = "spell|8||Engineering|Grand Master|51306",
 				[53] = "spell|14||Jewelcrafting|Grand Master|51311",
-				[70] = "spell|64||Greater Blessing of Wisdom|Rank 5|48938",
 				[72] = "spell|109||Greater Blessing of Kings||25898",
+				[70] = "spell|64||Greater Blessing of Wisdom|Rank 5|48938",
 			},
 			["protection_pvp"] = {
 				"spell|135||Holy Shield|Rank 6|48952", -- [1]
@@ -492,18 +492,18 @@ ActionBarSaverDB = {
 				[43] = "macro|43||ACCEPT|Interface\\Icons\\INV_Misc_QuestionMark|/run AcceptGroup()",
 				[5] = "macro|5||Assist|Interface\\Icons\\Ability_Mage_ArcaneBarrage|/assist Mayiascend/n/cast Arcane Barrage(Rank 3)",
 				[45] = "companion|3||multibox|MOUNT|23222",
-				[31] = "item|37815||Emerald Essence",
-				[72] = "spell|41||Arcane Explosion|Rank 10|42921",
+				[67] = "spell|120||Polymorph|Rabbit|61721",
+				[52] = "item|33448||Runic Mana Potion",
 				[64] = "spell|99||Invisibility||66",
 				[49] = "spell|98||Focus Magic||54646",
 				[25] = "macro|25||Lootpass|Interface\\Icons\\INV_Misc_QuestionMark|/run CloseLoot()",
 				[70] = "spell|126||Remove Curse||475",
-				[52] = "item|33448||Runic Mana Potion",
+				[72] = "spell|41||Arcane Explosion|Rank 10|42921",
 				[24] = "companion|1||multibox|MOUNT|32235",
 				[50] = "spell|202||Blizzard|Rank 9|42940",
 				[55] = "item|33312||Mana Sapphire",
 				[56] = "spell|77||Conjure Mana Gem|Rank 6|42985",
-				[67] = "spell|120||Polymorph|Rabbit|61721",
+				[31] = "item|37815||Emerald Essence",
 			},
 		},
 		["PRIEST"] = {
@@ -629,80 +629,6 @@ ActionBarSaverDB = {
 			},
 		},
 		["WARLOCK"] = {
-			["demonology_pve"] = {
-				"macro|1||Demo|Interface\\Icons\\Spell_Shadow_ShadowBolt|#showtooltip Shadow Bolt(Rank 13)/n/cast Shadow Cleave(Demon)/n/cast Shadow Bolt(Rank 13)/n/cast Demonic Empowerment/n/use Sanctified Dark Coven Gloves/n/petattack", -- [1]
-				"spell|192||Immolate|Rank 11|47811", -- [2]
-				"spell|196||Incinerate|Rank 4|47838", -- [3]
-				"macro|4||Soul Fire|Interface\\Icons\\Spell_Fire_Fireball02|#showtooltip Soul Fire(Rank 6)/n/cast Shadow Cleave(Demon)/n/cast Soul Fire(Rank 6)/n/cast Demonic Empowerment/n/use 10", -- [4]
-				nil, -- [5]
-				nil, -- [6]
-				nil, -- [7]
-				nil, -- [8]
-				"spell|89||Seed of Corruption|Rank 3|47836", -- [9]
-				"spell|228||Shadowflame|Rank 2|61290", -- [10]
-				"spell|23||Corruption|Rank 10|47813", -- [11]
-				"spell|35||Curse of Doom|Rank 3|47867", -- [12]
-				"spell|214||Shadow Bolt|Rank 1|686", -- [13]
-				"spell|129||Demon Charge|Demon|54785", -- [14]
-				"item|50699||Plague Scientist's Boots", -- [15]
-				"spell|76||Fear|Rank 3|6215", -- [16]
-				nil, -- [17]
-				"spell|40||Curse of the Elements|Rank 5|47865", -- [18]
-				"spell|32||Curse of Agony|Rank 9|47864", -- [19]
-				"spell|51||Curse of Weakness|Rank 9|50511", -- [20]
-				nil, -- [21]
-				nil, -- [22]
-				nil, -- [23]
-				"companion|6||demonology_pve|MOUNT|72286", -- [24]
-				"spell|86||Life Tap|Rank 8|57946", -- [25]
-				"spell|155||Immolation Aura|Demon|50589", -- [26]
-				"spell|73||Drain Soul|Rank 6|47855", -- [27]
-				"spell|57||Death Coil|Rank 6|47860", -- [28]
-				"spell|170||Soulshatter||29858", -- [29]
-				nil, -- [30]
-				"spell|156||Inferno|Summon|1122", -- [31]
-				"spell|133||Demonic Circle: Teleport||48020", -- [32]
-				"spell|42||Curse of Tongues|Rank 2|11719", -- [33]
-				"spell|213||Searing Pain|Rank 10|47815", -- [34]
-				nil, -- [35]
-				nil, -- [36]
-				"macro|37||Demo|Interface\\Icons\\Spell_Shadow_DemonForm|#showtooltip Metamorphosis/n/cast Metamorphosis/n/cast Immolation Aura(Demon)/n/use 10", -- [37]
-				"spell|132||Demonic Circle: Summon||48018", -- [38]
-				"spell|168||Shadow Ward|Rank 6|47891", -- [39]
-				"spell|6||Every Man for Himself|Racial|59752", -- [40]
-				"spell|144||Fel Armor|Rank 4|47893", -- [41]
-				nil, -- [42]
-				"item|22788||Flame Cap", -- [43]
-				"spell|181||Hellfire|Rank 5|47823", -- [44]
-				nil, -- [45]
-				"spell|169||Soul Link||19028", -- [46]
-				"spell|171||Summon Felguard|Summon|30146", -- [47]
-				"spell|145||Fel Domination||18708", -- [48]
-				"spell|154||Health Funnel|Rank 9|47856", -- [49]
-				"spell|114||Create Soulstone|Rank 7|47884", -- [50]
-				"spell|107||Create Healthstone|Rank 8|47878", -- [51]
-				nil, -- [52]
-				"spell|73||Drain Soul|Rank 6|47855", -- [53]
-				"spell|135||Detect Invisibility||132", -- [54]
-				nil, -- [55]
-				nil, -- [56]
-				"item|36895||Demonic Soulstone", -- [57]
-				"macro|58||Pet Attack|Interface\\Icons\\Ability_Tracking|/petattack", -- [58]
-				nil, -- [59]
-				"item|51230||Sanctified Dark Coven Gloves", -- [60]
-				"spell|5||Engineering|Grand Master|51306", -- [61]
-				"spell|12||Tailoring|Grand Master|51309", -- [62]
-				"spell|160||Ritual of Summoning||698", -- [63]
-				"companion|6||demonology_pve|MOUNT|72286", -- [64]
-				"spell|159||Ritual of Souls|Rank 2|58887", -- [65]
-				"spell|99||Create Firestone|Rank 7|60220", -- [66]
-				"spell|120||Create Spellstone|Rank 6|47888", -- [67]
-				"spell|140||Eye of Kilrogg|Summon|126", -- [68]
-				nil, -- [69]
-				"spell|156||Inferno|Summon|1122", -- [70]
-				nil, -- [71]
-				"item|6948||Hearthstone", -- [72]
-			},
 			["destruction_pvp"] = {
 				"macro|1||Chaos|Interface\\Icons\\Ability_Warlock_ChaosBolt|/cast Chaos Bolt/n/use Sanctified Dark Coven Gloves", -- [1]
 				"spell|190||Immolate|Rank 11|47811", -- [2]
@@ -780,6 +706,421 @@ ActionBarSaverDB = {
 				[76] = "spell|23||Corruption|Rank 10|47813",
 				[77] = "spell|32||Curse of Agony|Rank 9|47864",
 			},
+			["demonology_pve"] = {
+				"macro|1||Demo|Interface\\Icons\\Spell_Shadow_ShadowBolt|#showtooltip Shadow Bolt(Rank 13)/n/cast Shadow Cleave(Demon)/n/cast Shadow Bolt(Rank 13)/n/cast Demonic Empowerment/n/use Sanctified Dark Coven Gloves/n/petattack", -- [1]
+				"spell|192||Immolate|Rank 11|47811", -- [2]
+				"spell|196||Incinerate|Rank 4|47838", -- [3]
+				"macro|4||Soul Fire|Interface\\Icons\\Spell_Fire_Fireball02|#showtooltip Soul Fire(Rank 6)/n/cast Shadow Cleave(Demon)/n/cast Soul Fire(Rank 6)/n/cast Demonic Empowerment/n/use 10", -- [4]
+				nil, -- [5]
+				nil, -- [6]
+				nil, -- [7]
+				nil, -- [8]
+				"spell|89||Seed of Corruption|Rank 3|47836", -- [9]
+				"spell|228||Shadowflame|Rank 2|61290", -- [10]
+				"spell|23||Corruption|Rank 10|47813", -- [11]
+				"spell|35||Curse of Doom|Rank 3|47867", -- [12]
+				"spell|214||Shadow Bolt|Rank 1|686", -- [13]
+				"spell|129||Demon Charge|Demon|54785", -- [14]
+				"item|50699||Plague Scientist's Boots", -- [15]
+				"spell|76||Fear|Rank 3|6215", -- [16]
+				nil, -- [17]
+				"spell|40||Curse of the Elements|Rank 5|47865", -- [18]
+				"spell|32||Curse of Agony|Rank 9|47864", -- [19]
+				"spell|51||Curse of Weakness|Rank 9|50511", -- [20]
+				nil, -- [21]
+				nil, -- [22]
+				nil, -- [23]
+				"companion|6||demonology_pve|MOUNT|72286", -- [24]
+				"spell|86||Life Tap|Rank 8|57946", -- [25]
+				"spell|155||Immolation Aura|Demon|50589", -- [26]
+				"spell|73||Drain Soul|Rank 6|47855", -- [27]
+				"spell|57||Death Coil|Rank 6|47860", -- [28]
+				"spell|170||Soulshatter||29858", -- [29]
+				nil, -- [30]
+				"spell|156||Inferno|Summon|1122", -- [31]
+				"spell|133||Demonic Circle: Teleport||48020", -- [32]
+				"spell|42||Curse of Tongues|Rank 2|11719", -- [33]
+				"spell|213||Searing Pain|Rank 10|47815", -- [34]
+				nil, -- [35]
+				nil, -- [36]
+				"macro|37||Demo|Interface\\Icons\\Spell_Shadow_DemonForm|#showtooltip Metamorphosis/n/cast Metamorphosis/n/cast Immolation Aura(Demon)/n/use 10", -- [37]
+				"spell|132||Demonic Circle: Summon||48018", -- [38]
+				"spell|168||Shadow Ward|Rank 6|47891", -- [39]
+				"spell|6||Every Man for Himself|Racial|59752", -- [40]
+				"spell|144||Fel Armor|Rank 4|47893", -- [41]
+				nil, -- [42]
+				"item|22788||Flame Cap", -- [43]
+				"spell|181||Hellfire|Rank 5|47823", -- [44]
+				nil, -- [45]
+				"spell|169||Soul Link||19028", -- [46]
+				"spell|171||Summon Felguard|Summon|30146", -- [47]
+				"spell|145||Fel Domination||18708", -- [48]
+				"spell|154||Health Funnel|Rank 9|47856", -- [49]
+				"spell|114||Create Soulstone|Rank 7|47884", -- [50]
+				"spell|107||Create Healthstone|Rank 8|47878", -- [51]
+				nil, -- [52]
+				"spell|73||Drain Soul|Rank 6|47855", -- [53]
+				"spell|135||Detect Invisibility||132", -- [54]
+				nil, -- [55]
+				nil, -- [56]
+				"item|36895||Demonic Soulstone", -- [57]
+				"macro|58||Pet Attack|Interface\\Icons\\Ability_Tracking|/petattack", -- [58]
+				nil, -- [59]
+				"item|51230||Sanctified Dark Coven Gloves", -- [60]
+				"spell|5||Engineering|Grand Master|51306", -- [61]
+				"spell|12||Tailoring|Grand Master|51309", -- [62]
+				"spell|160||Ritual of Summoning||698", -- [63]
+				"companion|6||demonology_pve|MOUNT|72286", -- [64]
+				"spell|159||Ritual of Souls|Rank 2|58887", -- [65]
+				"spell|99||Create Firestone|Rank 7|60220", -- [66]
+				"spell|120||Create Spellstone|Rank 6|47888", -- [67]
+				"spell|140||Eye of Kilrogg|Summon|126", -- [68]
+				nil, -- [69]
+				"spell|156||Inferno|Summon|1122", -- [70]
+				nil, -- [71]
+				"item|6948||Hearthstone", -- [72]
+			},
+		},
+		["ROGUE"] = {
+			["subtlety_pvp"] = {
+				"spell|46||Hemorrhage|Rank 5|48660", -- [1]
+				"spell|32||Backstab|Rank 12|48657", -- [2]
+				"spell|30||Rupture|Rank 9|48672", -- [3]
+				"spell|29||Kidney Shot|Rank 2|8643", -- [4]
+				"spell|24||Dismantle||51722", -- [5]
+				nil, -- [6]
+				nil, -- [7]
+				nil, -- [8]
+				"spell|34||Fan of Knives||51723", -- [9]
+				"spell|37||Kick||1766", -- [10]
+				"spell|54||Stealth||1784", -- [11]
+				"spell|53||Shadowstep||36554", -- [12]
+				"spell|40||Sprint|Rank 3|11305", -- [13]
+				"spell|48||Premeditation||14183", -- [14]
+				"item|50607||Frostbitten Fur Boots", -- [15]
+				[26] = "spell|33||Evasion|Rank 2|26669",
+				[37] = "spell|52||Shadow Dance||51713",
+				[61] = "spell|10||First Aid|Grand Master|45542",
+				[75] = "spell|28||Garrote|Rank 10|48676",
+				[38] = "spell|49||Preparation||14185",
+				[62] = "spell|8||Engineering|Grand Master|51306",
+				[19] = "spell|26||Eviscerate|Rank 12|48668",
+				[23] = "companion|1||subtlety_pvp|MOUNT|71342",
+				[27] = "spell|36||Gouge||1776",
+				[31] = "spell|23||Deadly Throw|Rank 3|48674",
+				[39] = "spell|9||Every Man for Himself|Racial|59752",
+				[47] = "macro|47||Focus|Interface\\Icons\\Ability_Hunter_MarkedForDeath|/focus Target",
+				[32] = "item|47545||Vereesa's Dexterity",
+				[40] = "item|36894||Fel Healthstone",
+				[48] = "item|33454||Salted Venison",
+				[56] = "spell|2||Basic Campfire||818",
+				[81] = "spell|45||Distract||1725",
+				[24] = "companion|17||subtlety_pvp|MOUNT|72286",
+				[28] = "spell|41||Blind||2094",
+				[33] = "spell|27||Expose Armor||8647",
+				[41] = "spell|56||Vanish|Rank 3|26889",
+				[49] = "item|6948||Hearthstone",
+				[57] = "spell|15||Pick Lock||1804",
+				[83] = "spell|54||Stealth||1784",
+				[68] = "item|43231||Instant Poison IX",
+				[84] = "macro|84||SSap|Interface\\Icons\\Ability_Rogue_Shadowstep|/cast Shadowstep/n/cast Sap",
+				[69] = "item|43233||Deadly Poison IX",
+				[25] = "spell|42||Cloak of Shadows||31224",
+				[29] = "spell|41||Blind||2094",
+				[70] = "item|3775||Crippling Poison",
+				[71] = "item|43235||Wound Poison VII",
+				[77] = "spell|30||Rupture|Rank 9|48672",
+				[36] = "spell|23||Deadly Throw|Rank 3|48674",
+				[44] = "spell|51||Sap|Rank 4|51724",
+				[76] = "spell|29||Kidney Shot|Rank 2|8643",
+				[18] = "spell|34||Fan of Knives||51723",
+				[73] = "spell|21||Ambush|Rank 10|48691",
+				[82] = "spell|37||Kick||1766",
+				[74] = "spell|22||Cheap Shot||1833",
+			},
+			["stabassas1"] = {
+				"macro|1||Sinister|Interface\\Icons\\Spell_Shadow_RitualOfSacrifice|#showtooltip Sinister Strike(Rank 12)/n/startattack/n/use Sinister Strike(Rank 12)/n/use 10", -- [1]
+				"spell|27||Eviscerate|Rank 12|48668", -- [2]
+				"spell|32||Slice and Dice|Rank 2|6774", -- [3]
+				"spell|31||Rupture|Rank 9|48672", -- [4]
+				"spell|23||Cold Blood||14177", -- [5]
+				nil, -- [6]
+				nil, -- [7]
+				nil, -- [8]
+				"spell|37||Fan of Knives||51723", -- [9]
+				"spell|40||Kick||1766", -- [10]
+				"macro|11||Tot|Interface\\Icons\\Ability_Rogue_TricksOftheTrade|/cast [target=focus] Tricks of the Trade", -- [11]
+				"spell|52||Stealth||1784", -- [12]
+				"spell|43||Sprint|Rank 3|11305", -- [13]
+				"spell|28||Expose Armor||8647", -- [14]
+				"item|50607||Frostbitten Fur Boots", -- [15]
+				[26] = "item|47545||Vereesa's Dexterity",
+				[30] = "spell|25||Dismantle||51722",
+				[37] = "spell|35||Blade Flurry||13877",
+				[45] = "macro|45||Focus|Interface\\Icons\\INV_Misc_QuestionMark|/focus Target",
+				[53] = "item|43231||Instant Poison IX",
+				[75] = "spell|31||Rupture|Rank 9|48672",
+				[38] = "spell|33||Adrenaline Rush||13750",
+				[54] = "item|43233||Deadly Poison IX",
+				[19] = "item|50675||Aldriana's Gloves of Secrecy",
+				[23] = "companion|1||stabassas1|MOUNT|71342",
+				[27] = "spell|39||Gouge||1776",
+				[31] = "spell|53||Tricks of the Trade||57934",
+				[39] = "spell|45||Cloak of Shadows||31224",
+				[55] = "item|43235||Wound Poison VII",
+				[32] = "macro|32||rog|Interface\\Icons\\Ability_Rogue_TricksOftheTrade|/cast [target=Merterdru] Tricks of the Trade",
+				[40] = "spell|9||Every Man for Himself|Racial|59752",
+				[56] = "spell|2||Basic Campfire||818",
+				[81] = "spell|37||Fan of Knives||51723",
+				[24] = "companion|17||stabassas1|MOUNT|72286",
+				[33] = "spell|36||Evasion|Rank 2|26669",
+				[41] = "spell|54||Vanish|Rank 3|26889",
+				[49] = "item|34722||Heavy Frostweave Bandage",
+				[57] = "item|3775||Crippling Poison",
+				[34] = "spell|51||Sap|Rank 4|51724",
+				[84] = "spell|52||Stealth||1784",
+				[50] = "spell|8||Engineering|Grand Master|51306",
+				[58] = "spell|15||Pick Lock||1804",
+				[21] = "spell|48||Distract||1725",
+				[25] = "spell|24||Deadly Throw|Rank 3|48674",
+				[51] = "companion|17||stabassas1|MOUNT|72286",
+				[59] = "item|36894||Fel Healthstone",
+				[72] = "item|6948||Hearthstone",
+				[82] = "spell|40||Kick||1766",
+				[73] = "spell|21||Ambush|Rank 10|48691",
+				[18] = "spell|44||Blind||2094",
+				[74] = "spell|22||Cheap Shot||1833",
+				[76] = "spell|29||Garrote|Rank 10|48676",
+			},
+			["combat_pve"] = {
+				"macro|1|||Interface\\Icons\\Spell_Shadow_RitualOfSacrifice|/cast Sinister Strike/n/startattack", -- [1]
+				"spell|26||Eviscerate|Rank 12|48668", -- [2]
+				"spell|31||Slice and Dice|Rank 2|6774", -- [3]
+				"spell|30||Rupture|Rank 9|48672", -- [4]
+				nil, -- [5]
+				nil, -- [6]
+				"item|40211||Potion of Speed", -- [7]
+				nil, -- [8]
+				"spell|36||Fan of Knives||51723", -- [9]
+				"spell|39||Kick||1766", -- [10]
+				"macro|11||Tot|Interface\\Icons\\Ability_Rogue_TricksOftheTrade|/cast [target=focus] Tricks of the Trade", -- [11]
+				"spell|40||Killing Spree||51690", -- [12]
+				"spell|43||Sprint|Rank 3|11305", -- [13]
+				"spell|27||Expose Armor||8647", -- [14]
+				"item|50607||Frostbitten Fur Boots", -- [15]
+				"spell|29||Kidney Shot|Rank 2|8643", -- [16]
+				nil, -- [17]
+				"spell|26||Eviscerate|Rank 12|48668", -- [18]
+				"spell|24||Dismantle||51722", -- [19]
+				nil, -- [20]
+				nil, -- [21]
+				nil, -- [22]
+				"item|47545||Vereesa's Dexterity", -- [23]
+				"companion|17||combat_pve|MOUNT|72286", -- [24]
+				"macro|25||rog|Interface\\Icons\\Ability_Rogue_TricksOftheTrade|/cast [target=Famelebite] Tricks of the Trade", -- [25]
+				"macro|26||Mouse|Interface\\Icons\\Ability_Rogue_TricksOftheTrade|/cast [@mouseover] Tricks of the Trade", -- [26]
+				"item|47545||Vereesa's Dexterity", -- [27]
+				nil, -- [28]
+				"spell|38||Gouge||1776", -- [29]
+				nil, -- [30]
+				"spell|44||Blind||2094", -- [31]
+				"spell|35||Evasion|Rank 2|26669", -- [32]
+				"spell|30||Rupture|Rank 9|48672", -- [33]
+				"spell|37||Feint|Rank 8|48659", -- [34]
+				nil, -- [35]
+				nil, -- [36]
+				"spell|34||Blade Flurry||13877", -- [37]
+				"spell|32||Adrenaline Rush||13750", -- [38]
+				"spell|45||Cloak of Shadows||31224", -- [39]
+				"spell|9||Every Man for Himself|Racial|59752", -- [40]
+				"spell|54||Vanish|Rank 3|26889", -- [41]
+				nil, -- [42]
+				"spell|52||Stealth||1784", -- [43]
+				"macro|44||Focus|Interface\\Icons\\Ability_Hunter_MarkedForDeath|/focus Target", -- [44]
+				[60] = "item|6948||Hearthstone",
+				[47] = "item|33447||Runic Healing Potion",
+				[49] = "spell|36||Fan of Knives||51723",
+				[69] = "item|43233||Deadly Poison IX",
+				[76] = "spell|26||Eviscerate|Rank 12|48668",
+				[77] = "spell|28||Garrote|Rank 10|48676",
+				[57] = "equipmentset|Pvp|",
+				[70] = "item|50737||Havoc's Call, Blade of Lordaeron Kings",
+				[74] = "spell|22||Cheap Shot||1833",
+				[78] = "spell|48||Distract||1725",
+				[83] = "spell|52||Stealth||1784",
+				[71] = "item|50654||Scourgeborne Waraxe",
+				[75] = "spell|21||Ambush|Rank 10|48691",
+				[56] = "equipmentset|pve|",
+				[68] = "item|43231||Instant Poison IX",
+				[84] = "item|43523||Conjured Mana Strudel",
+			},
+		},
+		["DRUID"] = {
+			["ancazferal1"] = {
+				"spell|93||Cat Form|Shapeshift|768", -- [1]
+				"spell|46||Moonfire|Rank 14|48463", -- [2]
+				"spell|89||Wrath|Rank 12|48461", -- [3]
+				"spell|14||Cyclone||33786", -- [4]
+				"spell|22||Entangling Roots|Rank 8|53308", -- [5]
+				nil, -- [6]
+				nil, -- [7]
+				nil, -- [8]
+				nil, -- [9]
+				nil, -- [10]
+				"spell|121||Swift Flight Form|Shapeshift|40120", -- [11]
+				nil, -- [12]
+				"spell|97||Dash|Rank 3|33357", -- [13]
+				"spell|14||Cyclone||33786", -- [14]
+				"item|50607||Frostbitten Fur Boots", -- [15]
+				nil, -- [16]
+				nil, -- [17]
+				nil, -- [18]
+				"spell|13||Barkskin||22812", -- [19]
+				nil, -- [20]
+				nil, -- [21]
+				"spell|114||Prowl||5215", -- [22]
+				nil, -- [23]
+				"companion|4||ancazferal1|MOUNT|72286", -- [24]
+				"spell|178||Regrowth|Rank 12|48443", -- [25]
+				"spell|193||Rejuvenation|Rank 15|48441", -- [26]
+				"spell|12||War Stomp|Racial|20549", -- [27]
+				nil, -- [28]
+				nil, -- [29]
+				"spell|91||Bash|Rank 3|8983", -- [30]
+				"spell|111||Mangle (Cat)|Rank 5|48566", -- [31]
+				"item|50675||Aldriana's Gloves of Secrecy", -- [32]
+				"spell|12||War Stomp|Racial|20549", -- [33]
+				nil, -- [34]
+				"spell|103||Feral Charge - Bear||16979", -- [35]
+				nil, -- [36]
+				"spell|92||Berserk||50334", -- [37]
+				"spell|54||Nature's Grasp|Rank 8|53312", -- [38]
+				"spell|99||Dire Bear Form|Shapeshift|9634", -- [39]
+				nil, -- [40]
+				"spell|131||Gift of the Wild|Rank 4|48470", -- [41]
+				nil, -- [42]
+				nil, -- [43]
+				"spell|208||Tranquility|Rank 7|48447", -- [44]
+				"spell|77||Thorns|Rank 8|53307", -- [45]
+				nil, -- [46]
+				"spell|158||Mark of the Wild|Rank 9|48469", -- [47]
+				nil, -- [48]
+				nil, -- [49]
+				nil, -- [50]
+				nil, -- [51]
+				nil, -- [52]
+				"spell|32||Innervate||29166", -- [53]
+				"spell|166||Rebirth|Rank 7|48477", -- [54]
+				nil, -- [55]
+				nil, -- [56]
+				nil, -- [57]
+				"spell|22||Entangling Roots|Rank 8|53308", -- [58]
+				nil, -- [59]
+				nil, -- [60]
+				"companion|3||ancazferal1|MOUNT|49379", -- [61]
+				"item|40772||Gnomish Army Knife", -- [62]
+				nil, -- [63]
+				"spell|201||Revive|Rank 7|50763", -- [64]
+				[82] = "macro|82||meow|Interface\\Icons\\Ability_Mount_JungleTiger|#showtooltip Tiger's Fury(Rank 6)/n/cast Tiger's Fury(Rank 6)",
+				[84] = "spell|123||Swipe (Cat)|Rank 1|62078",
+				[86] = "spell|120||Shred|Rank 9|48572",
+				[88] = "spell|117||Rip|Rank 9|49800",
+				[98] = "spell|101||Faerie Fire (Feral)||16857",
+				[102] = "spell|94||Challenging Roar||5209",
+				[104] = "spell|100||Enrage||5229",
+				[106] = "spell|98||Demoralizing Roar|Rank 8|48560",
+				[77] = "spell|105||Ferocious Bite|Rank 8|48577",
+				[110] = "spell|1||Auto Attack||6603",
+				[81] = "spell|104||Feral Charge - Cat||49376",
+				[83] = "spell|101||Faerie Fire (Feral)||16857",
+				[85] = "spell|113||Pounce|Rank 5|49803",
+				[87] = "spell|115||Rake|Rank 7|48574",
+				[67] = "spell|9||Jewelcrafting|Grand Master|51311",
+				[73] = "macro|73||1|Interface\\Icons\\Spell_Shadow_VampiricAura|#showtooltip Shred(Rank 9)/n/use Aldriana's Gloves of Secrecy/n/cast Shred(Rank 9)/n/cancelaura Hand of Protection/n/cancelaura Divine Protection",
+				[75] = "spell|117||Rip|Rank 9|49800",
+				[107] = "macro|107||swipe|Interface\\Icons\\INV_Misc_MonsterClaw_03|#showtooltip Swipe (Bear)(Rank 8)/n/cast Swipe (Bear)(Rank 8)/n/cast Maul(Rank 10)",
+				[97] = "macro|97||Mangle|Interface\\Icons\\Ability_Druid_Mangle2|#showtooltip Mangle (Bear)(Rank 5)/n/cast Mangle (Bear)(Rank 5)/n/cast Maul(Rank 10)",
+				[99] = "macro|99||lac|Interface\\Icons\\Ability_Druid_Lacerate|#showtooltip Lacerate(Rank 3)/n/cast Lacerate(Rank 3)/n/cast Maul(Rank 10)",
+				[70] = "spell|4||Cooking|Grand Master|51296",
+				[72] = "item|6948||Hearthstone",
+				[74] = "spell|115||Rake|Rank 7|48574",
+				[76] = "spell|119||Savage Roar|Rank 1|52610",
+				[103] = "spell|106||Frenzied Regeneration||22842",
+				[66] = "spell|8||Engineering|Grand Master|51306",
+				[108] = "spell|107||Growl||6795",
+			},
+			["feral_pvp"] = {
+				"spell|66||Starfire|Rank 10|48465", -- [1]
+				"spell|21||Faerie Fire||770", -- [2]
+				"spell|74||Thorns|Rank 8|53307", -- [3]
+				"spell|86||Wrath|Rank 12|48461", -- [4]
+				nil, -- [5]
+				nil, -- [6]
+				nil, -- [7]
+				nil, -- [8]
+				nil, -- [9]
+				nil, -- [10]
+				"spell|44||Moonfire|Rank 14|48463", -- [11]
+				nil, -- [12]
+				"spell|94||Dash|Rank 3|33357", -- [13]
+				"spell|52||Nature's Grasp|Rank 8|53312", -- [14]
+				"spell|9||Shadowmeld|Racial|58984", -- [15]
+				nil, -- [16]
+				nil, -- [17]
+				"spell|89||Berserk||50334", -- [18]
+				"spell|102||Ferocious Bite|Rank 8|48577", -- [19]
+				"spell|116||Savage Roar|Rank 1|52610", -- [20]
+				"spell|106||Maim|Rank 2|49802", -- [21]
+				nil, -- [22]
+				nil, -- [23]
+				"spell|146||Lifebloom|Rank 3|48451", -- [24]
+				"spell|90||Cat Form|Shapeshift|768", -- [25]
+				"spell|96||Dire Bear Form|Shapeshift|9634", -- [26]
+				"spell|12||Cyclone||33786", -- [27]
+				"spell|20||Entangling Roots|Rank 8|53308", -- [28]
+				"spell|24||Hibernate|Rank 3|18658", -- [29]
+				nil, -- [30]
+				"spell|143||Healing Touch|Rank 15|48378", -- [31]
+				"spell|190||Rejuvenation|Rank 15|48441", -- [32]
+				"spell|175||Regrowth|Rank 12|48443", -- [33]
+				"spell|30||Innervate||29166", -- [34]
+				nil, -- [35]
+				"spell|198||Revive|Rank 7|50763", -- [36]
+				"spell|11||Barkskin||22812", -- [37]
+				"spell|118||Survival Instincts||61336", -- [38]
+				"item|51377||Medallion of the Alliance", -- [39]
+				nil, -- [40]
+				"spell|155||Mark of the Wild|Rank 9|48469", -- [41]
+				nil, -- [42]
+				"spell|128||Gift of the Wild|Rank 4|48470", -- [43]
+				"spell|191||Remove Curse||2782", -- [44]
+				[82] = "spell|121||Tiger's Fury|Rank 6|50213",
+				[86] = "spell|113||Ravage|Rank 7|48579",
+				[96] = "spell|101||Feral Charge - Cat||49376",
+				[98] = "spell|105||Lacerate|Rank 3|48568",
+				[100] = "spell|107||Mangle (Bear)|Rank 1|33878",
+				[73] = "spell|117||Shred|Rank 9|48572",
+				[106] = "spell|88||Bash|Rank 3|8983",
+				[108] = "spell|95||Demoralizing Roar|Rank 8|48560",
+				[81] = "spell|101||Feral Charge - Cat||49376",
+				[83] = "spell|111||Prowl||5215",
+				[85] = "spell|117||Shred|Rank 9|48572",
+				[87] = "spell|110||Pounce|Rank 5|49803",
+				[46] = "spell|205||Tranquility|Rank 7|48447",
+				[75] = "spell|98||Faerie Fire (Feral)||16857",
+				[95] = "spell|111||Prowl||5215",
+				[97] = "spell|109||Maul|Rank 10|48480",
+				[99] = "spell|119||Swipe (Bear)|Rank 8|48562",
+				[101] = "spell|104||Frenzied Regeneration||22842",
+				[77] = "spell|108||Mangle (Cat)|Rank 1|33876",
+				[105] = "spell|97||Enrage||5229",
+				[107] = "spell|100||Feral Charge - Bear||16979",
+				[74] = "spell|112||Rake|Rank 7|48574",
+				[76] = "spell|114||Rip|Rank 9|49800",
+				[48] = "spell|74||Thorns|Rank 8|53307",
+			},
+		},
+		["SHAMAN"] = {
 		},
 		["HUNTER"] = {
 			["hunt1"] = {
@@ -925,347 +1266,6 @@ ActionBarSaverDB = {
 				[70] = "item|50363||Deathbringer's Will",
 				[71] = "item|10725||Gnomish Battle Chicken",
 				[68] = "spell|38||Eyes of the Beast||1002",
-			},
-		},
-		["DRUID"] = {
-			["ancazferal1"] = {
-				"spell|93||Cat Form|Shapeshift|768", -- [1]
-				"spell|46||Moonfire|Rank 14|48463", -- [2]
-				"spell|89||Wrath|Rank 12|48461", -- [3]
-				"spell|14||Cyclone||33786", -- [4]
-				"spell|22||Entangling Roots|Rank 8|53308", -- [5]
-				nil, -- [6]
-				nil, -- [7]
-				nil, -- [8]
-				nil, -- [9]
-				nil, -- [10]
-				"spell|121||Swift Flight Form|Shapeshift|40120", -- [11]
-				nil, -- [12]
-				"spell|97||Dash|Rank 3|33357", -- [13]
-				"spell|14||Cyclone||33786", -- [14]
-				"item|50607||Frostbitten Fur Boots", -- [15]
-				nil, -- [16]
-				nil, -- [17]
-				nil, -- [18]
-				"spell|13||Barkskin||22812", -- [19]
-				nil, -- [20]
-				nil, -- [21]
-				"spell|114||Prowl||5215", -- [22]
-				nil, -- [23]
-				"companion|4||ancazferal1|MOUNT|72286", -- [24]
-				"spell|178||Regrowth|Rank 12|48443", -- [25]
-				"spell|193||Rejuvenation|Rank 15|48441", -- [26]
-				"spell|12||War Stomp|Racial|20549", -- [27]
-				nil, -- [28]
-				nil, -- [29]
-				"spell|91||Bash|Rank 3|8983", -- [30]
-				"spell|111||Mangle (Cat)|Rank 5|48566", -- [31]
-				"item|50675||Aldriana's Gloves of Secrecy", -- [32]
-				"spell|12||War Stomp|Racial|20549", -- [33]
-				nil, -- [34]
-				"spell|103||Feral Charge - Bear||16979", -- [35]
-				nil, -- [36]
-				"spell|92||Berserk||50334", -- [37]
-				"spell|54||Nature's Grasp|Rank 8|53312", -- [38]
-				"spell|99||Dire Bear Form|Shapeshift|9634", -- [39]
-				nil, -- [40]
-				"spell|131||Gift of the Wild|Rank 4|48470", -- [41]
-				nil, -- [42]
-				nil, -- [43]
-				"spell|208||Tranquility|Rank 7|48447", -- [44]
-				"spell|77||Thorns|Rank 8|53307", -- [45]
-				nil, -- [46]
-				"spell|158||Mark of the Wild|Rank 9|48469", -- [47]
-				nil, -- [48]
-				nil, -- [49]
-				nil, -- [50]
-				nil, -- [51]
-				nil, -- [52]
-				"spell|32||Innervate||29166", -- [53]
-				"spell|166||Rebirth|Rank 7|48477", -- [54]
-				nil, -- [55]
-				nil, -- [56]
-				nil, -- [57]
-				"spell|22||Entangling Roots|Rank 8|53308", -- [58]
-				nil, -- [59]
-				nil, -- [60]
-				"companion|3||ancazferal1|MOUNT|49379", -- [61]
-				"item|40772||Gnomish Army Knife", -- [62]
-				nil, -- [63]
-				"spell|201||Revive|Rank 7|50763", -- [64]
-				[82] = "macro|82||meow|Interface\\Icons\\Ability_Mount_JungleTiger|#showtooltip Tiger's Fury(Rank 6)/n/cast Tiger's Fury(Rank 6)",
-				[84] = "spell|123||Swipe (Cat)|Rank 1|62078",
-				[86] = "spell|120||Shred|Rank 9|48572",
-				[88] = "spell|117||Rip|Rank 9|49800",
-				[98] = "spell|101||Faerie Fire (Feral)||16857",
-				[102] = "spell|94||Challenging Roar||5209",
-				[104] = "spell|100||Enrage||5229",
-				[106] = "spell|98||Demoralizing Roar|Rank 8|48560",
-				[77] = "spell|105||Ferocious Bite|Rank 8|48577",
-				[110] = "spell|1||Auto Attack||6603",
-				[81] = "spell|104||Feral Charge - Cat||49376",
-				[83] = "spell|101||Faerie Fire (Feral)||16857",
-				[85] = "spell|113||Pounce|Rank 5|49803",
-				[87] = "spell|115||Rake|Rank 7|48574",
-				[108] = "spell|107||Growl||6795",
-				[66] = "spell|8||Engineering|Grand Master|51306",
-				[103] = "spell|106||Frenzied Regeneration||22842",
-				[76] = "spell|119||Savage Roar|Rank 1|52610",
-				[97] = "macro|97||Mangle|Interface\\Icons\\Ability_Druid_Mangle2|#showtooltip Mangle (Bear)(Rank 5)/n/cast Mangle (Bear)(Rank 5)/n/cast Maul(Rank 10)",
-				[99] = "macro|99||lac|Interface\\Icons\\Ability_Druid_Lacerate|#showtooltip Lacerate(Rank 3)/n/cast Lacerate(Rank 3)/n/cast Maul(Rank 10)",
-				[70] = "spell|4||Cooking|Grand Master|51296",
-				[72] = "item|6948||Hearthstone",
-				[74] = "spell|115||Rake|Rank 7|48574",
-				[107] = "macro|107||swipe|Interface\\Icons\\INV_Misc_MonsterClaw_03|#showtooltip Swipe (Bear)(Rank 8)/n/cast Swipe (Bear)(Rank 8)/n/cast Maul(Rank 10)",
-				[75] = "spell|117||Rip|Rank 9|49800",
-				[73] = "macro|73||1|Interface\\Icons\\Spell_Shadow_VampiricAura|#showtooltip Shred(Rank 9)/n/use Aldriana's Gloves of Secrecy/n/cast Shred(Rank 9)/n/cancelaura Hand of Protection/n/cancelaura Divine Protection",
-				[67] = "spell|9||Jewelcrafting|Grand Master|51311",
-			},
-			["feral_pvp"] = {
-				"spell|66||Starfire|Rank 10|48465", -- [1]
-				"spell|21||Faerie Fire||770", -- [2]
-				"spell|74||Thorns|Rank 8|53307", -- [3]
-				"spell|86||Wrath|Rank 12|48461", -- [4]
-				nil, -- [5]
-				nil, -- [6]
-				nil, -- [7]
-				nil, -- [8]
-				nil, -- [9]
-				nil, -- [10]
-				"spell|44||Moonfire|Rank 14|48463", -- [11]
-				nil, -- [12]
-				"spell|94||Dash|Rank 3|33357", -- [13]
-				"spell|52||Nature's Grasp|Rank 8|53312", -- [14]
-				"spell|9||Shadowmeld|Racial|58984", -- [15]
-				nil, -- [16]
-				nil, -- [17]
-				"spell|89||Berserk||50334", -- [18]
-				"spell|102||Ferocious Bite|Rank 8|48577", -- [19]
-				"spell|116||Savage Roar|Rank 1|52610", -- [20]
-				"spell|106||Maim|Rank 2|49802", -- [21]
-				nil, -- [22]
-				nil, -- [23]
-				"spell|146||Lifebloom|Rank 3|48451", -- [24]
-				"spell|90||Cat Form|Shapeshift|768", -- [25]
-				"spell|96||Dire Bear Form|Shapeshift|9634", -- [26]
-				"spell|12||Cyclone||33786", -- [27]
-				"spell|20||Entangling Roots|Rank 8|53308", -- [28]
-				"spell|24||Hibernate|Rank 3|18658", -- [29]
-				nil, -- [30]
-				"spell|143||Healing Touch|Rank 15|48378", -- [31]
-				"spell|190||Rejuvenation|Rank 15|48441", -- [32]
-				"spell|175||Regrowth|Rank 12|48443", -- [33]
-				"spell|30||Innervate||29166", -- [34]
-				nil, -- [35]
-				"spell|198||Revive|Rank 7|50763", -- [36]
-				"spell|11||Barkskin||22812", -- [37]
-				"spell|118||Survival Instincts||61336", -- [38]
-				"item|51377||Medallion of the Alliance", -- [39]
-				nil, -- [40]
-				"spell|155||Mark of the Wild|Rank 9|48469", -- [41]
-				nil, -- [42]
-				"spell|128||Gift of the Wild|Rank 4|48470", -- [43]
-				"spell|191||Remove Curse||2782", -- [44]
-				[82] = "spell|121||Tiger's Fury|Rank 6|50213",
-				[86] = "spell|113||Ravage|Rank 7|48579",
-				[96] = "spell|101||Feral Charge - Cat||49376",
-				[98] = "spell|105||Lacerate|Rank 3|48568",
-				[100] = "spell|107||Mangle (Bear)|Rank 1|33878",
-				[73] = "spell|117||Shred|Rank 9|48572",
-				[106] = "spell|88||Bash|Rank 3|8983",
-				[108] = "spell|95||Demoralizing Roar|Rank 8|48560",
-				[81] = "spell|101||Feral Charge - Cat||49376",
-				[83] = "spell|111||Prowl||5215",
-				[85] = "spell|117||Shred|Rank 9|48572",
-				[87] = "spell|110||Pounce|Rank 5|49803",
-				[46] = "spell|205||Tranquility|Rank 7|48447",
-				[48] = "spell|74||Thorns|Rank 8|53307",
-				[95] = "spell|111||Prowl||5215",
-				[97] = "spell|109||Maul|Rank 10|48480",
-				[99] = "spell|119||Swipe (Bear)|Rank 8|48562",
-				[101] = "spell|104||Frenzied Regeneration||22842",
-				[76] = "spell|114||Rip|Rank 9|49800",
-				[105] = "spell|97||Enrage||5229",
-				[107] = "spell|100||Feral Charge - Bear||16979",
-				[74] = "spell|112||Rake|Rank 7|48574",
-				[77] = "spell|108||Mangle (Cat)|Rank 1|33876",
-				[75] = "spell|98||Faerie Fire (Feral)||16857",
-			},
-		},
-		["SHAMAN"] = {
-		},
-		["ROGUE"] = {
-			["subtlety_pvp"] = {
-				"spell|46||Hemorrhage|Rank 5|48660", -- [1]
-				"spell|32||Backstab|Rank 12|48657", -- [2]
-				"spell|30||Rupture|Rank 9|48672", -- [3]
-				"spell|29||Kidney Shot|Rank 2|8643", -- [4]
-				"spell|24||Dismantle||51722", -- [5]
-				nil, -- [6]
-				nil, -- [7]
-				nil, -- [8]
-				"spell|34||Fan of Knives||51723", -- [9]
-				"spell|37||Kick||1766", -- [10]
-				"spell|54||Stealth||1784", -- [11]
-				"spell|53||Shadowstep||36554", -- [12]
-				"spell|40||Sprint|Rank 3|11305", -- [13]
-				"spell|48||Premeditation||14183", -- [14]
-				"item|50607||Frostbitten Fur Boots", -- [15]
-				[26] = "spell|33||Evasion|Rank 2|26669",
-				[37] = "spell|52||Shadow Dance||51713",
-				[61] = "spell|10||First Aid|Grand Master|45542",
-				[75] = "spell|28||Garrote|Rank 10|48676",
-				[38] = "spell|49||Preparation||14185",
-				[62] = "spell|8||Engineering|Grand Master|51306",
-				[19] = "spell|26||Eviscerate|Rank 12|48668",
-				[23] = "companion|1||subtlety_pvp|MOUNT|71342",
-				[27] = "spell|36||Gouge||1776",
-				[31] = "spell|23||Deadly Throw|Rank 3|48674",
-				[39] = "spell|9||Every Man for Himself|Racial|59752",
-				[47] = "macro|47||Focus|Interface\\Icons\\Ability_Hunter_MarkedForDeath|/focus Target",
-				[32] = "item|47545||Vereesa's Dexterity",
-				[40] = "item|36894||Fel Healthstone",
-				[48] = "item|33454||Salted Venison",
-				[56] = "spell|2||Basic Campfire||818",
-				[81] = "spell|45||Distract||1725",
-				[24] = "companion|17||subtlety_pvp|MOUNT|72286",
-				[28] = "spell|41||Blind||2094",
-				[33] = "spell|27||Expose Armor||8647",
-				[41] = "spell|56||Vanish|Rank 3|26889",
-				[49] = "item|6948||Hearthstone",
-				[57] = "spell|15||Pick Lock||1804",
-				[83] = "spell|54||Stealth||1784",
-				[68] = "item|43231||Instant Poison IX",
-				[84] = "macro|84||SSap|Interface\\Icons\\Ability_Rogue_Shadowstep|/cast Shadowstep/n/cast Sap",
-				[69] = "item|43233||Deadly Poison IX",
-				[25] = "spell|42||Cloak of Shadows||31224",
-				[29] = "spell|41||Blind||2094",
-				[70] = "item|3775||Crippling Poison",
-				[71] = "item|43235||Wound Poison VII",
-				[74] = "spell|22||Cheap Shot||1833",
-				[36] = "spell|23||Deadly Throw|Rank 3|48674",
-				[44] = "spell|51||Sap|Rank 4|51724",
-				[82] = "spell|37||Kick||1766",
-				[73] = "spell|21||Ambush|Rank 10|48691",
-				[18] = "spell|34||Fan of Knives||51723",
-				[76] = "spell|29||Kidney Shot|Rank 2|8643",
-				[77] = "spell|30||Rupture|Rank 9|48672",
-			},
-			["stabassas1"] = {
-				"macro|1||Sinister|Interface\\Icons\\Spell_Shadow_RitualOfSacrifice|#showtooltip Sinister Strike(Rank 12)/n/startattack/n/use Sinister Strike(Rank 12)/n/use 10", -- [1]
-				"spell|27||Eviscerate|Rank 12|48668", -- [2]
-				"spell|32||Slice and Dice|Rank 2|6774", -- [3]
-				"spell|31||Rupture|Rank 9|48672", -- [4]
-				"spell|23||Cold Blood||14177", -- [5]
-				nil, -- [6]
-				nil, -- [7]
-				nil, -- [8]
-				"spell|37||Fan of Knives||51723", -- [9]
-				"spell|40||Kick||1766", -- [10]
-				"macro|11||Tot|Interface\\Icons\\Ability_Rogue_TricksOftheTrade|/cast [target=focus] Tricks of the Trade", -- [11]
-				"spell|52||Stealth||1784", -- [12]
-				"spell|43||Sprint|Rank 3|11305", -- [13]
-				"spell|28||Expose Armor||8647", -- [14]
-				"item|50607||Frostbitten Fur Boots", -- [15]
-				[26] = "item|47545||Vereesa's Dexterity",
-				[30] = "spell|25||Dismantle||51722",
-				[37] = "spell|35||Blade Flurry||13877",
-				[45] = "macro|45||Focus|Interface\\Icons\\INV_Misc_QuestionMark|/focus Target",
-				[53] = "item|43231||Instant Poison IX",
-				[75] = "spell|31||Rupture|Rank 9|48672",
-				[38] = "spell|33||Adrenaline Rush||13750",
-				[54] = "item|43233||Deadly Poison IX",
-				[19] = "item|50675||Aldriana's Gloves of Secrecy",
-				[23] = "companion|1||stabassas1|MOUNT|71342",
-				[27] = "spell|39||Gouge||1776",
-				[31] = "spell|53||Tricks of the Trade||57934",
-				[39] = "spell|45||Cloak of Shadows||31224",
-				[55] = "item|43235||Wound Poison VII",
-				[32] = "macro|32||rog|Interface\\Icons\\Ability_Rogue_TricksOftheTrade|/cast [target=Merterdru] Tricks of the Trade",
-				[40] = "spell|9||Every Man for Himself|Racial|59752",
-				[56] = "spell|2||Basic Campfire||818",
-				[81] = "spell|37||Fan of Knives||51723",
-				[24] = "companion|17||stabassas1|MOUNT|72286",
-				[33] = "spell|36||Evasion|Rank 2|26669",
-				[41] = "spell|54||Vanish|Rank 3|26889",
-				[49] = "item|34722||Heavy Frostweave Bandage",
-				[57] = "item|3775||Crippling Poison",
-				[34] = "spell|51||Sap|Rank 4|51724",
-				[84] = "spell|52||Stealth||1784",
-				[50] = "spell|8||Engineering|Grand Master|51306",
-				[58] = "spell|15||Pick Lock||1804",
-				[21] = "spell|48||Distract||1725",
-				[25] = "spell|24||Deadly Throw|Rank 3|48674",
-				[51] = "companion|17||stabassas1|MOUNT|72286",
-				[59] = "item|36894||Fel Healthstone",
-				[72] = "item|6948||Hearthstone",
-				[76] = "spell|29||Garrote|Rank 10|48676",
-				[74] = "spell|22||Cheap Shot||1833",
-				[73] = "spell|21||Ambush|Rank 10|48691",
-				[18] = "spell|44||Blind||2094",
-				[82] = "spell|40||Kick||1766",
-			},
-			["combat_pve"] = {
-				"macro|1|||Interface\\Icons\\Spell_Shadow_RitualOfSacrifice|/cast Sinister Strike/n/startattack", -- [1]
-				"spell|26||Eviscerate|Rank 12|48668", -- [2]
-				"spell|31||Slice and Dice|Rank 2|6774", -- [3]
-				"spell|30||Rupture|Rank 9|48672", -- [4]
-				nil, -- [5]
-				nil, -- [6]
-				"item|40211||Potion of Speed", -- [7]
-				nil, -- [8]
-				"spell|36||Fan of Knives||51723", -- [9]
-				"spell|39||Kick||1766", -- [10]
-				"macro|11||Tot|Interface\\Icons\\Ability_Rogue_TricksOftheTrade|/cast [target=focus] Tricks of the Trade", -- [11]
-				"spell|40||Killing Spree||51690", -- [12]
-				"spell|43||Sprint|Rank 3|11305", -- [13]
-				"spell|27||Expose Armor||8647", -- [14]
-				"item|50607||Frostbitten Fur Boots", -- [15]
-				"spell|29||Kidney Shot|Rank 2|8643", -- [16]
-				nil, -- [17]
-				"spell|26||Eviscerate|Rank 12|48668", -- [18]
-				"spell|24||Dismantle||51722", -- [19]
-				nil, -- [20]
-				nil, -- [21]
-				nil, -- [22]
-				"item|47545||Vereesa's Dexterity", -- [23]
-				"companion|17||combat_pve|MOUNT|72286", -- [24]
-				"macro|25||rog|Interface\\Icons\\Ability_Rogue_TricksOftheTrade|/cast [target=Famelebite] Tricks of the Trade", -- [25]
-				"macro|26||Mouse|Interface\\Icons\\Ability_Rogue_TricksOftheTrade|/cast [@mouseover] Tricks of the Trade", -- [26]
-				"item|47545||Vereesa's Dexterity", -- [27]
-				nil, -- [28]
-				"spell|38||Gouge||1776", -- [29]
-				nil, -- [30]
-				"spell|44||Blind||2094", -- [31]
-				"spell|35||Evasion|Rank 2|26669", -- [32]
-				"spell|30||Rupture|Rank 9|48672", -- [33]
-				"spell|37||Feint|Rank 8|48659", -- [34]
-				nil, -- [35]
-				nil, -- [36]
-				"spell|34||Blade Flurry||13877", -- [37]
-				"spell|32||Adrenaline Rush||13750", -- [38]
-				"spell|45||Cloak of Shadows||31224", -- [39]
-				"spell|9||Every Man for Himself|Racial|59752", -- [40]
-				"spell|54||Vanish|Rank 3|26889", -- [41]
-				nil, -- [42]
-				"spell|52||Stealth||1784", -- [43]
-				"macro|44||Focus|Interface\\Icons\\Ability_Hunter_MarkedForDeath|/focus Target", -- [44]
-				[60] = "item|6948||Hearthstone",
-				[47] = "item|33447||Runic Healing Potion",
-				[49] = "spell|36||Fan of Knives||51723",
-				[69] = "item|43233||Deadly Poison IX",
-				[84] = "item|43523||Conjured Mana Strudel",
-				[77] = "spell|28||Garrote|Rank 10|48676",
-				[57] = "equipmentset|Pvp|",
-				[70] = "item|50737||Havoc's Call, Blade of Lordaeron Kings",
-				[74] = "spell|22||Cheap Shot||1833",
-				[78] = "spell|48||Distract||1725",
-				[68] = "item|43231||Instant Poison IX",
-				[71] = "item|50654||Scourgeborne Waraxe",
-				[75] = "spell|21||Ambush|Rank 10|48691",
-				[56] = "equipmentset|pve|",
-				[83] = "spell|52||Stealth||1784",
-				[76] = "spell|26||Eviscerate|Rank 12|48668",
 			},
 		},
 	},

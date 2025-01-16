@@ -1,5 +1,12 @@
 
 AF_config = {
+	["Icecrown-Durrozdor"] = {
+		["message"] = "AutoFlood 1.1",
+		["channel"] = "1",
+		["idChannel"] = "1",
+		["rate"] = 60,
+		["system"] = "CHANNEL",
+	},
 	["Icecrown-Reiila"] = {
 		["message"] = "WTS Erindan UH DK With SM and Trinkets /w for more",
 		["channel"] = "5",
@@ -14,10 +21,24 @@ AF_config = {
 		["rate"] = 60,
 		["system"] = "CHANNEL",
 	},
+	["Icecrown-Mayibite"] = {
+		["message"] = "AutoFlood 1.1",
+		["channel"] = "1",
+		["idChannel"] = "1",
+		["rate"] = 60,
+		["system"] = "CHANNEL",
+	},
 	["Onyxia-Analbuster"] = {
 		["message"] = "AutoFlood 1.1",
 		["channel"] = "1",
 		["idChannel"] = "1",
+		["rate"] = 60,
+		["system"] = "CHANNEL",
+	},
+	["Icecrown-Mayicrush"] = {
+		["message"] = "Do you want to have Weakauras designed just for you, or sell your Weakauras in-game?Join our community in discord: https://discord.gg/7E6jAPsJD9",
+		["channel"] = "5",
+		["idChannel"] = "5",
 		["rate"] = 60,
 		["system"] = "CHANNEL",
 	},
@@ -57,9 +78,9 @@ AF_config = {
 		["system"] = "CHANNEL",
 	},
 	["Icecrown-Mayicurse"] = {
-		["message"] = "LFM  |cffffff00|Hachievement:694:0700000000726223:1:3:23:22:0:0:0:0|h[Serpentshrine Cavern]|h|r TMOG RUN NEED ALL, ( |cffa335ee|Hitem:30090:0:0:0:0:0:0:0:80|h[World Breaker]|h|r Reserved)",
-		["channel"] = "3",
-		["idChannel"] = "3",
+		["message"] = "WTB 55-68 DK Boost",
+		["channel"] = "4",
+		["idChannel"] = "4",
 		["rate"] = 60,
 		["system"] = "CHANNEL",
 	},
@@ -71,6 +92,20 @@ AF_config = {
 		["system"] = "CHANNEL",
 	},
 	["Blackrock [PvP only]-Enkz"] = {
+		["message"] = "AutoFlood 1.1",
+		["channel"] = "1",
+		["idChannel"] = "1",
+		["rate"] = 60,
+		["system"] = "CHANNEL",
+	},
+	["Icecrown-Mayihunt"] = {
+		["message"] = "AutoFlood 1.1",
+		["channel"] = "1",
+		["idChannel"] = "1",
+		["rate"] = 60,
+		["system"] = "CHANNEL",
+	},
+	["Icecrown-Nekimi"] = {
 		["message"] = "AutoFlood 1.1",
 		["channel"] = "1",
 		["idChannel"] = "1",
@@ -113,9 +148,9 @@ AF_config = {
 		["system"] = "CHANNEL",
 	},
 	["Icecrown-Mayislash"] = {
-		["message"] = "AutoFlood 1.1",
-		["channel"] = "1",
-		["idChannel"] = "1",
+		["message"] = "Do you want to have Weakauras designed just for you, or sell your Weakauras in-game?Join our community in discord: https://discord.gg/Q9ZnDAR7F8",
+		["channel"] = "3",
+		["idChannel"] = "3",
 		["rate"] = 60,
 		["system"] = "CHANNEL",
 	},

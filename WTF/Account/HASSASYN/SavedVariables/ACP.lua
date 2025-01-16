@@ -2,7 +2,6 @@
 ACP_Data = {
 	["sorter"] = "Group By Name",
 	["NoRecurse"] = false,
-	["NoChildren"] = true,
 	["AddonSet"] = {
 		["Paladin"] = {
 			"_NPCScan", -- [1]
@@ -131,6 +130,7 @@ ACP_Data = {
 			"DBM-ZG", -- [124]
 		},
 	},
+	["NoChildren"] = true,
 	["collapsed"] = {
 	},
 	["ProtectedAddons"] = {

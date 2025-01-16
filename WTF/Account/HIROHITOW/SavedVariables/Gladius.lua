@@ -2,15 +2,15 @@
 GladiusDB = {
 	["profileKeys"] = {
 		["Hirobankw - Icecrown"] = "Hirobankw - Icecrown",
-		["Hirohitow - Icecrown"] = "Hirohitow - Icecrown",
+		["Analbuster - Blackrock [PvP only]"] = "Analbuster - Blackrock [PvP only]",
 		["Durahun - Icecrown"] = "Durahun - Icecrown",
-		["Mayiflash - Icecrown"] = "Mayiflash - Icecrown",
+		["Bankahc - Icecrown"] = "Bankahc - Icecrown",
 		["Mayilick - Icecrown"] = "Mayilick - Icecrown",
 		["Trancemute - Icecrown"] = "Trancemute - Icecrown",
 		["Magny - Icecrown"] = "Magny - Icecrown",
-		["Analbuster - Blackrock [PvP only]"] = "Analbuster - Blackrock [PvP only]",
+		["Hirohitow - Icecrown"] = "Hirohitow - Icecrown",
 		["Kitagawa - Icecrown"] = "Kitagawa - Icecrown",
-		["Bankahc - Icecrown"] = "Bankahc - Icecrown",
+		["Mayiflash - Icecrown"] = "Mayiflash - Icecrown",
 		["Babaco - Icecrown"] = "Mayiflash - Icecrown",
 		["Pewmayilick - Icecrown"] = "Pewmayilick - Icecrown",
 		["Femaledwarf - Icecrown"] = "Femaledwarf - Icecrown",
@@ -18,19 +18,22 @@ GladiusDB = {
 	},
 	["profiles"] = {
 		["Hirobankw - Icecrown"] = {
-		},
-		["Bankahc - Icecrown"] = {
 			["y"] = 480.0000266488927,
 			["x"] = 947.1995996239314,
-		},
-		["Analbuster - Blackrock [PvP only]"] = {
-			["locked"] = true,
-			["x"] = 947.1995996239314,
-			["y"] = 480.0000266488927,
-		},
-		["Durahun - Icecrown"] = {
 		},
 		["Babaco - Icecrown"] = {
+		},
+		["Hirohitow - Icecrown"] = {
+			["y"] = 484.2667250248168,
+			["x"] = 1108.267015132461,
+		},
+		["Durahun - Icecrown"] = {
+			["y"] = 480.0000266488927,
+			["x"] = 947.1995996239314,
+		},
+		["Mayiflash - Icecrown"] = {
+			["y"] = 480.0000266488927,
+			["x"] = 947.1995996239314,
 		},
 		["Mayilick - Icecrown"] = {
 			["y"] = 480.0000266488927,
@@ -45,15 +48,16 @@ GladiusDB = {
 			["y"] = 480.0000266488927,
 			["x"] = 947.1995996239314,
 		},
-		["Hirohitow - Icecrown"] = {
-			["y"] = 484.2667250248168,
-			["x"] = 1108.267015132461,
+		["Analbuster - Blackrock [PvP only]"] = {
+			["locked"] = true,
+			["x"] = 947.1995996239314,
+			["y"] = 480.0000266488927,
 		},
 		["Kitagawa - Icecrown"] = {
 			["y"] = 480.0000266488927,
 			["x"] = 947.1995996239314,
 		},
-		["Mayiflash - Icecrown"] = {
+		["Bankahc - Icecrown"] = {
 			["y"] = 480.0000266488927,
 			["x"] = 947.1995996239314,
 		},

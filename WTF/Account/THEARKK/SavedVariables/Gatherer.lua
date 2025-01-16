@@ -429,7 +429,7 @@ LibSwagData = {
 			["Mountain Silversage"] = 13465,
 			["Goldthorn"] = 3821,
 			["Mageroyal"] = 785,
-			["Wildvine"] = 8153,
+			["Icecap"] = 13467,
 			["Wintersbite"] = 3819,
 			["Silverleaf"] = 765,
 			["Peacebloom"] = 2447,
@@ -446,7 +446,7 @@ LibSwagData = {
 			["Ghost Mushroom"] = 8845,
 			["Black Lotus"] = 13468,
 			["Purple Lotus"] = 8831,
-			["Icecap"] = 13467,
+			["Wildvine"] = 8153,
 		},
 	},
 	["spells"] = {

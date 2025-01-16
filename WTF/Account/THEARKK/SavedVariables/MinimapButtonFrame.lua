@@ -13,6 +13,7 @@ MBFDB = {
 		["Aegwyn - Icecrown"] = "Default",
 		["Gelkucama - Icecrown"] = "Default",
 		["Plaacebo - Icecrown"] = "Default",
+		["Yaramdk - Icecrown"] = "Default",
 		["Vecnaa - Icecrown"] = "Default",
 		["Zoolock - Icecrown"] = "Default",
 		["Mayiblast - Icecrown"] = "Default",
@@ -23,6 +24,14 @@ MBFDB = {
 		["Tokatlarim - Icecrown"] = "Default",
 	},
 	["profiles"] = {
+		["Mayiascend - Icecrown"] = {
+			["MBF_FrameLocation"] = {
+				nil, -- [1]
+				nil, -- [2]
+				-298.9563601192701, -- [3]
+				-185.4165782020735, -- [4]
+			},
+		},
 		["Main"] = {
 			["MBF_FrameLocation"] = {
 				nil, -- [1]
@@ -169,14 +178,6 @@ MBFDB = {
 				"trsmuqglgqfgcpqomogr", -- [90]
 			},
 			["disabledMail"] = false,
-		},
-		["Mayiascend - Icecrown"] = {
-			["MBF_FrameLocation"] = {
-				nil, -- [1]
-				nil, -- [2]
-				-298.9563601192701, -- [3]
-				-185.4165782020735, -- [4]
-			},
 		},
 	},
 }

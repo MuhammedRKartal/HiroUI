@@ -1,12 +1,12 @@
 
 AUCTIONATOR_SAVEDVARS = {
-	["_10000"] = 200,
+	["_200000"] = 1000,
 	["_50000"] = 500,
-	["_500"] = 5,
+	["STARTING_DISCOUNT"] = 5,
 	["_1000000"] = 2500,
 	["_5000000"] = 10000,
-	["STARTING_DISCOUNT"] = 5,
-	["_200000"] = 1000,
+	["_500"] = 5,
+	["_10000"] = 200,
 	["_2000"] = 100,
 }
 AUCTIONATOR_PRICING_HISTORY = {
@@ -135,56 +135,56 @@ AUCTIONATOR_PRICING_HISTORY = {
 AUCTIONATOR_SHOPPING_LISTS = {
 	{
 		["items"] = {
-			"Potion of Speed", -- [1]
-			"Flask of the Frost Wyrm", -- [2]
-			"Flame Cap", -- [3]
-			"Potion of Wild Magic", -- [4]
-			"Eternal Life", -- [5]
-			"Eternal Shadow", -- [6]
-			"Eternal Fire", -- [7]
-			"Cobalt bar", -- [8]
-			"Adamantite Bar", -- [9]
-			"mote of fire", -- [10]
-			"mote of Earth", -- [11]
-			"thorium bar", -- [12]
-			"Dense stone", -- [13]
-			"Star ruby", -- [14]
-			"thick leather", -- [15]
-			"mithril bar", -- [16]
-			"Solid stone", -- [17]
-			"Steel bar", -- [18]
-			"Bronze bar", -- [19]
-			"heavy stone", -- [20]
-			"Silver bar", -- [21]
-			"Coarse Stone", -- [22]
-			"Copper bar", -- [23]
-			"linen", -- [24]
-			"Saronite Ore", -- [25]
-			"Chalcedony", -- [26]
-			"Shadow Crystal", -- [27]
-			"Frozen Orb", -- [28]
-			"Dark jade", -- [29]
-			"Primal might", -- [30]
-			"King's Amber", -- [31]
-			"king ember", -- [32]
-			"king's ember", -- [33]
-			"Autumn's Glow", -- [34]
-			"scarlet ruby", -- [35]
-			"majestic zircon", -- [36]
-			"saronite bar", -- [37]
-			"Autumn", -- [38]
-			"fractured cardinal ruby", -- [39]
-			"Resplendent Ametrine", -- [40]
-			"Potent Ametrine", -- [41]
-			"AmetrİNE", -- [42]
-			"Bold Cardinal Ruby", -- [43]
-			"Ametrine", -- [44]
-			"cardinal ruby", -- [45]
-			"Icy Dragonscale", -- [46]
-			"Arctic fur", -- [47]
-			"leg armor", -- [48]
-			"skyflare diamond", -- [49]
-			"earthsiege diamond", -- [50]
+			"Anti-magic", -- [1]
+			"Disease", -- [2]
+			"Dark command", -- [3]
+			"vampiric blood", -- [4]
+			"Sulfuron", -- [5]
+			"Jade", -- [6]
+			"Engineer's Ink", -- [7]
+			"Gold Bar", -- [8]
+			"Mithril Bar", -- [9]
+			"Chicken", -- [10]
+			"lichbloom", -- [11]
+			"Gnomish army", -- [12]
+			"thistle tea", -- [13]
+			"hearty rhino", -- [14]
+			"Chalcedony", -- [15]
+			"Damaged neck", -- [16]
+			"Broken", -- [17]
+			"neckleace", -- [18]
+			"Flame Cap", -- [19]
+			"Primordial Saronite", -- [20]
+			"Primodorial Saronite", -- [21]
+			"moll-e", -- [22]
+			"moll e", -- [23]
+			"Saronite Bar", -- [24]
+			"Bag", -- [25]
+			"Death and ", -- [26]
+			"Icy touch", -- [27]
+			"Dark death", -- [28]
+			"Ghoul", -- [29]
+			"molten armor", -- [30]
+			"living bomb", -- [31]
+			"Fireball", -- [32]
+			"Frostweave Bag", -- [33]
+			"Potion of Speed", -- [34]
+			"Flask of the Frost Wyrm", -- [35]
+			"Potion of Wild Magic", -- [36]
+			"Eternal Life", -- [37]
+			"Eternal Shadow", -- [38]
+			"Eternal Fire", -- [39]
+			"Cobalt bar", -- [40]
+			"Adamantite Bar", -- [41]
+			"mote of fire", -- [42]
+			"mote of Earth", -- [43]
+			"thorium bar", -- [44]
+			"Dense stone", -- [45]
+			"Star ruby", -- [46]
+			"thick leather", -- [47]
+			"Solid stone", -- [48]
+			"Steel bar", -- [49]
+			"Bronze bar", -- [50]
 		},
 		["isRecents"] = 1,
 		["name"] = "Recent Searches",
@@ -288,16 +288,17 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Reckless Ametrine"] = 1807500,
 		["Titansteel Bar"] = 3120000,
 		["Dark Jade Focusing Lens"] = 46995,
+		["Smooth Autumn's Glow"] = 1807500,
 		["Inscribed Ametrine"] = 1929800,
 		["Bright Cardinal Ruby"] = 2470000,
 		["Truesilver Bar"] = 19000,
-		["Smooth Autumn's Glow"] = 1807500,
 		["Bold Cardinal Ruby"] = 2585000,
 		["Empowered Ametrine"] = 2352500,
-		["Green Linen Bracers"] = 60000,
+		["Barbaric Linen Vest"] = 60504,
+		["Shifting Shadow Crystal"] = 98000,
 		["Eternal Water"] = 109000,
 		["Runed Cardinal Ruby"] = 2460000,
-		["Shifting Shadow Crystal"] = 98000,
+		["Handstitched Linen Britches"] = 260500,
 		["Nethercobra Leg Armor"] = 66660000,
 		["Icy Dragonscale"] = 38800,
 		["Belt of the Lonely Noble"] = 1000000,
@@ -314,39 +315,39 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Smooth King's Amber"] = 2364900,
 		["Glowing Shadow Crystal"] = 97500,
 		["Perfect Guardian's Shadow Crystal"] = 791000,
-		["Sparkling Majestic Zircon"] = 952000,
 		["Stalwart Ametrine"] = 2500000,
 		["Delicate Scarlet Ruby"] = 2999900,
-		["Veiled Ametrine"] = 1969999,
-		["Cardinal Ruby"] = 2310000,
+		["Nerubian Leg Armor"] = 1287500,
 		["Powerful Earthsiege Diamond"] = 99500,
+		["Cardinal Ruby"] = 2310000,
 		["Potent Ametrine"] = 1882400,
+		["Perfect Jagged Dark Jade"] = 220000,
 		["King's Amber"] = 2127500,
-		["Insightful Earthsiege Diamond"] = 900000,
-		["Fractured Cardinal Ruby"] = 2507500,
-		["Carapace of Forgotten Kings"] = 13009899,
 		["Bold Scarlet Ruby"] = 2070000,
+		["Carapace of Forgotten Kings"] = 13009899,
+		["Fractured Cardinal Ruby"] = 2507500,
 		["Precise Scarlet Ruby"] = 1450000,
+		["Mystic Autumn's Glow"] = 1999999,
 		["Bright Scarlet Ruby"] = 979900,
-		["Thundering Skyflare Diamond"] = 1500000,
 		["Perfect Forceful Dark Jade"] = 239000,
+		["Timeless Dark Jade"] = 59000,
 		["Design: Beaming Earthsiege Diamond"] = 160000,
-		["Austere Earthsiege Diamond"] = 849000,
-		["Silver Bar"] = 240000,
 		["Durable Ametrine"] = 1900000,
+		["Silver Bar"] = 240000,
+		["Austere Earthsiege Diamond"] = 849000,
 		["Saronite Ore"] = 59500,
 		["Delicate Cardinal Ruby"] = 2390000,
-		["Timeless Dark Jade"] = 59000,
+		["Thundering Skyflare Diamond"] = 1500000,
 		["Ametrine"] = 1707500,
-		["Mystic Autumn's Glow"] = 1999999,
 		["Energized Dark Jade"] = 200000,
 		["Frozen Orb"] = 949999,
+		["Insightful Earthsiege Diamond"] = 900000,
 		["Design: Destructive Skyflare Diamond"] = 97011,
 		["Eternal Fire"] = 419999,
-		["Perfect Jagged Dark Jade"] = 220000,
 		["Regal Shadow Crystal"] = 404000,
+		["Veiled Ametrine"] = 1969999,
 		["Primal Might"] = 1985000,
-		["Nerubian Leg Armor"] = 1287500,
+		["Sparkling Majestic Zircon"] = 952000,
 		["Pattern: Red Linen Robe"] = 2000,
 		["Runed Scarlet Ruby"] = 1989999,
 		["Glimmering Ametrine"] = 2569999,
@@ -355,14 +356,106 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Design: Thundering Skyflare Diamond"] = 157000,
 		["Destructive Skyflare Diamond"] = 449000,
 		["Wicked Ametrine"] = 1800000,
-		["Handstitched Linen Britches"] = 260500,
+		["Green Linen Bracers"] = 60000,
 		["Chaotic Skyflare Diamond"] = 939000,
-		["Barbaric Linen Vest"] = 60504,
 		["Reinforced Linen Cape"] = 20000,
 		["Flashing Scarlet Ruby"] = 1200000,
 		["Star Ruby"] = 219999,
+		["Frostweave Bag"] = 1550000,
 	},
 	["Icecrown_Horde"] = {
+		["Jade Breastplate of the Tiger"] = 10000000,
+		["Jade Epaulets of the Boar"] = 12460000,
+		["Jade Epaulets of the Bear"] = 2500000,
+		["Blackflame Cape"] = 150000,
+		["Mammoth Mining Bag"] = 3229998,
+		["Pattern: Core Felcloth Bag"] = 10000000,
+		["Crystal Chalcedony Amulet"] = 800000,
+		["Perfect Solid Chalcedony"] = 300000,
+		["Jade Gauntlets of the Bear"] = 35000000,
+		["\"Gigantique\" Bag"] = 13940000,
+		["Primordial Saronite"] = 6989999,
+		["Perfect Jagged Dark Jade"] = 505000,
+		["Sulfuron Hammer"] = 149999999,
+		["Mooncloth Bag"] = 559529,
+		["Jade Deflector of the Bear"] = 9990000,
+		["Pattern: Mooncloth Bag"] = 370000,
+		["Jade Dagger Pendant"] = 3000000,
+		["Misty Dark Jade"] = 70000,
+		["Jade Belt of the Gorilla"] = 5000000,
+		["Plans: Sulfuron Hammer"] = 14990000,
+		["Jade Gauntlets of the Whale"] = 11500000,
+		["Solid Chalcedony"] = 159499,
+		["Sparkling Chalcedony"] = 100000,
+		["Glacial Bag"] = 9580000,
+		["Forceful Dark Jade"] = 20000,
+		["Dark Jade Focusing Lens"] = 129500,
+		["Jade Legplates of the Eagle"] = 62008368,
+		["Radiant Dark Jade"] = 110000,
+		["Six Demon Bag"] = 4187500,
+		["Bag of Jewels"] = 2160000,
+		["Jade Greaves of the Bear"] = 6000000,
+		["Jade Breastplate of the Bear"] = 10000000,
+		["Jade Gauntlets of Power"] = 12500000,
+		["Jade Breastplate of the Boar"] = 11500000,
+		["Perfect Forceful Dark Jade"] = 229000,
+		["Jagged Dark Jade"] = 100000,
+		["Chalcedony"] = 594000,
+		["Damaged Necklace"] = 2970000,
+		["Lustrous Chalcedony"] = 900000,
+		["Energized Dark Jade"] = 49500,
+		["Jadefire Cap of the Owl"] = 827458,
+		["Jade Legplates of the Whale"] = 120000000,
+		["Jade Bracers of the Boar"] = 1268704,
+		["Jadefire Epaulets of the Monkey"] = 5000000,
+		["Jade Greaves of Defense"] = 12500000,
+		["Heavy Jade Ring"] = 169999,
+		["Jade Gauntlets of the Monkey"] = 9970000,
+		["Jadefire Chestguard of the Owl"] = 330000,
+		["Ebon Shadowbag"] = 4990000,
+		["Jade"] = 100000,
+		["Jade Breastplate of the Monkey"] = 10000000,
+		["Intricate Dark Jade"] = 200000,
+		["Mur'ghoul Boots of the Physician"] = 600000,
+		["Jade Belt of the Whale"] = 5000000,
+		["Jade Belt of the Monkey"] = 55000000,
+		["Shadow Jade Focusing Lens"] = 280000,
+		["Plans: Jade Serpentblade"] = 3300,
+		["Jade Belt of Strength"] = 5000000,
+		["Dark Jade"] = 349000,
+		["Abyssal Bag"] = 7480000,
+		["Design: Jade Pendant of Blasting"] = 9900,
+		["Jadefire Chestguard of the Monkey"] = 330000,
+		["Jade Epaulets of Stamina"] = 9960000,
+		["Dazzling Dark Jade"] = 55000,
+		["Jadefire Gloves of the Monkey"] = 2234577,
+		["Jade Epaulets of the Gorilla"] = 12490000,
+		["Broken Blade of Heroes"] = 19900,
+		["Jadefire Epaulets of Nature's Wrath"] = 150000,
+		["Emerald Bag"] = 11930000,
+		["Mur'ghoul Boots of Arcane Protection"] = 330000,
+		["Jadefire Cap of the Whale"] = 300000,
+		["Gold Bar"] = 17800,
+		["Frostweave Bag"] = 1947499,
+		["Netherweave Bag"] = 298999,
+		["Jade Epaulets of the Whale"] = 12500000,
+		["Mysterious Bag"] = 7970000,
+		["Sulfuron Ingot"] = 4997500,
+		["Pattern: Kodo Hide Bag"] = 6991488,
+		["Jade Greaves of the Monkey"] = 22220000,
+		["Shining Dark Jade"] = 90000,
+		["Jadefire Chestguard of the Bear"] = 2551030,
+		["Enduring Dark Jade"] = 39999,
+		["Jade Legplates of the Boar"] = 64000000,
+		["Jade Epaulets of the Tiger"] = 12500000,
+		["Jade Belt of the Eagle"] = 5000000,
+		["MOLL-E"] = 7999999,
+		["Jade Greaves of the Eagle"] = 6000000,
+		["Imbued Netherweave Bag"] = 1750000,
+		["Pattern: Green Woolen Bag"] = 31700,
+		["Jade Legplates of the Bear"] = 63000000,
+		["Pattern: Bottomless Bag"] = 5300000,
+		["Jadefire Bracelets of the Owl"] = 200000,
 	},
 	["Blackrock [PvP only]_Alliance"] = {
 	},
@@ -380,21 +473,32 @@ AUCTIONATOR_TOONS = {
 		["firstSeen"] = 1718553974,
 		["firstVersion"] = "2.6.3",
 	},
+	["Denragar"] = {
+		["firstSeen"] = 1737060167,
+		["firstVersion"] = "2.6.3",
+	},
 	["Mayistab"] = {
 		["firstSeen"] = 1712241993,
+		["firstVersion"] = "2.6.3",
+	},
+	["Mayislice"] = {
+		["firstSeen"] = 1736080097,
 		["firstVersion"] = "2.6.3",
 	},
 	["Mayicurse"] = {
 		["firstSeen"] = 1710263899,
 		["firstVersion"] = "2.6.3",
 	},
-	["Gelkucama"] = {
-		["firstSeen"] = 1718553725,
-		["guid"] = "0x0700000000408FA8",
+	["Enkz"] = {
+		["firstSeen"] = 1711831842,
 		["firstVersion"] = "2.6.3",
 	},
-	["Dinsiz"] = {
-		["firstSeen"] = 1729723158,
+	["Tokatlarim"] = {
+		["firstSeen"] = 1718554018,
+		["firstVersion"] = "2.6.3",
+	},
+	["Gelkucama"] = {
+		["firstSeen"] = 1718553725,
 		["firstVersion"] = "2.6.3",
 	},
 	["Aegwyn"] = {
@@ -409,8 +513,9 @@ AUCTIONATOR_TOONS = {
 		["firstSeen"] = 1712497805,
 		["firstVersion"] = "2.6.3",
 	},
-	["Tokatlarim"] = {
-		["firstSeen"] = 1718554018,
+	["Elynass"] = {
+		["firstSeen"] = 1712269661,
+		["guid"] = "0x07000000001BC237",
 		["firstVersion"] = "2.6.3",
 	},
 	["Fareci"] = {
@@ -421,13 +526,12 @@ AUCTIONATOR_TOONS = {
 		["firstSeen"] = 1711834611,
 		["firstVersion"] = "2.6.3",
 	},
-	["Elynass"] = {
-		["firstSeen"] = 1712269661,
-		["guid"] = "0x07000000001BC237",
+	["Dinsiz"] = {
+		["firstSeen"] = 1729723158,
 		["firstVersion"] = "2.6.3",
 	},
-	["Enkz"] = {
-		["firstSeen"] = 1711831842,
+	["Sourbang"] = {
+		["firstSeen"] = 1730377078,
 		["firstVersion"] = "2.6.3",
 	},
 	["Mayiascend"] = {

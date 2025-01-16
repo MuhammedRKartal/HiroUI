@@ -623,10 +623,10 @@ ChatterDB = {
 							["g"] = 0.8666667179204524,
 							["b"] = 0,
 						},
-						["AFK"] = {
+						["RAID_LEADER"] = {
 							["r"] = 1.000000059138984,
-							["g"] = 0.501960813999176,
-							["b"] = 1.000000059138984,
+							["g"] = 0.2823529578745365,
+							["b"] = 0.03529411973431706,
 						},
 						["Party Leader"] = {
 							["r"] = 0.4627451254054904,
@@ -643,10 +643,10 @@ ChatterDB = {
 							["g"] = 0.752941220998764,
 							["r"] = 1.000000059138984,
 						},
-						["RAID_LEADER"] = {
+						["AFK"] = {
 							["r"] = 1.000000059138984,
-							["g"] = 0.2823529578745365,
-							["b"] = 0.03529411973431706,
+							["g"] = 0.501960813999176,
+							["b"] = 1.000000059138984,
 						},
 						["RESTRICTED"] = {
 							["r"] = 1.000000059138984,
@@ -992,24 +992,24 @@ ChatterDB = {
 						}, -- [1]
 						{
 							["point"] = "BOTTOMLEFT",
-							["xOffset"] = 0.002083286129042974,
-							["yOffset"] = 0.06973317436077954,
+							["xOffset"] = 0.001953121922574334,
+							["yOffset"] = 0.06417683325365642,
 							["height"] = 120.0000016412938,
 							["width"] = 429.999983997386,
 						}, -- [2]
 						{
 							["point"] = "BOTTOMLEFT",
 							["xOffset"] = 0,
-							["width"] = 362.5000410665373,
+							["width"] = 360.8333619761888,
 							["height"] = 119.9999841341604,
-							["yOffset"] = 0.1973719078900683,
+							["yOffset"] = 0.1973716015152308,
 						}, -- [3]
 						{
 							["point"] = "BOTTOMLEFT",
-							["height"] = 116.66666096773,
-							["width"] = 359.1667529143735,
+							["height"] = 120.0000103948604,
+							["width"] = 361.6667015213631,
 							["xOffset"] = 0,
-							["yOffset"] = 0.2001492249708682,
+							["yOffset"] = 0.2001491812030342,
 						}, -- [4]
 						{
 							["point"] = "BOTTOMLEFT",
@@ -1225,18 +1225,21 @@ ChatterDB = {
 		["Elynass - Icecrown"] = "Default",
 		["Dinsiz - Icecrown"] = "Default",
 		["Dumbcuntt - Blackrock [PvP only]"] = "Default",
+		["Denragar - Icecrown"] = "Default",
 		["Makiio - Icecrown"] = "Default",
 		["Duhht - Blackrock [PvP only]"] = "Default",
-		["Healite - Icecrown"] = "Default",
 		["Plaacebo - Icecrown"] = "Default",
 		["Mayiascend - Icecrown"] = "Default",
+		["Sourbang - Icecrown"] = "Default",
 		["Mayistab - Icecrown"] = "Default",
-		["Cezzarged - Blackrock [PvP only]"] = "Default",
-		["Yaramiem - Blackrock [PvP only]"] = "Default",
 		["Gelkucama - Icecrown"] = "Default",
+		["Cezzarged - Blackrock [PvP only]"] = "Default",
 		["Itadori - Icecrown"] = "Default",
+		["Yaramiem - Blackrock [PvP only]"] = "Default",
 		["Zoolock - Icecrown"] = "Default",
 		["Rupturer - Icecrown"] = "Default",
+		["Healite - Icecrown"] = "Default",
+		["Mayislice - Icecrown"] = "Default",
 		["Tokatlarim - Icecrown"] = "Default",
 	},
 	["profiles"] = {

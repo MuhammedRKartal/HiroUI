@@ -4,7 +4,7 @@ local L		= mod:GetLocalizedStrings()
 local DBM = DBM
 local AceTimer = LibStub("AceTimer-3.0")
 
-mod:SetRevision("20220827002800")
+mod:SetRevision("20250107192636")
 mod:SetZone(DBM_DISABLE_ZONE_DETECTION)
 
 mod:RegisterEvents(
@@ -262,10 +262,8 @@ local function UpdateFlagDisplay()
 			flagFrame2Text:SetText("")
 			flagButton2:SetAttribute("macrotext", "")
 		end
-		if allyFlag and hordeFlag then
+		if allyFlag and hordeFlag and not vulnerableTimer:IsStarted() then -- WSG specific (no need to check mapID since only this BG has 2 flags)
 			vulnerableTimer:Start()
-		else
-			vulnerableTimer:Cancel()
 		end
 	end
 end
@@ -750,10 +748,13 @@ do
 		elseif msg == L.Start15 or msg == L.Start15TC then
 			startTimer:Update(45, 60)
 			timerShadow:Schedule(15)
-		elseif self.Options.ShowFlagCarrier and (smatch(msg, L.FlagReset) or smatch(msg, L.FlagResetTC)) then
-			allyFlag = nil
-			hordeFlag = nil
-			UpdateFlagDisplay()
+		elseif smatch(msg, L.FlagReset) or smatch(msg, L.FlagResetTC) then
+			vulnerableTimer:Cancel()
+			if self.Options.ShowFlagCarrier then
+				allyFlag = nil
+				hordeFlag = nil
+				UpdateFlagDisplay()
+			end
 		-- Isle of Conquest Gates
 		elseif self.Options.ShowGatesHealth then
 			-- Horde Front Gate
@@ -1032,7 +1033,23 @@ do
 						hordeBases = hordeBases + 1
 					end
 				end
-				self:UpdateWinTimer(1600, tonumber(smatch((select(3, GetWorldStateUIInfo(subscribedMapID == 483 and 2 or 1)) or ""), "(%d+)/1600")) or 0, tonumber(smatch((select(3, GetWorldStateUIInfo(subscribedMapID == 483 and 3 or 2)) or ""), "(%d+)/1600")) or 0, allyBases, hordeBases)
+
+				local isEotS = subscribedMapID == 483
+				local allyIndex = isEotS and 2 or 1
+				local hordeIndex = isEotS and 3 or 2
+
+				-- ex ab: "Bases: 0 Resources: 0/1600"
+				local allyScoreText = select(3, GetWorldStateUIInfo(allyIndex)) or ""
+				local hordeScoreText = select(3, GetWorldStateUIInfo(hordeIndex)) or ""
+
+				local allyCurrent, maxResources = smatch(allyScoreText, "(%d+)/(%d+)")
+				allyCurrent = tonumber(allyCurrent) or 0
+				maxResources = tonumber(maxResources) or 1600
+
+				local hordeCurrent = smatch(hordeScoreText, "(%d+)/")
+				hordeCurrent = tonumber(hordeCurrent) or 0
+
+				self:UpdateWinTimer(maxResources, allyCurrent, hordeCurrent, allyBases, hordeBases)
 			end
 		end
 	end

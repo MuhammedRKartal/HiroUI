@@ -62,14 +62,73 @@ ActionBarSaverDB = {
 				[58] = "spell|21||Blessing of Wisdom|Rank 9|48936",
 				[59] = "spell|99||Blessing of Sanctuary||20911",
 				[60] = "spell|98||Blessing of Kings||20217",
-				[72] = "spell|107||Greater Blessing of Kings||25898",
-				[69] = "spell|150||Greater Blessing of Might|Rank 5|48934",
 				[71] = "spell|108||Greater Blessing of Sanctuary||25899",
+				[69] = "spell|150||Greater Blessing of Might|Rank 5|48934",
+				[72] = "spell|107||Greater Blessing of Kings||25898",
 			},
 		},
 		["MAGE"] = {
 		},
 		["PRIEST"] = {
+			["disc_pve"] = {
+				"spell|43||Penance|Rank 4|53007", -- [1]
+				"item|54589||Glowing Twilight Scale", -- [2]
+				"spell|102||Flash Heal|Rank 11|48071", -- [3]
+				"spell|44||Power Infusion||10060", -- [4]
+				"spell|66||Power Word: Shield|Rank 14|48066", -- [5]
+				nil, -- [6]
+				nil, -- [7]
+				nil, -- [8]
+				"spell|25||Fear Ward||6346", -- [9]
+				"spell|208||Mind Sear|Rank 2|53023", -- [10]
+				"spell|191||Devouring Plague|Rank 9|48300", -- [11]
+				"spell|227||Shadow Word: Death|Rank 4|48158", -- [12]
+				"spell|218||Psychic Scream|Rank 4|10890", -- [13]
+				"spell|80||Binding Heal|Rank 3|48120", -- [14]
+				"spell|146||Prayer of Healing|Rank 7|48072", -- [15]
+				nil, -- [16]
+				nil, -- [17]
+				"spell|77||Abolish Disease||552", -- [18]
+				"spell|81||Cure Disease||528", -- [19]
+				"spell|76||Shackle Undead|Rank 3|10955", -- [20]
+				"spell|206||Mind Control||605", -- [21]
+				nil, -- [22]
+				nil, -- [23]
+				"companion|1||disc_pve|MOUNT|72286", -- [24]
+				"spell|163||Renew|Rank 14|48068", -- [25]
+				"spell|149||Prayer of Mending|Rank 3|48113", -- [26]
+				"spell|18||Dispel Magic|Rank 2|988", -- [27]
+				"spell|209||Mind Soothe||453", -- [28]
+				"spell|36||Levitate||1706", -- [29]
+				nil, -- [30]
+				"spell|38||Mass Dispel||32375", -- [31]
+				"spell|39||Pain Suppression||33206", -- [32]
+				"spell|135||Holy Nova|Rank 9|48078", -- [33]
+				"spell|240||Shadowfiend||34433", -- [34]
+				nil, -- [35]
+				nil, -- [36]
+				"spell|34||Inner Fire|Rank 9|48168", -- [37]
+				"spell|90||Desperate Prayer|Rank 9|48173", -- [38]
+				"spell|7||Every Man for Himself|Racial|59752", -- [39]
+				nil, -- [40]
+				"spell|35||Inner Focus||14751", -- [41]
+				nil, -- [42]
+				nil, -- [43]
+				"spell|52||Power Word: Fortitude|Rank 8|48161", -- [44]
+				nil, -- [45]
+				nil, -- [46]
+				"spell|91||Divine Hymn|Rank 1|64843", -- [47]
+				"spell|136||Hymn of Hope||64901", -- [48]
+				[60] = "spell|214||Prayer of Shadow Protection|Rank 3|48170",
+				[62] = "spell|9||Jewelcrafting|Grand Master|51311",
+				[59] = "spell|73||Prayer of Spirit|Rank 3|48074",
+				[61] = "spell|15||Tailoring|Grand Master|51309",
+				[67] = "item|33445||Honeymint Tea",
+				[71] = "spell|24||Divine Spirit|Rank 6|48073",
+				[70] = "spell|52||Power Word: Fortitude|Rank 8|48161",
+				[58] = "spell|70||Prayer of Fortitude|Rank 4|48162",
+				[72] = "spell|223||Shadow Protection|Rank 5|48169",
+			},
 			["disc1"] = {
 				"spell|80||Binding Heal|Rank 3|48120", -- [1]
 				"item|54589||Glowing Twilight Scale", -- [2]
@@ -143,69 +202,10 @@ ActionBarSaverDB = {
 				[66] = "spell|8||Fishing|Grand Master|51294",
 				[68] = "item|33445||Honeymint Tea",
 			},
-			["disc_pve"] = {
-				"spell|43||Penance|Rank 4|53007", -- [1]
-				"item|54589||Glowing Twilight Scale", -- [2]
-				"spell|102||Flash Heal|Rank 11|48071", -- [3]
-				"spell|44||Power Infusion||10060", -- [4]
-				"spell|66||Power Word: Shield|Rank 14|48066", -- [5]
-				nil, -- [6]
-				nil, -- [7]
-				nil, -- [8]
-				"spell|25||Fear Ward||6346", -- [9]
-				"spell|208||Mind Sear|Rank 2|53023", -- [10]
-				"spell|191||Devouring Plague|Rank 9|48300", -- [11]
-				"spell|227||Shadow Word: Death|Rank 4|48158", -- [12]
-				"spell|218||Psychic Scream|Rank 4|10890", -- [13]
-				"spell|80||Binding Heal|Rank 3|48120", -- [14]
-				"spell|146||Prayer of Healing|Rank 7|48072", -- [15]
-				nil, -- [16]
-				nil, -- [17]
-				"spell|77||Abolish Disease||552", -- [18]
-				"spell|81||Cure Disease||528", -- [19]
-				"spell|76||Shackle Undead|Rank 3|10955", -- [20]
-				"spell|206||Mind Control||605", -- [21]
-				nil, -- [22]
-				nil, -- [23]
-				"companion|1||disc_pve|MOUNT|72286", -- [24]
-				"spell|163||Renew|Rank 14|48068", -- [25]
-				"spell|149||Prayer of Mending|Rank 3|48113", -- [26]
-				"spell|18||Dispel Magic|Rank 2|988", -- [27]
-				"spell|209||Mind Soothe||453", -- [28]
-				"spell|36||Levitate||1706", -- [29]
-				nil, -- [30]
-				"spell|38||Mass Dispel||32375", -- [31]
-				"spell|39||Pain Suppression||33206", -- [32]
-				"spell|135||Holy Nova|Rank 9|48078", -- [33]
-				"spell|240||Shadowfiend||34433", -- [34]
-				nil, -- [35]
-				nil, -- [36]
-				"spell|34||Inner Fire|Rank 9|48168", -- [37]
-				"spell|90||Desperate Prayer|Rank 9|48173", -- [38]
-				"spell|7||Every Man for Himself|Racial|59752", -- [39]
-				nil, -- [40]
-				"spell|35||Inner Focus||14751", -- [41]
-				nil, -- [42]
-				nil, -- [43]
-				"spell|52||Power Word: Fortitude|Rank 8|48161", -- [44]
-				nil, -- [45]
-				nil, -- [46]
-				"spell|91||Divine Hymn|Rank 1|64843", -- [47]
-				"spell|136||Hymn of Hope||64901", -- [48]
-				[60] = "spell|214||Prayer of Shadow Protection|Rank 3|48170",
-				[62] = "spell|9||Jewelcrafting|Grand Master|51311",
-				[59] = "spell|73||Prayer of Spirit|Rank 3|48074",
-				[61] = "spell|15||Tailoring|Grand Master|51309",
-				[67] = "item|33445||Honeymint Tea",
-				[71] = "spell|24||Divine Spirit|Rank 6|48073",
-				[72] = "spell|223||Shadow Protection|Rank 5|48169",
-				[58] = "spell|70||Prayer of Fortitude|Rank 4|48162",
-				[70] = "spell|52||Power Word: Fortitude|Rank 8|48161",
-			},
 		},
 		["WARLOCK"] = {
 		},
-		["HUNTER"] = {
+		["ROGUE"] = {
 		},
 		["DRUID"] = {
 			["bear_tank"] = {
@@ -264,14 +264,14 @@ ActionBarSaverDB = {
 				[85] = "spell|122||Pounce|Rank 5|49803",
 				[29] = "spell|10||Shadowmeld|Racial|58984",
 				[86] = "spell|126||Rip|Rank 9|49800",
-				[41] = "spell|141||Gift of the Wild|Rank 4|48470",
+				[74] = "spell|124||Rake|Rank 7|48574",
 				[36] = "spell|33||Innervate||29166",
 				[44] = "spell|101||Enrage||5229",
-				[43] = "spell|104||Feral Charge - Bear||16979",
+				[76] = "spell|106||Ferocious Bite|Rank 8|48577",
 				[49] = "item|6948||Hearthstone",
 				[73] = "spell|129||Shred|Rank 9|48572",
-				[76] = "spell|106||Ferocious Bite|Rank 8|48577",
-				[74] = "spell|124||Rake|Rank 7|48574",
+				[43] = "spell|104||Feral Charge - Bear||16979",
+				[41] = "spell|141||Gift of the Wild|Rank 4|48470",
 			},
 			["mbox"] = {
 				"macro|1||P1|Interface\\Icons\\Spell_Nature_Rejuvenation|#showtooltip/n/cast [nomod, @party1] Rejuvenation/n/cast [mod:shift, @party1] Regrowth", -- [1]
@@ -306,25 +306,25 @@ ActionBarSaverDB = {
 				[47] = "spell|78||Thorns|Rank 8|53307",
 				[55] = "macro|55||flood|Interface\\Icons\\INV_Misc_QuestionMark|/join global/n/floodmsg Direktori He fought a duel for 5k gold and lost, cursed and ran away. /n/floodchan 5/n/floodrate 60/n/flood",
 				[63] = "spell|78||Thorns|Rank 8|53307",
-				[74] = "spell|113||Rip|Rank 9|49800",
-				[64] = "companion|3||mbox|MOUNT|49379",
+				[76] = "spell|101||Faerie Fire (Feral)||16857",
 				[32] = "spell|33||Innervate||29166",
-				[18] = "spell|14||Barkskin||22812",
+				[64] = "companion|3||mbox|MOUNT|49379",
+				[73] = "spell|116||Shred|Rank 9|48572",
 				[48] = "spell|23||Entangling Roots|Rank 8|53308",
 				[56] = "spell|198||Revive|Rank 7|50763",
 				[65] = "item|50665||Boots of Unnatural Growth",
 				[81] = "spell|119||Swipe (Cat)|Rank 1|62078",
 				[24] = "companion|5||mbox|MOUNT|23219",
 				[28] = "spell|175||Regrowth|Rank 12|48443",
-				[41] = "spell|127||Gift of the Wild|Rank 4|48470",
 				[82] = "spell|120||Tiger's Fury|Rank 6|50213",
+				[41] = "spell|127||Gift of the Wild|Rank 4|48470",
 				[49] = "spell|156||Nourish|Rank 1|50464",
 				[57] = "item|51301||Sanctified Lasherweave Gauntlets",
 				[67] = "spell|23||Entangling Roots|Rank 8|53308",
 				[83] = "spell|111||Rake|Rank 7|48574",
 				[99] = "spell|98||Demoralizing Roar|Rank 8|48560",
-				[97] = "macro|97||Swipe|Interface\\Icons\\INV_Misc_MonsterClaw_03|#showtooltip Swipe (Bear)(Rank 8)/n/cast Swipe (Bear)(Rank 8)/n/cast Maul(Rank 10)/n/cancelaura Hand of Protection/n/cancelaura Divine Intervention",
 				[68] = "item|49278||Goblin Rocket Pack",
+				[34] = "spell|191||Remove Curse||2782",
 				[84] = "spell|110||Prowl||5215",
 				[50] = "spell|175||Regrowth|Rank 12|48443",
 				[58] = "spell|206||Tranquility|Rank 7|48447",
@@ -332,92 +332,21 @@ ActionBarSaverDB = {
 				[21] = "item|40772||Gnomish Army Knife",
 				[25] = "spell|191||Remove Curse||2782",
 				[29] = "spell|97||Dash|Rank 3|33357",
-				[44] = "macro|44||Accept Invite|Interface\\Icons\\INV_Misc_QuestionMark|/run AcceptGroup()",
+				[88] = "item|51301||Sanctified Lasherweave Gauntlets",
 				[101] = "spell|101||Faerie Fire (Feral)||16857",
 				[51] = "spell|199||Swiftmend||18562",
-				[108] = "item|47735||Glyph of Indomitability",
-				[71] = "spell|33||Innervate||29166",
-				[102] = "spell|105||Growl||6795",
-				[98] = "macro|98||Lacerate|Interface\\Icons\\Ability_Druid_Lacerate|#showtooltip Lacerate(Rank 3)/n/cast Lacerate(Rank 3)/n/cast Maul(Rank 10)/n/cancelaura Hand of Protection/n/cancelaura Divine Intervention",
 				[96] = "spell|10||Shadowmeld|Racial|58984",
-				[72] = "spell|127||Gift of the Wild|Rank 4|48470",
-				[88] = "item|51301||Sanctified Lasherweave Gauntlets",
-				[34] = "spell|191||Remove Curse||2782",
-				[60] = "spell|163||Rebirth|Rank 7|48477",
-				[73] = "spell|116||Shred|Rank 9|48572",
-				[89] = "spell|14||Barkskin||22812",
-				[76] = "spell|101||Faerie Fire (Feral)||16857",
-			},
-			["shiftresto1"] = {
-				"spell|190||Rejuvenation|Rank 15|48441", -- [1]
-				"item|54589||Glowing Twilight Scale", -- [2]
-				"spell|155||Nature's Swiftness||17116", -- [3]
-				"spell|175||Regrowth|Rank 12|48443", -- [4]
-				"spell|156||Nourish|Rank 1|50464", -- [5]
-				nil, -- [6]
-				"spell|163||Rebirth|Rank 7|48477", -- [7]
-				nil, -- [8]
-				"spell|206||Tranquility|Rank 7|48447", -- [9]
-				"spell|211||Wild Growth|Rank 4|53251", -- [10]
-				"spell|199||Swiftmend||18562", -- [11]
-				"spell|145||Lifebloom|Rank 3|48451", -- [12]
-				"spell|97||Dash|Rank 3|33357", -- [13]
-				"spell|15||Cyclone||33786", -- [14]
-				"item|50665||Boots of Unnatural Growth", -- [15]
-				nil, -- [16]
-				nil, -- [17]
-				"spell|14||Barkskin||22812", -- [18]
-				nil, -- [19]
-				nil, -- [20]
-				"item|40772||Gnomish Army Knife", -- [21]
-				nil, -- [22]
-				nil, -- [23]
-				"companion|5||shiftresto1|MOUNT|23219", -- [24]
-				"spell|191||Remove Curse||2782", -- [25]
-				nil, -- [26]
-				nil, -- [27]
-				nil, -- [28]
-				nil, -- [29]
-				nil, -- [30]
-				"spell|32||Hurricane|Rank 5|48467", -- [31]
-				"spell|33||Innervate||29166", -- [32]
-				[37] = "spell|10||Shadowmeld|Racial|58984",
-				[90] = "spell|145||Lifebloom|Rank 3|48451",
-				[61] = "item|6948||Hearthstone",
-				[75] = "spell|207||Tree of Life|Shapeshift|33891",
-				[38] = "spell|55||Nature's Grasp|Rank 8|53312",
-				[108] = "item|47735||Glyph of Indomitability",
-				[77] = "spell|103||Ferocious Bite|Rank 8|48577",
-				[39] = "spell|154||Mark of the Wild|Rank 9|48469",
-				[94] = "spell|111||Rake|Rank 7|48574",
-				[95] = "spell|113||Rip|Rank 9|49800",
-				[96] = "spell|109||Pounce|Rank 5|49803",
-				[81] = "spell|119||Swipe (Cat)|Rank 1|62078",
-				[97] = "macro|97||swi|Interface\\Icons\\INV_Misc_QuestionMark|/use 枯骨之钥/n/use 完美之牙/n/cast 生存本能/n/cast 树皮术",
-				[82] = "spell|120||Tiger's Fury|Rank 6|50213",
+				[71] = "spell|33||Innervate||29166",
 				[98] = "macro|98||Lacerate|Interface\\Icons\\Ability_Druid_Lacerate|#showtooltip Lacerate(Rank 3)/n/cast Lacerate(Rank 3)/n/cast Maul(Rank 10)/n/cancelaura Hand of Protection/n/cancelaura Divine Intervention",
-				[67] = "spell|101||Faerie Fire (Feral)||16857",
-				[83] = "spell|111||Rake|Rank 7|48574",
-				[99] = "spell|98||Demoralizing Roar|Rank 8|48560",
-				[34] = "spell|191||Remove Curse||2782",
-				[84] = "spell|110||Prowl||5215",
-				[100] = "spell|105||Growl||6795",
-				[58] = "item|40093||Indestructible Potion",
-				[85] = "spell|190||Rejuvenation|Rank 15|48441",
-				[101] = "spell|101||Faerie Fire (Feral)||16857",
-				[70] = "spell|198||Revive|Rank 7|50763",
-				[86] = "spell|156||Nourish|Rank 1|50464",
-				[54] = "spell|115||Savage Roar|Rank 1|52610",
-				[87] = "spell|175||Regrowth|Rank 12|48443",
-				[48] = "spell|23||Entangling Roots|Rank 8|53308",
+				[102] = "spell|105||Growl||6795",
+				[108] = "item|47735||Glyph of Indomitability",
+				[72] = "spell|127||Gift of the Wild|Rank 4|48470",
+				[44] = "macro|44||Accept Invite|Interface\\Icons\\INV_Misc_QuestionMark|/run AcceptGroup()",
+				[97] = "macro|97||Swipe|Interface\\Icons\\INV_Misc_MonsterClaw_03|#showtooltip Swipe (Bear)(Rank 8)/n/cast Swipe (Bear)(Rank 8)/n/cast Maul(Rank 10)/n/cancelaura Hand of Protection/n/cancelaura Divine Intervention",
+				[60] = "spell|163||Rebirth|Rank 7|48477",
+				[18] = "spell|14||Barkskin||22812",
+				[89] = "spell|14||Barkskin||22812",
 				[74] = "spell|113||Rip|Rank 9|49800",
-				[68] = "item|43523||Conjured Mana Strudel",
-				[88] = "spell|199||Swiftmend||18562",
-				[76] = "spell|101||Faerie Fire (Feral)||16857",
-				[47] = "spell|78||Thorns|Rank 8|53307",
-				[73] = "spell|116||Shred|Rank 9|48572",
-				[89] = "spell|211||Wild Growth|Rank 4|53251",
-				[41] = "spell|127||Gift of the Wild|Rank 4|48470",
 			},
 			["bear1"] = {
 				"spell|90||Wrath|Rank 12|48461", -- [1]
@@ -483,72 +412,150 @@ ActionBarSaverDB = {
 				[86] = "spell|118||Rip|Rank 9|49800",
 				[36] = "spell|33||Innervate||29166",
 				[44] = "spell|168||Rebirth|Rank 7|48477",
-				[74] = "spell|116||Rake|Rank 7|48574",
-				[76] = "spell|120||Savage Roar|Rank 1|52610",
-				[73] = "spell|121||Shred|Rank 9|48572",
-				[41] = "spell|122||Survival Instincts||61336",
 				[49] = "spell|109||Lacerate|Rank 3|48568",
+				[41] = "spell|122||Survival Instincts||61336",
+				[73] = "spell|121||Shred|Rank 9|48572",
+				[76] = "spell|120||Savage Roar|Rank 1|52610",
+				[74] = "spell|116||Rake|Rank 7|48574",
+			},
+			["shiftresto1"] = {
+				"spell|190||Rejuvenation|Rank 15|48441", -- [1]
+				"item|54589||Glowing Twilight Scale", -- [2]
+				"spell|155||Nature's Swiftness||17116", -- [3]
+				"spell|175||Regrowth|Rank 12|48443", -- [4]
+				"spell|156||Nourish|Rank 1|50464", -- [5]
+				nil, -- [6]
+				"spell|163||Rebirth|Rank 7|48477", -- [7]
+				nil, -- [8]
+				"spell|206||Tranquility|Rank 7|48447", -- [9]
+				"spell|211||Wild Growth|Rank 4|53251", -- [10]
+				"spell|199||Swiftmend||18562", -- [11]
+				"spell|145||Lifebloom|Rank 3|48451", -- [12]
+				"spell|97||Dash|Rank 3|33357", -- [13]
+				"spell|15||Cyclone||33786", -- [14]
+				"item|50665||Boots of Unnatural Growth", -- [15]
+				nil, -- [16]
+				nil, -- [17]
+				"spell|14||Barkskin||22812", -- [18]
+				nil, -- [19]
+				nil, -- [20]
+				"item|40772||Gnomish Army Knife", -- [21]
+				nil, -- [22]
+				nil, -- [23]
+				"companion|5||shiftresto1|MOUNT|23219", -- [24]
+				"spell|191||Remove Curse||2782", -- [25]
+				nil, -- [26]
+				nil, -- [27]
+				nil, -- [28]
+				nil, -- [29]
+				nil, -- [30]
+				"spell|32||Hurricane|Rank 5|48467", -- [31]
+				"spell|33||Innervate||29166", -- [32]
+				[37] = "spell|10||Shadowmeld|Racial|58984",
+				[90] = "spell|145||Lifebloom|Rank 3|48451",
+				[61] = "item|6948||Hearthstone",
+				[75] = "spell|207||Tree of Life|Shapeshift|33891",
+				[38] = "spell|55||Nature's Grasp|Rank 8|53312",
+				[108] = "item|47735||Glyph of Indomitability",
+				[77] = "spell|103||Ferocious Bite|Rank 8|48577",
+				[39] = "spell|154||Mark of the Wild|Rank 9|48469",
+				[94] = "spell|111||Rake|Rank 7|48574",
+				[95] = "spell|113||Rip|Rank 9|49800",
+				[96] = "spell|109||Pounce|Rank 5|49803",
+				[81] = "spell|119||Swipe (Cat)|Rank 1|62078",
+				[97] = "macro|97||swi|Interface\\Icons\\INV_Misc_QuestionMark|/use 枯骨之钥/n/use 完美之牙/n/cast 生存本能/n/cast 树皮术",
+				[82] = "spell|120||Tiger's Fury|Rank 6|50213",
+				[98] = "macro|98||Lacerate|Interface\\Icons\\Ability_Druid_Lacerate|#showtooltip Lacerate(Rank 3)/n/cast Lacerate(Rank 3)/n/cast Maul(Rank 10)/n/cancelaura Hand of Protection/n/cancelaura Divine Intervention",
+				[67] = "spell|101||Faerie Fire (Feral)||16857",
+				[83] = "spell|111||Rake|Rank 7|48574",
+				[99] = "spell|98||Demoralizing Roar|Rank 8|48560",
+				[34] = "spell|191||Remove Curse||2782",
+				[84] = "spell|110||Prowl||5215",
+				[100] = "spell|105||Growl||6795",
+				[58] = "item|40093||Indestructible Potion",
+				[85] = "spell|190||Rejuvenation|Rank 15|48441",
+				[101] = "spell|101||Faerie Fire (Feral)||16857",
+				[70] = "spell|198||Revive|Rank 7|50763",
+				[86] = "spell|156||Nourish|Rank 1|50464",
+				[41] = "spell|127||Gift of the Wild|Rank 4|48470",
+				[87] = "spell|175||Regrowth|Rank 12|48443",
+				[48] = "spell|23||Entangling Roots|Rank 8|53308",
+				[74] = "spell|113||Rip|Rank 9|49800",
+				[47] = "spell|78||Thorns|Rank 8|53307",
+				[88] = "spell|199||Swiftmend||18562",
+				[76] = "spell|101||Faerie Fire (Feral)||16857",
+				[68] = "item|43523||Conjured Mana Strudel",
+				[73] = "spell|116||Shred|Rank 9|48572",
+				[89] = "spell|211||Wild Growth|Rank 4|53251",
+				[54] = "spell|115||Savage Roar|Rank 1|52610",
 			},
 		},
 		["SHAMAN"] = {
-			["enha_pve"] = {
-				"macro|1||Stormstrike|Interface\\Icons\\Ability_Shaman_Stormstrike|#showtooltip Stormstrike/n/cast Stormstrike/n/use 10/n/cancelaura Hand of Protection", -- [1]
-				"macro|2||Lava Lash|Interface\\Icons\\Ability_Shaman_Lavalash|#showtooltip Lava Lash(Rank 1)/n/cast Lava Lash(Rank 1)/n/use 10/n/cancelaura Hand of Protection", -- [2]
-				"spell|78||Lightning Bolt|Rank 14|49238", -- [3]
-				"spell|24||Chain Lightning|Rank 8|49271", -- [4]
-				nil, -- [5]
+			["restoration_pve_yedek"] = {
+				"spell|278||Riptide|Rank 4|61301", -- [1]
+				"macro|2||GTS|Interface\\Icons\\inv_misc_rubysanctum1|/use Glowing Twilight Scale/n/use Unclean Surgical Gloves", -- [2]
+				"macro|3||Nature|Interface\\Icons\\Spell_Nature_RavenForm|/cast Nature's Swiftness/n/cast Tidal Force", -- [3]
+				"macro|4||Ev|Interface\\Icons\\Spell_Frost_Frostbolt|/cast Tidal Force/n/use Unclean Surgical Gloves", -- [4]
+				"item|50703||Unclean Surgical Gloves", -- [5]
 				nil, -- [6]
 				nil, -- [7]
 				nil, -- [8]
-				"spell|142||Ghost Wolf||2645", -- [9]
-				"spell|85||Magma Totem|Rank 7|58734", -- [10]
-				"spell|54||Flame Shock|Rank 9|49233", -- [11]
-				"spell|34||Earth Shock|Rank 10|49231", -- [12]
-				"item|51243||Sanctified Frost Witch's Grips", -- [13]
-				nil, -- [14]
-				"item|50711||Treads of the Wasteland", -- [15]
+				"spell|272||Mana Tide Totem||16190", -- [9]
+				"spell|240||Healing Stream Totem|Rank 9|58757", -- [10]
+				"spell|106||Wind Shear||57994", -- [11]
+				"spell|52||Flame Shock|Rank 9|49233", -- [12]
+				"spell|281||Tremor Totem||8143", -- [13]
+				"spell|219||Cleansing Totem||8170", -- [14]
+				"item|50699||Plague Scientist's Boots", -- [15]
 				nil, -- [16]
 				nil, -- [17]
-				"spell|102||Feral Spirit||51533", -- [18]
-				"spell|168||Shamanistic Rage||30823", -- [19]
-				"spell|98||Wind Shear||57994", -- [20]
-				nil, -- [21]
+				"spell|280||Totemic Recall||36936", -- [18]
+				"spell|225||Earth Shield|Rank 5|49284", -- [19]
+				"spell|59||Frost Shock|Rank 7|49236", -- [20]
+				"spell|150||Grounding Totem||8177", -- [21]
 				nil, -- [22]
-				"companion|2||enha_pve|MOUNT|32239", -- [23]
-				"companion|1||enha_pve|MOUNT|60114", -- [24]
-				"spell|156||Lightning Shield|Rank 11|49281", -- [25]
-				"spell|45||Fire Nova|Rank 9|61657", -- [26]
-				"spell|87||Purge|Rank 2|8012", -- [27]
-				nil, -- [28]
-				"macro|29||Jewel|Interface\\Icons\\INV_Misc_Gem_02|#showtooltip Jewelcrafting/n/cast Jewelcrafting/n/run for i=1,GetNumTradeSkills() do if GetTradeSkillInfo(i)==\"Icy Prism\" then CloseTradeSkill() DoTradeSkill(i) break end end/n/use Icy Prism/n/script OpenAllBags();", -- [29]
+				nil, -- [23]
+				"companion|5||restoration_pve_yedek|MOUNT|72286", -- [24]
+				"spell|290||Water Shield|Rank 9|57960", -- [25]
+				"spell|85||Purge|Rank 2|8012", -- [26]
+				"spell|218||Cleanse Spirit||51886", -- [27]
+				"item|49278||Goblin Rocket Pack", -- [28]
+				nil, -- [29]
 				nil, -- [30]
-				"spell|144||Heroism||32182", -- [31]
-				"spell|245||Healing Wave|Rank 14|49273", -- [32]
-				"spell|214||Chain Heal|Rank 7|55459", -- [33]
-				[134] = "spell|187||Strength of Earth Totem|Rank 8|58643",
-				[138] = "spell|35||Earthbind Totem||2484",
-				[142] = "spell|35||Earthbind Totem||2484",
+				"spell|151||Heroism||32182", -- [31]
+				"spell|254||Healing Wave|Rank 14|49273", -- [32]
+				"spell|263||Lesser Healing Wave|Rank 9|49276", -- [33]
+				"spell|217||Chain Heal|Rank 7|55459", -- [34]
+				nil, -- [35]
+				nil, -- [36]
+				"spell|12||Call of the Ancestors||66843", -- [37]
+				"spell|13||Call of the Elements||66842", -- [38]
+				"spell|14||Call of the Spirits||66844", -- [39]
+				nil, -- [40]
+				"spell|43||Fire Nova|Rank 9|61657", -- [41]
+				nil, -- [42]
+				"spell|217||Chain Heal|Rank 7|55459", -- [43]
+				nil, -- [44]
+				"spell|240||Healing Stream Totem|Rank 9|58757", -- [45]
+				"item|42545||Runic Mana Injector", -- [46]
+				nil, -- [47]
+				"spell|231||Earthliving Weapon|Rank 6|51994", -- [48]
+				[137] = "spell|123||Flametongue Totem|Rank 8|58656",
+				[66] = "item|43236||Star's Sorrow",
+				[138] = "spell|183||Stoneskin Totem|Rank 10|58753",
+				[67] = "item|33445||Honeymint Tea",
+				[139] = "spell|240||Healing Stream Totem|Rank 9|58757",
+				[55] = "item|43523||Conjured Mana Strudel",
+				[140] = "spell|203||Wrath of Air Totem||3738",
+				[133] = "spell|123||Flametongue Totem|Rank 8|58656",
+				[141] = "spell|123||Flametongue Totem|Rank 8|58656",
+				[134] = "spell|183||Stoneskin Totem|Rank 10|58753",
+				[142] = "spell|183||Stoneskin Totem|Rank 10|58753",
+				[135] = "spell|240||Healing Stream Totem|Rank 9|58757",
+				[143] = "spell|115||Fire Resistance Totem|Rank 6|58739",
+				[136] = "spell|203||Wrath of Air Totem||3738",
+				[144] = "spell|203||Wrath of Air Totem||3738",
 				[61] = "item|6948||Hearthstone",
-				[67] = "spell|10||Jewelcrafting|Grand Master|51311",
-				[135] = "spell|262||Mana Spring Totem|Rank 8|58774",
-				[139] = "spell|108||Fire Resistance Totem|Rank 6|58739",
-				[37] = "spell|15||Call of the Elements||66842",
-				[38] = "spell|264||Totemic Recall||36936",
-				[41] = "spell|61||Frost Shock|Rank 7|49236",
-				[43] = "spell|62||Hex||51514",
-				[44] = "spell|265||Tremor Totem||8143",
-				[144] = "spell|143||Grounding Totem||8177",
-				[47] = "spell|126||Flametongue Weapon|Rank 10|58790",
-				[48] = "spell|199||Windfury Weapon|Rank 8|58804",
-				[49] = "spell|99||Astral Recall||556",
-				[133] = "spell|116||Flametongue Totem|Rank 8|58656",
-				[70] = "item|33445||Honeymint Tea",
-				[72] = "spell|207||Ancestral Spirit|Rank 7|49277",
-				[137] = "spell|85||Magma Totem|Rank 7|58734",
-				[141] = "spell|85||Magma Totem|Rank 7|58734",
-				[140] = "spell|143||Grounding Totem||8177",
-				[143] = "spell|108||Fire Resistance Totem|Rank 6|58739",
-				[136] = "spell|191||Windfury Totem||8512",
 			},
 			["heal"] = {
 				"spell|278||Riptide|Rank 4|61301", -- [1]
@@ -605,9 +612,74 @@ ActionBarSaverDB = {
 				[133] = "spell|123||Flametongue Totem|Rank 8|58656",
 				[137] = "spell|123||Flametongue Totem|Rank 8|58656",
 				[141] = "spell|123||Flametongue Totem|Rank 8|58656",
-				[144] = "spell|203||Wrath of Air Totem||3738",
-				[136] = "spell|203||Wrath of Air Totem||3738",
 				[143] = "spell|115||Fire Resistance Totem|Rank 6|58739",
+				[136] = "spell|203||Wrath of Air Totem||3738",
+				[144] = "spell|203||Wrath of Air Totem||3738",
+			},
+			["shaman_pve_yedek"] = {
+				"spell|278||Riptide|Rank 4|61301", -- [1]
+				"macro|2||GTS|Interface\\Icons\\inv_misc_rubysanctum1|/use Glowing Twilight Scale/n/use Unclean Surgical Gloves", -- [2]
+				"macro|3||Nature|Interface\\Icons\\Spell_Nature_RavenForm|/cast Nature's Swiftness/n/cast Tidal Force/n/cast Blood Fury", -- [3]
+				"macro|4||Ev|Interface\\Icons\\Spell_Frost_Frostbolt|/cast Tidal Force/n/use Unclean Surgical Gloves", -- [4]
+				"item|50703||Unclean Surgical Gloves", -- [5]
+				nil, -- [6]
+				nil, -- [7]
+				nil, -- [8]
+				"spell|272||Mana Tide Totem||16190", -- [9]
+				"spell|240||Healing Stream Totem|Rank 9|58757", -- [10]
+				"spell|52||Flame Shock|Rank 9|49233", -- [11]
+				"spell|59||Frost Shock|Rank 7|49236", -- [12]
+				"spell|281||Tremor Totem||8143", -- [13]
+				"spell|219||Cleansing Totem||8170", -- [14]
+				"item|50699||Plague Scientist's Boots", -- [15]
+				nil, -- [16]
+				nil, -- [17]
+				"spell|280||Totemic Recall||36936", -- [18]
+				"spell|225||Earth Shield|Rank 5|49284", -- [19]
+				"spell|106||Wind Shear||57994", -- [20]
+				nil, -- [21]
+				nil, -- [22]
+				nil, -- [23]
+				"companion|5||shaman_pve_yedek|MOUNT|72286", -- [24]
+				"spell|290||Water Shield|Rank 9|57960", -- [25]
+				"spell|85||Purge|Rank 2|8012", -- [26]
+				"spell|218||Cleanse Spirit||51886", -- [27]
+				nil, -- [28]
+				"spell|151||Grounding Totem||8177", -- [29]
+				nil, -- [30]
+				"spell|108||Bloodlust||2825", -- [31]
+				"spell|254||Healing Wave|Rank 14|49273", -- [32]
+				"spell|263||Lesser Healing Wave|Rank 9|49276", -- [33]
+				"spell|217||Chain Heal|Rank 7|55459", -- [34]
+				nil, -- [35]
+				nil, -- [36]
+				"spell|12||Call of the Ancestors||66843", -- [37]
+				"spell|13||Call of the Elements||66842", -- [38]
+				"spell|14||Call of the Spirits||66844", -- [39]
+				nil, -- [40]
+				"spell|43||Fire Nova|Rank 9|61657", -- [41]
+				nil, -- [42]
+				"spell|217||Chain Heal|Rank 7|55459", -- [43]
+				nil, -- [44]
+				"spell|240||Healing Stream Totem|Rank 9|58757", -- [45]
+				"item|42545||Runic Mana Injector", -- [46]
+				nil, -- [47]
+				"spell|231||Earthliving Weapon|Rank 6|51994", -- [48]
+				[137] = "spell|124||Flametongue Totem|Rank 8|58656",
+				[138] = "spell|183||Stoneskin Totem|Rank 10|58753",
+				[66] = "item|43236||Star's Sorrow",
+				[139] = "spell|240||Healing Stream Totem|Rank 9|58757",
+				[67] = "item|33445||Honeymint Tea",
+				[140] = "spell|203||Wrath of Air Totem||3738",
+				[133] = "spell|124||Flametongue Totem|Rank 8|58656",
+				[141] = "spell|124||Flametongue Totem|Rank 8|58656",
+				[134] = "spell|183||Stoneskin Totem|Rank 10|58753",
+				[142] = "spell|183||Stoneskin Totem|Rank 10|58753",
+				[135] = "spell|240||Healing Stream Totem|Rank 9|58757",
+				[143] = "spell|116||Fire Resistance Totem|Rank 6|58739",
+				[136] = "spell|203||Wrath of Air Totem||3738",
+				[144] = "spell|203||Wrath of Air Totem||3738",
+				[61] = "item|6948||Hearthstone",
 			},
 			["restoration_pve"] = {
 				"spell|278||Riptide|Rank 4|61301", -- [1]
@@ -659,26 +731,85 @@ ActionBarSaverDB = {
 				nil, -- [47]
 				"spell|231||Earthliving Weapon|Rank 6|51994", -- [48]
 				[137] = "spell|123||Flametongue Totem|Rank 8|58656",
-				[61] = "item|6948||Hearthstone",
+				[66] = "item|43236||Star's Sorrow",
 				[138] = "spell|183||Stoneskin Totem|Rank 10|58753",
-				[142] = "spell|183||Stoneskin Totem|Rank 10|58753",
+				[67] = "item|33445||Honeymint Tea",
 				[139] = "spell|240||Healing Stream Totem|Rank 9|58757",
 				[55] = "item|43523||Conjured Mana Strudel",
-				[66] = "item|43236||Star's Sorrow",
+				[140] = "spell|203||Wrath of Air Totem||3738",
 				[133] = "spell|123||Flametongue Totem|Rank 8|58656",
 				[141] = "spell|123||Flametongue Totem|Rank 8|58656",
 				[134] = "spell|183||Stoneskin Totem|Rank 10|58753",
-				[67] = "item|33445||Honeymint Tea",
+				[142] = "spell|183||Stoneskin Totem|Rank 10|58753",
 				[135] = "spell|240||Healing Stream Totem|Rank 9|58757",
 				[143] = "spell|115||Fire Resistance Totem|Rank 6|58739",
 				[136] = "spell|203||Wrath of Air Totem||3738",
 				[144] = "spell|203||Wrath of Air Totem||3738",
-				[140] = "spell|203||Wrath of Air Totem||3738",
+				[61] = "item|6948||Hearthstone",
 			},
-			["restoration_pve_yedek"] = {
+			["enha_pve"] = {
+				"macro|1||Stormstrike|Interface\\Icons\\Ability_Shaman_Stormstrike|#showtooltip Stormstrike/n/cast Stormstrike/n/use 10/n/cancelaura Hand of Protection", -- [1]
+				"macro|2||Lava Lash|Interface\\Icons\\Ability_Shaman_Lavalash|#showtooltip Lava Lash(Rank 1)/n/cast Lava Lash(Rank 1)/n/use 10/n/cancelaura Hand of Protection", -- [2]
+				"spell|78||Lightning Bolt|Rank 14|49238", -- [3]
+				"spell|24||Chain Lightning|Rank 8|49271", -- [4]
+				nil, -- [5]
+				nil, -- [6]
+				nil, -- [7]
+				nil, -- [8]
+				"spell|142||Ghost Wolf||2645", -- [9]
+				"spell|85||Magma Totem|Rank 7|58734", -- [10]
+				"spell|54||Flame Shock|Rank 9|49233", -- [11]
+				"spell|34||Earth Shock|Rank 10|49231", -- [12]
+				"item|51243||Sanctified Frost Witch's Grips", -- [13]
+				nil, -- [14]
+				"item|50711||Treads of the Wasteland", -- [15]
+				nil, -- [16]
+				nil, -- [17]
+				"spell|102||Feral Spirit||51533", -- [18]
+				"spell|168||Shamanistic Rage||30823", -- [19]
+				"spell|98||Wind Shear||57994", -- [20]
+				nil, -- [21]
+				nil, -- [22]
+				"companion|2||enha_pve|MOUNT|32239", -- [23]
+				"companion|1||enha_pve|MOUNT|60114", -- [24]
+				"spell|156||Lightning Shield|Rank 11|49281", -- [25]
+				"spell|45||Fire Nova|Rank 9|61657", -- [26]
+				"spell|87||Purge|Rank 2|8012", -- [27]
+				nil, -- [28]
+				"macro|29||Jewel|Interface\\Icons\\INV_Misc_Gem_02|#showtooltip Jewelcrafting/n/cast Jewelcrafting/n/run for i=1,GetNumTradeSkills() do if GetTradeSkillInfo(i)==\"Icy Prism\" then CloseTradeSkill() DoTradeSkill(i) break end end/n/use Icy Prism/n/script OpenAllBags();", -- [29]
+				nil, -- [30]
+				"spell|144||Heroism||32182", -- [31]
+				"spell|245||Healing Wave|Rank 14|49273", -- [32]
+				"spell|214||Chain Heal|Rank 7|55459", -- [33]
+				[134] = "spell|187||Strength of Earth Totem|Rank 8|58643",
+				[138] = "spell|35||Earthbind Totem||2484",
+				[142] = "spell|35||Earthbind Totem||2484",
+				[61] = "item|6948||Hearthstone",
+				[67] = "spell|10||Jewelcrafting|Grand Master|51311",
+				[135] = "spell|262||Mana Spring Totem|Rank 8|58774",
+				[139] = "spell|108||Fire Resistance Totem|Rank 6|58739",
+				[37] = "spell|15||Call of the Elements||66842",
+				[38] = "spell|264||Totemic Recall||36936",
+				[41] = "spell|61||Frost Shock|Rank 7|49236",
+				[43] = "spell|62||Hex||51514",
+				[44] = "spell|265||Tremor Totem||8143",
+				[144] = "spell|143||Grounding Totem||8177",
+				[47] = "spell|126||Flametongue Weapon|Rank 10|58790",
+				[48] = "spell|199||Windfury Weapon|Rank 8|58804",
+				[49] = "spell|99||Astral Recall||556",
+				[133] = "spell|116||Flametongue Totem|Rank 8|58656",
+				[70] = "item|33445||Honeymint Tea",
+				[72] = "spell|207||Ancestral Spirit|Rank 7|49277",
+				[136] = "spell|191||Windfury Totem||8512",
+				[143] = "spell|108||Fire Resistance Totem|Rank 6|58739",
+				[140] = "spell|143||Grounding Totem||8177",
+				[141] = "spell|85||Magma Totem|Rank 7|58734",
+				[137] = "spell|85||Magma Totem|Rank 7|58734",
+			},
+			["shaman_pve"] = {
 				"spell|278||Riptide|Rank 4|61301", -- [1]
 				"macro|2||GTS|Interface\\Icons\\inv_misc_rubysanctum1|/use Glowing Twilight Scale/n/use Unclean Surgical Gloves", -- [2]
-				"macro|3||Nature|Interface\\Icons\\Spell_Nature_RavenForm|/cast Nature's Swiftness/n/cast Tidal Force", -- [3]
+				"macro|3||Nature|Interface\\Icons\\Spell_Nature_RavenForm|/cast Nature's Swiftness/n/cast Tidal Force/n/cast Blood Fury", -- [3]
 				"macro|4||Ev|Interface\\Icons\\Spell_Frost_Frostbolt|/cast Tidal Force/n/use Unclean Surgical Gloves", -- [4]
 				"item|50703||Unclean Surgical Gloves", -- [5]
 				nil, -- [6]
@@ -686,8 +817,8 @@ ActionBarSaverDB = {
 				nil, -- [8]
 				"spell|272||Mana Tide Totem||16190", -- [9]
 				"spell|240||Healing Stream Totem|Rank 9|58757", -- [10]
-				"spell|106||Wind Shear||57994", -- [11]
-				"spell|52||Flame Shock|Rank 9|49233", -- [12]
+				"spell|52||Flame Shock|Rank 9|49233", -- [11]
+				"spell|59||Frost Shock|Rank 7|49236", -- [12]
 				"spell|281||Tremor Totem||8143", -- [13]
 				"spell|219||Cleansing Totem||8170", -- [14]
 				"item|50699||Plague Scientist's Boots", -- [15]
@@ -695,18 +826,18 @@ ActionBarSaverDB = {
 				nil, -- [17]
 				"spell|280||Totemic Recall||36936", -- [18]
 				"spell|225||Earth Shield|Rank 5|49284", -- [19]
-				"spell|59||Frost Shock|Rank 7|49236", -- [20]
-				"spell|150||Grounding Totem||8177", -- [21]
+				"spell|106||Wind Shear||57994", -- [20]
+				nil, -- [21]
 				nil, -- [22]
 				nil, -- [23]
-				"companion|5||restoration_pve_yedek|MOUNT|72286", -- [24]
+				"companion|5||shaman_pve|MOUNT|72286", -- [24]
 				"spell|290||Water Shield|Rank 9|57960", -- [25]
 				"spell|85||Purge|Rank 2|8012", -- [26]
 				"spell|218||Cleanse Spirit||51886", -- [27]
-				"item|49278||Goblin Rocket Pack", -- [28]
-				nil, -- [29]
+				nil, -- [28]
+				"spell|151||Grounding Totem||8177", -- [29]
 				nil, -- [30]
-				"spell|151||Heroism||32182", -- [31]
+				"spell|108||Bloodlust||2825", -- [31]
 				"spell|254||Healing Wave|Rank 14|49273", -- [32]
 				"spell|263||Lesser Healing Wave|Rank 9|49276", -- [33]
 				"spell|217||Chain Heal|Rank 7|55459", -- [34]
@@ -724,25 +855,158 @@ ActionBarSaverDB = {
 				"item|42545||Runic Mana Injector", -- [46]
 				nil, -- [47]
 				"spell|231||Earthliving Weapon|Rank 6|51994", -- [48]
-				[137] = "spell|123||Flametongue Totem|Rank 8|58656",
-				[61] = "item|6948||Hearthstone",
+				[137] = "spell|124||Flametongue Totem|Rank 8|58656",
 				[138] = "spell|183||Stoneskin Totem|Rank 10|58753",
-				[142] = "spell|183||Stoneskin Totem|Rank 10|58753",
-				[139] = "spell|240||Healing Stream Totem|Rank 9|58757",
-				[55] = "item|43523||Conjured Mana Strudel",
 				[66] = "item|43236||Star's Sorrow",
-				[133] = "spell|123||Flametongue Totem|Rank 8|58656",
-				[141] = "spell|123||Flametongue Totem|Rank 8|58656",
-				[134] = "spell|183||Stoneskin Totem|Rank 10|58753",
+				[139] = "spell|240||Healing Stream Totem|Rank 9|58757",
 				[67] = "item|33445||Honeymint Tea",
+				[140] = "spell|203||Wrath of Air Totem||3738",
+				[133] = "spell|124||Flametongue Totem|Rank 8|58656",
+				[141] = "spell|124||Flametongue Totem|Rank 8|58656",
+				[134] = "spell|183||Stoneskin Totem|Rank 10|58753",
+				[142] = "spell|183||Stoneskin Totem|Rank 10|58753",
 				[135] = "spell|240||Healing Stream Totem|Rank 9|58757",
-				[143] = "spell|115||Fire Resistance Totem|Rank 6|58739",
+				[143] = "spell|116||Fire Resistance Totem|Rank 6|58739",
 				[136] = "spell|203||Wrath of Air Totem||3738",
 				[144] = "spell|203||Wrath of Air Totem||3738",
+				[61] = "item|6948||Hearthstone",
+			},
+			["heal_pve_yedek"] = {
+				"spell|278||Riptide|Rank 4|61301", -- [1]
+				"macro|2||GTS|Interface\\Icons\\inv_misc_rubysanctum1|/use Glowing Twilight Scale/n/use Unclean Surgical Gloves", -- [2]
+				"macro|3||Nature|Interface\\Icons\\Spell_Nature_RavenForm|/cast Nature's Swiftness/n/cast Tidal Force/n/cast Blood Fury", -- [3]
+				"macro|4||Ev|Interface\\Icons\\Spell_Frost_Frostbolt|/cast Tidal Force/n/use Unclean Surgical Gloves", -- [4]
+				"item|50703||Unclean Surgical Gloves", -- [5]
+				nil, -- [6]
+				nil, -- [7]
+				nil, -- [8]
+				"macro|9||Mana tide|Interface\\Icons\\Spell_Frost_SummonWaterElemental|/p MANA TIDE DOWN/n/cast Mana Tide Totem", -- [9]
+				"spell|240||Healing Stream Totem|Rank 9|58757", -- [10]
+				"spell|52||Flame Shock|Rank 9|49233", -- [11]
+				"spell|106||Wind Shear||57994", -- [12]
+				"spell|281||Tremor Totem||8143", -- [13]
+				"spell|219||Cleansing Totem||8170", -- [14]
+				"item|50699||Plague Scientist's Boots", -- [15]
+				"spell|4||Blood Fury|Racial|33697", -- [16]
+				nil, -- [17]
+				"spell|280||Totemic Recall||36936", -- [18]
+				"spell|225||Earth Shield|Rank 5|49284", -- [19]
+				"spell|59||Frost Shock|Rank 7|49236", -- [20]
+				"spell|151||Grounding Totem||8177", -- [21]
+				nil, -- [22]
+				nil, -- [23]
+				"companion|5||heal_pve_yedek|MOUNT|72286", -- [24]
+				"spell|290||Water Shield|Rank 9|57960", -- [25]
+				"spell|85||Purge|Rank 2|8012", -- [26]
+				"spell|218||Cleanse Spirit||51886", -- [27]
+				"spell|22||Chain Lightning|Rank 8|49271", -- [28]
+				"spell|62||Lava Burst|Rank 2|60043", -- [29]
+				nil, -- [30]
+				"spell|108||Bloodlust||2825", -- [31]
+				"spell|254||Healing Wave|Rank 14|49273", -- [32]
+				"spell|263||Lesser Healing Wave|Rank 9|49276", -- [33]
+				"spell|217||Chain Heal|Rank 7|55459", -- [34]
+				nil, -- [35]
+				nil, -- [36]
+				"spell|12||Call of the Ancestors||66843", -- [37]
+				"spell|13||Call of the Elements||66842", -- [38]
+				"spell|14||Call of the Spirits||66844", -- [39]
+				nil, -- [40]
+				"spell|43||Fire Nova|Rank 9|61657", -- [41]
+				nil, -- [42]
+				"spell|217||Chain Heal|Rank 7|55459", -- [43]
+				"spell|76||Lightning Bolt|Rank 14|49238", -- [44]
+				"spell|240||Healing Stream Totem|Rank 9|58757", -- [45]
+				"item|42545||Runic Mana Injector", -- [46]
+				nil, -- [47]
+				"spell|231||Earthliving Weapon|Rank 6|51994", -- [48]
+				[134] = "spell|183||Stoneskin Totem|Rank 10|58753",
+				[138] = "spell|183||Stoneskin Totem|Rank 10|58753",
+				[142] = "spell|183||Stoneskin Totem|Rank 10|58753",
+				[61] = "item|6948||Hearthstone",
+				[67] = "item|33445||Honeymint Tea",
+				[135] = "spell|240||Healing Stream Totem|Rank 9|58757",
+				[139] = "spell|240||Healing Stream Totem|Rank 9|58757",
+				[143] = "spell|116||Fire Resistance Totem|Rank 6|58739",
+				[136] = "spell|203||Wrath of Air Totem||3738",
 				[140] = "spell|203||Wrath of Air Totem||3738",
+				[144] = "spell|203||Wrath of Air Totem||3738",
+				[66] = "item|43236||Star's Sorrow",
+				[133] = "spell|124||Flametongue Totem|Rank 8|58656",
+				[137] = "spell|124||Flametongue Totem|Rank 8|58656",
+				[141] = "spell|124||Flametongue Totem|Rank 8|58656",
+				[55] = "item|43523||Conjured Mana Strudel",
+				[70] = "spell|193||Water Walking||546",
+			},
+			["heal_pve"] = {
+				"spell|278||Riptide|Rank 4|61301", -- [1]
+				"macro|2||GTS|Interface\\Icons\\inv_misc_rubysanctum1|/use Glowing Twilight Scale/n/use Unclean Surgical Gloves", -- [2]
+				"macro|3||Nature|Interface\\Icons\\Spell_Nature_RavenForm|/cast Nature's Swiftness/n/cast Tidal Force/n/cast Blood Fury", -- [3]
+				"macro|4||Ev|Interface\\Icons\\Spell_Frost_Frostbolt|/cast Tidal Force/n/use Unclean Surgical Gloves", -- [4]
+				"item|50703||Unclean Surgical Gloves", -- [5]
+				nil, -- [6]
+				nil, -- [7]
+				nil, -- [8]
+				"macro|9||Mana tide|Interface\\Icons\\Spell_Frost_SummonWaterElemental|/p MANA TIDE DOWN/n/cast Mana Tide Totem", -- [9]
+				"spell|240||Healing Stream Totem|Rank 9|58757", -- [10]
+				"spell|52||Flame Shock|Rank 9|49233", -- [11]
+				"spell|106||Wind Shear||57994", -- [12]
+				"spell|281||Tremor Totem||8143", -- [13]
+				"spell|219||Cleansing Totem||8170", -- [14]
+				"item|50699||Plague Scientist's Boots", -- [15]
+				"spell|4||Blood Fury|Racial|33697", -- [16]
+				nil, -- [17]
+				"spell|280||Totemic Recall||36936", -- [18]
+				"spell|225||Earth Shield|Rank 5|49284", -- [19]
+				"spell|59||Frost Shock|Rank 7|49236", -- [20]
+				"spell|151||Grounding Totem||8177", -- [21]
+				nil, -- [22]
+				nil, -- [23]
+				"companion|5||heal_pve|MOUNT|72286", -- [24]
+				"spell|290||Water Shield|Rank 9|57960", -- [25]
+				"spell|85||Purge|Rank 2|8012", -- [26]
+				"spell|218||Cleanse Spirit||51886", -- [27]
+				"spell|22||Chain Lightning|Rank 8|49271", -- [28]
+				"spell|62||Lava Burst|Rank 2|60043", -- [29]
+				nil, -- [30]
+				"spell|108||Bloodlust||2825", -- [31]
+				"spell|254||Healing Wave|Rank 14|49273", -- [32]
+				"spell|263||Lesser Healing Wave|Rank 9|49276", -- [33]
+				"spell|217||Chain Heal|Rank 7|55459", -- [34]
+				nil, -- [35]
+				nil, -- [36]
+				"spell|12||Call of the Ancestors||66843", -- [37]
+				"spell|13||Call of the Elements||66842", -- [38]
+				"spell|14||Call of the Spirits||66844", -- [39]
+				nil, -- [40]
+				"spell|43||Fire Nova|Rank 9|61657", -- [41]
+				nil, -- [42]
+				"spell|217||Chain Heal|Rank 7|55459", -- [43]
+				"spell|76||Lightning Bolt|Rank 14|49238", -- [44]
+				"spell|240||Healing Stream Totem|Rank 9|58757", -- [45]
+				"item|42545||Runic Mana Injector", -- [46]
+				nil, -- [47]
+				"spell|231||Earthliving Weapon|Rank 6|51994", -- [48]
+				[134] = "spell|183||Stoneskin Totem|Rank 10|58753",
+				[138] = "spell|183||Stoneskin Totem|Rank 10|58753",
+				[142] = "spell|183||Stoneskin Totem|Rank 10|58753",
+				[61] = "item|6948||Hearthstone",
+				[67] = "item|33445||Honeymint Tea",
+				[135] = "spell|240||Healing Stream Totem|Rank 9|58757",
+				[139] = "spell|240||Healing Stream Totem|Rank 9|58757",
+				[143] = "spell|116||Fire Resistance Totem|Rank 6|58739",
+				[136] = "spell|203||Wrath of Air Totem||3738",
+				[140] = "spell|203||Wrath of Air Totem||3738",
+				[144] = "spell|203||Wrath of Air Totem||3738",
+				[66] = "item|43236||Star's Sorrow",
+				[133] = "spell|124||Flametongue Totem|Rank 8|58656",
+				[137] = "spell|124||Flametongue Totem|Rank 8|58656",
+				[141] = "spell|124||Flametongue Totem|Rank 8|58656",
+				[55] = "item|43523||Conjured Mana Strudel",
+				[70] = "spell|193||Water Walking||546",
 			},
 		},
-		["ROGUE"] = {
+		["HUNTER"] = {
 		},
 	},
 	["spellSubs"] = {

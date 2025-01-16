@@ -1,6 +1,7 @@
 
 GladiusDB = {
 	["profileKeys"] = {
+		["Mayishadow - Icecrown"] = "Mayishadow - Icecrown",
 		["Malescula - Icecrown"] = "Malescula - Icecrown",
 		["Pussfeeder - Onyxia"] = "Pussfeeder - Onyxia",
 		["Analbasher - Icecrown"] = "Lunarz - Icecrown",
@@ -12,7 +13,13 @@ GladiusDB = {
 		["Hirobank - Icecrown"] = "Hirobank - Icecrown",
 	},
 	["profiles"] = {
+		["Mayishadow - Icecrown"] = {
+			["y"] = 480.0000266488927,
+			["x"] = 947.1995996239314,
+		},
 		["Malescula - Icecrown"] = {
+			["y"] = 480.0000266488927,
+			["x"] = 947.1995996239314,
 		},
 		["Pussfeeder - Onyxia"] = {
 			["y"] = 480.0000266488927,

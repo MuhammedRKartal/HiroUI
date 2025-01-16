@@ -13,14 +13,14 @@ BankStackDB = {
 	["groups"] = {
 	},
 	["fubar_keybinds"] = {
-		["CTRL-BUTTON1"] = "compressbags",
+		["CTRL-SHIFT-BUTTON1"] = false,
 		["ALT-BUTTON1"] = "sortbank",
 		["ALT-SHIFT-BUTTON1"] = "stackbank",
 		["SHIFT-BUTTON1"] = "stackbags",
-		["CTRL-SHIFT-BUTTON1"] = false,
+		["BUTTON1"] = "sortbags",
 		["ALT-CTRL-BUTTON1"] = "compressbank",
 		["ALT-CTRL-SHIFT-BUTTON1"] = false,
-		["BUTTON1"] = "sortbags",
+		["CTRL-BUTTON1"] = "compressbags",
 	},
 	["namespaces"] = {
 		["LDB"] = {

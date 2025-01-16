@@ -14,12 +14,16 @@ KPackCharDB = {
 				"Mayislash|Icecrown|Horde", -- [2]
 			},
 			["recent"] = {
-				"Mayiascend", -- [1]
-				"Trancemute", -- [2]
-				"Nosstra", -- [3]
-				"Elziash", -- [4]
-				"Quennel", -- [5]
-				"Hirobank", -- [6]
+				"Lustb", -- [1]
+				"Casette", -- [2]
+				"Mayicrush", -- [3]
+				"Zoolock", -- [4]
+				"Mayifire", -- [5]
+				"Turnlight", -- [6]
+				"Mayiascend", -- [7]
+				"Trancemute", -- [8]
+				"Nosstra", -- [9]
+				"Elziash", -- [10]
 			},
 			["AutoCompleteRecent"] = true,
 			["AutoCompleteContacts"] = true,

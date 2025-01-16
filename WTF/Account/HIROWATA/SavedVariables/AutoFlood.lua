@@ -43,9 +43,9 @@ AF_config = {
 		["system"] = "CHANNEL",
 	},
 	["Icecrown-Elziash"] = {
-		["message"] = "WTS |cffffd000|Htrade:51313:450:450:70000000054111F:47Kbb6a8f9Z7m8znvLJPQCAAwBGAxsECwXzC907v+bV/H2///tT|h[Enchanting]|h|r Your Materials",
-		["channel"] = "global",
-		["idChannel"] = "global",
+		["message"] = "Do you want to have Weakauras designed just for you, or sell your Weakauras in-game?Join our community in discord: https://discord.gg/7E6jAPsJD9",
+		["channel"] = "5",
+		["idChannel"] = "5",
 		["rate"] = 60,
 		["system"] = "CHANNEL",
 	},
@@ -71,16 +71,16 @@ AF_config = {
 		["system"] = "CHANNEL",
 	},
 	["Icecrown-Drutheil"] = {
-		["message"] = "LFM  |cffffff00|Hachievement:694:0700000000726223:1:3:23:22:0:0:0:0|h[Serpentshrine Cavern]|h|r TMOG RUN NEED ALL ( |cffa335ee|Hitem:30090:0:0:0:0:0:0:0:80|h[World Breaker]|h|r Reserved)",
-		["channel"] = "5",
-		["idChannel"] = "5",
+		["message"] = "LFM  |cffffff00|Hachievement:694:0700000000726223:1:3:23:22:0:0:0:0|h[Serpentshrine Cavern]|h|r NEED ALL  |cffa335ee|Hitem:30090:0:0:0:0:0:0:0:80|h[World Breaker]|h|r Reserved",
+		["channel"] = "6",
+		["idChannel"] = "6",
 		["rate"] = 60,
 		["system"] = "CHANNEL",
 	},
-	["Icecrown-Thunderjo"] = {
-		["message"] = "AutoFlood 1.1",
-		["channel"] = "1",
-		["idChannel"] = "1",
+	["Icecrown-Druthiel"] = {
+		["message"] = "TST #3 ||  TOC25N +5.3 || 1 DPS || /w Gs Spec Ach (BoP Reserved) 24/25",
+		["channel"] = "5",
+		["idChannel"] = "5",
 		["rate"] = 60,
 		["system"] = "CHANNEL",
 	},
@@ -98,7 +98,7 @@ AF_config = {
 		["rate"] = 60,
 		["system"] = "CHANNEL",
 	},
-	["Blackrock [PvP only]-Yaramiem"] = {
+	["Blackrock [PvP only]-Enkz"] = {
 		["message"] = "AutoFlood 1.1",
 		["channel"] = "1",
 		["idChannel"] = "1",
@@ -112,7 +112,7 @@ AF_config = {
 		["rate"] = 60,
 		["system"] = "CHANNEL",
 	},
-	["Blackrock [PvP only]-Enkz"] = {
+	["Blackrock [PvP only]-Yaramiem"] = {
 		["message"] = "AutoFlood 1.1",
 		["channel"] = "1",
 		["idChannel"] = "1",
@@ -133,10 +133,10 @@ AF_config = {
 		["rate"] = 60,
 		["system"] = "CHANNEL",
 	},
-	["Icecrown-Druthiel"] = {
-		["message"] = "TST #3 ||  TOC25N +5.3 || 1 DPS || /w Gs Spec Ach (BoP Reserved) 24/25",
-		["channel"] = "5",
-		["idChannel"] = "5",
+	["Icecrown-Thunderjo"] = {
+		["message"] = "AutoFlood 1.1",
+		["channel"] = "1",
+		["idChannel"] = "1",
 		["rate"] = 60,
 		["system"] = "CHANNEL",
 	},

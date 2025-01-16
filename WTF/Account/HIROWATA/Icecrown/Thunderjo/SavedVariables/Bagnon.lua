@@ -6,9 +6,10 @@ BagnonFrameSettings = {
 			["x"] = -32.49772123460025,
 		},
 		["guildbank"] = {
+			["point"] = "TOPRIGHT",
+			["dataBrokerObject"] = "DBM",
 			["y"] = -267.0000294749001,
 			["x"] = -594.6667576672867,
-			["point"] = "TOPRIGHT",
 		},
 		["bank"] = {
 			["y"] = 133.3333818426819,

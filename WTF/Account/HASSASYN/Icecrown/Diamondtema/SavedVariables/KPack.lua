@@ -27,11 +27,13 @@ KPackCharDB = {
 			},
 			["AutoCompleteAlts"] = true,
 			["AutoCompleteGuild"] = true,
-			["recent"] = {
-			},
 			["alts"] = {
 				"Diamondtema|Icecrown|Alliance", -- [1]
 				"Diamondtema|Icecrown|Horde", -- [2]
+			},
+			["recent"] = {
+				"Demonologic", -- [1]
+				"Mayicrush", -- [2]
 			},
 			["AutoCompleteRecent"] = true,
 			["AutoCompleteContacts"] = true,

@@ -2,11 +2,11 @@
 AUCTIONATOR_SAVEDVARS = {
 	["_5000000"] = 10000,
 	["_50000"] = 500,
-	["_10000"] = 200,
-	["_1000000"] = 2500,
 	["_200000"] = 1000,
-	["STARTING_DISCOUNT"] = 5,
+	["_1000000"] = 2500,
+	["_10000"] = 200,
 	["_500"] = 5,
+	["STARTING_DISCOUNT"] = 5,
 	["_2000"] = 100,
 }
 AUCTIONATOR_PRICING_HISTORY = {
@@ -131,36 +131,41 @@ AUCTIONATOR_PRICING_HISTORY = {
 AUCTIONATOR_SHOPPING_LISTS = {
 	{
 		["items"] = {
-			"Damaged necklace", -- [1]
-			"Broken", -- [2]
-			"Eternal Fire", -- [3]
-			"Saronite Ore", -- [4]
-			"Chalcedony", -- [5]
-			"Shadow Crystal", -- [6]
-			"Frozen Orb", -- [7]
-			"Dark jade", -- [8]
-			"Primal might", -- [9]
-			"King's Amber", -- [10]
-			"king ember", -- [11]
-			"king's ember", -- [12]
-			"Eternal Life", -- [13]
-			"Autumn's Glow", -- [14]
-			"scarlet ruby", -- [15]
-			"majestic zircon", -- [16]
-			"saronite bar", -- [17]
-			"Autumn", -- [18]
-			"fractured cardinal ruby", -- [19]
-			"Resplendent Ametrine", -- [20]
-			"Potent Ametrine", -- [21]
-			"AmetrİNE", -- [22]
-			"Bold Cardinal Ruby", -- [23]
-			"Ametrine", -- [24]
-			"cardinal ruby", -- [25]
-			"Icy Dragonscale", -- [26]
-			"Arctic fur", -- [27]
-			"leg armor", -- [28]
-			"skyflare diamond", -- [29]
-			"earthsiege diamond", -- [30]
+			"Global thermal sapper charge", -- [1]
+			"Saronite Bomb", -- [2]
+			"Darkmoon", -- [3]
+			"Adder's Tongue", -- [4]
+			"lichbloom", -- [5]
+			"cardinal ruby", -- [6]
+			"Damaged necklace", -- [7]
+			"Broken", -- [8]
+			"Eternal Fire", -- [9]
+			"Saronite Ore", -- [10]
+			"Chalcedony", -- [11]
+			"Shadow Crystal", -- [12]
+			"Frozen Orb", -- [13]
+			"Dark jade", -- [14]
+			"Primal might", -- [15]
+			"King's Amber", -- [16]
+			"king ember", -- [17]
+			"king's ember", -- [18]
+			"Eternal Life", -- [19]
+			"Autumn's Glow", -- [20]
+			"scarlet ruby", -- [21]
+			"majestic zircon", -- [22]
+			"saronite bar", -- [23]
+			"Autumn", -- [24]
+			"fractured cardinal ruby", -- [25]
+			"Resplendent Ametrine", -- [26]
+			"Potent Ametrine", -- [27]
+			"AmetrİNE", -- [28]
+			"Bold Cardinal Ruby", -- [29]
+			"Ametrine", -- [30]
+			"Icy Dragonscale", -- [31]
+			"Arctic fur", -- [32]
+			"leg armor", -- [33]
+			"skyflare diamond", -- [34]
+			"earthsiege diamond", -- [35]
 		},
 		["isRecents"] = 1,
 		["name"] = "Recent Searches",
@@ -325,33 +330,62 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Dark Jade Focusing Lens"] = 46995,
 	},
 	["Icecrown_Horde"] = {
-		["Sundered Dark Jade"] = 129500,
-		["Regal Shadow Crystal"] = 49800,
-		["Dazzling Dark Jade"] = 78250,
-		["Chalcedony"] = 529998,
+		["Darkmoon Robe of the Moon"] = 15003360,
+		["Guardian's Shadow Crystal"] = 220000,
 		["Damaged Necklace"] = 1499900,
 		["Sandals of Broken Dreams"] = 100000,
 		["Lustrous Chalcedony"] = 550000,
-		["Royal Shadow Crystal"] = 20000,
-		["Solid Chalcedony"] = 10000,
-		["Dark Jade Focusing Lens"] = 153500,
+		["Darkmoon Executioner"] = 3500000,
+		["Darkmoon Card: Vengeance"] = 8500000,
 		["Shifting Shadow Crystal"] = 10000,
 		["Shining Dark Jade"] = 13000,
-		["Puissant Shadow Crystal"] = 10000,
-		["Radiant Dark Jade"] = 149500,
-		["Purified Shadow Crystal"] = 20000,
-		["Infused Shadow Crystal"] = 149500,
-		["Enduring Dark Jade"] = 10000,
-		["Balanced Shadow Crystal"] = 12500,
-		["Glowing Shadow Crystal"] = 19535,
-		["Timeless Dark Jade"] = 98500,
-		["Guardian's Shadow Crystal"] = 220000,
-		["Shadow Crystal"] = 59500,
-		["Sovereign Shadow Crystal"] = 120000,
+		["Chalcedony"] = 529998,
+		["Darkmoon Card: Greatness"] = 107990000,
+		["Delicate Cardinal Ruby"] = 3060000,
+		["Darkmoon Card: Berserker!"] = 15000000,
+		["Cardinal Ruby"] = 2999999,
+		["Darkmoon Magestaff"] = 3500000,
+		["Darkmoon Card: Wrath"] = 22980000,
+		["Flashing Cardinal Ruby"] = 2137499,
 		["Broken Blade of Heroes"] = 59499,
-		["Perfect Balanced Shadow Crystal"] = 200000,
+		["Darkmoon Robe of the Whale"] = 4006720,
+		["Fractured Cardinal Ruby"] = 2950000,
+		["Darkmoon Card: Illusion"] = 29150000,
+		["Darkmoon Dirk"] = 3500000,
 		["Dark Jade"] = 229500,
 		["Shadow Crystal Focusing Lens"] = 99999,
+		["Sundered Dark Jade"] = 129500,
+		["Regal Shadow Crystal"] = 49800,
+		["Bold Cardinal Ruby"] = 3107300,
+		["Dazzling Dark Jade"] = 78250,
+		["Royal Shadow Crystal"] = 20000,
+		["Darkmoon Card: Heroism"] = 7900000,
+		["Solid Chalcedony"] = 10000,
+		["Frozen Orb"] = 1070000,
+		["Darkmoon Card: Blue Dragon"] = 9940000,
+		["Darkmoon Necklace"] = 1989999,
+		["Purified Shadow Crystal"] = 20000,
+		["Darkmoon Card: Crusade"] = 15280000,
+		["Balanced Shadow Crystal"] = 12500,
+		["Precise Cardinal Ruby"] = 3129999,
+		["Subtle Cardinal Ruby"] = 2299995,
+		["Darkmoon Card: Madness"] = 12480000,
+		["Dark Jade Focusing Lens"] = 153500,
+		["Puissant Shadow Crystal"] = 10000,
+		["Radiant Dark Jade"] = 149500,
+		["Darkmoon Card: Twisting Nether"] = 14990000,
+		["Infused Shadow Crystal"] = 149500,
+		["Enduring Dark Jade"] = 10000,
+		["Darkmoon Pendant"] = 1999999,
+		["Glowing Shadow Crystal"] = 19535,
+		["Bright Cardinal Ruby"] = 3255300,
+		["Darkmoon Card: Death"] = 25880000,
+		["Sovereign Shadow Crystal"] = 120000,
+		["Timeless Dark Jade"] = 98500,
+		["Shadow Crystal"] = 59500,
+		["Perfect Balanced Shadow Crystal"] = 200000,
+		["Darkmoon Card: Maelstrom"] = 14950000,
+		["Runed Cardinal Ruby"] = 3169500,
 	},
 	["Blackrock [PvP only]_Alliance"] = {
 	},
@@ -364,12 +398,17 @@ AUCTIONATOR_TOONS = {
 		["firstSeen"] = 1718554607,
 		["firstVersion"] = "2.6.3",
 	},
-	["Enkz"] = {
-		["firstSeen"] = 1711831842,
-		["firstVersion"] = "2.6.3",
-	},
 	["Yaramiem"] = {
 		["firstSeen"] = 1712497805,
+		["firstVersion"] = "2.6.3",
+	},
+	["Analbuster"] = {
+		["firstSeen"] = 1713648511,
+		["firstVersion"] = "2.6.3",
+		["guid"] = "0x0E00000000031025",
+	},
+	["Theedgar"] = {
+		["firstSeen"] = 1718554633,
 		["firstVersion"] = "2.6.3",
 	},
 	["Fareci"] = {
@@ -380,25 +419,24 @@ AUCTIONATOR_TOONS = {
 		["firstSeen"] = 1711834611,
 		["firstVersion"] = "2.6.3",
 	},
-	["Theedgar"] = {
-		["firstSeen"] = 1718554633,
-		["firstVersion"] = "2.6.3",
-		["guid"] = "0x07000000002FEC6E",
-	},
 	["Mayistab"] = {
 		["firstSeen"] = 1712241993,
+		["firstVersion"] = "2.6.3",
+	},
+	["Mayiswallow"] = {
+		["firstSeen"] = 1718554534,
 		["firstVersion"] = "2.6.3",
 	},
 	["Mayiascend"] = {
 		["firstSeen"] = 1710263905,
 		["firstVersion"] = "2.6.3",
 	},
-	["Mayicurse"] = {
-		["firstSeen"] = 1710263899,
+	["Spectia"] = {
+		["firstSeen"] = 1730388778,
 		["firstVersion"] = "2.6.3",
 	},
-	["Mayiswallow"] = {
-		["firstSeen"] = 1718554534,
+	["Mayicurse"] = {
+		["firstSeen"] = 1710263899,
 		["firstVersion"] = "2.6.3",
 	},
 	["Dumbcuntt"] = {
@@ -420,10 +458,9 @@ AUCTIONATOR_TOONS = {
 		["firstVersion"] = "2.6.3",
 		["guid"] = "0x07000000000B63E0",
 	},
-	["Analbuster"] = {
-		["firstSeen"] = 1713648511,
+	["Enkz"] = {
+		["firstSeen"] = 1711831842,
 		["firstVersion"] = "2.6.3",
-		["guid"] = "0x0E00000000031025",
 	},
 }
 AUCTIONATOR_STACKING_PREFS = {

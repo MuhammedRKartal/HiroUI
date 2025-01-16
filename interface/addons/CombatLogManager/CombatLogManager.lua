@@ -16,7 +16,7 @@ end
 
 local function IsInSpecificRaid()
     local instanceName, _, _, _, _, _, _, instanceID = GetInstanceInfo()
-    return instanceName == "Icecrown Citadel"
+    return instanceName == "Icecrown Citadel" or instanceName == "The Ruby Sanctum"
 end
 
 local function CheckAndStartOrStopLogging()
@@ -36,7 +36,6 @@ frame:RegisterEvent("ZONE_CHANGED_NEW_AREA")
 
 frame:SetScript("OnEvent", function(self, event)
     if event == "PLAYER_ENTERING_WORLD" or event == "ZONE_CHANGED_NEW_AREA" then
-        print("Event triggered: " .. event)
         CheckAndStartOrStopLogging()
     end
 end)

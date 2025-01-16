@@ -31,13 +31,13 @@ MACRO 55 "Berserker" INV_Misc_QuestionMark
 /equipslot 16 Glorenzelg, High-Blade of the Silver Hand
 /equipslot 17 Cryptmaker
 END
-MACRO 54 "Cleave" INV_Misc_QuestionMark
-/cast !Whirlwind
+MACRO 53 "Cleave" INV_Misc_QuestionMark
+/cast !Bloodthirst
 /cast Cleave(Rank 8)
 /use 10
 END
-MACRO 53 "Cleave" INV_Misc_QuestionMark
-/cast !Bloodthirst
+MACRO 54 "Cleave" INV_Misc_QuestionMark
+/cast !Whirlwind
 /cast Cleave(Rank 8)
 /use 10
 END
@@ -48,13 +48,13 @@ END
 MACRO 33 "Focus" INV_Misc_QuestionMark
 /cast [@focus] Intimidating Shout
 END
-MACRO 52 "Heroic" INV_Misc_QuestionMark
-/cast !Bloodthirst
+MACRO 51 "Heroic" INV_Misc_QuestionMark
+/cast !Whirlwind
 /cast Heroic Strike(Rank 13)
 /use 10
 END
-MACRO 51 "Heroic" INV_Misc_QuestionMark
-/cast !Whirlwind
+MACRO 52 "Heroic" INV_Misc_QuestionMark
+/cast !Bloodthirst
 /cast Heroic Strike(Rank 13)
 /use 10
 END

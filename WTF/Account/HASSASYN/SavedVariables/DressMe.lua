@@ -27,6 +27,7 @@ DressMeSettings = {
 			["Ioriel"] = "human",
 			["Hassasyn"] = "orc",
 			["Thelegar"] = "bloodelf",
+			["Spectia"] = "bloodelf",
 			["Tambirpich"] = "gnome",
 			["Cezzarpala"] = "human",
 			["Diamondtema"] = "human",

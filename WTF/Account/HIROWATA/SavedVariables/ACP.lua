@@ -2,7 +2,6 @@
 ACP_Data = {
 	["sorter"] = "Group By Name",
 	["NoRecurse"] = false,
-	["NoChildren"] = true,
 	["AddonSet"] = {
 		["Warlock"] = {
 			"_NPCScan", -- [1]
@@ -132,6 +131,7 @@ ACP_Data = {
 			"DBM-ZG", -- [125]
 		},
 	},
+	["NoChildren"] = true,
 	["collapsed"] = {
 	},
 	["ProtectedAddons"] = {

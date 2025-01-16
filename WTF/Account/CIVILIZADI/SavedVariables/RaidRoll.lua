@@ -11755,11 +11755,6958 @@ RaidRoll_DB = {
 				["RECEIVED"] = "-",
 			},
 		}, -- [309]
+		{
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:41941:0:0:0:0:0:0:0:80|h[Relentless Gladiator's Satin Gloves]|h|r",
+				["LOOTNAME"] = "Guantes de Satén de Gladiador Incansable",
+				["ITEMLEVEL"] = 251,
+				["ICON"] = "Interface\\Icons\\INV_Gauntlets_49",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["MOB NAME"] = "Koralon el Vigía de las Llamas",
+			["ITEM_5"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:41061:0:0:0:0:0:0:0:80|h[Relentless Gladiator's Wristguards of Salvation]|h|r",
+				["LOOTNAME"] = "Relentless Gladiator's Wristguards of Salvation",
+				["ITEMLEVEL"] = 245,
+				["ICON"] = "Interface\\Icons\\inv_bracer_32b",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:41941:0:0:0:0:0:0:0:80|h[Relentless Gladiator's Satin Gloves]|h|r",
+				["LOOTNAME"] = "Relentless Gladiator's Satin Gloves",
+				["ITEMLEVEL"] = 251,
+				["ICON"] = "Interface\\Icons\\INV_Gauntlets_49",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["ITEM_6"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:48660:0:0:0:0:0:0:0:80|h[Liadrin's Legguards of Triumph]|h|r",
+				["LOOTNAME"] = "Liadrin's Legguards of Triumph",
+				["ITEMLEVEL"] = 245,
+				["ICON"] = "Interface\\Icons\\inv_pants_plate_30",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:40940:0:0:0:0:0:0:0:80|h[Relentless Gladiator's Ornamented Legplates]|h|r",
+				["LOOTNAME"] = "Quijotes Ornamentados de Gladiador Incansable",
+				["ITEMLEVEL"] = 251,
+				["ICON"] = "Interface\\Icons\\inv_pants_plate_27",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["LOOTER NAME"] = "Sacrispala",
+			["ITEM_8"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:48660:0:0:0:0:0:0:0:80|h[Liadrin's Legguards of Triumph]|h|r",
+				["LOOTNAME"] = "Musleras de Triunfo de Liadrin",
+				["ITEMLEVEL"] = 245,
+				["ICON"] = "Interface\\Icons\\inv_pants_plate_30",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["ITEM_7"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:41061:0:0:0:0:0:0:0:80|h[Relentless Gladiator's Wristguards of Salvation]|h|r",
+				["LOOTNAME"] = "Guardamuñecas de Salvación de Gladiador Incansable",
+				["ITEMLEVEL"] = 245,
+				["ICON"] = "Interface\\Icons\\inv_bracer_32b",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["TOTAL ITEMS"] = 8,
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:40940:0:0:0:0:0:0:0:80|h[Relentless Gladiator's Ornamented Legplates]|h|r",
+				["LOOTNAME"] = "Relentless Gladiator's Ornamented Legplates",
+				["ITEMLEVEL"] = 251,
+				["ICON"] = "Interface\\Icons\\inv_pants_plate_27",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+		}, -- [310]
+		{
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51159:0:0:0:0:0:0:0:80|h[Sanctified Bloodmage Gloves]|h|r",
+				["LOOTNAME"] = "Guantes de Mago Sangriento Santificados",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_gauntlets_90",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["MOB NAME"] = "Toravon the Ice Watcher",
+			["ITEM_5"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51371:0:0:0:0:0:0:0:80|h[Wrathful Gladiator's Waistguard of Salvation]|h|r",
+				["LOOTNAME"] = "Guardarrenes de Salvación de Gladiador Colérico",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_belt_46",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51542:0:0:0:0:0:0:0:80|h[Wrathful Gladiator's Plate Gauntlets]|h|r",
+				["LOOTNAME"] = "Guanteletes de Placas de Gladiador Colérico",
+				["ITEMLEVEL"] = 270,
+				["ICON"] = "Interface\\Icons\\inv_gauntlets_62",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["ITEM_6"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51159:0:0:0:0:0:0:0:80|h[Sanctified Bloodmage Gloves]|h|r",
+				["LOOTNAME"] = "Sanctified Bloodmage Gloves",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_gauntlets_90",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51328:0:0:0:0:0:0:0:80|h[Wrathful Gladiator's Treads of Dominance]|h|r",
+				["LOOTNAME"] = "Botines de Dominancia de Gladiador Colérico",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_boots_cloth_28",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["LOOTER NAME"] = "Ronniedio",
+			["ITEM_8"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51371:0:0:0:0:0:0:0:80|h[Wrathful Gladiator's Waistguard of Salvation]|h|r",
+				["LOOTNAME"] = "Wrathful Gladiator's Waistguard of Salvation",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_belt_46",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["ITEM_7"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51328:0:0:0:0:0:0:0:80|h[Wrathful Gladiator's Treads of Dominance]|h|r",
+				["LOOTNAME"] = "Wrathful Gladiator's Treads of Dominance",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_boots_cloth_28",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["TOTAL ITEMS"] = 8,
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51542:0:0:0:0:0:0:0:80|h[Wrathful Gladiator's Plate Gauntlets]|h|r",
+				["LOOTNAME"] = "Wrathful Gladiator's Plate Gauntlets",
+				["ITEMLEVEL"] = 270,
+				["ICON"] = "Interface\\Icons\\inv_gauntlets_62",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+		}, -- [311]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51933:0:0:0:0:0:0:0:80|h[Shawl of Nerubian Silk]|h|r",
+				["LOOTNAME"] = "Shawl of Nerubian Silk",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_misc_cape_16",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Strumffeta",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cff0070dd|Hitem:49908:0:0:0:0:0:0:0:80|h[Primordial Saronite]|h|r",
+				["LOOTNAME"] = "Primordial Saronite",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\spell_fire_felflamebreath",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["MOB NAME"] = "Lord Marrowgar",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50346:0:0:0:0:0:0:0:80|h[Sliver of Pure Ice]|h|r",
+				["LOOTNAME"] = "Sliver of Pure Ice",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_jewelry_trinket_05",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+		}, -- [312]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51918:0:0:0:0:0:0:0:80|h[Bracers of Dark Blessings]|h|r",
+				["LOOTNAME"] = "Bracers of Dark Blessings",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_bracer_47",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["TOTAL ITEMS"] = 2,
+			["LOOTER NAME"] = "Mayislash",
+			["MOB NAME"] = "Lady Deathwhisper",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51919:0:0:0:0:0:0:0:80|h[Deathspeaker Disciple's Belt]|h|r",
+				["LOOTNAME"] = "Deathspeaker Disciple's Belt",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_belt_83",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+		}, -- [313]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51879:0:0:0:0:0:0:0:80|h[Flesh-Shaper's Gurney Strap]|h|r",
+				["LOOTNAME"] = "Flesh-Shaper's Gurney Strap",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_belt_63",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["TOTAL ITEMS"] = 2,
+			["LOOTER NAME"] = "Strumffeta",
+			["MOB NAME"] = "Rotface",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51877:0:0:0:0:0:0:0:80|h[Taldron's Short-Sighted Helm]|h|r",
+				["LOOTNAME"] = "Taldron's Short-Sighted Helm",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_helmet_158",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+		}, -- [314]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51868:0:0:0:0:0:0:0:80|h[Flesh-Carving Scalpel]|h|r",
+				["LOOTNAME"] = "Flesh-Carving Scalpel",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_weapon_shortblade_102",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Strumffeta",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52026:0:0:0:0:0:0:0:80|h[Protector's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Protector's Mark of Sanctification",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["MOB NAME"] = "Unknown",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51867:0:0:0:0:0:0:0:80|h[Infected Choker]|h|r",
+				["LOOTNAME"] = "Infected Choker",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\item_icecrownnecklaceb",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+		}, -- [315]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51843:0:0:0:0:0:0:0:80|h[Seal of the Twilight Queen]|h|r",
+				["LOOTNAME"] = "Seal of the Twilight Queen",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\INV_Jewelry_Ring_70",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Mayislash",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52025:0:0:0:0:0:0:0:80|h[Vanquisher's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Vanquisher's Mark of Sanctification",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["MOB NAME"] = "Blood-Queen Lana'thel",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51845:0:0:0:0:0:0:0:80|h[Stakethrower]|h|r",
+				["LOOTNAME"] = "Stakethrower",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_weapon_rifle_39",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+		}, -- [316]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51816:0:0:0:0:0:0:0:80|h[Scourge Fanged Stompers]|h|r",
+				["LOOTNAME"] = "Scourge Fanged Stompers",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_boots_plate_13",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Tigerpanda",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52027:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["MOB NAME"] = "Sindragosa",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51818:0:0:0:0:0:0:0:80|h[Wyrmwing Treads]|h|r",
+				["LOOTNAME"] = "Wyrmwing Treads",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_boots_mail_06",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+		}, -- [317]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51946:0:0:0:0:0:0:0:80|h[Warmace of Menethil]|h|r",
+				["LOOTNAME"] = "Warmace of Menethil",
+				["ITEMLEVEL"] = 271,
+				["ICON"] = "Interface\\Icons\\inv_mace_116",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Tigerpanda",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52027:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["MOB NAME"] = "The Lich King",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51947:0:0:0:0:0:0:0:80|h[Troggbane, Axe of the Frostborne King]|h|r",
+				["LOOTNAME"] = "Troggbane, Axe of the Frostborne King",
+				["ITEMLEVEL"] = 271,
+				["ICON"] = "Interface\\Icons\\inv_axe_113",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+		}, -- [318]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50605:0:0:0:0:0:0:0:80|h[Snowserpent Mail Helm]|h|r",
+				["LOOTNAME"] = "Snowserpent Mail Helm",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_helmet_158",
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Raumenutesla",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50616:0:0:0:0:0:0:0:80|h[Bulwark of Smouldering Steel]|h|r",
+				["LOOTNAME"] = "Bulwark of Smouldering Steel",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_shield_72",
+			},
+			["MOB NAME"] = "Lord Marrowgar",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50604:0:0:0:0:0:0:0:80|h[Band of the Bone Colossus]|h|r",
+				["LOOTNAME"] = "Band of the Bone Colossus",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_jewelry_ring_83",
+			},
+		}, -- [319]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50651:0:0:0:0:0:0:0:80|h[The Lady's Brittle Bracers]|h|r",
+				["LOOTNAME"] = "The Lady's Brittle Bracers",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_bracer_44",
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Raumenutesla",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50638:0:0:0:0:0:0:0:80|h[Zod's Repeating Longbow]|h|r",
+				["LOOTNAME"] = "Zod's Repeating Longbow",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_weapon_bow_55",
+			},
+			["MOB NAME"] = "Lady Deathwhisper",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50644:0:0:0:0:0:0:0:80|h[Ring of Maddening Whispers]|h|r",
+				["LOOTNAME"] = "Ring of Maddening Whispers",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\INV_Jewelry_Ring_AhnQiraj_05",
+			},
+		}, -- [320]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50452:0:0:0:0:0:0:0:80|h[Wodin's Lucky Necklace]|h|r",
+				["LOOTNAME"] = "Wodin's Lucky Necklace",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_misc_pelt_wolf_ruin_01",
+			},
+			["TOTAL ITEMS"] = 1,
+			["MOB NAME"] = "Sister Svalna",
+			["LOOTER NAME"] = "Raumenutesla",
+		}, -- [321]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50622:0:0:0:0:0:0:0:80|h[Devium's Eternally Cold Ring]|h|r",
+				["LOOTNAME"] = "Devium's Eternally Cold Ring",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_jewelry_ring_86",
+			},
+			["TOTAL ITEMS"] = 4,
+			["LOOTER NAME"] = "Tatarusanu",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cff0070dd|Hitem:49908:0:0:0:0:0:0:0:80|h[Primordial Saronite]|h|r",
+				["LOOTNAME"] = "Primordial Saronite",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\spell_fire_felflamebreath",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50628:0:0:0:0:0:0:0:80|h[Frostbinder's Shredded Cape]|h|r",
+				["LOOTNAME"] = "Frostbinder's Shredded Cape",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\INV_Misc_Cape_16",
+			},
+			["MOB NAME"] = "Unknown",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50620:0:0:0:0:0:0:0:80|h[Coldwraith Links]|h|r",
+				["LOOTNAME"] = "Coldwraith Links",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_belt_63",
+			},
+		}, -- [322]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50001:0:0:0:0:0:0:0:80|h[Ikfirus's Sack of Wonder]|h|r",
+				["LOOTNAME"] = "Ikfirus's Sack of Wonder",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_chest_leather_22",
+			},
+			["TOTAL ITEMS"] = 1,
+			["MOB NAME"] = "Alchemist Adrianna",
+			["LOOTER NAME"] = "Mayicurse",
+		}, -- [323]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50704:0:0:0:0:0:0:0:80|h[Rigormortis]|h|r",
+				["LOOTNAME"] = "Rigormortis",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_sword_152",
+			},
+			["TOTAL ITEMS"] = 4,
+			["LOOTER NAME"] = "Raumenutesla",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52027:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52025:0:0:0:0:0:0:0:80|h[Vanquisher's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Vanquisher's Mark of Sanctification",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+			},
+			["MOB NAME"] = "Unknown",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52029:0:0:0:0:0:0:0:80|h[Protector's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Protector's Mark of Sanctification",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_judgementsofthejust",
+			},
+		}, -- [324]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50719:0:0:0:0:0:0:0:80|h[Shadow Silk Spindle]|h|r",
+				["LOOTNAME"] = "Shadow Silk Spindle",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_misc_thread_01",
+			},
+			["TOTAL ITEMS"] = 4,
+			["LOOTER NAME"] = "Raumenutesla",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cff0070dd|Hitem:49908:0:0:0:0:0:0:0:80|h[Primordial Saronite]|h|r",
+				["LOOTNAME"] = "Primordial Saronite",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\spell_fire_felflamebreath",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50603:0:0:0:0:0:0:0:80|h[Cryptmaker]|h|r",
+				["LOOTNAME"] = "Cryptmaker",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_mace_116",
+			},
+			["MOB NAME"] = "Prince Valanar",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50723:0:0:0:0:0:0:0:80|h[Mail of Crimson Coins]|h|r",
+				["LOOTNAME"] = "Mail of Crimson Coins",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_chest_mail_15",
+			},
+		}, -- [325]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50450:0:0:0:0:0:0:0:80|h[Leggings of Dubious Charms]|h|r",
+				["LOOTNAME"] = "Leggings of Dubious Charms",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_pants_mail_35",
+			},
+			["TOTAL ITEMS"] = 2,
+			["LOOTER NAME"] = "Tatarusanu",
+			["MOB NAME"] = "Darkfallen Archmage",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50451:0:0:0:0:0:0:0:80|h[Belt of the Lonely Noble]|h|r",
+				["LOOTNAME"] = "Belt of the Lonely Noble",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_belt_70",
+			},
+		}, -- [326]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50726:0:0:0:0:0:0:0:80|h[Bauble of True Blood]|h|r",
+				["LOOTNAME"] = "Bauble of True Blood",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_jewelcrafting_gem_28",
+			},
+			["TOTAL ITEMS"] = 4,
+			["LOOTER NAME"] = "Raumenutesla",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52025:0:0:0:0:0:0:0:80|h[Vanquisher's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Vanquisher's Mark of Sanctification",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52027:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+			},
+			["MOB NAME"] = "Blood-Queen Lana'thel",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52029:0:0:0:0:0:0:0:80|h[Protector's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Protector's Mark of Sanctification",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_judgementsofthejust",
+			},
+		}, -- [327]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50732:0:0:0:0:0:0:0:80|h[Bloodsurge, Kel'Thuzad's Blade of Agony]|h|r",
+				["LOOTNAME"] = "Bloodsurge, Kel'Thuzad's Blade of Agony",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 284,
+				["ICON"] = "Interface\\Icons\\inv_sword_150",
+			},
+			["ITEM_5"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52030:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification1",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_judgementsofthejust",
+			},
+			["TOTAL ITEMS"] = 5,
+			["LOOTER NAME"] = "Raumenutesla",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52025:0:0:0:0:0:0:0:80|h[Vanquisher's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Vanquisher's Mark of Sanctification",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52027:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+			},
+			["MOB NAME"] = "The Lich King",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50734:0:0:0:0:0:0:0:80|h[Royal Scepter of Terenas II]|h|r",
+				["LOOTNAME"] = "Royal Scepter of Terenas II",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 284,
+				["ICON"] = "Interface\\Icons\\inv_mace_115",
+			},
+		}, -- [328]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50651:0:0:0:0:0:0:0:80|h[The Lady's Brittle Bracers]|h|r",
+				["LOOTNAME"] = "The Lady's Brittle Bracers",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_bracer_44",
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Titanoboa",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50645:0:0:0:0:0:0:0:80|h[Leggings of Northern Lights]|h|r",
+				["LOOTNAME"] = "Leggings of Northern Lights",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_pants_mail_32",
+			},
+			["MOB NAME"] = "Lady Deathwhisper",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50646:0:0:0:0:0:0:0:80|h[Cultist's Bloodsoaked Spaulders]|h|r",
+				["LOOTNAME"] = "Cultist's Bloodsoaked Spaulders",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_shoulder_112",
+			},
+		}, -- [329]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50653:0:0:0:0:0:0:0:80|h[Shadowvault Slayer's Cloak]|h|r",
+				["LOOTNAME"] = "Shadowvault Slayer's Cloak",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\item_icecrowncloak",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 4,
+			["LOOTER NAME"] = "Basaka",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cff0070dd|Hitem:49908:0:0:0:0:0:0:0:80|h[Primordial Saronite]|h|r",
+				["LOOTNAME"] = "Primordial Saronite",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\spell_fire_felflamebreath",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50661:0:0:0:0:0:0:0:80|h[Corp'rethar Ceremonial Crown]|h|r",
+				["LOOTNAME"] = "Corp'rethar Ceremonial Crown",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_helmet_156",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Unknown",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50349:0:0:0:0:0:0:0:80|h[Corpse Tongue Coin]|h|r",
+				["LOOTNAME"] = "Corpse Tongue Coin",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_misc_coin_18",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+		}, -- [330]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50363:0:0:0:0:0:0:0:80|h[Deathbringer's Will]|h|r",
+				["LOOTNAME"] = "Deathbringer's Will",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_jewelry_trinket_04",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52029:0:0:0:0:0:0:0:80|h[Protector's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Protector's Mark of Sanctification",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_judgementsofthejust",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 5,
+			["LOOTER NAME"] = "Titanoboa",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52026:0:0:0:0:0:0:0:80|h[Protector's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Protector's Mark of Sanctification1",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52027:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Unknown",
+			["ITEM_5"] = {
+				["ITEMLINK"] = "|cff0070dd|Hitem:49908:0:0:0:0:0:0:0:80|h[Primordial Saronite]|h|r",
+				["LOOTNAME"] = "Primordial Saronite",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\spell_fire_felflamebreath",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+		}, -- [331]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50452:0:0:0:0:0:0:0:80|h[Wodin's Lucky Necklace]|h|r",
+				["LOOTNAME"] = "Wodin's Lucky Necklace",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_misc_pelt_wolf_ruin_01",
+				["ITEMLEVEL"] = 264,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Sister Svalna",
+			["TOTAL ITEMS"] = 1,
+			["LOOTER NAME"] = "Titanoboa",
+		}, -- [332]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50625:0:0:0:0:0:0:0:80|h[Grinning Skull Greatboots]|h|r",
+				["LOOTNAME"] = "Grinning Skull Greatboots",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_boots_plate_13",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 4,
+			["LOOTER NAME"] = "Basaka",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cff0070dd|Hitem:49908:0:0:0:0:0:0:0:80|h[Primordial Saronite]|h|r",
+				["LOOTNAME"] = "Primordial Saronite",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\spell_fire_felflamebreath",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50625:0:0:0:0:0:0:0:80|h[Grinning Skull Greatboots]|h|r",
+				["LOOTNAME"] = "Grinning Skull Greatboots2",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_boots_plate_13",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Unknown",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50625:0:0:0:0:0:0:0:80|h[Grinning Skull Greatboots]|h|r",
+				["LOOTNAME"] = "Grinning Skull Greatboots1",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_boots_plate_13",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+		}, -- [333]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50636:0:0:0:0:0:0:0:80|h[Memory of Malygos]|h|r",
+				["LOOTNAME"] = "Memory of Malygos",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\INV_Jewelry_Ring_40",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 4,
+			["LOOTER NAME"] = "Titanoboa",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52030:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification1",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_judgementsofthejust",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52025:0:0:0:0:0:0:0:80|h[Vanquisher's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Vanquisher's Mark of Sanctification",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Sindragosa",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52027:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+		}, -- [334]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50715:0:0:0:0:0:0:0:80|h[Shoulders of Frost-Tipped Thorns]|h|r",
+				["LOOTNAME"] = "Shoulders of Frost-Tipped Thorns",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_shoulder_111",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Basaka",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50603:0:0:0:0:0:0:0:80|h[Cryptmaker]|h|r",
+				["LOOTNAME"] = "Cryptmaker",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_mace_116",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Prince Valanar",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50714:0:0:0:0:0:0:0:80|h[Valanar's Other Signet Ring]|h|r",
+				["LOOTNAME"] = "Valanar's Other Signet Ring",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_jewelry_ring_81",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+		}, -- [335]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50447:0:0:0:0:0:0:0:80|h[Harbinger's Bone Band]|h|r",
+				["LOOTNAME"] = "Harbinger's Bone Band",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_jewelry_ring_84",
+				["ITEMLEVEL"] = 264,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Darkfallen Blood Knight",
+			["TOTAL ITEMS"] = 1,
+			["LOOTER NAME"] = "Yoggay",
+		}, -- [336]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50724:0:0:0:0:0:0:0:80|h[Blood Queen's Crimson Choker]|h|r",
+				["LOOTNAME"] = "Blood Queen's Crimson Choker",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_jewelcrafting_crimsonspinel_02",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52030:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_judgementsofthejust",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 5,
+			["LOOTER NAME"] = "Magodefogo",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52026:0:0:0:0:0:0:0:80|h[Protector's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Protector's Mark of Sanctification",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52027:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification1",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Blood-Queen Lana'thel",
+			["ITEM_5"] = {
+				["ITEMLINK"] = "|cff0070dd|Hitem:49908:0:0:0:0:0:0:0:80|h[Primordial Saronite]|h|r",
+				["LOOTNAME"] = "Primordial Saronite",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\spell_fire_felflamebreath",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+		}, -- [337]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50687:0:0:0:0:0:0:0:80|h[Bloodsunder's Bracers]|h|r",
+				["LOOTNAME"] = "Bloodsunder's Bracers",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_bracer_60",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50679:0:0:0:0:0:0:0:80|h[Helm of the Elder Moon]|h|r",
+				["LOOTNAME"] = "Helm of the Elder Moon",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_helmet_148",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 5,
+			["LOOTER NAME"] = "Basaka",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cff0070dd|Hitem:49908:0:0:0:0:0:0:0:80|h[Primordial Saronite]|h|r",
+				["LOOTNAME"] = "Primordial Saronite",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\spell_fire_felflamebreath",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50348:0:0:0:0:0:0:0:80|h[Dislodged Foreign Object]|h|r",
+				["LOOTNAME"] = "Dislodged Foreign Object",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_jewelry_trinket_01",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Rotface",
+			["ITEM_5"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50231:0:0:0:0:0:0:0:80|h[Rotface's Acidic Blood]|h|r",
+				["LOOTNAME"] = "Rotface's Acidic Blood",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\Spell_Shadow_BloodBoil",
+				["ITEMLEVEL"] = 0,
+				["RECEIVED"] = "-",
+			},
+		}, -- [338]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50696:0:0:0:0:0:0:0:80|h[Leather of Stitched Scourge Parts]|h|r",
+				["LOOTNAME"] = "Leather of Stitched Scourge Parts",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_pants_leather_35",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50694:0:0:0:0:0:0:0:80|h[Plaguebringer's Stained Pants]|h|r",
+				["LOOTNAME"] = "Plaguebringer's Stained Pants",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_kilt_cloth_02",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 5,
+			["LOOTER NAME"] = "Basaka",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cff0070dd|Hitem:49908:0:0:0:0:0:0:0:80|h[Primordial Saronite]|h|r",
+				["LOOTNAME"] = "Primordial Saronite",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\spell_fire_felflamebreath",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50699:0:0:0:0:0:0:0:80|h[Plague Scientist's Boots]|h|r",
+				["LOOTNAME"] = "Plague Scientist's Boots",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_boots_cloth_24",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Festergut",
+			["ITEM_5"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50226:0:0:0:0:0:0:0:80|h[Festergut's Acidic Blood]|h|r",
+				["LOOTNAME"] = "Festergut's Acidic Blood",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\spell_deathknight_bloodboil",
+				["ITEMLEVEL"] = 0,
+				["RECEIVED"] = "-",
+			},
+		}, -- [339]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50706:0:0:0:0:0:0:0:80|h[Tiny Abomination in a Jar]|h|r",
+				["LOOTNAME"] = "Tiny Abomination in a Jar",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_alchemy_enchantedvial",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 4,
+			["LOOTER NAME"] = "Basaka",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52027:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52026:0:0:0:0:0:0:0:80|h[Protector's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Protector's Mark of Sanctification1",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Unknown",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52029:0:0:0:0:0:0:0:80|h[Protector's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Protector's Mark of Sanctification",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_judgementsofthejust",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+		}, -- [340]
+		{
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52026:0:0:0:0:0:0:0:80|h[Protector's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Protector's Mark of Sanctification",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "The Lich King",
+			["ITEM_5"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52030:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_judgementsofthejust",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50738:0:0:0:0:0:0:0:80|h[Mithrios, Bronzebeard's Legacy]|h|r",
+				["LOOTNAME"] = "Mithrios, Bronzebeard's Legacy",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_mace_117",
+				["ITEMLEVEL"] = 284,
+				["RECEIVED"] = "-",
+			},
+			["ITEM_6"] = {
+				["ITEMLINK"] = "|cff0070dd|Hitem:49908:0:0:0:0:0:0:0:80|h[Primordial Saronite]|h|r",
+				["LOOTNAME"] = "Primordial Saronite",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\spell_fire_felflamebreath",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52025:0:0:0:0:0:0:0:80|h[Vanquisher's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Vanquisher's Mark of Sanctification",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["LOOTER NAME"] = "Basaka",
+			["ITEM_7"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50818:0:0:0:0:0:0:0:80|h[Invincible's Reins]|h|r",
+				["LOOTNAME"] = "Invincible's Reins",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\spell_deathknight_summondeathcharger",
+				["ITEMLEVEL"] = 20,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 7,
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50731:0:0:0:0:0:0:0:80|h[Archus, Greatstaff of Antonidas]|h|r",
+				["LOOTNAME"] = "Archus, Greatstaff of Antonidas",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_staff_108",
+				["ITEMLEVEL"] = 284,
+				["RECEIVED"] = "-",
+			},
+		}, -- [341]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:54590:0:0:0:0:0:0:0:80|h[Sharpened Twilight Scale]|h|r",
+				["LOOTNAME"] = "Sharpened Twilight Scale",
+				["ITEMLEVEL"] = 284,
+				["ICON"] = "Interface\\Icons\\inv_misc_rubysanctum4",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Zdenha",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:54581:0:0:0:0:0:0:0:80|h[Penumbra Pendant]|h|r",
+				["LOOTNAME"] = "Penumbra Pendant",
+				["ITEMLEVEL"] = 284,
+				["ICON"] = "Interface\\Icons\\inv_jewelry_necklace_48",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["MOB NAME"] = "Halion",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:54580:0:0:0:0:0:0:0:80|h[Umbrage Armbands]|h|r",
+				["LOOTNAME"] = "Umbrage Armbands",
+				["ITEMLEVEL"] = 284,
+				["ICON"] = "Interface\\Icons\\inv_bracer_41",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+		}, -- [342]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:54584:0:0:0:0:0:0:0:80|h[Phaseshifter's Bracers]|h|r",
+				["LOOTNAME"] = "Phaseshifter's Bracers",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 284,
+				["ICON"] = "Interface\\Icons\\inv_bracer_40",
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Rabbithuntin",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:54581:0:0:0:0:0:0:0:80|h[Penumbra Pendant]|h|r",
+				["LOOTNAME"] = "Penumbra Pendant",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 284,
+				["ICON"] = "Interface\\Icons\\inv_jewelry_necklace_48",
+			},
+			["MOB NAME"] = "Halion",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:54587:0:0:0:0:0:0:0:80|h[Split Shape Belt]|h|r",
+				["LOOTNAME"] = "Split Shape Belt",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 284,
+				["ICON"] = "Interface\\Icons\\inv_belt_83",
+			},
+		}, -- [343]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50609:0:0:0:0:0:0:0:80|h[Bone Sentinel's Amulet]|h|r",
+				["LOOTNAME"] = "Bone Sentinel's Amulet",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_jewelry_necklace_53",
+			},
+			["TOTAL ITEMS"] = 4,
+			["LOOTER NAME"] = "Agachee",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cff0070dd|Hitem:49908:0:0:0:0:0:0:0:80|h[Primordial Saronite]|h|r",
+				["LOOTNAME"] = "Primordial Saronite",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\spell_fire_felflamebreath",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50615:0:0:0:0:0:0:0:80|h[Handguards of Winter's Respite]|h|r",
+				["LOOTNAME"] = "Handguards of Winter's Respite",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_gauntlets_83",
+			},
+			["MOB NAME"] = "Lord Marrowgar",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50617:0:0:0:0:0:0:0:80|h[Rusted Bonespike Pauldrons]|h|r",
+				["LOOTNAME"] = "Rusted Bonespike Pauldrons",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_shoulder_117",
+			},
+		}, -- [344]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50364:0:0:0:0:0:0:0:80|h[Sindragosa's Flawless Fang]|h|r",
+				["LOOTNAME"] = "Sindragosa's Flawless Fang",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_jewelry_trinket_06",
+			},
+			["TOTAL ITEMS"] = 4,
+			["LOOTER NAME"] = "Coinz",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cff0070dd|Hitem:49908:0:0:0:0:0:0:0:80|h[Primordial Saronite]|h|r",
+				["LOOTNAME"] = "Primordial Saronite",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\spell_fire_felflamebreath",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52027:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+			},
+			["MOB NAME"] = "Sindragosa",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52025:0:0:0:0:0:0:0:80|h[Vanquisher's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Vanquisher's Mark of Sanctification",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+			},
+		}, -- [345]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50723:0:0:0:0:0:0:0:80|h[Mail of Crimson Coins]|h|r",
+				["LOOTNAME"] = "Mail of Crimson Coins",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_chest_mail_15",
+			},
+			["TOTAL ITEMS"] = 4,
+			["LOOTER NAME"] = "Coinz",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cff0070dd|Hitem:49908:0:0:0:0:0:0:0:80|h[Primordial Saronite]|h|r",
+				["LOOTNAME"] = "Primordial Saronite",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\spell_fire_felflamebreath",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50723:0:0:0:0:0:0:0:80|h[Mail of Crimson Coins]|h|r",
+				["LOOTNAME"] = "Mail of Crimson Coins1",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_chest_mail_15",
+			},
+			["MOB NAME"] = "Prince Valanar",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50713:0:0:0:0:0:0:0:80|h[Geistlord's Punishment Sack]|h|r",
+				["LOOTNAME"] = "Geistlord's Punishment Sack",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_helmet_149",
+			},
+		}, -- [346]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50727:0:0:0:0:0:0:0:80|h[Bloodfall]|h|r",
+				["LOOTNAME"] = "Bloodfall",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_weapon_staff_109",
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Agachee",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52026:0:0:0:0:0:0:0:80|h[Protector's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Protector's Mark of Sanctification",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+			},
+			["MOB NAME"] = "Blood-Queen Lana'thel",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52027:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification1",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+			},
+		}, -- [347]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50690:0:0:0:0:0:0:0:80|h[Fleshrending Gauntlets]|h|r",
+				["LOOTNAME"] = "Fleshrending Gauntlets",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_gauntlets_87",
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Coinz",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50691:0:0:0:0:0:0:0:80|h[Belt of Broken Bones]|h|r",
+				["LOOTNAME"] = "Belt of Broken Bones",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_belt_63",
+			},
+			["MOB NAME"] = "Festergut",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50693:0:0:0:0:0:0:0:80|h[Might of Blight]|h|r",
+				["LOOTNAME"] = "Might of Blight",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_jewelry_ring_84",
+			},
+		}, -- [348]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50682:0:0:0:0:0:0:0:80|h[Bile-Encrusted Medallion]|h|r",
+				["LOOTNAME"] = "Bile-Encrusted Medallion",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\item_icecrownnecklaceb",
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Coinz",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50676:0:0:0:0:0:0:0:80|h[Rib Spreader]|h|r",
+				["LOOTNAME"] = "Rib Spreader",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_weapon_shortblade_105",
+			},
+			["MOB NAME"] = "Rotface",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50348:0:0:0:0:0:0:0:80|h[Dislodged Foreign Object]|h|r",
+				["LOOTNAME"] = "Dislodged Foreign Object",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_jewelry_trinket_01",
+			},
+		}, -- [349]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50472:0:0:0:0:0:0:0:80|h[Nightmare Ender]|h|r",
+				["LOOTNAME"] = "Nightmare Ender",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_wand_34",
+			},
+			["TOTAL ITEMS"] = 1,
+			["MOB NAME"] = "Alchemist Adrianna",
+			["LOOTER NAME"] = "Bigdypski",
+		}, -- [350]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50706:0:0:0:0:0:0:0:80|h[Tiny Abomination in a Jar]|h|r",
+				["LOOTNAME"] = "Tiny Abomination in a Jar",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_alchemy_enchantedvial",
+			},
+			["TOTAL ITEMS"] = 4,
+			["LOOTER NAME"] = "Bigdypski",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52027:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52026:0:0:0:0:0:0:0:80|h[Protector's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Protector's Mark of Sanctification1",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+			},
+			["MOB NAME"] = "Unknown",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52029:0:0:0:0:0:0:0:80|h[Protector's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Protector's Mark of Sanctification",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_judgementsofthejust",
+			},
+		}, -- [351]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50730:0:0:0:0:0:0:0:80|h[Glorenzelg, High-Blade of the Silver Hand]|h|r",
+				["LOOTNAME"] = "Glorenzelg, High-Blade of the Silver Hand",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 284,
+				["ICON"] = "Interface\\Icons\\inv_sword_153",
+			},
+			["ITEM_5"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52029:0:0:0:0:0:0:0:80|h[Protector's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Protector's Mark of Sanctification",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_judgementsofthejust",
+			},
+			["TOTAL ITEMS"] = 5,
+			["LOOTER NAME"] = "Coinz",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52027:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification1",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52027:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+			},
+			["MOB NAME"] = "The Lich King",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50732:0:0:0:0:0:0:0:80|h[Bloodsurge, Kel'Thuzad's Blade of Agony]|h|r",
+				["LOOTNAME"] = "Bloodsurge, Kel'Thuzad's Blade of Agony",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 284,
+				["ICON"] = "Interface\\Icons\\inv_sword_150",
+			},
+		}, -- [352]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50706:0:0:0:0:0:0:0:80|h[Tiny Abomination in a Jar]|h|r",
+				["LOOTNAME"] = "Tiny Abomination in a Jar",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_alchemy_enchantedvial",
+			},
+			["TOTAL ITEMS"] = 4,
+			["LOOTER NAME"] = "Junkmytrunk",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52029:0:0:0:0:0:0:0:80|h[Protector's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Protector's Mark of Sanctification",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_judgementsofthejust",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52027:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+			},
+			["MOB NAME"] = "Unknown",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52026:0:0:0:0:0:0:0:80|h[Protector's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Protector's Mark of Sanctification1",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+			},
+		}, -- [353]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51935:0:0:0:0:0:0:0:80|h[Linked Scourge Vertebrae]|h|r",
+				["LOOTNAME"] = "Linked Scourge Vertebrae",
+				["ICON"] = "Interface\\Icons\\inv_belt_60",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 264,
+			},
+			["TOTAL ITEMS"] = 2,
+			["LOOTER NAME"] = "Juravis",
+			["MOB NAME"] = "Lord Marrowgar",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51930:0:0:0:0:0:0:0:80|h[Cord of the Patronizing Practitioner]|h|r",
+				["LOOTNAME"] = "Cord of the Patronizing Practitioner",
+				["ICON"] = "Interface\\Icons\\inv_belt_68",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 264,
+			},
+		}, -- [354]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51812:0:0:0:0:0:0:0:80|h[Lost Pavise of the Blue Flight]|h|r",
+				["LOOTNAME"] = "Lost Pavise of the Blue Flight",
+				["ICON"] = "Interface\\Icons\\inv_shield_74",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 264,
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Juravis",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52026:0:0:0:0:0:0:0:80|h[Protector's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Protector's Mark of Sanctification",
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 80,
+			},
+			["MOB NAME"] = "Sindragosa",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51814:0:0:0:0:0:0:0:80|h[Icicle Shapers]|h|r",
+				["LOOTNAME"] = "Icicle Shapers",
+				["ICON"] = "Interface\\Icons\\inv_gauntlets_83",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 264,
+			},
+		}, -- [355]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51877:0:0:0:0:0:0:0:80|h[Taldron's Short-Sighted Helm]|h|r",
+				["LOOTNAME"] = "Taldron's Short-Sighted Helm",
+				["ICON"] = "Interface\\Icons\\inv_helmet_158",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 264,
+			},
+			["TOTAL ITEMS"] = 2,
+			["LOOTER NAME"] = "Juravis",
+			["MOB NAME"] = "Rotface",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51871:0:0:0:0:0:0:0:80|h[Choker of Filthy Diamonds]|h|r",
+				["LOOTNAME"] = "Choker of Filthy Diamonds",
+				["ICON"] = "Interface\\Icons\\inv_jewelry_necklace_49",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 264,
+			},
+		}, -- [356]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51885:0:0:0:0:0:0:0:80|h[Wrists of Septic Shock]|h|r",
+				["LOOTNAME"] = "Wrists of Septic Shock",
+				["ICON"] = "Interface\\Icons\\inv_bracer_40",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 264,
+			},
+			["TOTAL ITEMS"] = 2,
+			["LOOTER NAME"] = "Juravis",
+			["MOB NAME"] = "Festergut",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51884:0:0:0:0:0:0:0:80|h[Signet of Putrefaction]|h|r",
+				["LOOTNAME"] = "Signet of Putrefaction",
+				["ICON"] = "Interface\\Icons\\inv_jewelry_ring_82",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 264,
+			},
+		}, -- [357]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51862:0:0:0:0:0:0:0:80|h[Cauterized Cord]|h|r",
+				["LOOTNAME"] = "Cauterized Cord",
+				["ICON"] = "Interface\\Icons\\inv_belt_64",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 264,
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Mayislash",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52027:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification",
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 80,
+			},
+			["MOB NAME"] = "Unknown",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50344:0:0:0:0:0:0:0:80|h[Unidentifiable Organ]|h|r",
+				["LOOTNAME"] = "Unidentifiable Organ",
+				["ICON"] = "Interface\\Icons\\inv_ore_feliron_01",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 264,
+			},
+		}, -- [358]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51947:0:0:0:0:0:0:0:80|h[Troggbane, Axe of the Frostborne King]|h|r",
+				["LOOTNAME"] = "Troggbane, Axe of the Frostborne King",
+				["ICON"] = "Interface\\Icons\\inv_axe_113",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 271,
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Mayislash",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52027:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification",
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 80,
+			},
+			["MOB NAME"] = "The Lich King",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51945:0:0:0:0:0:0:0:80|h[Tainted Twig of Nordrassil]|h|r",
+				["LOOTNAME"] = "Tainted Twig of Nordrassil",
+				["ICON"] = "Interface\\Icons\\inv_staff_108",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 271,
+			},
+		}, -- [359]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50772:0:0:0:0:0:0:0:80|h[Ancient Skeletal Boots]|h|r",
+				["LOOTNAME"] = "Ancient Skeletal Boots",
+				["ICON"] = "Interface\\Icons\\inv_boots_plate_14",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 251,
+			},
+			["TOTAL ITEMS"] = 2,
+			["LOOTER NAME"] = "Mayicrush",
+			["MOB NAME"] = "Lord Marrowgar",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50771:0:0:0:0:0:0:0:80|h[Frost Needle]|h|r",
+				["LOOTNAME"] = "Frost Needle",
+				["ICON"] = "Interface\\Icons\\inv_sword_152",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 251,
+			},
+		}, -- [360]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50447:0:0:0:0:0:0:0:80|h[Harbinger's Bone Band]|h|r",
+				["LOOTNAME"] = "Harbinger's Bone Band",
+				["ICON"] = "Interface\\Icons\\inv_jewelry_ring_84",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 264,
+			},
+			["MOB NAME"] = "Pustulating Horror",
+			["TOTAL ITEMS"] = 1,
+			["LOOTER NAME"] = "Albunu",
+		}, -- [361]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51888:0:0:0:0:0:0:0:80|h[Cloak of Many Skins]|h|r",
+				["LOOTNAME"] = "Cloak of Many Skins",
+				["ICON"] = "Interface\\Icons\\INV_Misc_Cape_Naxxramas_01",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 264,
+			},
+			["TOTAL ITEMS"] = 2,
+			["LOOTER NAME"] = "Mayicrush",
+			["MOB NAME"] = "Festergut",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51887:0:0:0:0:0:0:0:80|h[Abracadaver]|h|r",
+				["LOOTNAME"] = "Abracadaver",
+				["ICON"] = "Interface\\Icons\\inv_staff_107",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 264,
+			},
+		}, -- [362]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50450:0:0:0:0:0:0:0:80|h[Leggings of Dubious Charms]|h|r",
+				["LOOTNAME"] = "Leggings of Dubious Charms",
+				["ICON"] = "Interface\\Icons\\inv_pants_mail_35",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 264,
+			},
+			["MOB NAME"] = "Darkfallen Archmage",
+			["TOTAL ITEMS"] = 1,
+			["LOOTER NAME"] = "Albunu",
+		}, -- [363]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51837:0:0:0:0:0:0:0:80|h[Cowl of Malefic Repose]|h|r",
+				["LOOTNAME"] = "Cowl of Malefic Repose",
+				["ICON"] = "Interface\\Icons\\inv_helmet_152",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 264,
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Mayicrush",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52027:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification",
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 80,
+			},
+			["MOB NAME"] = "Blood-Queen Lana'thel",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51836:0:0:0:0:0:0:0:80|h[Tightening Waistband]|h|r",
+				["LOOTNAME"] = "Tightening Waistband",
+				["ICON"] = "Interface\\Icons\\inv_belt_70",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 264,
+			},
+		}, -- [364]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50453:0:0:0:0:0:0:0:80|h[Ring of Rotting Sinew]|h|r",
+				["LOOTNAME"] = "Ring of Rotting Sinew",
+				["ICON"] = "Interface\\Icons\\inv_jewelry_ring_81",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 264,
+			},
+			["MOB NAME"] = "Frostwarden Warrior",
+			["TOTAL ITEMS"] = 1,
+			["LOOTER NAME"] = "Albunu",
+		}, -- [365]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51938:0:0:0:0:0:0:0:80|h[Bone Warden's Splitter]|h|r",
+				["LOOTNAME"] = "Bone Warden's Splitter",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_axe_113",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["TOTAL ITEMS"] = 2,
+			["LOOTER NAME"] = "Antishokp",
+			["MOB NAME"] = "Lord Marrowgar",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51931:0:0:0:0:0:0:0:80|h[Ancient Skeletal Boots]|h|r",
+				["LOOTNAME"] = "Ancient Skeletal Boots",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_boots_plate_14",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+		}, -- [366]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51924:0:0:0:0:0:0:0:80|h[Deathspeaker Zealot's Helm]|h|r",
+				["LOOTNAME"] = "Deathspeaker Zealot's Helm",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_helmet_151",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Infernoblood",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cff0070dd|Hitem:49908:0:0:0:0:0:0:0:80|h[Primordial Saronite]|h|r",
+				["LOOTNAME"] = "Primordial Saronite",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\spell_fire_felflamebreath",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["MOB NAME"] = "Lady Deathwhisper",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51917:0:0:0:0:0:0:0:80|h[Ghoul Commander's Cuirass]|h|r",
+				["LOOTNAME"] = "Ghoul Commander's Cuirass",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_chest_plate_26",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+		}, -- [367]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51909:0:0:0:0:0:0:0:80|h[Neverending Winter]|h|r",
+				["LOOTNAME"] = "Neverending Winter",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_shield_73",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["TOTAL ITEMS"] = 2,
+			["LOOTER NAME"] = "Antishokp",
+			["MOB NAME"] = "Unknown",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51914:0:0:0:0:0:0:0:80|h[Icecrown Rampart Bracers]|h|r",
+				["LOOTNAME"] = "Icecrown Rampart Bracers",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_bracer_40",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+		}, -- [368]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51896:0:0:0:0:0:0:0:80|h[Thaumaturge's Crackling Cowl]|h|r",
+				["LOOTNAME"] = "Thaumaturge's Crackling Cowl",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_helmet_156",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Antishokp",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52025:0:0:0:0:0:0:0:80|h[Vanquisher's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Vanquisher's Mark of Sanctification",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["MOB NAME"] = "Unknown",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51902:0:0:0:0:0:0:0:80|h[Blade-Scored Carapace]|h|r",
+				["LOOTNAME"] = "Blade-Scored Carapace",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_chest_plate_26",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+		}, -- [369]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51826:0:0:0:0:0:0:0:80|h[Lich Wrappings]|h|r",
+				["LOOTNAME"] = "Lich Wrappings",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\INV_Misc_Cape_19",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["TOTAL ITEMS"] = 2,
+			["LOOTER NAME"] = "Antishokp",
+			["MOB NAME"] = "Unknown",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51823:0:0:0:0:0:0:0:80|h[Leggings of the Refracted Mind]|h|r",
+				["LOOTNAME"] = "Leggings of the Refracted Mind",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_pants_cloth_35",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+		}, -- [370]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50452:0:0:0:0:0:0:0:80|h[Wodin's Lucky Necklace]|h|r",
+				["LOOTNAME"] = "Wodin's Lucky Necklace",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_misc_pelt_wolf_ruin_01",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["TOTAL ITEMS"] = 1,
+			["MOB NAME"] = "Frostwarden Warrior",
+			["LOOTER NAME"] = "Antishokp",
+		}, -- [371]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51819:0:0:0:0:0:0:0:80|h[Splintershard]|h|r",
+				["LOOTNAME"] = "Splintershard",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_weapon_hand_34",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Antishokp",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52025:0:0:0:0:0:0:0:80|h[Vanquisher's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Vanquisher's Mark of Sanctification",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["MOB NAME"] = "Sindragosa",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51820:0:0:0:0:0:0:0:80|h[Vambraces of the Frost Wyrm Queen]|h|r",
+				["LOOTNAME"] = "Vambraces of the Frost Wyrm Queen",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_bracer_41",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+		}, -- [372]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50450:0:0:0:0:0:0:0:80|h[Leggings of Dubious Charms]|h|r",
+				["LOOTNAME"] = "Leggings of Dubious Charms",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_pants_mail_35",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["TOTAL ITEMS"] = 2,
+			["LOOTER NAME"] = "Antishokp",
+			["MOB NAME"] = "Vengeful Fleshreaper",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50452:0:0:0:0:0:0:0:80|h[Wodin's Lucky Necklace]|h|r",
+				["LOOTNAME"] = "Wodin's Lucky Necklace",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_misc_pelt_wolf_ruin_01",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+		}, -- [373]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50453:0:0:0:0:0:0:0:80|h[Ring of Rotting Sinew]|h|r",
+				["LOOTNAME"] = "Ring of Rotting Sinew",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_jewelry_ring_81",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["TOTAL ITEMS"] = 2,
+			["LOOTER NAME"] = "Antishokp",
+			["MOB NAME"] = "Plague Scientist",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50449:0:0:0:0:0:0:0:80|h[Stiffened Corpse Shoulderpads]|h|r",
+				["LOOTNAME"] = "Stiffened Corpse Shoulderpads",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_shoulder_119",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+		}, -- [374]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50452:0:0:0:0:0:0:0:80|h[Wodin's Lucky Necklace]|h|r",
+				["LOOTNAME"] = "Wodin's Lucky Necklace",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_misc_pelt_wolf_ruin_01",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["TOTAL ITEMS"] = 1,
+			["MOB NAME"] = "Vengeful Fleshreaper",
+			["LOOTER NAME"] = "Antishokp",
+		}, -- [375]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51881:0:0:0:0:0:0:0:80|h[Shaft of Glacial Ice]|h|r",
+				["LOOTNAME"] = "Shaft of Glacial Ice",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_staff_106",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["TOTAL ITEMS"] = 2,
+			["LOOTER NAME"] = "Antishokp",
+			["MOB NAME"] = "Rotface",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51880:0:0:0:0:0:0:0:80|h[Gluth's Fetching Knife]|h|r",
+				["LOOTNAME"] = "Gluth's Fetching Knife",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\INV_ThrowingKnife_01",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+		}, -- [376]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51889:0:0:0:0:0:0:0:80|h[Plague-Soaked Leather Leggings]|h|r",
+				["LOOTNAME"] = "Plague-Soaked Leather Leggings",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_pants_leather_34",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["TOTAL ITEMS"] = 2,
+			["LOOTER NAME"] = "Antishokp",
+			["MOB NAME"] = "Festergut",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51882:0:0:0:0:0:0:0:80|h[Kilt of Untreated Wounds]|h|r",
+				["LOOTNAME"] = "Kilt of Untreated Wounds",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_kilt_cloth_02",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+		}, -- [377]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51860:0:0:0:0:0:0:0:80|h[Rippling Flesh Kilt]|h|r",
+				["LOOTNAME"] = "Rippling Flesh Kilt",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_kilt_mail_01",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["TOTAL ITEMS"] = 4,
+			["LOOTER NAME"] = "Antishokp",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cff0070dd|Hitem:49908:0:0:0:0:0:0:0:80|h[Primordial Saronite]|h|r",
+				["LOOTNAME"] = "Primordial Saronite",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\spell_fire_felflamebreath",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52025:0:0:0:0:0:0:0:80|h[Vanquisher's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Vanquisher's Mark of Sanctification",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["MOB NAME"] = "Unknown",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51869:0:0:0:0:0:0:0:80|h[The Facelifter]|h|r",
+				["LOOTNAME"] = "The Facelifter",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_sword_154",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+		}, -- [378]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50450:0:0:0:0:0:0:0:80|h[Leggings of Dubious Charms]|h|r",
+				["LOOTNAME"] = "Leggings of Dubious Charms",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_pants_mail_35",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["TOTAL ITEMS"] = 1,
+			["MOB NAME"] = "Darkfallen Lieutenant",
+			["LOOTER NAME"] = "Antishokp",
+		}, -- [379]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51853:0:0:0:0:0:0:0:80|h[Blood-Drinker's Girdle]|h|r",
+				["LOOTNAME"] = "Blood-Drinker's Girdle",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_belt_60",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["TOTAL ITEMS"] = 2,
+			["LOOTER NAME"] = "Antishokp",
+			["MOB NAME"] = "Prince Valanar",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51849:0:0:0:0:0:0:0:80|h[Cerise Coiled Ring]|h|r",
+				["LOOTNAME"] = "Cerise Coiled Ring",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\item_icecrownringc",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+		}, -- [380]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51836:0:0:0:0:0:0:0:80|h[Tightening Waistband]|h|r",
+				["LOOTNAME"] = "Tightening Waistband",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_belt_70",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["TOTAL ITEMS"] = 4,
+			["LOOTER NAME"] = "Antishokp",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cff0070dd|Hitem:49908:0:0:0:0:0:0:0:80|h[Primordial Saronite]|h|r",
+				["LOOTNAME"] = "Primordial Saronite",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\spell_fire_felflamebreath",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52025:0:0:0:0:0:0:0:80|h[Vanquisher's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Vanquisher's Mark of Sanctification",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["MOB NAME"] = "Blood-Queen Lana'thel",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51845:0:0:0:0:0:0:0:80|h[Stakethrower]|h|r",
+				["LOOTNAME"] = "Stakethrower",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_weapon_rifle_39",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+		}, -- [381]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51946:0:0:0:0:0:0:0:80|h[Warmace of Menethil]|h|r",
+				["LOOTNAME"] = "Warmace of Menethil",
+				["ITEMLEVEL"] = 271,
+				["ICON"] = "Interface\\Icons\\inv_mace_116",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Antishokp",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52026:0:0:0:0:0:0:0:80|h[Protector's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Protector's Mark of Sanctification",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["MOB NAME"] = "The Lich King",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51939:0:0:0:0:0:0:0:80|h[Tel'thas, Dagger of the Blood King]|h|r",
+				["LOOTNAME"] = "Tel'thas, Dagger of the Blood King",
+				["ITEMLEVEL"] = 271,
+				["ICON"] = "Interface\\Icons\\inv_weapon_shortblade_101",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+		}, -- [382]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50639:0:0:0:0:0:0:0:80|h[Blood-Soaked Saronite Stompers]|h|r",
+				["LOOTNAME"] = "Blood-Soaked Saronite Stompers",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_boots_plate_13",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Newyear",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50647:0:0:0:0:0:0:0:80|h[Ahn'kahar Onyx Neckguard]|h|r",
+				["LOOTNAME"] = "Ahn'kahar Onyx Neckguard",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_jewelry_necklace_48",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Lady Deathwhisper",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50650:0:0:0:0:0:0:0:80|h[Fallen Lord's Handguards]|h|r",
+				["LOOTNAME"] = "Fallen Lord's Handguards",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_gauntlets_85",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+		}, -- [383]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50364:0:0:0:0:0:0:0:80|h[Sindragosa's Flawless Fang]|h|r",
+				["LOOTNAME"] = "Sindragosa's Flawless Fang",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_jewelry_trinket_06",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 4,
+			["LOOTER NAME"] = "Shreks",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52028:0:0:0:0:0:0:0:80|h[Vanquisher's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Vanquisher's Mark of Sanctification",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_judgementsofthejust",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52026:0:0:0:0:0:0:0:80|h[Protector's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Protector's Mark of Sanctification",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Sindragosa",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52027:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+		}, -- [384]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50729:0:0:0:0:0:0:0:80|h[Icecrown Glacial Wall]|h|r",
+				["LOOTNAME"] = "Icecrown Glacial Wall",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_shield_75",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52029:0:0:0:0:0:0:0:80|h[Protector's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Protector's Mark of Sanctification",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_judgementsofthejust",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 5,
+			["LOOTER NAME"] = "Newyear",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52027:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52025:0:0:0:0:0:0:0:80|h[Vanquisher's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Vanquisher's Mark of Sanctification",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Blood-Queen Lana'thel",
+			["ITEM_5"] = {
+				["ITEMLINK"] = "|cff0070dd|Hitem:49908:0:0:0:0:0:0:0:80|h[Primordial Saronite]|h|r",
+				["LOOTNAME"] = "Primordial Saronite",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\spell_fire_felflamebreath",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+		}, -- [385]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50348:0:0:0:0:0:0:0:80|h[Dislodged Foreign Object]|h|r",
+				["LOOTNAME"] = "Dislodged Foreign Object",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_jewelry_trinket_01",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Jokerjr",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50687:0:0:0:0:0:0:0:80|h[Bloodsunder's Bracers]|h|r",
+				["LOOTNAME"] = "Bloodsunder's Bracers",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_bracer_60",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Rotface",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50680:0:0:0:0:0:0:0:80|h[Rot-Resistant Breastplate]|h|r",
+				["LOOTNAME"] = "Rot-Resistant Breastplate",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_chest_plate22",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+		}, -- [386]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50703:0:0:0:0:0:0:0:80|h[Unclean Surgical Gloves]|h|r",
+				["LOOTNAME"] = "Unclean Surgical Gloves",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_gauntlets_104",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Newyear",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50689:0:0:0:0:0:0:0:80|h[Carapace of Forgotten Kings]|h|r",
+				["LOOTNAME"] = "Carapace of Forgotten Kings",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_chest_mail_11",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Festergut",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50702:0:0:0:0:0:0:0:80|h[Lingering Illness]|h|r",
+				["LOOTNAME"] = "Lingering Illness",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_belt_68",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+		}, -- [387]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50706:0:0:0:0:0:0:0:80|h[Tiny Abomination in a Jar]|h|r",
+				["LOOTNAME"] = "Tiny Abomination in a Jar",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_alchemy_enchantedvial",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 4,
+			["LOOTER NAME"] = "Newyear",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52027:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification1",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52027:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Unknown",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52029:0:0:0:0:0:0:0:80|h[Protector's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Protector's Mark of Sanctification",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_judgementsofthejust",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+		}, -- [388]
+		{
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52027:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "The Lich King",
+			["ITEM_5"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52030:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification2",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_judgementsofthejust",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50738:0:0:0:0:0:0:0:80|h[Mithrios, Bronzebeard's Legacy]|h|r",
+				["LOOTNAME"] = "Mithrios, Bronzebeard's Legacy",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_mace_117",
+				["ITEMLEVEL"] = 284,
+				["RECEIVED"] = "-",
+			},
+			["ITEM_6"] = {
+				["ITEMLINK"] = "|cff0070dd|Hitem:49908:0:0:0:0:0:0:0:80|h[Primordial Saronite]|h|r",
+				["LOOTNAME"] = "Primordial Saronite",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\spell_fire_felflamebreath",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52027:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification1",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["LOOTER NAME"] = "Newyear",
+			["ITEM_7"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50818:0:0:0:0:0:0:0:80|h[Invincible's Reins]|h|r",
+				["LOOTNAME"] = "Invincible's Reins",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\spell_deathknight_summondeathcharger",
+				["ITEMLEVEL"] = 20,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 7,
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50735:0:0:0:0:0:0:0:80|h[Oathbinder, Charge of the Ranger-General]|h|r",
+				["LOOTNAME"] = "Oathbinder, Charge of the Ranger-General",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_weapon_staff_109",
+				["ITEMLEVEL"] = 284,
+				["RECEIVED"] = "-",
+			},
+		}, -- [389]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:48008:0:0:0:0:0:0:0:80|h[Armplates of the Nether Lord]|h|r",
+				["LOOTNAME"] = "Armplates of the Nether Lord",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 245,
+				["ICON"] = "Interface\\Icons\\inv_bracer_26",
+			},
+			["TOTAL ITEMS"] = 2,
+			["LOOTER NAME"] = "Coniyiyakala",
+			["MOB NAME"] = "Lord Jaraxxus",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:48001:0:0:0:0:0:0:0:80|h[Firestorm Band]|h|r",
+				["LOOTNAME"] = "Firestorm Band",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 245,
+				["ICON"] = "Interface\\Icons\\INV_Jewelry_Ring_57",
+			},
+		}, -- [390]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:48027:0:0:0:0:0:0:0:80|h[Band of the Twin Val'kyr]|h|r",
+				["LOOTNAME"] = "Band of the Twin Val'kyr",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 245,
+				["ICON"] = "Interface\\Icons\\INV_Jewelry_Ring_59",
+			},
+			["ITEM_5"] = {
+				["ITEMLINK"] = "|cff0070dd|Hitem:47556:0:0:0:0:0:0:0:80|h[Crusader Orb]|h|r",
+				["LOOTNAME"] = "Crusader Orb",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\spell_holy_rune",
+			},
+			["TOTAL ITEMS"] = 5,
+			["LOOTER NAME"] = "Maturebabe",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:47641:0:0:0:0:0:0:0:80|h[Plans: Saronite Swordbreakers]|h|r",
+				["LOOTNAME"] = "Plans: Saronite Swordbreakers",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 85,
+				["ICON"] = "Interface\\Icons\\INV_Scroll_04",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:48030:0:0:0:0:0:0:0:80|h[Darkbane Amulet]|h|r",
+				["LOOTNAME"] = "Darkbane Amulet",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 245,
+				["ICON"] = "Interface\\Icons\\INV_Jewelry_Necklace_46",
+			},
+			["MOB NAME"] = "Eydis Darkbane",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:48025:0:0:0:0:0:0:0:80|h[Nemesis Blade]|h|r",
+				["LOOTNAME"] = "Nemesis Blade",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 245,
+				["ICON"] = "Interface\\Icons\\inv_weapon_shortblade_94",
+			},
+		}, -- [391]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:48041:0:0:0:0:0:0:0:80|h[Stoneskin Chestplate]|h|r",
+				["LOOTNAME"] = "Stoneskin Chestplate",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 245,
+				["ICON"] = "Interface\\Icons\\inv_chest_plate_23",
+			},
+			["TOTAL ITEMS"] = 4,
+			["LOOTER NAME"] = "Coniyiyakala",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cff0070dd|Hitem:47556:0:0:0:0:0:0:0:80|h[Crusader Orb]|h|r",
+				["LOOTNAME"] = "Crusader Orb",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\spell_holy_rune",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:48053:0:0:0:0:0:0:0:80|h[Sunwalker Legguards]|h|r",
+				["LOOTNAME"] = "Sunwalker Legguards",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 245,
+				["ICON"] = "Interface\\Icons\\inv_pants_plate_30",
+			},
+			["MOB NAME"] = "Anub'arak",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:48044:0:0:0:0:0:0:0:80|h[Ardent Guard]|h|r",
+				["LOOTNAME"] = "Ardent Guard",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 245,
+				["ICON"] = "Interface\\Icons\\inv_sword_137",
+			},
+		}, -- [392]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50617:0:0:0:0:0:0:0:80|h[Rusted Bonespike Pauldrons]|h|r",
+				["LOOTNAME"] = "Rusted Bonespike Pauldrons",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_shoulder_117",
+			},
+			["TOTAL ITEMS"] = 4,
+			["LOOTER NAME"] = "Members",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cff0070dd|Hitem:49908:0:0:0:0:0:0:0:80|h[Primordial Saronite]|h|r",
+				["LOOTNAME"] = "Primordial Saronite",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\spell_fire_felflamebreath",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50615:0:0:0:0:0:0:0:80|h[Handguards of Winter's Respite]|h|r",
+				["LOOTNAME"] = "Handguards of Winter's Respite",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_gauntlets_83",
+			},
+			["MOB NAME"] = "Lord Marrowgar",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50614:0:0:0:0:0:0:0:80|h[Loop of the Endless Labyrinth]|h|r",
+				["LOOTNAME"] = "Loop of the Endless Labyrinth",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_jewelry_ring_82",
+			},
+		}, -- [393]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50647:0:0:0:0:0:0:0:80|h[Ahn'kahar Onyx Neckguard]|h|r",
+				["LOOTNAME"] = "Ahn'kahar Onyx Neckguard",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_jewelry_necklace_48",
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Members",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50648:0:0:0:0:0:0:0:80|h[Nibelung]|h|r",
+				["LOOTNAME"] = "Nibelung",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_staff_109",
+			},
+			["MOB NAME"] = "Lady Deathwhisper",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50643:0:0:0:0:0:0:0:80|h[Shoulders of Mercy Killing]|h|r",
+				["LOOTNAME"] = "Shoulders of Mercy Killing",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_shoulder_114",
+			},
+		}, -- [394]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50660:0:0:0:0:0:0:0:80|h[Boneguard Commander's Pauldrons]|h|r",
+				["LOOTNAME"] = "Boneguard Commander's Pauldrons",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_shoulder_130",
+			},
+			["TOTAL ITEMS"] = 4,
+			["LOOTER NAME"] = "Titanoboa",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffff8000|Hitem:50274:0:0:0:0:0:0:0:80|h[Shadowfrost Shard]|h|r",
+				["LOOTNAME"] = "Shadowfrost Shard",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 0,
+				["ICON"] = "Interface\\Icons\\inv_enchant_shardshadowfrostlarge",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50657:0:0:0:0:0:0:0:80|h[Skeleton Lord's Circle]|h|r",
+				["LOOTNAME"] = "Skeleton Lord's Circle",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_jewelry_ring_83",
+			},
+			["MOB NAME"] = "Muradin Bronzebeard",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50653:0:0:0:0:0:0:0:80|h[Shadowvault Slayer's Cloak]|h|r",
+				["LOOTNAME"] = "Shadowvault Slayer's Cloak",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\item_icecrowncloak",
+			},
+		}, -- [395]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50672:0:0:0:0:0:0:0:80|h[Bloodvenom Blade]|h|r",
+				["LOOTNAME"] = "Bloodvenom Blade",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_sword_154",
+			},
+			["ITEM_5"] = {
+				["ITEMLINK"] = "|cffff8000|Hitem:50274:0:0:0:0:0:0:0:80|h[Shadowfrost Shard]|h|r",
+				["LOOTNAME"] = "Shadowfrost Shard",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 0,
+				["ICON"] = "Interface\\Icons\\inv_enchant_shardshadowfrostlarge",
+			},
+			["TOTAL ITEMS"] = 5,
+			["LOOTER NAME"] = "Titanoboa",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52025:0:0:0:0:0:0:0:80|h[Vanquisher's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Vanquisher's Mark of Sanctification",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52026:0:0:0:0:0:0:0:80|h[Protector's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Protector's Mark of Sanctification",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+			},
+			["MOB NAME"] = "Unknown",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52030:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_judgementsofthejust",
+			},
+		}, -- [396]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50623:0:0:0:0:0:0:0:80|h[Leggings of Dying Candles]|h|r",
+				["LOOTNAME"] = "Leggings of Dying Candles",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_pants_plate_33",
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Mayislash",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50627:0:0:0:0:0:0:0:80|h[Noose of Malachite]|h|r",
+				["LOOTNAME"] = "Noose of Malachite",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\item_icecrownnecklacec",
+			},
+			["MOB NAME"] = "Unknown",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50630:0:0:0:0:0:0:0:80|h[Bracers of Eternal Dreaming]|h|r",
+				["LOOTNAME"] = "Bracers of Eternal Dreaming",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_bracer_40",
+			},
+		}, -- [397]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50365:0:0:0:0:0:0:0:80|h[Phylactery of the Nameless Lich]|h|r",
+				["LOOTNAME"] = "Phylactery of the Nameless Lich",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_jewelry_trinket_03",
+			},
+			["TOTAL ITEMS"] = 4,
+			["LOOTER NAME"] = "Titanoboa",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52029:0:0:0:0:0:0:0:80|h[Protector's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Protector's Mark of Sanctification",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_judgementsofthejust",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52025:0:0:0:0:0:0:0:80|h[Vanquisher's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Vanquisher's Mark of Sanctification",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+			},
+			["MOB NAME"] = "Sindragosa",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52027:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+			},
+		}, -- [398]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50716:0:0:0:0:0:0:0:80|h[Taldaram's Plated Fists]|h|r",
+				["LOOTNAME"] = "Taldaram's Plated Fists",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_gauntlets_87",
+			},
+			["ITEM_5"] = {
+				["ITEMLINK"] = "|cffff8000|Hitem:50274:0:0:0:0:0:0:0:80|h[Shadowfrost Shard]|h|r",
+				["LOOTNAME"] = "Shadowfrost Shard",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 0,
+				["ICON"] = "Interface\\Icons\\inv_enchant_shardshadowfrostlarge",
+			},
+			["TOTAL ITEMS"] = 5,
+			["LOOTER NAME"] = "Titanoboa",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cff0070dd|Hitem:49908:0:0:0:0:0:0:0:80|h[Primordial Saronite]|h|r",
+				["LOOTNAME"] = "Primordial Saronite",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\spell_fire_felflamebreath",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50721:0:0:0:0:0:0:0:80|h[Crypt Keeper's Bracers]|h|r",
+				["LOOTNAME"] = "Crypt Keeper's Bracers1",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_bracer_46",
+			},
+			["MOB NAME"] = "Prince Valanar",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50721:0:0:0:0:0:0:0:80|h[Crypt Keeper's Bracers]|h|r",
+				["LOOTNAME"] = "Crypt Keeper's Bracers",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_bracer_46",
+			},
+		}, -- [399]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50447:0:0:0:0:0:0:0:80|h[Harbinger's Bone Band]|h|r",
+				["LOOTNAME"] = "Harbinger's Bone Band",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_jewelry_ring_84",
+			},
+			["TOTAL ITEMS"] = 2,
+			["LOOTER NAME"] = "Titanoboa",
+			["MOB NAME"] = "Darkfallen Archmage",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50452:0:0:0:0:0:0:0:80|h[Wodin's Lucky Necklace]|h|r",
+				["LOOTNAME"] = "Wodin's Lucky Necklace",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_misc_pelt_wolf_ruin_01",
+			},
+		}, -- [400]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50727:0:0:0:0:0:0:0:80|h[Bloodfall]|h|r",
+				["LOOTNAME"] = "Bloodfall",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_weapon_staff_109",
+			},
+			["TOTAL ITEMS"] = 4,
+			["LOOTER NAME"] = "Members",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52026:0:0:0:0:0:0:0:80|h[Protector's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Protector's Mark of Sanctification",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52025:0:0:0:0:0:0:0:80|h[Vanquisher's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Vanquisher's Mark of Sanctification",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+			},
+			["MOB NAME"] = "Blood-Queen Lana'thel",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52030:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_judgementsofthejust",
+			},
+		}, -- [401]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50673:0:0:0:0:0:0:0:80|h[Dual-Bladed Pauldrons]|h|r",
+				["LOOTNAME"] = "Dual-Bladed Pauldrons",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_shoulder_113",
+			},
+			["ITEM_5"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50231:0:0:0:0:0:0:0:80|h[Rotface's Acidic Blood]|h|r",
+				["LOOTNAME"] = "Rotface's Acidic Blood",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 0,
+				["ICON"] = "Interface\\Icons\\Spell_Shadow_BloodBoil",
+			},
+			["TOTAL ITEMS"] = 5,
+			["LOOTER NAME"] = "Titanoboa",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffff8000|Hitem:50274:0:0:0:0:0:0:0:80|h[Shadowfrost Shard]|h|r",
+				["LOOTNAME"] = "Shadowfrost Shard",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 0,
+				["ICON"] = "Interface\\Icons\\inv_enchant_shardshadowfrostlarge",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50674:0:0:0:0:0:0:0:80|h[Raging Behemoth's Shoulderplates]|h|r",
+				["LOOTNAME"] = "Raging Behemoth's Shoulderplates",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_shoulder_130",
+			},
+			["MOB NAME"] = "Rotface",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50685:0:0:0:0:0:0:0:80|h[Trauma]|h|r",
+				["LOOTNAME"] = "Trauma",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_mace_118",
+			},
+		}, -- [402]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50690:0:0:0:0:0:0:0:80|h[Fleshrending Gauntlets]|h|r",
+				["LOOTNAME"] = "Fleshrending Gauntlets",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_gauntlets_87",
+			},
+			["TOTAL ITEMS"] = 4,
+			["LOOTER NAME"] = "Titanoboa",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50226:0:0:0:0:0:0:0:80|h[Festergut's Acidic Blood]|h|r",
+				["LOOTNAME"] = "Festergut's Acidic Blood",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 0,
+				["ICON"] = "Interface\\Icons\\spell_deathknight_bloodboil",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50690:0:0:0:0:0:0:0:80|h[Fleshrending Gauntlets]|h|r",
+				["LOOTNAME"] = "Fleshrending Gauntlets1",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_gauntlets_87",
+			},
+			["MOB NAME"] = "Festergut",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50689:0:0:0:0:0:0:0:80|h[Carapace of Forgotten Kings]|h|r",
+				["LOOTNAME"] = "Carapace of Forgotten Kings",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_chest_mail_11",
+			},
+		}, -- [403]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50447:0:0:0:0:0:0:0:80|h[Harbinger's Bone Band]|h|r",
+				["LOOTNAME"] = "Harbinger's Bone Band",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_jewelry_ring_84",
+			},
+			["TOTAL ITEMS"] = 1,
+			["MOB NAME"] = "Alchemist Adrianna",
+			["LOOTER NAME"] = "Mayislash",
+		}, -- [404]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50707:0:0:0:0:0:0:0:80|h[Astrylian's Sutured Cinch]|h|r",
+				["LOOTNAME"] = "Astrylian's Sutured Cinch",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_belt_61",
+			},
+			["TOTAL ITEMS"] = 4,
+			["LOOTER NAME"] = "Members",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52026:0:0:0:0:0:0:0:80|h[Protector's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Protector's Mark of Sanctification1",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52025:0:0:0:0:0:0:0:80|h[Vanquisher's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Vanquisher's Mark of Sanctification",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+			},
+			["MOB NAME"] = "Unknown",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52029:0:0:0:0:0:0:0:80|h[Protector's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Protector's Mark of Sanctification",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_judgementsofthejust",
+			},
+		}, -- [405]
+		{
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52027:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+			},
+			["MOB NAME"] = "The Lich King",
+			["ITEM_5"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52029:0:0:0:0:0:0:0:80|h[Protector's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Protector's Mark of Sanctification",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_judgementsofthejust",
+			},
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50737:0:0:0:0:0:0:0:80|h[Havoc's Call, Blade of Lordaeron Kings]|h|r",
+				["LOOTNAME"] = "Havoc's Call, Blade of Lordaeron Kings",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 284,
+				["ICON"] = "Interface\\Icons\\inv_axe_113",
+			},
+			["ITEM_6"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50818:0:0:0:0:0:0:0:80|h[Invincible's Reins]|h|r",
+				["LOOTNAME"] = "Invincible's Reins",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 20,
+				["ICON"] = "Interface\\Icons\\spell_deathknight_summondeathcharger",
+			},
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52025:0:0:0:0:0:0:0:80|h[Vanquisher's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Vanquisher's Mark of Sanctification",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+			},
+			["LOOTER NAME"] = "Titanoboa",
+			["ITEM_7"] = {
+				["ITEMLINK"] = "|cffff8000|Hitem:50274:0:0:0:0:0:0:0:80|h[Shadowfrost Shard]|h|r",
+				["LOOTNAME"] = "Shadowfrost Shard",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 0,
+				["ICON"] = "Interface\\Icons\\inv_enchant_shardshadowfrostlarge",
+			},
+			["TOTAL ITEMS"] = 7,
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50730:0:0:0:0:0:0:0:80|h[Glorenzelg, High-Blade of the Silver Hand]|h|r",
+				["LOOTNAME"] = "Glorenzelg, High-Blade of the Silver Hand",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 284,
+				["ICON"] = "Interface\\Icons\\inv_sword_153",
+			},
+		}, -- [406]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51933:0:0:0:0:0:0:0:80|h[Shawl of Nerubian Silk]|h|r",
+				["LOOTNAME"] = "Shawl of Nerubian Silk",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_misc_cape_16",
+				["ITEMLEVEL"] = 264,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 2,
+			["LOOTER NAME"] = "Gspots",
+			["MOB NAME"] = "Lord Marrowgar",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51938:0:0:0:0:0:0:0:80|h[Bone Warden's Splitter]|h|r",
+				["LOOTNAME"] = "Bone Warden's Splitter",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_axe_113",
+				["ITEMLEVEL"] = 264,
+				["RECEIVED"] = "-",
+			},
+		}, -- [407]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51911:0:0:0:0:0:0:0:80|h[Pauldrons of Lost Hope]|h|r",
+				["LOOTNAME"] = "Pauldrons of Lost Hope",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_shoulder_113",
+				["ITEMLEVEL"] = 264,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 2,
+			["LOOTER NAME"] = "Gspots",
+			["MOB NAME"] = "Unknown",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51915:0:0:0:0:0:0:0:80|h[Bone Drake's Enameled Boots]|h|r",
+				["LOOTNAME"] = "Bone Drake's Enameled Boots",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_boots_plate_13",
+				["ITEMLEVEL"] = 264,
+				["RECEIVED"] = "-",
+			},
+		}, -- [408]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51896:0:0:0:0:0:0:0:80|h[Thaumaturge's Crackling Cowl]|h|r",
+				["LOOTNAME"] = "Thaumaturge's Crackling Cowl",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_helmet_156",
+				["ITEMLEVEL"] = 264,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 4,
+			["LOOTER NAME"] = "Gspots",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cff0070dd|Hitem:49908:0:0:0:0:0:0:0:80|h[Primordial Saronite]|h|r",
+				["LOOTNAME"] = "Primordial Saronite",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\spell_fire_felflamebreath",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52025:0:0:0:0:0:0:0:80|h[Vanquisher's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Vanquisher's Mark of Sanctification",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Unknown",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51897:0:0:0:0:0:0:0:80|h[Leggings of Unrelenting Blood]|h|r",
+				["LOOTNAME"] = "Leggings of Unrelenting Blood",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_pants_leather_35",
+				["ITEMLEVEL"] = 264,
+				["RECEIVED"] = "-",
+			},
+		}, -- [409]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51826:0:0:0:0:0:0:0:80|h[Lich Wrappings]|h|r",
+				["LOOTNAME"] = "Lich Wrappings",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\INV_Misc_Cape_19",
+				["ITEMLEVEL"] = 264,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 2,
+			["LOOTER NAME"] = "Gspots",
+			["MOB NAME"] = "Unknown",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51830:0:0:0:0:0:0:0:80|h[Skinned Whelp Shoulders]|h|r",
+				["LOOTNAME"] = "Skinned Whelp Shoulders",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_shoulder_112",
+				["ITEMLEVEL"] = 264,
+				["RECEIVED"] = "-",
+			},
+		}, -- [410]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50444:0:0:0:0:0:0:0:80|h[Rowan's Rifle of Silver Bullets]|h|r",
+				["LOOTNAME"] = "Rowan's Rifle of Silver Bullets",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_weapon_rifle_39",
+				["ITEMLEVEL"] = 264,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Nerub'ar Champion",
+			["TOTAL ITEMS"] = 1,
+			["LOOTER NAME"] = "Gspots",
+		}, -- [411]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50451:0:0:0:0:0:0:0:80|h[Belt of the Lonely Noble]|h|r",
+				["LOOTNAME"] = "Belt of the Lonely Noble",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_belt_70",
+				["ITEMLEVEL"] = 264,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Nerub'ar Champion",
+			["TOTAL ITEMS"] = 1,
+			["LOOTER NAME"] = "Gspots",
+		}, -- [412]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51815:0:0:0:0:0:0:0:80|h[Bleak Coldarra Carver]|h|r",
+				["LOOTNAME"] = "Bleak Coldarra Carver",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_weapon_shortblade_101",
+				["ITEMLEVEL"] = 264,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Iluminatroug",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52026:0:0:0:0:0:0:0:80|h[Protector's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Protector's Mark of Sanctification",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Sindragosa",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51812:0:0:0:0:0:0:0:80|h[Lost Pavise of the Blue Flight]|h|r",
+				["LOOTNAME"] = "Lost Pavise of the Blue Flight",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_shield_74",
+				["ITEMLEVEL"] = 264,
+				["RECEIVED"] = "-",
+			},
+		}, -- [413]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50444:0:0:0:0:0:0:0:80|h[Rowan's Rifle of Silver Bullets]|h|r",
+				["LOOTNAME"] = "Rowan's Rifle of Silver Bullets",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_weapon_rifle_39",
+				["ITEMLEVEL"] = 264,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Vengeful Fleshreaper",
+			["TOTAL ITEMS"] = 1,
+			["LOOTER NAME"] = "Gspots",
+		}, -- [414]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51847:0:0:0:0:0:0:0:80|h[Spaulders of the Blood Princes]|h|r",
+				["LOOTNAME"] = "Spaulders of the Blood Princes",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_shoulder_130",
+				["ITEMLEVEL"] = 264,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 2,
+			["LOOTER NAME"] = "Casette",
+			["MOB NAME"] = "Prince Valanar",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51854:0:0:0:0:0:0:0:80|h[Battle-Maiden's Legguards]|h|r",
+				["LOOTNAME"] = "Battle-Maiden's Legguards",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_pants_plate_31",
+				["ITEMLEVEL"] = 264,
+				["RECEIVED"] = "-",
+			},
+		}, -- [415]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50182:0:0:0:0:0:0:0:80|h[Blood Queen's Crimson Choker]|h|r",
+				["LOOTNAME"] = "Blood Queen's Crimson Choker",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_jewelcrafting_crimsonspinel_02",
+				["ITEMLEVEL"] = 264,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Alrin the Agile",
+			["TOTAL ITEMS"] = 1,
+			["LOOTER NAME"] = "Netral",
+		}, -- [416]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51873:0:0:0:0:0:0:0:80|h[Shuffling Shoes]|h|r",
+				["LOOTNAME"] = "Shuffling Shoes",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_boots_mail_10",
+				["ITEMLEVEL"] = 264,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 2,
+			["LOOTER NAME"] = "Muzan",
+			["MOB NAME"] = "Rotface",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51876:0:0:0:0:0:0:0:80|h[Abomination Knuckles]|h|r",
+				["LOOTNAME"] = "Abomination Knuckles",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_weapon_hand_34",
+				["ITEMLEVEL"] = 264,
+				["RECEIVED"] = "-",
+			},
+		}, -- [417]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51884:0:0:0:0:0:0:0:80|h[Signet of Putrefaction]|h|r",
+				["LOOTNAME"] = "Signet of Putrefaction",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_jewelry_ring_82",
+				["ITEMLEVEL"] = 264,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Iluminatroug",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cff0070dd|Hitem:49908:0:0:0:0:0:0:0:80|h[Primordial Saronite]|h|r",
+				["LOOTNAME"] = "Primordial Saronite",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\spell_fire_felflamebreath",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Festergut",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51887:0:0:0:0:0:0:0:80|h[Abracadaver]|h|r",
+				["LOOTNAME"] = "Abracadaver",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_staff_107",
+				["ITEMLEVEL"] = 264,
+				["RECEIVED"] = "-",
+			},
+		}, -- [418]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51944:0:0:0:0:0:0:0:80|h[Valius, Gavel of the Lightbringer]|h|r",
+				["LOOTNAME"] = "Valius, Gavel of the Lightbringer",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_mace_115",
+				["ITEMLEVEL"] = 271,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Gspots",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52026:0:0:0:0:0:0:0:80|h[Protector's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Protector's Mark of Sanctification",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "The Lich King",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51945:0:0:0:0:0:0:0:80|h[Tainted Twig of Nordrassil]|h|r",
+				["LOOTNAME"] = "Tainted Twig of Nordrassil",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_staff_108",
+				["ITEMLEVEL"] = 271,
+				["RECEIVED"] = "-",
+			},
+		}, -- [419]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:39296:0:0:0:0:0:0:0:80|h[Accursed Bow of the Elite]|h|r",
+				["LOOTNAME"] = "Accursed Bow of the Elite",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 200,
+				["ICON"] = "Interface\\Icons\\INV_Weapon_Bow_13",
+			},
+			["TOTAL ITEMS"] = 2,
+			["LOOTER NAME"] = "Mayislash",
+			["MOB NAME"] = "Instructor Razuvious",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:39309:0:0:0:0:0:0:0:80|h[Leggings of the Instructor]|h|r",
+				["LOOTNAME"] = "Leggings of the Instructor",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 200,
+				["ICON"] = "Interface\\Icons\\INV_Pants_Cloth_14",
+			},
+		}, -- [420]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:54569:0:0:0:0:0:0:0:80|h[Sharpened Twilight Scale]|h|r",
+				["LOOTNAME"] = "Sharpened Twilight Scale",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 271,
+				["ICON"] = "Interface\\Icons\\inv_misc_rubysanctum4",
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Miiyav",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:54569:0:0:0:0:0:0:0:80|h[Sharpened Twilight Scale]|h|r",
+				["LOOTNAME"] = "Sharpened Twilight Scale1",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 271,
+				["ICON"] = "Interface\\Icons\\inv_misc_rubysanctum4",
+			},
+			["MOB NAME"] = "Halion",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:53132:0:0:0:0:0:0:0:80|h[Penumbra Pendant]|h|r",
+				["LOOTNAME"] = "Penumbra Pendant",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 271,
+				["ICON"] = "Interface\\Icons\\inv_jewelry_necklace_48",
+			},
+		}, -- [421]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50604:0:0:0:0:0:0:0:80|h[Band of the Bone Colossus]|h|r",
+				["LOOTNAME"] = "Band of the Bone Colossus",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_jewelry_ring_83",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Spacefloozy",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50608:0:0:0:0:0:0:0:80|h[Frozen Bonespike]|h|r",
+				["LOOTNAME"] = "Frozen Bonespike",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_weapon_shortblade_101",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Lord Marrowgar",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50606:0:0:0:0:0:0:0:80|h[Gendarme's Cuirass]|h|r",
+				["LOOTNAME"] = "Gendarme's Cuirass",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_chest_plate_26",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+		}, -- [422]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50641:0:0:0:0:0:0:0:80|h[Heartpierce]|h|r",
+				["LOOTNAME"] = "Heartpierce",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_weapon_shortblade_103",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Talrel",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50651:0:0:0:0:0:0:0:80|h[The Lady's Brittle Bracers]|h|r",
+				["LOOTNAME"] = "The Lady's Brittle Bracers",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_bracer_44",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Lady Deathwhisper",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50647:0:0:0:0:0:0:0:80|h[Ahn'kahar Onyx Neckguard]|h|r",
+				["LOOTNAME"] = "Ahn'kahar Onyx Neckguard",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_jewelry_necklace_48",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+		}, -- [423]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50453:0:0:0:0:0:0:0:80|h[Ring of Rotting Sinew]|h|r",
+				["LOOTNAME"] = "Ring of Rotting Sinew",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_jewelry_ring_81",
+				["ITEMLEVEL"] = 264,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Kor'kron Lieutenant",
+			["TOTAL ITEMS"] = 1,
+			["LOOTER NAME"] = "Kayalar",
+		}, -- [424]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50664:0:0:0:0:0:0:0:80|h[Ring of Rapid Ascent]|h|r",
+				["LOOTNAME"] = "Ring of Rapid Ascent",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_jewelry_ring_86",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 4,
+			["LOOTER NAME"] = "Kayalar",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cff0070dd|Hitem:49908:0:0:0:0:0:0:0:80|h[Primordial Saronite]|h|r",
+				["LOOTNAME"] = "Primordial Saronite",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\spell_fire_felflamebreath",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50655:0:0:0:0:0:0:0:80|h[Scourge Hunter's Vambraces]|h|r",
+				["LOOTNAME"] = "Scourge Hunter's Vambraces",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_bracer_40",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Unknown",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50658:0:0:0:0:0:0:0:80|h[Amulet of the Silent Eulogy]|h|r",
+				["LOOTNAME"] = "Amulet of the Silent Eulogy",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\item_icecrownnecklaced",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+		}, -- [425]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50670:0:0:0:0:0:0:0:80|h[Toskk's Maximized Wristguards]|h|r",
+				["LOOTNAME"] = "Toskk's Maximized Wristguards",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_bracer_41",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52030:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_judgementsofthejust",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 5,
+			["LOOTER NAME"] = "Helgrip",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52027:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification2",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52027:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification1",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Unknown",
+			["ITEM_5"] = {
+				["ITEMLINK"] = "|cff0070dd|Hitem:49908:0:0:0:0:0:0:0:80|h[Primordial Saronite]|h|r",
+				["LOOTNAME"] = "Primordial Saronite",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\spell_fire_felflamebreath",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+		}, -- [426]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50699:0:0:0:0:0:0:0:80|h[Plague Scientist's Boots]|h|r",
+				["LOOTNAME"] = "Plague Scientist's Boots",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_boots_cloth_24",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 4,
+			["LOOTER NAME"] = "Talrel",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cff0070dd|Hitem:49908:0:0:0:0:0:0:0:80|h[Primordial Saronite]|h|r",
+				["LOOTNAME"] = "Primordial Saronite",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\spell_fire_felflamebreath",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50695:0:0:0:0:0:0:0:80|h[Distant Land]|h|r",
+				["LOOTNAME"] = "Distant Land",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_staff_107",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Festergut",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50700:0:0:0:0:0:0:0:80|h[Holiday's Grace]|h|r",
+				["LOOTNAME"] = "Holiday's Grace",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_jewelry_necklace_49",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+		}, -- [427]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50674:0:0:0:0:0:0:0:80|h[Raging Behemoth's Shoulderplates]|h|r",
+				["LOOTNAME"] = "Raging Behemoth's Shoulderplates",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_shoulder_130",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Helgrip",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50678:0:0:0:0:0:0:0:80|h[Seal of Many Mouths]|h|r",
+				["LOOTNAME"] = "Seal of Many Mouths",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\item_icecrownringc",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Rotface",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50676:0:0:0:0:0:0:0:80|h[Rib Spreader]|h|r",
+				["LOOTNAME"] = "Rib Spreader",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_weapon_shortblade_105",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+		}, -- [428]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50710:0:0:0:0:0:0:0:80|h[Keleseth's Seducer]|h|r",
+				["LOOTNAME"] = "Keleseth's Seducer",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_weapon_hand_33",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Helgrip",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50722:0:0:0:0:0:0:0:80|h[San'layn Ritualist Gloves]|h|r",
+				["LOOTNAME"] = "San'layn Ritualist Gloves",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_gauntlets_92",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Prince Valanar",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50717:0:0:0:0:0:0:0:80|h[Sanguine Silk Robes]|h|r",
+				["LOOTNAME"] = "Sanguine Silk Robes",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_chest_cloth_80",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+		}, -- [429]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50727:0:0:0:0:0:0:0:80|h[Bloodfall]|h|r",
+				["LOOTNAME"] = "Bloodfall",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_weapon_staff_109",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52030:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_judgementsofthejust",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 5,
+			["LOOTER NAME"] = "Helgrip",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52025:0:0:0:0:0:0:0:80|h[Vanquisher's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Vanquisher's Mark of Sanctification",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52027:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification1",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Blood-Queen Lana'thel",
+			["ITEM_5"] = {
+				["ITEMLINK"] = "|cffff8000|Hitem:50274:0:0:0:0:0:0:0:80|h[Shadowfrost Shard]|h|r",
+				["LOOTNAME"] = "Shadowfrost Shard",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_enchant_shardshadowfrostlarge",
+				["ITEMLEVEL"] = 0,
+				["RECEIVED"] = "-",
+			},
+		}, -- [430]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50631:0:0:0:0:0:0:0:80|h[Nightmare Ender]|h|r",
+				["LOOTNAME"] = "Nightmare Ender",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_wand_34",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Helgrip",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50631:0:0:0:0:0:0:0:80|h[Nightmare Ender]|h|r",
+				["LOOTNAME"] = "Nightmare Ender1",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_wand_34",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Unknown",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50628:0:0:0:0:0:0:0:80|h[Frostbinder's Shredded Cape]|h|r",
+				["LOOTNAME"] = "Frostbinder's Shredded Cape",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\INV_Misc_Cape_16",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+		}, -- [431]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50451:0:0:0:0:0:0:0:80|h[Belt of the Lonely Noble]|h|r",
+				["LOOTNAME"] = "Belt of the Lonely Noble",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_belt_70",
+				["ITEMLEVEL"] = 264,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Nerub'ar Champion",
+			["TOTAL ITEMS"] = 1,
+			["LOOTER NAME"] = "Kkserafettin",
+		}, -- [432]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50633:0:0:0:0:0:0:0:80|h[Sindragosa's Cruel Claw]|h|r",
+				["LOOTNAME"] = "Sindragosa's Cruel Claw",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_misc_monsterhorn_03",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 4,
+			["LOOTER NAME"] = "Spacefloozy",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52028:0:0:0:0:0:0:0:80|h[Vanquisher's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Vanquisher's Mark of Sanctification1",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_judgementsofthejust",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52027:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Sindragosa",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52025:0:0:0:0:0:0:0:80|h[Vanquisher's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Vanquisher's Mark of Sanctification",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+		}, -- [433]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50708:0:0:0:0:0:0:0:80|h[Last Word]|h|r",
+				["LOOTNAME"] = "Last Word",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_mace_114",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 4,
+			["LOOTER NAME"] = "Kkserafettin",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52027:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52026:0:0:0:0:0:0:0:80|h[Protector's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Protector's Mark of Sanctification1",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Unknown",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52029:0:0:0:0:0:0:0:80|h[Protector's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Protector's Mark of Sanctification",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_judgementsofthejust",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+		}, -- [434]
+		{
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52026:0:0:0:0:0:0:0:80|h[Protector's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Protector's Mark of Sanctification",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["MOB NAME"] = "The Lich King",
+			["ITEM_5"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52028:0:0:0:0:0:0:0:80|h[Vanquisher's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Vanquisher's Mark of Sanctification1",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_judgementsofthejust",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50738:0:0:0:0:0:0:0:80|h[Mithrios, Bronzebeard's Legacy]|h|r",
+				["LOOTNAME"] = "Mithrios, Bronzebeard's Legacy",
+				["ITEMLEVEL"] = 284,
+				["ICON"] = "Interface\\Icons\\inv_mace_117",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["ITEM_6"] = {
+				["ITEMLINK"] = "|cff0070dd|Hitem:49908:0:0:0:0:0:0:0:80|h[Primordial Saronite]|h|r",
+				["LOOTNAME"] = "Primordial Saronite",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\spell_fire_felflamebreath",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52025:0:0:0:0:0:0:0:80|h[Vanquisher's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Vanquisher's Mark of Sanctification",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["LOOTER NAME"] = "Helgrip",
+			["ITEM_8"] = {
+				["ITEMLINK"] = "|cffff8000|Hitem:50274:0:0:0:0:0:0:0:80|h[Shadowfrost Shard]|h|r",
+				["LOOTNAME"] = "Shadowfrost Shard",
+				["ITEMLEVEL"] = 0,
+				["ICON"] = "Interface\\Icons\\inv_enchant_shardshadowfrostlarge",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["ITEM_7"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50818:0:0:0:0:0:0:0:80|h[Invincible's Reins]|h|r",
+				["LOOTNAME"] = "Invincible's Reins",
+				["ITEMLEVEL"] = 20,
+				["ICON"] = "Interface\\Icons\\spell_deathknight_summondeathcharger",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["TOTAL ITEMS"] = 8,
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50738:0:0:0:0:0:0:0:80|h[Mithrios, Bronzebeard's Legacy]|h|r",
+				["LOOTNAME"] = "Mithrios, Bronzebeard's Legacy1",
+				["ITEMLEVEL"] = 284,
+				["ICON"] = "Interface\\Icons\\inv_mace_117",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+		}, -- [435]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51375:0:0:0:0:0:0:0:80|h[Wrathful Gladiator's Sabatons of Dominance]|h|r",
+				["LOOTNAME"] = "Wrathful Gladiator's Sabatons of Dominance",
+				["ICON"] = "Interface\\Icons\\inv_boots_chain_07",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 264,
+			},
+			["TOTAL ITEMS"] = 4,
+			["LOOTER NAME"] = "Schnazzy",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51365:0:0:0:0:0:0:0:80|h[Wrathful Gladiator's Cord of Salvation]|h|r",
+				["LOOTNAME"] = "Wrathful Gladiator's Cord of Salvation",
+				["ICON"] = "Interface\\Icons\\inv_belt_78",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 264,
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51193:0:0:0:0:0:0:0:80|h[Sanctified Frost Witch's Legguards]|h|r",
+				["LOOTNAME"] = "Sanctified Frost Witch's Legguards",
+				["ICON"] = "Interface\\Icons\\inv_kilt_mail_01",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 264,
+			},
+			["MOB NAME"] = "Toravon the Ice Watcher",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51148:0:0:0:0:0:0:0:80|h[Sanctified Lasherweave Gloves]|h|r",
+				["LOOTNAME"] = "Sanctified Lasherweave Gloves",
+				["ICON"] = "Interface\\Icons\\inv_gauntlets_83",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 264,
+			},
+		}, -- [436]
+		{
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52027:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["MOB NAME"] = "The Lich King",
+			["ITEM_5"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52030:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification1",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_judgementsofthejust",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50733:0:0:0:0:0:0:0:80|h[Fal'inrush, Defender of Quel'thalas]|h|r",
+				["LOOTNAME"] = "Fal'inrush, Defender of Quel'thalas",
+				["ITEMLEVEL"] = 284,
+				["ICON"] = "Interface\\Icons\\inv_weapon_crossbow_38",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["ITEM_6"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50818:0:0:0:0:0:0:0:80|h[Invincible's Reins]|h|r",
+				["LOOTNAME"] = "Invincible's Reins",
+				["ITEMLEVEL"] = 20,
+				["ICON"] = "Interface\\Icons\\spell_deathknight_summondeathcharger",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52026:0:0:0:0:0:0:0:80|h[Protector's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Protector's Mark of Sanctification",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["LOOTER NAME"] = "Waterquake",
+			["TOTAL ITEMS"] = 6,
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50736:0:0:0:0:0:0:0:80|h[Heaven's Fall, Kryss of a Thousand Lies]|h|r",
+				["LOOTNAME"] = "Heaven's Fall, Kryss of a Thousand Lies",
+				["ITEMLEVEL"] = 284,
+				["ICON"] = "Interface\\Icons\\inv_weapon_shortblade_104",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+		}, -- [437]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:54590:0:0:0:0:0:0:0:80|h[Sharpened Twilight Scale]|h|r",
+				["LOOTNAME"] = "Sharpened Twilight Scale",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_misc_rubysanctum4",
+				["ITEMLEVEL"] = 284,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Mayicrush",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:54587:0:0:0:0:0:0:0:80|h[Split Shape Belt]|h|r",
+				["LOOTNAME"] = "Split Shape Belt",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_belt_83",
+				["ITEMLEVEL"] = 284,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Halion",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:54585:0:0:0:0:0:0:0:80|h[Ring of Phased Regeneration]|h|r",
+				["LOOTNAME"] = "Ring of Phased Regeneration",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\item_icecrownringb",
+				["ITEMLEVEL"] = 284,
+				["RECEIVED"] = "-",
+			},
+		}, -- [438]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50608:0:0:0:0:0:0:0:80|h[Frozen Bonespike]|h|r",
+				["LOOTNAME"] = "Frozen Bonespike",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_weapon_shortblade_101",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Goodsap",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50610:0:0:0:0:0:0:0:80|h[Marrowgar's Frigid Eye]|h|r",
+				["LOOTNAME"] = "Marrowgar's Frigid Eye1",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\item_icecrownringb",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Lord Marrowgar",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50610:0:0:0:0:0:0:0:80|h[Marrowgar's Frigid Eye]|h|r",
+				["LOOTNAME"] = "Marrowgar's Frigid Eye",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\item_icecrownringb",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+		}, -- [439]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50640:0:0:0:0:0:0:0:80|h[Broken Ram Skull Helm]|h|r",
+				["LOOTNAME"] = "Broken Ram Skull Helm",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_helmet_151",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 4,
+			["LOOTER NAME"] = "Xlothly",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffff8000|Hitem:50274:0:0:0:0:0:0:0:80|h[Shadowfrost Shard]|h|r",
+				["LOOTNAME"] = "Shadowfrost Shard",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_enchant_shardshadowfrostlarge",
+				["ITEMLEVEL"] = 0,
+				["RECEIVED"] = "-",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50640:0:0:0:0:0:0:0:80|h[Broken Ram Skull Helm]|h|r",
+				["LOOTNAME"] = "Broken Ram Skull Helm1",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_helmet_151",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Lady Deathwhisper",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50645:0:0:0:0:0:0:0:80|h[Leggings of Northern Lights]|h|r",
+				["LOOTNAME"] = "Leggings of Northern Lights",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_pants_mail_32",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+		}, -- [440]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50665:0:0:0:0:0:0:0:80|h[Boots of Unnatural Growth]|h|r",
+				["LOOTNAME"] = "Boots of Unnatural Growth",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_boots_leather_8",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 4,
+			["LOOTER NAME"] = "Xlothly",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffff8000|Hitem:50274:0:0:0:0:0:0:0:80|h[Shadowfrost Shard]|h|r",
+				["LOOTNAME"] = "Shadowfrost Shard",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_enchant_shardshadowfrostlarge",
+				["ITEMLEVEL"] = 0,
+				["RECEIVED"] = "-",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50667:0:0:0:0:0:0:0:80|h[Waistband of Righteous Fury]|h|r",
+				["LOOTNAME"] = "Waistband of Righteous Fury",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_belt_70",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Unknown",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50658:0:0:0:0:0:0:0:80|h[Amulet of the Silent Eulogy]|h|r",
+				["LOOTNAME"] = "Amulet of the Silent Eulogy",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\item_icecrownnecklaced",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+		}, -- [441]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50671:0:0:0:0:0:0:0:80|h[Belt of the Blood Nova]|h|r",
+				["LOOTNAME"] = "Belt of the Blood Nova",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_belt_83",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 4,
+			["LOOTER NAME"] = "Xlothly",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52026:0:0:0:0:0:0:0:80|h[Protector's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Protector's Mark of Sanctification1",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52027:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Unknown",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52029:0:0:0:0:0:0:0:80|h[Protector's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Protector's Mark of Sanctification",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_judgementsofthejust",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+		}, -- [442]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50447:0:0:0:0:0:0:0:80|h[Harbinger's Bone Band]|h|r",
+				["LOOTNAME"] = "Harbinger's Bone Band",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_jewelry_ring_84",
+				["ITEMLEVEL"] = 264,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Darkfallen Advisor",
+			["TOTAL ITEMS"] = 1,
+			["LOOTER NAME"] = "Xlothly",
+		}, -- [443]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50452:0:0:0:0:0:0:0:80|h[Wodin's Lucky Necklace]|h|r",
+				["LOOTNAME"] = "Wodin's Lucky Necklace",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_misc_pelt_wolf_ruin_01",
+				["ITEMLEVEL"] = 264,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 2,
+			["LOOTER NAME"] = "Xlothly",
+			["MOB NAME"] = "Darkfallen Tactician",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50444:0:0:0:0:0:0:0:80|h[Rowan's Rifle of Silver Bullets]|h|r",
+				["LOOTNAME"] = "Rowan's Rifle of Silver Bullets",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_weapon_rifle_39",
+				["ITEMLEVEL"] = 264,
+				["RECEIVED"] = "-",
+			},
+		}, -- [444]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50625:0:0:0:0:0:0:0:80|h[Grinning Skull Greatboots]|h|r",
+				["LOOTNAME"] = "Grinning Skull Greatboots",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_boots_plate_13",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 4,
+			["LOOTER NAME"] = "Xlothly",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffff8000|Hitem:50274:0:0:0:0:0:0:0:80|h[Shadowfrost Shard]|h|r",
+				["LOOTNAME"] = "Shadowfrost Shard",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_enchant_shardshadowfrostlarge",
+				["ITEMLEVEL"] = 0,
+				["RECEIVED"] = "-",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50632:0:0:0:0:0:0:0:80|h[Boots of the Funeral March]|h|r",
+				["LOOTNAME"] = "Boots of the Funeral March",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_boots_plate_14",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Unknown",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50629:0:0:0:0:0:0:0:80|h[Robe of the Waking Nightmare]|h|r",
+				["LOOTNAME"] = "Robe of the Waking Nightmare",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_chest_cloth_77",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+		}, -- [445]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50636:0:0:0:0:0:0:0:80|h[Memory of Malygos]|h|r",
+				["LOOTNAME"] = "Memory of Malygos",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\INV_Jewelry_Ring_40",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 4,
+			["LOOTER NAME"] = "Goodsap",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52030:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification2",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_judgementsofthejust",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52027:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification1",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Sindragosa",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52027:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+		}, -- [446]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50717:0:0:0:0:0:0:0:80|h[Sanguine Silk Robes]|h|r",
+				["LOOTNAME"] = "Sanguine Silk Robes",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_chest_cloth_80",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Xlothly",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50715:0:0:0:0:0:0:0:80|h[Shoulders of Frost-Tipped Thorns]|h|r",
+				["LOOTNAME"] = "Shoulders of Frost-Tipped Thorns",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_shoulder_111",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Prince Valanar",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50723:0:0:0:0:0:0:0:80|h[Mail of Crimson Coins]|h|r",
+				["LOOTNAME"] = "Mail of Crimson Coins",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_chest_mail_15",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+		}, -- [447]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50452:0:0:0:0:0:0:0:80|h[Wodin's Lucky Necklace]|h|r",
+				["LOOTNAME"] = "Wodin's Lucky Necklace",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_misc_pelt_wolf_ruin_01",
+				["ITEMLEVEL"] = 264,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 2,
+			["LOOTER NAME"] = "Xlothly",
+			["MOB NAME"] = "Darkfallen Tactician",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50450:0:0:0:0:0:0:0:80|h[Leggings of Dubious Charms]|h|r",
+				["LOOTNAME"] = "Leggings of Dubious Charms",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_pants_mail_35",
+				["ITEMLEVEL"] = 264,
+				["RECEIVED"] = "-",
+			},
+		}, -- [448]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50728:0:0:0:0:0:0:0:80|h[Lana'thel's Chain of Flagellation]|h|r",
+				["LOOTNAME"] = "Lana'thel's Chain of Flagellation",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_jewelry_necklace_50",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 4,
+			["LOOTER NAME"] = "Mayislash",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52026:0:0:0:0:0:0:0:80|h[Protector's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Protector's Mark of Sanctification",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52027:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Blood-Queen Lana'thel",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52028:0:0:0:0:0:0:0:80|h[Vanquisher's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Vanquisher's Mark of Sanctification",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_judgementsofthejust",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+		}, -- [449]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50682:0:0:0:0:0:0:0:80|h[Bile-Encrusted Medallion]|h|r",
+				["LOOTNAME"] = "Bile-Encrusted Medallion",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\item_icecrownnecklaceb",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Goodsap",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50674:0:0:0:0:0:0:0:80|h[Raging Behemoth's Shoulderplates]|h|r",
+				["LOOTNAME"] = "Raging Behemoth's Shoulderplates",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_shoulder_130",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Rotface",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50676:0:0:0:0:0:0:0:80|h[Rib Spreader]|h|r",
+				["LOOTNAME"] = "Rib Spreader",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_weapon_shortblade_105",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+		}, -- [450]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50695:0:0:0:0:0:0:0:80|h[Distant Land]|h|r",
+				["LOOTNAME"] = "Distant Land",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_staff_107",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Xlothly",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50691:0:0:0:0:0:0:0:80|h[Belt of Broken Bones]|h|r",
+				["LOOTNAME"] = "Belt of Broken Bones",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_belt_63",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Festergut",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50698:0:0:0:0:0:0:0:80|h[Horrific Flesh Epaulets]|h|r",
+				["LOOTNAME"] = "Horrific Flesh Epaulets",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_shoulder_133",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+		}, -- [451]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50706:0:0:0:0:0:0:0:80|h[Tiny Abomination in a Jar]|h|r",
+				["LOOTNAME"] = "Tiny Abomination in a Jar",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_alchemy_enchantedvial",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 4,
+			["LOOTER NAME"] = "Goodsap",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52027:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification1",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52025:0:0:0:0:0:0:0:80|h[Vanquisher's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Vanquisher's Mark of Sanctification",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Unknown",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52030:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_judgementsofthejust",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+		}, -- [452]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:41928:0:0:0:0:0:0:0:80|h[Relentless Gladiator's Satin Leggings]|h|r",
+				["LOOTNAME"] = "Jambières du gladiateur implacable en satin",
+				["ITEMLEVEL"] = 251,
+				["ICON"] = "Interface\\Icons\\inv_pants_cloth_31",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["TOTAL ITEMS"] = 4,
+			["LOOTER NAME"] = "Itslove",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:47803:0:0:0:0:0:0:0:80|h[Gul'dan's Gloves of Triumph]|h|r",
+				["LOOTNAME"] = "Gants de triomphe de Gul'dan",
+				["ITEMLEVEL"] = 245,
+				["ICON"] = "Interface\\Icons\\inv_gauntlets_61",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:41061:0:0:0:0:0:0:0:80|h[Relentless Gladiator's Wristguards of Salvation]|h|r",
+				["LOOTNAME"] = "Garde-poignets de salut du gladiateur implacable",
+				["ITEMLEVEL"] = 245,
+				["ICON"] = "Interface\\Icons\\inv_bracer_32b",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["MOB NAME"] = "Koralon le Veilleur des flammes",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:40979:0:0:0:0:0:0:0:80|h[Relentless Gladiator's Greaves of Salvation]|h|r",
+				["LOOTNAME"] = "Grèves de salut du gladiateur implacable",
+				["ITEMLEVEL"] = 245,
+				["ICON"] = "Interface\\Icons\\inv_boots_plate_08",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+		}, -- [453]
+		{
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51126:0:0:0:0:0:0:0:80|h[Sanctified Scourgelord Legplates]|h|r",
+				["LOOTNAME"] = "Sanctified Scourgelord Legplates",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_pants_plate_31",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["MOB NAME"] = "寒冰看守者图拉旺",
+			["ITEM_5"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51365:0:0:0:0:0:0:0:80|h[Wrathful Gladiator's Cord of Salvation]|h|r",
+				["LOOTNAME"] = "Wrathful Gladiator's Cord of Salvation",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_belt_78",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51490:0:0:0:0:0:0:0:80|h[Wrathful Gladiator's Satin Leggings]|h|r",
+				["LOOTNAME"] = "Wrathful Gladiator's Satin Leggings",
+				["ITEMLEVEL"] = 270,
+				["ICON"] = "Interface\\Icons\\inv_pants_cloth_37",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["ITEM_6"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51126:0:0:0:0:0:0:0:80|h[Sanctified Scourgelord Legplates]|h|r",
+				["LOOTNAME"] = "神圣天灾领主腿铠",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_pants_plate_31",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51213:0:0:0:0:0:0:0:80|h[Sanctified Ymirjar Lord's Gauntlets]|h|r",
+				["LOOTNAME"] = "Sanctified Ymirjar Lord's Gauntlets",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_gauntlets_86",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["LOOTER NAME"] = "Onelymagic",
+			["ITEM_8"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51365:0:0:0:0:0:0:0:80|h[Wrathful Gladiator's Cord of Salvation]|h|r",
+				["LOOTNAME"] = "暴怒角斗士的拯救裹腰",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_belt_78",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["ITEM_7"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51213:0:0:0:0:0:0:0:80|h[Sanctified Ymirjar Lord's Gauntlets]|h|r",
+				["LOOTNAME"] = "神圣伊米亚之王护手",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_gauntlets_86",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["TOTAL ITEMS"] = 8,
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51490:0:0:0:0:0:0:0:80|h[Wrathful Gladiator's Satin Leggings]|h|r",
+				["LOOTNAME"] = "暴怒角斗士的绸缎护腿",
+				["ITEMLEVEL"] = 270,
+				["ICON"] = "Interface\\Icons\\inv_pants_cloth_37",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+		}, -- [454]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:42045:0:0:0:0:0:0:0:80|h[Relentless Gladiator's Pendant of Subjugation]|h|r",
+				["LOOTNAME"] = "Relentless Gladiator's Pendant of Subjugation",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\INV_Jewelry_Necklace_36",
+				["ITEMLEVEL"] = 245,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 2,
+			["LOOTER NAME"] = "Mayicurse",
+			["MOB NAME"] = "Toravon the Ice Watcher",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:41061:0:0:0:0:0:0:0:80|h[Relentless Gladiator's Wristguards of Salvation]|h|r",
+				["LOOTNAME"] = "Relentless Gladiator's Wristguards of Salvation",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_bracer_32b",
+				["ITEMLEVEL"] = 245,
+				["RECEIVED"] = "-",
+			},
+		}, -- [455]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50615:0:0:0:0:0:0:0:80|h[Handguards of Winter's Respite]|h|r",
+				["LOOTNAME"] = "Handguards of Winter's Respite",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_gauntlets_83",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Dududilleri",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50615:0:0:0:0:0:0:0:80|h[Handguards of Winter's Respite]|h|r",
+				["LOOTNAME"] = "Handguards of Winter's Respite1",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_gauntlets_83",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Lord Marrowgar",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50604:0:0:0:0:0:0:0:80|h[Band of the Bone Colossus]|h|r",
+				["LOOTNAME"] = "Band of the Bone Colossus",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_jewelry_ring_83",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+		}, -- [456]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50450:0:0:0:0:0:0:0:80|h[Leggings of Dubious Charms]|h|r",
+				["LOOTNAME"] = "Leggings of Dubious Charms",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_pants_mail_35",
+				["ITEMLEVEL"] = 264,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Deathspeaker Attendant",
+			["TOTAL ITEMS"] = 1,
+			["LOOTER NAME"] = "Dududilleri",
+		}, -- [457]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:49982:0:0:0:0:0:0:0:80|h[Heartpierce]|h|r",
+				["LOOTNAME"] = "Heartpierce",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_weapon_shortblade_103",
+				["ITEMLEVEL"] = 264,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 4,
+			["LOOTER NAME"] = "Raukothol",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffff8000|Hitem:50274:0:0:0:0:0:0:0:80|h[Shadowfrost Shard]|h|r",
+				["LOOTNAME"] = "Shadowfrost Shard",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_enchant_shardshadowfrostlarge",
+				["ITEMLEVEL"] = 0,
+				["RECEIVED"] = "-",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:49988:0:0:0:0:0:0:0:80|h[Leggings of Northern Lights]|h|r",
+				["LOOTNAME"] = "Leggings of Northern Lights",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_pants_mail_32",
+				["ITEMLEVEL"] = 264,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Lady Deathwhisper",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:49987:0:0:0:0:0:0:0:80|h[Cultist's Bloodsoaked Spaulders]|h|r",
+				["LOOTNAME"] = "Cultist's Bloodsoaked Spaulders",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_shoulder_112",
+				["ITEMLEVEL"] = 264,
+				["RECEIVED"] = "-",
+			},
+		}, -- [458]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50444:0:0:0:0:0:0:0:80|h[Rowan's Rifle of Silver Bullets]|h|r",
+				["LOOTNAME"] = "Rowan's Rifle of Silver Bullets",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_weapon_rifle_39",
+				["ITEMLEVEL"] = 264,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Frenzied Abomination",
+			["TOTAL ITEMS"] = 1,
+			["LOOTER NAME"] = "Asylord",
+		}, -- [459]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50450:0:0:0:0:0:0:0:80|h[Leggings of Dubious Charms]|h|r",
+				["LOOTNAME"] = "Leggings of Dubious Charms",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_pants_mail_35",
+				["ITEMLEVEL"] = 264,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Kor'kron Lieutenant",
+			["TOTAL ITEMS"] = 1,
+			["LOOTER NAME"] = "Raukothol",
+		}, -- [460]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50069:0:0:0:0:0:0:0:80|h[Professor's Bloodied Smock]|h|r",
+				["LOOTNAME"] = "Professor's Bloodied Smock",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_belt_59",
+				["ITEMLEVEL"] = 264,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Kor'kron Lieutenant",
+			["TOTAL ITEMS"] = 1,
+			["LOOTER NAME"] = "Huntinghawk",
+		}, -- [461]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50660:0:0:0:0:0:0:0:80|h[Boneguard Commander's Pauldrons]|h|r",
+				["LOOTNAME"] = "Boneguard Commander's Pauldrons",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_shoulder_130",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 4,
+			["LOOTER NAME"] = "Dududilleri",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cff0070dd|Hitem:49908:0:0:0:0:0:0:0:80|h[Primordial Saronite]|h|r",
+				["LOOTNAME"] = "Primordial Saronite",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\spell_fire_felflamebreath",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50660:0:0:0:0:0:0:0:80|h[Boneguard Commander's Pauldrons]|h|r",
+				["LOOTNAME"] = "Boneguard Commander's Pauldrons1",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_shoulder_130",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Unknown",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50663:0:0:0:0:0:0:0:80|h[Gunship Captain's Mittens]|h|r",
+				["LOOTNAME"] = "Gunship Captain's Mittens",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_gauntlets_88",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+		}, -- [462]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50672:0:0:0:0:0:0:0:80|h[Bloodvenom Blade]|h|r",
+				["LOOTNAME"] = "Bloodvenom Blade",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_sword_154",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 4,
+			["LOOTER NAME"] = "Dududilleri",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52027:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification2",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52027:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification1",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Unknown",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52030:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_judgementsofthejust",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+		}, -- [463]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50453:0:0:0:0:0:0:0:80|h[Ring of Rotting Sinew]|h|r",
+				["LOOTNAME"] = "Ring of Rotting Sinew",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_jewelry_ring_81",
+				["ITEMLEVEL"] = 264,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Vengeful Fleshreaper",
+			["TOTAL ITEMS"] = 1,
+			["LOOTER NAME"] = "Junon",
+		}, -- [464]
+		{
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50676:0:0:0:0:0:0:0:80|h[Rib Spreader]|h|r",
+				["LOOTNAME"] = "Rib Spreader",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_weapon_shortblade_105",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Rotface",
+			["ITEM_5"] = {
+				["ITEMLINK"] = "|cffff8000|Hitem:50274:0:0:0:0:0:0:0:80|h[Shadowfrost Shard]|h|r",
+				["LOOTNAME"] = "Shadowfrost Shard",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_enchant_shardshadowfrostlarge",
+				["ITEMLEVEL"] = 0,
+				["RECEIVED"] = "-",
+			},
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50679:0:0:0:0:0:0:0:80|h[Helm of the Elder Moon]|h|r",
+				["LOOTNAME"] = "Helm of the Elder Moon",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_helmet_148",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["ITEM_6"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50231:0:0:0:0:0:0:0:80|h[Rotface's Acidic Blood]|h|r",
+				["LOOTNAME"] = "Rotface's Acidic Blood",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\Spell_Shadow_BloodBoil",
+				["ITEMLEVEL"] = 0,
+				["RECEIVED"] = "-",
+			},
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cff0070dd|Hitem:49908:0:0:0:0:0:0:0:80|h[Primordial Saronite]|h|r",
+				["LOOTNAME"] = "Primordial Saronite",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\spell_fire_felflamebreath",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["LOOTER NAME"] = "Dududilleri",
+			["TOTAL ITEMS"] = 6,
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50673:0:0:0:0:0:0:0:80|h[Dual-Bladed Pauldrons]|h|r",
+				["LOOTNAME"] = "Dual-Bladed Pauldrons",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_shoulder_113",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+		}, -- [465]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50698:0:0:0:0:0:0:0:80|h[Horrific Flesh Epaulets]|h|r",
+				["LOOTNAME"] = "Horrific Flesh Epaulets",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_shoulder_133",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50688:0:0:0:0:0:0:0:80|h[Nerub'ar Stalker's Cord]|h|r",
+				["LOOTNAME"] = "Nerub'ar Stalker's Cord",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_belt_60",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 5,
+			["LOOTER NAME"] = "Dududilleri",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cff0070dd|Hitem:49908:0:0:0:0:0:0:0:80|h[Primordial Saronite]|h|r",
+				["LOOTNAME"] = "Primordial Saronite",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\spell_fire_felflamebreath",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50692:0:0:0:0:0:0:0:80|h[Black Bruise]|h|r",
+				["LOOTNAME"] = "Black Bruise",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_weapon_hand_33",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Festergut",
+			["ITEM_5"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50226:0:0:0:0:0:0:0:80|h[Festergut's Acidic Blood]|h|r",
+				["LOOTNAME"] = "Festergut's Acidic Blood",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\spell_deathknight_bloodboil",
+				["ITEMLEVEL"] = 0,
+				["RECEIVED"] = "-",
+			},
+		}, -- [466]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50444:0:0:0:0:0:0:0:80|h[Rowan's Rifle of Silver Bullets]|h|r",
+				["LOOTNAME"] = "Rowan's Rifle of Silver Bullets",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_weapon_rifle_39",
+				["ITEMLEVEL"] = 264,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Darkfallen Lieutenant",
+			["TOTAL ITEMS"] = 1,
+			["LOOTER NAME"] = "Dududilleri",
+		}, -- [467]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50714:0:0:0:0:0:0:0:80|h[Valanar's Other Signet Ring]|h|r",
+				["LOOTNAME"] = "Valanar's Other Signet Ring",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_jewelry_ring_81",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Mayicrush",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50716:0:0:0:0:0:0:0:80|h[Taldaram's Plated Fists]|h|r",
+				["LOOTNAME"] = "Taldaram's Plated Fists",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_gauntlets_87",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Prince Valanar",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50722:0:0:0:0:0:0:0:80|h[San'layn Ritualist Gloves]|h|r",
+				["LOOTNAME"] = "San'layn Ritualist Gloves",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_gauntlets_92",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+		}, -- [468]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50444:0:0:0:0:0:0:0:80|h[Rowan's Rifle of Silver Bullets]|h|r",
+				["LOOTNAME"] = "Rowan's Rifle of Silver Bullets",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_weapon_rifle_39",
+				["ITEMLEVEL"] = 264,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Darkfallen Advisor",
+			["TOTAL ITEMS"] = 1,
+			["LOOTER NAME"] = "Dududilleri",
+		}, -- [469]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50725:0:0:0:0:0:0:0:80|h[Dying Light]|h|r",
+				["LOOTNAME"] = "Dying Light",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_staff_106",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 4,
+			["LOOTER NAME"] = "Mayicrush",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52025:0:0:0:0:0:0:0:80|h[Vanquisher's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Vanquisher's Mark of Sanctification1",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52025:0:0:0:0:0:0:0:80|h[Vanquisher's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Vanquisher's Mark of Sanctification",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Blood-Queen Lana'thel",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52030:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_judgementsofthejust",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+		}, -- [470]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50627:0:0:0:0:0:0:0:80|h[Noose of Malachite]|h|r",
+				["LOOTNAME"] = "Noose of Malachite",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\item_icecrownnecklacec",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Firemeteor",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50626:0:0:0:0:0:0:0:80|h[Snowstorm Helm]|h|r",
+				["LOOTNAME"] = "Snowstorm Helm",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_helmet_169",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Unknown",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50619:0:0:0:0:0:0:0:80|h[Anub'ar Stalker's Gloves]|h|r",
+				["LOOTNAME"] = "Anub'ar Stalker's Gloves",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_gauntlets_84",
+				["ITEMLEVEL"] = 277,
+				["RECEIVED"] = "-",
+			},
+		}, -- [471]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50421:0:0:0:0:0:0:0:80|h[Sindragosa's Cruel Claw]|h|r",
+				["LOOTNAME"] = "Sindragosa's Cruel Claw",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_misc_monsterhorn_03",
+				["ITEMLEVEL"] = 264,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 4,
+			["LOOTER NAME"] = "Raukothol",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cff0070dd|Hitem:49908:0:0:0:0:0:0:0:80|h[Primordial Saronite]|h|r",
+				["LOOTNAME"] = "Primordial Saronite",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\spell_fire_felflamebreath",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52026:0:0:0:0:0:0:0:80|h[Protector's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Protector's Mark of Sanctification",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Sindragosa",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52027:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+		}, -- [472]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50179:0:0:0:0:0:0:0:80|h[Last Word]|h|r",
+				["LOOTNAME"] = "Last Word",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_mace_114",
+				["ITEMLEVEL"] = 264,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Firemeteor",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52026:0:0:0:0:0:0:0:80|h[Protector's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Protector's Mark of Sanctification",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Unknown",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52027:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+		}, -- [473]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:49981:0:0:0:0:0:0:0:80|h[Fal'inrush, Defender of Quel'thalas]|h|r",
+				["LOOTNAME"] = "Fal'inrush, Defender of Quel'thalas",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_weapon_crossbow_38",
+				["ITEMLEVEL"] = 271,
+				["RECEIVED"] = "-",
+			},
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:49997:0:0:0:0:0:0:0:80|h[Mithrios, Bronzebeard's Legacy]|h|r",
+				["LOOTNAME"] = "Mithrios, Bronzebeard's Legacy",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_mace_117",
+				["ITEMLEVEL"] = 271,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 5,
+			["LOOTER NAME"] = "Raukothol",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52026:0:0:0:0:0:0:0:80|h[Protector's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Protector's Mark of Sanctification",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52027:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "The Lich King",
+			["ITEM_5"] = {
+				["ITEMLINK"] = "|cffff8000|Hitem:50274:0:0:0:0:0:0:0:80|h[Shadowfrost Shard]|h|r",
+				["LOOTNAME"] = "Shadowfrost Shard",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_enchant_shardshadowfrostlarge",
+				["ITEMLEVEL"] = 0,
+				["RECEIVED"] = "-",
+			},
+		}, -- [474]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51939:0:0:0:0:0:0:0:80|h[Tel'thas, Dagger of the Blood King]|h|r",
+				["LOOTNAME"] = "Tel'thas, Dagger of the Blood King",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_weapon_shortblade_101",
+				["ITEMLEVEL"] = 271,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Narzgul",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52027:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "The Lich King",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51947:0:0:0:0:0:0:0:80|h[Troggbane, Axe of the Frostborne King]|h|r",
+				["LOOTNAME"] = "Troggbane, Axe of the Frostborne King",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_axe_113",
+				["ITEMLEVEL"] = 271,
+				["RECEIVED"] = "-",
+			},
+		}, -- [475]
+		{
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52026:0:0:0:0:0:0:0:80|h[Protector's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Protector's Mark of Sanctification",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["MOB NAME"] = "The Lich King",
+			["ITEM_5"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52030:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_judgementsofthejust",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50735:0:0:0:0:0:0:0:80|h[Oathbinder, Charge of the Ranger-General]|h|r",
+				["LOOTNAME"] = "Oathbinder, Charge of the Ranger-General",
+				["ITEMLEVEL"] = 284,
+				["ICON"] = "Interface\\Icons\\inv_weapon_staff_109",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["ITEM_6"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50818:0:0:0:0:0:0:0:80|h[Invincible's Reins]|h|r",
+				["LOOTNAME"] = "Invincible's Reins",
+				["ITEMLEVEL"] = 20,
+				["ICON"] = "Interface\\Icons\\spell_deathknight_summondeathcharger",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52026:0:0:0:0:0:0:0:80|h[Protector's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Protector's Mark of Sanctification1",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["LOOTER NAME"] = "Izmir",
+			["TOTAL ITEMS"] = 6,
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50733:0:0:0:0:0:0:0:80|h[Fal'inrush, Defender of Quel'thalas]|h|r",
+				["LOOTNAME"] = "Fal'inrush, Defender of Quel'thalas",
+				["ITEMLEVEL"] = 284,
+				["ICON"] = "Interface\\Icons\\inv_weapon_crossbow_38",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+		}, -- [476]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50764:0:0:0:0:0:0:0:80|h[Shawl of Nerubian Silk]|h|r",
+				["LOOTNAME"] = "Shawl of Nerubian Silk",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_misc_cape_16",
+				["ITEMLEVEL"] = 251,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 2,
+			["LOOTER NAME"] = "Mayicrush",
+			["MOB NAME"] = "Lord Marrowgar",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50759:0:0:0:0:0:0:0:80|h[Bone Warden's Splitter]|h|r",
+				["LOOTNAME"] = "Bone Warden's Splitter",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_axe_113",
+				["ITEMLEVEL"] = 251,
+				["RECEIVED"] = "-",
+			},
+		}, -- [477]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50345:0:0:0:0:0:0:0:80|h[Muradin's Spyglass]|h|r",
+				["LOOTNAME"] = "Muradin's Spyglass",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\INV_Misc_Spyglass_02",
+				["ITEMLEVEL"] = 264,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 2,
+			["LOOTER NAME"] = "Bulbeni",
+			["MOB NAME"] = "Unknown",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51906:0:0:0:0:0:0:0:80|h[Ice-Reinforced Vrykul Helm]|h|r",
+				["LOOTNAME"] = "Ice-Reinforced Vrykul Helm",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_helmet_169",
+				["ITEMLEVEL"] = 264,
+				["RECEIVED"] = "-",
+			},
+		}, -- [478]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50450:0:0:0:0:0:0:0:80|h[Leggings of Dubious Charms]|h|r",
+				["LOOTNAME"] = "Leggings of Dubious Charms",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_pants_mail_35",
+				["ITEMLEVEL"] = 264,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Vengeful Fleshreaper",
+			["TOTAL ITEMS"] = 1,
+			["LOOTER NAME"] = "Bulbeni",
+		}, -- [479]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50812:0:0:0:0:0:0:0:80|h[Taldron's Long Neglected Boots]|h|r",
+				["LOOTNAME"] = "Taldron's Long Neglected Boots",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_boots_mail_06",
+				["ITEMLEVEL"] = 251,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 2,
+			["LOOTER NAME"] = "Mayicrush",
+			["MOB NAME"] = "Festergut",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50852:0:0:0:0:0:0:0:80|h[Precious's Putrid Collar]|h|r",
+				["LOOTNAME"] = "Precious's Putrid Collar",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\INV_JEWELRY_RING_78",
+				["ITEMLEVEL"] = 251,
+				["RECEIVED"] = "-",
+			},
+		}, -- [480]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51003:0:0:0:0:0:0:0:80|h[Abomination Knuckles]|h|r",
+				["LOOTNAME"] = "Abomination Knuckles",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_weapon_hand_34",
+				["ITEMLEVEL"] = 251,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 2,
+			["LOOTER NAME"] = "Mayicrush",
+			["MOB NAME"] = "Rotface",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51004:0:0:0:0:0:0:0:80|h[Lockjaw]|h|r",
+				["LOOTNAME"] = "Lockjaw",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_mace_118",
+				["ITEMLEVEL"] = 251,
+				["RECEIVED"] = "-",
+			},
+		}, -- [481]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51381:0:0:0:0:0:0:0:80|h[Cerise Coiled Ring]|h|r",
+				["LOOTNAME"] = "Cerise Coiled Ring",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\item_icecrownringc",
+				["ITEMLEVEL"] = 251,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 2,
+			["LOOTER NAME"] = "Mayicrush",
+			["MOB NAME"] = "Prince Valanar",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51022:0:0:0:0:0:0:0:80|h[Hersir's Greatspear]|h|r",
+				["LOOTNAME"] = "Hersir's Greatspear",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_weapon_staff_109",
+				["ITEMLEVEL"] = 251,
+				["RECEIVED"] = "-",
+			},
+		}, -- [482]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51839:0:0:0:0:0:0:0:80|h[Shoulderpads of the Searing Kiss]|h|r",
+				["LOOTNAME"] = "Shoulderpads of the Searing Kiss",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_shoulder_111",
+				["ITEMLEVEL"] = 264,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 4,
+			["LOOTER NAME"] = "Mayicrush",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cff0070dd|Hitem:49908:0:0:0:0:0:0:0:80|h[Primordial Saronite]|h|r",
+				["LOOTNAME"] = "Primordial Saronite",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\spell_fire_felflamebreath",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52027:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Blood-Queen Lana'thel",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51845:0:0:0:0:0:0:0:80|h[Stakethrower]|h|r",
+				["LOOTNAME"] = "Stakethrower",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_weapon_rifle_39",
+				["ITEMLEVEL"] = 264,
+				["RECEIVED"] = "-",
+			},
+		}, -- [483]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50449:0:0:0:0:0:0:0:80|h[Stiffened Corpse Shoulderpads]|h|r",
+				["LOOTNAME"] = "Stiffened Corpse Shoulderpads",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_shoulder_119",
+				["ITEMLEVEL"] = 264,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Nerub'ar Webweaver",
+			["TOTAL ITEMS"] = 1,
+			["LOOTER NAME"] = "Khalilah",
+		}, -- [484]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51819:0:0:0:0:0:0:0:80|h[Splintershard]|h|r",
+				["LOOTNAME"] = "Splintershard",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_weapon_hand_34",
+				["ITEMLEVEL"] = 264,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Mayicrush",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52025:0:0:0:0:0:0:0:80|h[Vanquisher's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Vanquisher's Mark of Sanctification",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Sindragosa",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51821:0:0:0:0:0:0:0:80|h[Etched Dragonbone Girdle]|h|r",
+				["LOOTNAME"] = "Etched Dragonbone Girdle",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_belt_63",
+				["ITEMLEVEL"] = 264,
+				["RECEIVED"] = "-",
+			},
+		}, -- [485]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51859:0:0:0:0:0:0:0:80|h[Shoulders of Ruinous Senility]|h|r",
+				["LOOTNAME"] = "Shoulders of Ruinous Senility",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_shoulder_114",
+				["ITEMLEVEL"] = 264,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Mayicrush",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52026:0:0:0:0:0:0:0:80|h[Protector's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Protector's Mark of Sanctification",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Unknown",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51863:0:0:0:0:0:0:0:80|h[Pendant of Split Veins]|h|r",
+				["LOOTNAME"] = "Pendant of Split Veins",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_jewelry_talisman_16",
+				["ITEMLEVEL"] = 264,
+				["RECEIVED"] = "-",
+			},
+		}, -- [486]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51945:0:0:0:0:0:0:0:80|h[Tainted Twig of Nordrassil]|h|r",
+				["LOOTNAME"] = "Tainted Twig of Nordrassil",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_staff_108",
+				["ITEMLEVEL"] = 271,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 4,
+			["LOOTER NAME"] = "Mayicrush",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cff0070dd|Hitem:49908:0:0:0:0:0:0:0:80|h[Primordial Saronite]|h|r",
+				["LOOTNAME"] = "Primordial Saronite",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\spell_fire_felflamebreath",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52027:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "The Lich King",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51939:0:0:0:0:0:0:0:80|h[Tel'thas, Dagger of the Blood King]|h|r",
+				["LOOTNAME"] = "Tel'thas, Dagger of the Blood King",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_weapon_shortblade_101",
+				["ITEMLEVEL"] = 271,
+				["RECEIVED"] = "-",
+			},
+		}, -- [487]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:30183:0:0:0:0:0:0:0:80|h[Nether Vortex]|h|r",
+				["LOOTNAME"] = "Nether Vortex",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 75,
+				["ICON"] = "Interface\\Icons\\INV_Elemental_Mote_Nether",
+			},
+			["TOTAL ITEMS"] = 1,
+			["MOB NAME"] = "Underbog Colossus",
+			["LOOTER NAME"] = "Nerzhyl",
+		}, -- [488]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:30303:0:0:0:0:0:0:0:80|h[Pattern: Belt of the Black Eagle]|h|r",
+				["LOOTNAME"] = "Pattern: Belt of the Black Eagle",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 75,
+				["ICON"] = "Interface\\Icons\\INV_Scroll_04",
+			},
+			["TOTAL ITEMS"] = 1,
+			["MOB NAME"] = "Greyheart Skulker",
+			["LOOTER NAME"] = "Nerzhyl",
+		}, -- [489]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:30247:0:0:0:0:0:0:0:80|h[Leggings of the Vanquished Hero]|h|r",
+				["LOOTNAME"] = "Leggings of the Vanquished Hero",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 70,
+				["ICON"] = "Interface\\Icons\\INV_Pants_Plate_17",
+			},
+			["TOTAL ITEMS"] = 1,
+			["MOB NAME"] = "Fathom-Lord Karathress",
+			["LOOTER NAME"] = "Drutheil",
+		}, -- [490]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:30720:0:0:0:0:0:0:0:80|h[Serpent-Coil Braid]|h|r",
+				["LOOTNAME"] = "Serpent-Coil Braid",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 128,
+				["ICON"] = "Interface\\Icons\\Spell_Nature_PoisonCleansingTotem",
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Drutheil",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:33058:0:0:0:0:0:0:0:80|h[Band of the Vigilant]|h|r",
+				["LOOTNAME"] = "Band of the Vigilant",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 128,
+				["ICON"] = "Interface\\Icons\\INV_Jewelry_Ring_43",
+			},
+			["MOB NAME"] = "Morogrim Tidewalker",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:30085:0:0:0:0:0:0:0:80|h[Mantle of the Tireless Tracker]|h|r",
+				["LOOTNAME"] = "Mantle of the Tireless Tracker",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 128,
+				["ICON"] = "Interface\\Icons\\INV_Shoulder_27",
+			},
+		}, -- [491]
+		{
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51355:0:0:0:0:0:0:0:80|h[Wrathful Gladiator's Pendant of Triumph]|h|r",
+				["LOOTNAME"] = "Wrathful Gladiator's Pendant of Triumph",
+				["ICON"] = "Interface\\Icons\\INV_Jewelry_Necklace_36",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 264,
+			},
+			["MOB NAME"] = "Toravon el Vigía de Hielo",
+			["ITEM_5"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51369:0:0:0:0:0:0:0:80|h[Wrathful Gladiator's Boots of Triumph]|h|r",
+				["LOOTNAME"] = "Wrathful Gladiator's Boots of Triumph",
+				["ICON"] = "Interface\\Icons\\inv_boots_cloth_29",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 264,
+			},
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51495:0:0:0:0:0:0:0:80|h[Wrathful Gladiator's Leather Legguards]|h|r",
+				["LOOTNAME"] = "Wrathful Gladiator's Leather Legguards",
+				["ICON"] = "Interface\\Icons\\inv_pants_leather_36",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 270,
+			},
+			["ITEM_6"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51355:0:0:0:0:0:0:0:80|h[Wrathful Gladiator's Pendant of Triumph]|h|r",
+				["LOOTNAME"] = "Colgante de Triunfo de Gladiador Colérico",
+				["ICON"] = "Interface\\Icons\\INV_Jewelry_Necklace_36",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 264,
+			},
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51193:0:0:0:0:0:0:0:80|h[Sanctified Frost Witch's Legguards]|h|r",
+				["LOOTNAME"] = "Sanctified Frost Witch's Legguards",
+				["ICON"] = "Interface\\Icons\\inv_kilt_mail_01",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 264,
+			},
+			["LOOTER NAME"] = "Darkelrond",
+			["ITEM_7"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51369:0:0:0:0:0:0:0:80|h[Wrathful Gladiator's Boots of Triumph]|h|r",
+				["LOOTNAME"] = "Botas de Triunfo de Gladiador Colérico",
+				["ICON"] = "Interface\\Icons\\inv_boots_cloth_29",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 264,
+			},
+			["TOTAL ITEMS"] = 7,
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51495:0:0:0:0:0:0:0:80|h[Wrathful Gladiator's Leather Legguards]|h|r",
+				["LOOTNAME"] = "Musleras de Cuero de Gladiador Colérico",
+				["ICON"] = "Interface\\Icons\\inv_pants_leather_36",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 270,
+			},
+		}, -- [492]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50447:0:0:0:0:0:0:0:80|h[Harbinger's Bone Band]|h|r",
+				["LOOTNAME"] = "Bague en os de messager",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_jewelry_ring_84",
+			},
+			["TOTAL ITEMS"] = 1,
+			["MOB NAME"] = "Gardien de la couvée nérub'ar",
+			["LOOTER NAME"] = "Pogboum",
+		}, -- [493]
+		{
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50604:0:0:0:0:0:0:0:80|h[Band of the Bone Colossus]|h|r",
+				["LOOTNAME"] = "Band of the Bone Colossus",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_jewelry_ring_83",
+			},
+			["MOB NAME"] = "Seigneur Gargamoelle",
+			["ITEM_5"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50611:0:0:0:0:0:0:0:80|h[Bracers of Dark Reckoning]|h|r",
+				["LOOTNAME"] = "Brassards de sombre rétorsion",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_bracer_43",
+			},
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50607:0:0:0:0:0:0:0:80|h[Frostbitten Fur Boots]|h|r",
+				["LOOTNAME"] = "Frostbitten Fur Boots",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_boots_leather_07",
+			},
+			["ITEM_6"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50604:0:0:0:0:0:0:0:80|h[Band of the Bone Colossus]|h|r",
+				["LOOTNAME"] = "Bague du colosse d'os",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_jewelry_ring_83",
+			},
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50607:0:0:0:0:0:0:0:80|h[Frostbitten Fur Boots]|h|r",
+				["LOOTNAME"] = "Bottes en fourrure gelées",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_boots_leather_07",
+			},
+			["LOOTER NAME"] = "Aloof",
+			["ITEM_8"] = {
+				["ITEMLINK"] = "|cffff8000|Hitem:50274:0:0:0:0:0:0:0:80|h[Shadowfrost Shard]|h|r",
+				["LOOTNAME"] = "Eclat ombregivre",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 0,
+				["ICON"] = "Interface\\Icons\\inv_enchant_shardshadowfrostlarge",
+			},
+			["ITEM_7"] = {
+				["ITEMLINK"] = "|cffff8000|Hitem:50274:0:0:0:0:0:0:0:80|h[Shadowfrost Shard]|h|r",
+				["LOOTNAME"] = "Shadowfrost Shard",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 0,
+				["ICON"] = "Interface\\Icons\\inv_enchant_shardshadowfrostlarge",
+			},
+			["TOTAL ITEMS"] = 8,
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50611:0:0:0:0:0:0:0:80|h[Bracers of Dark Reckoning]|h|r",
+				["LOOTNAME"] = "Bracers of Dark Reckoning",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_bracer_43",
+			},
+		}, -- [494]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50651:0:0:0:0:0:0:0:80|h[The Lady's Brittle Bracers]|h|r",
+				["LOOTNAME"] = "Brassards fragiles de la dame",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_bracer_44",
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Vedz",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50643:0:0:0:0:0:0:0:80|h[Shoulders of Mercy Killing]|h|r",
+				["LOOTNAME"] = "Epaulières d'euthanasie1",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_shoulder_114",
+			},
+			["MOB NAME"] = "Dame Murmemort",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50643:0:0:0:0:0:0:0:80|h[Shoulders of Mercy Killing]|h|r",
+				["LOOTNAME"] = "Epaulières d'euthanasie",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_shoulder_114",
+			},
+		}, -- [495]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50363:0:0:0:0:0:0:0:80|h[Deathbringer's Will]|h|r",
+				["LOOTNAME"] = "Deathbringer's Will",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_jewelry_trinket_04",
+			},
+			["TOTAL ITEMS"] = 4,
+			["LOOTER NAME"] = "Trollzemag",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52026:0:0:0:0:0:0:0:80|h[Protector's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Protector's Mark of Sanctification2",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52026:0:0:0:0:0:0:0:80|h[Protector's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Protector's Mark of Sanctification1",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+			},
+			["MOB NAME"] = "Unknown",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52029:0:0:0:0:0:0:0:80|h[Protector's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Protector's Mark of Sanctification",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_judgementsofthejust",
+			},
+		}, -- [496]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50619:0:0:0:0:0:0:0:80|h[Anub'ar Stalker's Gloves]|h|r",
+				["LOOTNAME"] = "Anub'ar Stalker's Gloves",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_gauntlets_84",
+			},
+			["TOTAL ITEMS"] = 4,
+			["LOOTER NAME"] = "Vikk",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffff8000|Hitem:50274:0:0:0:0:0:0:0:80|h[Shadowfrost Shard]|h|r",
+				["LOOTNAME"] = "Shadowfrost Shard",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 0,
+				["ICON"] = "Interface\\Icons\\inv_enchant_shardshadowfrostlarge",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50631:0:0:0:0:0:0:0:80|h[Nightmare Ender]|h|r",
+				["LOOTNAME"] = "Nightmare Ender",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_wand_34",
+			},
+			["MOB NAME"] = "Unknown",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50624:0:0:0:0:0:0:0:80|h[Scourge Reaver's Legplates]|h|r",
+				["LOOTNAME"] = "Scourge Reaver's Legplates",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_pants_plate_31",
+			},
+		}, -- [497]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50444:0:0:0:0:0:0:0:80|h[Rowan's Rifle of Silver Bullets]|h|r",
+				["LOOTNAME"] = "Rowan's Rifle of Silver Bullets",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_weapon_rifle_39",
+			},
+			["TOTAL ITEMS"] = 2,
+			["LOOTER NAME"] = "Tiictack",
+			["MOB NAME"] = "Nerub'ar Champion",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50449:0:0:0:0:0:0:0:80|h[Stiffened Corpse Shoulderpads]|h|r",
+				["LOOTNAME"] = "Stiffened Corpse Shoulderpads",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_shoulder_119",
+			},
+		}, -- [498]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50444:0:0:0:0:0:0:0:80|h[Rowan's Rifle of Silver Bullets]|h|r",
+				["LOOTNAME"] = "Carabine aux balles d'argent de Rowan",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_weapon_rifle_39",
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Tiictack",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50449:0:0:0:0:0:0:0:80|h[Stiffened Corpse Shoulderpads]|h|r",
+				["LOOTNAME"] = "Stiffened Corpse Shoulderpads",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_shoulder_119",
+			},
+			["MOB NAME"] = "Nerub'ar Champion",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50449:0:0:0:0:0:0:0:80|h[Stiffened Corpse Shoulderpads]|h|r",
+				["LOOTNAME"] = "Protège-épaules de cadavre raidi",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_shoulder_119",
+			},
+		}, -- [499]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50636:0:0:0:0:0:0:0:80|h[Memory of Malygos]|h|r",
+				["LOOTNAME"] = "Memory of Malygos",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\INV_Jewelry_Ring_40",
+			},
+			["TOTAL ITEMS"] = 4,
+			["LOOTER NAME"] = "Ambrousze",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52029:0:0:0:0:0:0:0:80|h[Protector's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Protector's Mark of Sanctification1",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_judgementsofthejust",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52026:0:0:0:0:0:0:0:80|h[Protector's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Protector's Mark of Sanctification",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+			},
+			["MOB NAME"] = "Sindragosa",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52025:0:0:0:0:0:0:0:80|h[Vanquisher's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Vanquisher's Mark of Sanctification",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+			},
+		}, -- [500]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50451:0:0:0:0:0:0:0:80|h[Belt of the Lonely Noble]|h|r",
+				["LOOTNAME"] = "Belt of the Lonely Noble",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_belt_70",
+			},
+			["TOTAL ITEMS"] = 2,
+			["LOOTER NAME"] = "Pogboum",
+			["MOB NAME"] = "Abomination chancreuse",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50451:0:0:0:0:0:0:0:80|h[Belt of the Lonely Noble]|h|r",
+				["LOOTNAME"] = "Ceinture du noble solitaire",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_belt_70",
+			},
+		}, -- [501]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50453:0:0:0:0:0:0:0:80|h[Ring of Rotting Sinew]|h|r",
+				["LOOTNAME"] = "Ring of Rotting Sinew",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_jewelry_ring_81",
+			},
+			["TOTAL ITEMS"] = 1,
+			["MOB NAME"] = "Darkfallen Advisor",
+			["LOOTER NAME"] = "Tiictack",
+		}, -- [502]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50721:0:0:0:0:0:0:0:80|h[Crypt Keeper's Bracers]|h|r",
+				["LOOTNAME"] = "Crypt Keeper's Bracers",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_bracer_46",
+			},
+			["TOTAL ITEMS"] = 4,
+			["LOOTER NAME"] = "Tiictack",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cff0070dd|Hitem:49908:0:0:0:0:0:0:0:80|h[Primordial Saronite]|h|r",
+				["LOOTNAME"] = "Primordial Saronite",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\spell_fire_felflamebreath",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50717:0:0:0:0:0:0:0:80|h[Sanguine Silk Robes]|h|r",
+				["LOOTNAME"] = "Sanguine Silk Robes",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_chest_cloth_80",
+			},
+			["MOB NAME"] = "Prince Valanar",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50603:0:0:0:0:0:0:0:80|h[Cryptmaker]|h|r",
+				["LOOTNAME"] = "Cryptmaker",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_mace_116",
+			},
+		}, -- [503]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50451:0:0:0:0:0:0:0:80|h[Belt of the Lonely Noble]|h|r",
+				["LOOTNAME"] = "Belt of the Lonely Noble",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_belt_70",
+			},
+			["TOTAL ITEMS"] = 1,
+			["MOB NAME"] = "Darkfallen Blood Knight",
+			["LOOTER NAME"] = "Tiictack",
+		}, -- [504]
+		{
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52028:0:0:0:0:0:0:0:80|h[Vanquisher's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Marque de sanctification de vainqueur",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_judgementsofthejust",
+			},
+			["ITEM_10"] = {
+				["ITEMLINK"] = "|cff0070dd|Hitem:49908:0:0:0:0:0:0:0:80|h[Primordial Saronite]|h|r",
+				["LOOTNAME"] = "Primordial Saronite",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\spell_fire_felflamebreath",
+			},
+			["ITEM_9"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52025:0:0:0:0:0:0:0:80|h[Vanquisher's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Vanquisher's Mark of Sanctification1",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+			},
+			["MOB NAME"] = "Blood-Queen Lana'thel",
+			["ITEM_5"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52025:0:0:0:0:0:0:0:80|h[Vanquisher's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Marque de sanctification de vainqueur1",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+			},
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50727:0:0:0:0:0:0:0:80|h[Bloodfall]|h|r",
+				["LOOTNAME"] = "Cascade-de-sang",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_weapon_staff_109",
+			},
+			["ITEM_6"] = {
+				["ITEMLINK"] = "|cff0070dd|Hitem:49908:0:0:0:0:0:0:0:80|h[Primordial Saronite]|h|r",
+				["LOOTNAME"] = "Saronite primordiale",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\spell_fire_felflamebreath",
+			},
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52026:0:0:0:0:0:0:0:80|h[Protector's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Marque de sanctification de protecteur",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+			},
+			["LOOTER NAME"] = "Rabbitpriest",
+			["ITEM_8"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52026:0:0:0:0:0:0:0:80|h[Protector's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Protector's Mark of Sanctification",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+			},
+			["ITEM_7"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52028:0:0:0:0:0:0:0:80|h[Vanquisher's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Vanquisher's Mark of Sanctification",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_judgementsofthejust",
+			},
+			["TOTAL ITEMS"] = 10,
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50727:0:0:0:0:0:0:0:80|h[Bloodfall]|h|r",
+				["LOOTNAME"] = "Bloodfall",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_weapon_staff_109",
+			},
+		}, -- [505]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50682:0:0:0:0:0:0:0:80|h[Bile-Encrusted Medallion]|h|r",
+				["LOOTNAME"] = "Bile-Encrusted Medallion",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\item_icecrownnecklaceb",
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Acidwarr",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50686:0:0:0:0:0:0:0:80|h[Death Surgeon's Sleeves]|h|r",
+				["LOOTNAME"] = "Death Surgeon's Sleeves",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_bracer_47",
+			},
+			["MOB NAME"] = "Rotface",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50685:0:0:0:0:0:0:0:80|h[Trauma]|h|r",
+				["LOOTNAME"] = "Trauma",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_mace_118",
+			},
+		}, -- [506]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50699:0:0:0:0:0:0:0:80|h[Plague Scientist's Boots]|h|r",
+				["LOOTNAME"] = "Plague Scientist's Boots",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_boots_cloth_24",
+			},
+			["TOTAL ITEMS"] = 4,
+			["LOOTER NAME"] = "Tiictack",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cff0070dd|Hitem:49908:0:0:0:0:0:0:0:80|h[Primordial Saronite]|h|r",
+				["LOOTNAME"] = "Primordial Saronite",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\spell_fire_felflamebreath",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50699:0:0:0:0:0:0:0:80|h[Plague Scientist's Boots]|h|r",
+				["LOOTNAME"] = "Plague Scientist's Boots1",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_boots_cloth_24",
+			},
+			["MOB NAME"] = "Festergut",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50695:0:0:0:0:0:0:0:80|h[Distant Land]|h|r",
+				["LOOTNAME"] = "Distant Land",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_staff_107",
+			},
+		}, -- [507]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50706:0:0:0:0:0:0:0:80|h[Tiny Abomination in a Jar]|h|r",
+				["LOOTNAME"] = "Tiny Abomination in a Jar",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_alchemy_enchantedvial",
+			},
+			["TOTAL ITEMS"] = 4,
+			["LOOTER NAME"] = "Tiictack",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52025:0:0:0:0:0:0:0:80|h[Vanquisher's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Vanquisher's Mark of Sanctification",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52026:0:0:0:0:0:0:0:80|h[Protector's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Protector's Mark of Sanctification",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+			},
+			["MOB NAME"] = "Unknown",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52030:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_judgementsofthejust",
+			},
+		}, -- [508]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50626:0:0:0:0:0:0:0:80|h[Snowstorm Helm]|h|r",
+				["LOOTNAME"] = "Snowstorm Helm",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_helmet_169",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Hudimd",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50629:0:0:0:0:0:0:0:80|h[Robe of the Waking Nightmare]|h|r",
+				["LOOTNAME"] = "Robe of the Waking Nightmare",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_chest_cloth_77",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["MOB NAME"] = "Unknown",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50622:0:0:0:0:0:0:0:80|h[Devium's Eternally Cold Ring]|h|r",
+				["LOOTNAME"] = "Devium's Eternally Cold Ring",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_jewelry_ring_86",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+		}, -- [509]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50360:0:0:0:0:0:0:0:80|h[Phylactery of the Nameless Lich]|h|r",
+				["LOOTNAME"] = "Phylactery of the Nameless Lich",
+				["ITEMLEVEL"] = 264,
+				["ICON"] = "Interface\\Icons\\inv_jewelry_trinket_03",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Xkralltr",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52025:0:0:0:0:0:0:0:80|h[Vanquisher's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Vanquisher's Mark of Sanctification",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["MOB NAME"] = "Sindragosa",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52026:0:0:0:0:0:0:0:80|h[Protector's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Protector's Mark of Sanctification",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+		}, -- [510]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:49981:0:0:0:0:0:0:0:80|h[Fal'inrush, Defender of Quel'thalas]|h|r",
+				["LOOTNAME"] = "Fal'inrush, Defender of Quel'thalas",
+				["ITEMLEVEL"] = 271,
+				["ICON"] = "Interface\\Icons\\inv_weapon_crossbow_38",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["TOTAL ITEMS"] = 4,
+			["LOOTER NAME"] = "Casette",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52027:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52026:0:0:0:0:0:0:0:80|h[Protector's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Protector's Mark of Sanctification",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["MOB NAME"] = "The Lich King",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:49997:0:0:0:0:0:0:0:80|h[Mithrios, Bronzebeard's Legacy]|h|r",
+				["LOOTNAME"] = "Mithrios, Bronzebeard's Legacy",
+				["ITEMLEVEL"] = 271,
+				["ICON"] = "Interface\\Icons\\inv_mace_117",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+		}, -- [511]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51464:0:0:0:0:0:0:0:80|h[Wrathful Gladiator's Silk Handguards]|h|r",
+				["LOOTNAME"] = "Wrathful Gladiator's Silk Handguards",
+				["ICON"] = "Interface\\Icons\\inv_gauntlets_95",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 270,
+			},
+			["TOTAL ITEMS"] = 4,
+			["LOOTER NAME"] = "Dkfarmz",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51341:0:0:0:0:0:0:0:80|h[Wrathful Gladiator's Boots of Salvation]|h|r",
+				["LOOTNAME"] = "Wrathful Gladiator's Boots of Salvation",
+				["ICON"] = "Interface\\Icons\\inv_boots_cloth_05",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 264,
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51369:0:0:0:0:0:0:0:80|h[Wrathful Gladiator's Boots of Triumph]|h|r",
+				["LOOTNAME"] = "Wrathful Gladiator's Boots of Triumph",
+				["ICON"] = "Interface\\Icons\\inv_boots_cloth_29",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 264,
+			},
+			["MOB NAME"] = "Toravon the Ice Watcher",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51493:0:0:0:0:0:0:0:80|h[Wrathful Gladiator's Leather Gloves]|h|r",
+				["LOOTNAME"] = "Wrathful Gladiator's Leather Gloves",
+				["ICON"] = "Interface\\Icons\\inv_gauntlets_97",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 270,
+			},
+		}, -- [512]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51148:0:0:0:0:0:0:0:80|h[Sanctified Lasherweave Gloves]|h|r",
+				["LOOTNAME"] = "Sanctified Lasherweave Gloves",
+				["ICON"] = "Interface\\Icons\\inv_gauntlets_83",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 264,
+			},
+			["TOTAL ITEMS"] = 4,
+			["LOOTER NAME"] = "Mayicrush",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51363:0:0:0:0:0:0:0:80|h[Wrathful Gladiator's Greaves of Triumph]|h|r",
+				["LOOTNAME"] = "Wrathful Gladiator's Greaves of Triumph",
+				["ICON"] = "Interface\\Icons\\inv_boots_plate_12",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 264,
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51142:0:0:0:0:0:0:0:80|h[Sanctified Lasherweave Legguards]|h|r",
+				["LOOTNAME"] = "Sanctified Lasherweave Legguards",
+				["ICON"] = "Interface\\Icons\\inv_pants_leather_35",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 264,
+			},
+			["MOB NAME"] = "Toravon the Ice Watcher",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:51172:0:0:0:0:0:0:0:80|h[Sanctified Lightsworn Handguards]|h|r",
+				["LOOTNAME"] = "Sanctified Lightsworn Handguards",
+				["ICON"] = "Interface\\Icons\\inv_gauntlets_85",
+				["WINNER"] = "-",
+				["RECEIVED"] = "-",
+				["ITEMLEVEL"] = 264,
+			},
+		}, -- [513]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:47254:0:0:0:0:0:0:0:80|h[Hauberk of the Towering Monstrosity]|h|r",
+				["LOOTNAME"] = "Hauberk of the Towering Monstrosity",
+				["ITEMLEVEL"] = 245,
+				["ICON"] = "Interface\\Icons\\inv_chest_plate_23",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["ITEM_5"] = {
+				["ITEMLINK"] = "|cff0070dd|Hitem:47556:0:0:0:0:0:0:0:80|h[Crusader Orb]|h|r",
+				["LOOTNAME"] = "Crusader Orb",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\spell_holy_rune",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["TOTAL ITEMS"] = 5,
+			["LOOTER NAME"] = "Scumbax",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:47242:0:0:0:0:0:0:0:80|h[Trophy of the Crusade]|h|r",
+				["LOOTNAME"] = "Trophy of the Crusade",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\INV_Misc_Trophy_Argent",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:47260:0:0:0:0:0:0:0:80|h[Forlorn Barrier]|h|r",
+				["LOOTNAME"] = "Forlorn Barrier",
+				["ITEMLEVEL"] = 245,
+				["ICON"] = "Interface\\Icons\\inv_shield_71",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["MOB NAME"] = "Icehowl",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:47265:0:0:0:0:0:0:0:80|h[Binding of the Ice Burrower]|h|r",
+				["LOOTNAME"] = "Binding of the Ice Burrower",
+				["ITEMLEVEL"] = 245,
+				["ICON"] = "Interface\\Icons\\INV_Belt_47A",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+		}, -- [514]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:47266:0:0:0:0:0:0:0:80|h[Blood Fury]|h|r",
+				["LOOTNAME"] = "Blood Fury",
+				["ITEMLEVEL"] = 245,
+				["ICON"] = "Interface\\Icons\\INV_Axe_104",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["ITEM_5"] = {
+				["ITEMLINK"] = "|cff0070dd|Hitem:47556:0:0:0:0:0:0:0:80|h[Crusader Orb]|h|r",
+				["LOOTNAME"] = "Crusader Orb",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\spell_holy_rune",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["TOTAL ITEMS"] = 5,
+			["LOOTER NAME"] = "Arkamediis",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:47242:0:0:0:0:0:0:0:80|h[Trophy of the Crusade]|h|r",
+				["LOOTNAME"] = "Trophy of the Crusade",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\INV_Misc_Trophy_Argent",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:47279:0:0:0:0:0:0:0:80|h[Leggings of Failing Light]|h|r",
+				["LOOTNAME"] = "Leggings of Failing Light",
+				["ITEMLEVEL"] = 245,
+				["ICON"] = "Interface\\Icons\\inv_pants_plate_30",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["MOB NAME"] = "Lord Jaraxxus",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:47272:0:0:0:0:0:0:0:80|h[Charge of the Eredar]|h|r",
+				["LOOTNAME"] = "Charge of the Eredar",
+				["ITEMLEVEL"] = 245,
+				["ICON"] = "Interface\\Icons\\INV_Jewelry_Necklace_34",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+		}, -- [515]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:47293:0:0:0:0:0:0:0:80|h[Sandals of the Mourning Widow]|h|r",
+				["LOOTNAME"] = "Sandals of the Mourning Widow",
+				["ITEMLEVEL"] = 245,
+				["ICON"] = "Interface\\Icons\\inv_boots_cloth_23",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["ITEM_5"] = {
+				["ITEMLINK"] = "|cff0070dd|Hitem:47556:0:0:0:0:0:0:0:80|h[Crusader Orb]|h|r",
+				["LOOTNAME"] = "Crusader Orb",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\spell_holy_rune",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["TOTAL ITEMS"] = 5,
+			["LOOTER NAME"] = "Arkamediis",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:47242:0:0:0:0:0:0:0:80|h[Trophy of the Crusade]|h|r",
+				["LOOTNAME"] = "Trophy of the Crusade",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\INV_Misc_Trophy_Argent",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:47286:0:0:0:0:0:0:0:80|h[Belt of Biting Cold]|h|r",
+				["LOOTNAME"] = "Belt of Biting Cold",
+				["ITEMLEVEL"] = 245,
+				["ICON"] = "Interface\\Icons\\inv_belt_52",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+			["MOB NAME"] = "Unknown",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:47295:0:0:0:0:0:0:0:80|h[Sabatons of Tremoring Earth]|h|r",
+				["LOOTNAME"] = "Sabatons of Tremoring Earth",
+				["ITEMLEVEL"] = 245,
+				["ICON"] = "Interface\\Icons\\INV_Boots_Chain_06",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+			},
+		}, -- [516]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50617:0:0:0:0:0:0:0:80|h[Rusted Bonespike Pauldrons]|h|r",
+				["LOOTNAME"] = "Rusted Bonespike Pauldrons",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_shoulder_117",
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Mayicrush",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50610:0:0:0:0:0:0:0:80|h[Marrowgar's Frigid Eye]|h|r",
+				["LOOTNAME"] = "Marrowgar's Frigid Eye",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\item_icecrownringb",
+			},
+			["MOB NAME"] = "Lord Marrowgar",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50614:0:0:0:0:0:0:0:80|h[Loop of the Endless Labyrinth]|h|r",
+				["LOOTNAME"] = "Loop of the Endless Labyrinth",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_jewelry_ring_82",
+			},
+		}, -- [517]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50652:0:0:0:0:0:0:0:80|h[Necrophotic Greaves]|h|r",
+				["LOOTNAME"] = "Necrophotic Greaves",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_boots_mail_10",
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Mayicrush",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50640:0:0:0:0:0:0:0:80|h[Broken Ram Skull Helm]|h|r",
+				["LOOTNAME"] = "Broken Ram Skull Helm",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_helmet_151",
+			},
+			["MOB NAME"] = "Lady Deathwhisper",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50649:0:0:0:0:0:0:0:80|h[Deathwhisper Raiment]|h|r",
+				["LOOTNAME"] = "Deathwhisper Raiment",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_chest_leather_21",
+			},
+		}, -- [518]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50665:0:0:0:0:0:0:0:80|h[Boots of Unnatural Growth]|h|r",
+				["LOOTNAME"] = "Boots of Unnatural Growth",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_boots_leather_8",
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Gatitu",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50665:0:0:0:0:0:0:0:80|h[Boots of Unnatural Growth]|h|r",
+				["LOOTNAME"] = "Boots of Unnatural Growth1",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_boots_leather_8",
+			},
+			["MOB NAME"] = "Unknown",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50663:0:0:0:0:0:0:0:80|h[Gunship Captain's Mittens]|h|r",
+				["LOOTNAME"] = "Gunship Captain's Mittens",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_gauntlets_88",
+			},
+		}, -- [519]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50628:0:0:0:0:0:0:0:80|h[Frostbinder's Shredded Cape]|h|r",
+				["LOOTNAME"] = "Frostbinder's Shredded Cape",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\INV_Misc_Cape_16",
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Pachovidrata",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50623:0:0:0:0:0:0:0:80|h[Leggings of Dying Candles]|h|r",
+				["LOOTNAME"] = "Leggings of Dying Candles",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_pants_plate_33",
+			},
+			["MOB NAME"] = "Unknown",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50620:0:0:0:0:0:0:0:80|h[Coldwraith Links]|h|r",
+				["LOOTNAME"] = "Coldwraith Links",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_belt_63",
+			},
+		}, -- [520]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50636:0:0:0:0:0:0:0:80|h[Memory of Malygos]|h|r",
+				["LOOTNAME"] = "Memory of Malygos",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\INV_Jewelry_Ring_40",
+			},
+			["TOTAL ITEMS"] = 4,
+			["LOOTER NAME"] = "Jessitwo",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52029:0:0:0:0:0:0:0:80|h[Protector's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Protector's Mark of Sanctification1",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_judgementsofthejust",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52026:0:0:0:0:0:0:0:80|h[Protector's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Protector's Mark of Sanctification",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+			},
+			["MOB NAME"] = "Sindragosa",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52025:0:0:0:0:0:0:0:80|h[Vanquisher's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Vanquisher's Mark of Sanctification",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+			},
+		}, -- [521]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50717:0:0:0:0:0:0:0:80|h[Sanguine Silk Robes]|h|r",
+				["LOOTNAME"] = "Sanguine Silk Robes",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_chest_cloth_80",
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Pachovidrata",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50719:0:0:0:0:0:0:0:80|h[Shadow Silk Spindle]|h|r",
+				["LOOTNAME"] = "Shadow Silk Spindle",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_misc_thread_01",
+			},
+			["MOB NAME"] = "Prince Valanar",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50713:0:0:0:0:0:0:0:80|h[Geistlord's Punishment Sack]|h|r",
+				["LOOTNAME"] = "Geistlord's Punishment Sack",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_helmet_149",
+			},
+		}, -- [522]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50729:0:0:0:0:0:0:0:80|h[Icecrown Glacial Wall]|h|r",
+				["LOOTNAME"] = "Icecrown Glacial Wall",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_shield_75",
+			},
+			["ITEM_5"] = {
+				["ITEMLINK"] = "|cff0070dd|Hitem:49908:0:0:0:0:0:0:0:80|h[Primordial Saronite]|h|r",
+				["LOOTNAME"] = "Primordial Saronite",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\spell_fire_felflamebreath",
+			},
+			["TOTAL ITEMS"] = 5,
+			["LOOTER NAME"] = "Pachovidrata",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52027:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52025:0:0:0:0:0:0:0:80|h[Vanquisher's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Vanquisher's Mark of Sanctification",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+			},
+			["MOB NAME"] = "Blood-Queen Lana'thel",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52029:0:0:0:0:0:0:0:80|h[Protector's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Protector's Mark of Sanctification",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_judgementsofthejust",
+			},
+		}, -- [523]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50695:0:0:0:0:0:0:0:80|h[Distant Land]|h|r",
+				["LOOTNAME"] = "Distant Land",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_staff_107",
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Mayicrush",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50701:0:0:0:0:0:0:0:80|h[Faceplate of the Forgotten]|h|r",
+				["LOOTNAME"] = "Faceplate of the Forgotten",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_helmet_154",
+			},
+			["MOB NAME"] = "Festergut",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50703:0:0:0:0:0:0:0:80|h[Unclean Surgical Gloves]|h|r",
+				["LOOTNAME"] = "Unclean Surgical Gloves",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_gauntlets_104",
+			},
+		}, -- [524]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50674:0:0:0:0:0:0:0:80|h[Raging Behemoth's Shoulderplates]|h|r",
+				["LOOTNAME"] = "Raging Behemoth's Shoulderplates",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_shoulder_130",
+			},
+			["TOTAL ITEMS"] = 4,
+			["LOOTER NAME"] = "Mayicrush",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cff0070dd|Hitem:49908:0:0:0:0:0:0:0:80|h[Primordial Saronite]|h|r",
+				["LOOTNAME"] = "Primordial Saronite",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\spell_fire_felflamebreath",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50673:0:0:0:0:0:0:0:80|h[Dual-Bladed Pauldrons]|h|r",
+				["LOOTNAME"] = "Dual-Bladed Pauldrons",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_shoulder_113",
+			},
+			["MOB NAME"] = "Rotface",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50675:0:0:0:0:0:0:0:80|h[Aldriana's Gloves of Secrecy]|h|r",
+				["LOOTNAME"] = "Aldriana's Gloves of Secrecy",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_gauntlets_79",
+			},
+		}, -- [525]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50705:0:0:0:0:0:0:0:80|h[Professor's Bloodied Smock]|h|r",
+				["LOOTNAME"] = "Professor's Bloodied Smock",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 277,
+				["ICON"] = "Interface\\Icons\\inv_belt_59",
+			},
+			["ITEM_5"] = {
+				["ITEMLINK"] = "|cff0070dd|Hitem:49908:0:0:0:0:0:0:0:80|h[Primordial Saronite]|h|r",
+				["LOOTNAME"] = "Primordial Saronite",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\spell_fire_felflamebreath",
+			},
+			["TOTAL ITEMS"] = 5,
+			["LOOTER NAME"] = "Mayicrush",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52025:0:0:0:0:0:0:0:80|h[Vanquisher's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Vanquisher's Mark of Sanctification",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52026:0:0:0:0:0:0:0:80|h[Protector's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Protector's Mark of Sanctification",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+			},
+			["MOB NAME"] = "Unknown",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52030:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_judgementsofthejust",
+			},
+		}, -- [526]
+		{
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52027:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+			},
+			["MOB NAME"] = "The Lich King",
+			["ITEM_5"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52030:0:0:0:0:0:0:0:80|h[Conqueror's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Conqueror's Mark of Sanctification1",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_judgementsofthejust",
+			},
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50732:0:0:0:0:0:0:0:80|h[Bloodsurge, Kel'Thuzad's Blade of Agony]|h|r",
+				["LOOTNAME"] = "Bloodsurge, Kel'Thuzad's Blade of Agony",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 284,
+				["ICON"] = "Interface\\Icons\\inv_sword_150",
+			},
+			["ITEM_6"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50818:0:0:0:0:0:0:0:80|h[Invincible's Reins]|h|r",
+				["LOOTNAME"] = "Invincible's Reins",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 20,
+				["ICON"] = "Interface\\Icons\\spell_deathknight_summondeathcharger",
+			},
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:52025:0:0:0:0:0:0:0:80|h[Vanquisher's Mark of Sanctification]|h|r",
+				["LOOTNAME"] = "Vanquisher's Mark of Sanctification",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 80,
+				["ICON"] = "Interface\\Icons\\ability_paladin_shieldofthetemplar",
+			},
+			["LOOTER NAME"] = "Mayicrush",
+			["TOTAL ITEMS"] = 6,
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:50738:0:0:0:0:0:0:0:80|h[Mithrios, Bronzebeard's Legacy]|h|r",
+				["LOOTNAME"] = "Mithrios, Bronzebeard's Legacy",
+				["RECEIVED"] = "-",
+				["WINNER"] = "-",
+				["ITEMLEVEL"] = 284,
+				["ICON"] = "Interface\\Icons\\inv_mace_117",
+			},
+		}, -- [527]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:47995:0:0:0:0:0:0:0:80|h[Scepter of Imprisoned Souls]|h|r",
+				["LOOTNAME"] = "Scepter of Imprisoned Souls",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_wand_31",
+				["ITEMLEVEL"] = 245,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Mayihunt",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cff0070dd|Hitem:47556:0:0:0:0:0:0:0:80|h[Crusader Orb]|h|r",
+				["LOOTNAME"] = "Crusader Orb",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\spell_holy_rune",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Icehowl",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:47990:0:0:0:0:0:0:0:80|h[Gauntlets of Mounting Anger]|h|r",
+				["LOOTNAME"] = "Gauntlets of Mounting Anger",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_gauntlets_62",
+				["ITEMLEVEL"] = 245,
+				["RECEIVED"] = "-",
+			},
+		}, -- [528]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:48009:0:0:0:0:0:0:0:80|h[Belt of the Nether Champion]|h|r",
+				["LOOTNAME"] = "虚空勇士腰带",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_belt_50",
+				["ITEMLEVEL"] = 245,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 4,
+			["LOOTER NAME"] = "Mayihunt",
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:49237:0:0:0:0:0:0:0:80|h[Sabatons of Tortured Space]|h|r",
+				["LOOTNAME"] = "Sabatons of Tortured Space",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\INV_Boots_Chain_06",
+				["ITEMLEVEL"] = 245,
+				["RECEIVED"] = "-",
+			},
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:48009:0:0:0:0:0:0:0:80|h[Belt of the Nether Champion]|h|r",
+				["LOOTNAME"] = "Belt of the Nether Champion",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_belt_50",
+				["ITEMLEVEL"] = 245,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Lord Jaraxxus",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:49237:0:0:0:0:0:0:0:80|h[Sabatons of Tortured Space]|h|r",
+				["LOOTNAME"] = "炼狱战靴",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\INV_Boots_Chain_06",
+				["ITEMLEVEL"] = 245,
+				["RECEIVED"] = "-",
+			},
+		}, -- [529]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:48015:0:0:0:0:0:0:0:80|h[Sunreaver Champion's Faceplate]|h|r",
+				["LOOTNAME"] = "Sunreaver Champion's Faceplate",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_helmet_130",
+				["ITEMLEVEL"] = 245,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 3,
+			["LOOTER NAME"] = "Mayihunt",
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cff0070dd|Hitem:47556:0:0:0:0:0:0:0:80|h[Crusader Orb]|h|r",
+				["LOOTNAME"] = "Crusader Orb",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\spell_holy_rune",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "Unknown",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:48021:0:0:0:0:0:0:0:80|h[Eitrigg's Oath]|h|r",
+				["LOOTNAME"] = "Eitrigg's Oath",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\INV_Jewelry_Talisman_02",
+				["ITEMLEVEL"] = 245,
+				["RECEIVED"] = "-",
+			},
+		}, -- [530]
+		{
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:48024:0:0:0:0:0:0:0:80|h[Greaves of the Lingering Vortex]|h|r",
+				["LOOTNAME"] = "徊流胫甲",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_boots_plate_09",
+				["ITEMLEVEL"] = 245,
+				["RECEIVED"] = "-",
+			},
+			["TOTAL ITEMS"] = 2,
+			["LOOTER NAME"] = "Meowuzs",
+			["MOB NAME"] = "光明邪使菲奥拉",
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:48026:0:0:0:0:0:0:0:80|h[Vest of Shifting Shadows]|h|r",
+				["LOOTNAME"] = "流影甲胄",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_chest_leather_18a",
+				["ITEMLEVEL"] = 245,
+				["RECEIVED"] = "-",
+			},
+		}, -- [531]
+		{
+			["ITEM_3"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:48056:0:0:0:0:0:0:0:80|h[Anguish]|h|r",
+				["LOOTNAME"] = "苦痛",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\INV_Weapon_Halberd_31",
+				["ITEMLEVEL"] = 245,
+				["RECEIVED"] = "-",
+			},
+			["ITEM_5"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:47242:0:0:0:0:0:0:0:80|h[Trophy of the Crusade]|h|r",
+				["LOOTNAME"] = "Trophy of the Crusade1",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\INV_Misc_Trophy_Argent",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["MOB NAME"] = "阿努巴拉克",
+			["ITEM_9"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:49046:0:0:0:0:0:0:0:80|h[Swift Horde Wolf]|h|r",
+				["LOOTNAME"] = "Swift Horde Wolf",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\Ability_Mount_BlackDireWolf",
+				["ITEMLEVEL"] = 40,
+				["RECEIVED"] = "-",
+			},
+			["ITEM_1"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:48668:0:0:0:0:0:0:0:80|h[Cloak of Serrated Blades]|h|r",
+				["LOOTNAME"] = "Cloak of Serrated Blades",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_misc_cape_18",
+				["ITEMLEVEL"] = 258,
+				["RECEIVED"] = "-",
+			},
+			["ITEM_6"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:47242:0:0:0:0:0:0:0:80|h[Trophy of the Crusade]|h|r",
+				["LOOTNAME"] = "Trophy of the Crusade2",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\INV_Misc_Trophy_Argent",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["ITEM_4"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:47242:0:0:0:0:0:0:0:80|h[Trophy of the Crusade]|h|r",
+				["LOOTNAME"] = "Trophy of the Crusade",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\INV_Misc_Trophy_Argent",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["LOOTER NAME"] = "Meowuzs",
+			["TOTAL ITEMS"] = 9,
+			["ITEM_7"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:47242:0:0:0:0:0:0:0:80|h[Trophy of the Crusade]|h|r",
+				["LOOTNAME"] = "Trophy of the Crusade3",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\INV_Misc_Trophy_Argent",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["ITEM_8"] = {
+				["ITEMLINK"] = "|cff0070dd|Hitem:47556:0:0:0:0:0:0:0:80|h[Crusader Orb]|h|r",
+				["LOOTNAME"] = "Crusader Orb",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\spell_holy_rune",
+				["ITEMLEVEL"] = 80,
+				["RECEIVED"] = "-",
+			},
+			["ITEM_2"] = {
+				["ITEMLINK"] = "|cffa335ee|Hitem:48693:0:0:0:0:0:0:0:80|h[Heartsmasher]|h|r",
+				["LOOTNAME"] = "Heartsmasher",
+				["WINNER"] = "-",
+				["ICON"] = "Interface\\Icons\\inv_mace_103",
+				["ITEMLEVEL"] = 245,
+				["RECEIVED"] = "-",
+			},
+		}, -- [532]
 		[0] = {
 			["TOTAL ITEMS"] = 0,
 		},
-		["TOTAL WINDOWS"] = 309,
-		["CURRENT WINDOW"] = 309,
+		["TOTAL WINDOWS"] = 532,
+		["CURRENT WINDOW"] = 532,
 	},
 	["Rank Priority"] = {
 		10, -- [1]
@@ -11781,7 +18728,120 @@ RaidRoll_DB = {
 	["MIN_EP"] = 2500,
 }
 RaidRoll_DBPC = {
-	["Yaramiem"] = {
+	["Mayibite"] = {
+		["RR_RollCheckBox_Auto_Close"] = false,
+		["RR_AutoOpenLootWindow"] = true,
+		["RR_AllowExtraRolls"] = false,
+		["RR_Roll_Tracking_Enabled"] = true,
+		["RR_EPGP_Priority"] = false,
+		["Raid_Roll_SetMsg1_EditBox"] = "Roll [Item] Main Spec",
+		["Raid_Roll_SetMsg2_EditBox"] = "Roll [Item] Off Spec",
+		["RR_ShowGroupNumber"] = false,
+		["RR_RollCheckBox_GuildAnnounce"] = false,
+		["RR_Show_Ranks"] = false,
+		["RR_RollCheckBox_Num_Not_Req"] = false,
+		["RR_RollCheckBox_Track_EPGPSays"] = false,
+		["RR_Track_Unannounced_Rolls"] = false,
+		["RR_ReceiveGuildMessages"] = false,
+		["RR_RollCheckBox_Multi_Rollers"] = false,
+		["RR_EPGP_Enabled"] = false,
+		["RR_RollCheckBox_Track_Bids"] = false,
+		["RR_Enable3Messages"] = false,
+		["RR_RollCheckBox_Auto_Announce"] = false,
+		["RR_ShowClassColors"] = true,
+		["RR_RankPriority"] = false,
+		["RR_RollCheckBox_GuildAnnounce_Officer"] = false,
+		["RR_RollCheckBox_Enable_Alt_Mode"] = false,
+		["RR_Accept_All_Rolls"] = false,
+		["RR_Frame_WotLK_Dung_Only"] = false,
+		["Raid_Roll_SetMsg3_EditBox"] = "Roll [Item] Off Spec",
+		["Time_Offset"] = 0,
+		["RR_RollCheckBox_No_countdown"] = false,
+		["RR_ExtraWidth"] = 0,
+	},
+	["Mayihunt"] = {
+		["RR_RollCheckBox_Auto_Close"] = false,
+		["Raid_Roll_SetMsg3_EditBox"] = "Roll [Item] Off Spec",
+		["RR_AutoOpenLootWindow"] = true,
+		["RR_EPGP_Priority"] = false,
+		["RR_Roll_Tracking_Enabled"] = true,
+		["RR_ShowGroupNumber"] = false,
+		["Raid_Roll_SetMsg1_EditBox"] = "Roll [Item] Main Spec",
+		["Raid_Roll_SetMsg2_EditBox"] = "Roll [Item] Off Spec",
+		["RR_Show_Ranks"] = false,
+		["RR_RollCheckBox_GuildAnnounce"] = false,
+		["RR_RollCheckBox_Num_Not_Req"] = false,
+		["RR_RollCheckBox_Track_EPGPSays"] = false,
+		["RR_NameMark"] = {
+			[""] = {
+			},
+			["andrext"] = {
+			},
+			["jurok"] = {
+			},
+			["quitank"] = {
+			},
+			["detrokz"] = {
+			},
+			["exelanss"] = {
+			},
+			["rikimaaru"] = {
+			},
+			["wangqiuer"] = {
+			},
+			["timoscuk"] = {
+			},
+		},
+		["RR_Track_Unannounced_Rolls"] = false,
+		["RR_ReceiveGuildMessages"] = false,
+		["RR_RollCheckBox_Multi_Rollers"] = false,
+		["RR_EPGP_Enabled"] = false,
+		["RR_RollCheckBox_Track_Bids"] = false,
+		["RR_Enable3Messages"] = false,
+		["RR_RollCheckBox_Auto_Announce"] = false,
+		["RR_ShowClassColors"] = true,
+		["RR_RankPriority"] = false,
+		["RR_RollCheckBox_GuildAnnounce_Officer"] = false,
+		["RR_RollCheckBox_Enable_Alt_Mode"] = false,
+		["RR_Accept_All_Rolls"] = false,
+		["RR_Frame_WotLK_Dung_Only"] = false,
+		["RR_AllowExtraRolls"] = false,
+		["Time_Offset"] = 0,
+		["RR_RollCheckBox_No_countdown"] = false,
+		["RR_ExtraWidth"] = 0,
+	},
+	["Analbuster"] = {
+		["RR_RollCheckBox_Auto_Close"] = false,
+		["RR_AutoOpenLootWindow"] = true,
+		["RR_AllowExtraRolls"] = false,
+		["RR_Roll_Tracking_Enabled"] = true,
+		["RR_EPGP_Priority"] = false,
+		["Raid_Roll_SetMsg1_EditBox"] = "Roll [Item] Main Spec",
+		["Raid_Roll_SetMsg2_EditBox"] = "Roll [Item] Off Spec",
+		["RR_ShowGroupNumber"] = false,
+		["RR_RollCheckBox_GuildAnnounce"] = false,
+		["RR_Show_Ranks"] = false,
+		["RR_RollCheckBox_Num_Not_Req"] = false,
+		["RR_RollCheckBox_Track_EPGPSays"] = false,
+		["RR_Track_Unannounced_Rolls"] = false,
+		["RR_ReceiveGuildMessages"] = false,
+		["RR_RollCheckBox_Multi_Rollers"] = false,
+		["RR_EPGP_Enabled"] = false,
+		["RR_RollCheckBox_Track_Bids"] = false,
+		["RR_Enable3Messages"] = false,
+		["RR_RollCheckBox_Auto_Announce"] = false,
+		["RR_ShowClassColors"] = true,
+		["RR_RankPriority"] = false,
+		["RR_RollCheckBox_GuildAnnounce_Officer"] = false,
+		["RR_RollCheckBox_Enable_Alt_Mode"] = false,
+		["RR_Accept_All_Rolls"] = false,
+		["RR_Frame_WotLK_Dung_Only"] = false,
+		["Raid_Roll_SetMsg3_EditBox"] = "Roll [Item] Off Spec",
+		["Time_Offset"] = 0,
+		["RR_RollCheckBox_No_countdown"] = false,
+		["RR_ExtraWidth"] = 0,
+	},
+	["Durrozdor"] = {
 		["RR_RollCheckBox_Auto_Close"] = false,
 		["RR_AutoOpenLootWindow"] = true,
 		["RR_AllowExtraRolls"] = false,
@@ -11858,17 +18918,17 @@ RaidRoll_DBPC = {
 			},
 			["johnytheblue"] = {
 			},
-			["naidenovjr"] = {
+			["fareci"] = {
 			},
 			["venexa"] = {
 			},
 			["vazyan"] = {
 			},
-			["fareci"] = {
+			["viledivine"] = {
 			},
 			["kishka"] = {
 			},
-			["viledivine"] = {
+			["naidenovjr"] = {
 			},
 			["jinsy"] = {
 			},
@@ -12069,7 +19129,7 @@ RaidRoll_DBPC = {
 			},
 			["sukeris"] = {
 			},
-			["elyssarinn"] = {
+			["sherill"] = {
 			},
 			["biggie"] = {
 			},
@@ -12105,9 +19165,9 @@ RaidRoll_DBPC = {
 			},
 			["fynest"] = {
 			},
-			["sherill"] = {
-			},
 			["drutheil"] = {
+			},
+			["elyssarinn"] = {
 			},
 			["magaswolmax"] = {
 			},
@@ -12150,473 +19210,6 @@ RaidRoll_DBPC = {
 		["RR_RollCheckBox_No_countdown"] = false,
 		["RR_ExtraWidth"] = 0,
 	},
-	["Mayistab"] = {
-		["RR_RollCheckBox_Auto_Close"] = false,
-		["Raid_Roll_SetMsg1_EditBox"] = "Roll [Item] Main Spec",
-		["RR_AutoOpenLootWindow"] = true,
-		["RR_RollCheckBox_No_countdown"] = false,
-		["RR_Roll_Tracking_Enabled"] = true,
-		["Time_Offset"] = 0,
-		["Raid_Roll_SetMsg3_EditBox"] = "Roll [Item] Off Spec",
-		["Raid_Roll_SetMsg2_EditBox"] = "Roll [Item] Off Spec",
-		["RR_AllowExtraRolls"] = false,
-		["RR_RollCheckBox_GuildAnnounce"] = false,
-		["RR_Frame_WotLK_Dung_Only"] = false,
-		["RR_Accept_All_Rolls"] = false,
-		["RR_ReceiveGuildMessages"] = false,
-		["RR_Track_Unannounced_Rolls"] = false,
-		["RR_NameMark"] = {
-			[""] = {
-			},
-			["bigsean"] = {
-			},
-			["ordinix"] = {
-			},
-			["nohealsforyo"] = {
-			},
-			["samill"] = {
-			},
-			["mayistab"] = {
-			},
-			["mangle"] = {
-			},
-			["rumbelti"] = {
-			},
-			["kaykamage"] = {
-			},
-			["makili"] = {
-			},
-			["malika"] = {
-			},
-			["herborist"] = {
-			},
-			["prepodavatel"] = {
-			},
-			["quillava"] = {
-			},
-			["swordk"] = {
-			},
-			["blackmagicqt"] = {
-			},
-			["amaa"] = {
-			},
-			["erratica"] = {
-			},
-			["xenophobic"] = {
-			},
-			["dkbis"] = {
-			},
-			["okducky"] = {
-			},
-			["dyss"] = {
-			},
-			["kaifrey"] = {
-			},
-		},
-		["RR_RollCheckBox_Multi_Rollers"] = false,
-		["RR_Enable3Messages"] = false,
-		["RR_ShowClassColors"] = true,
-		["RR_EPGP_Enabled"] = false,
-		["RR_RollCheckBox_Auto_Announce"] = false,
-		["RR_RollCheckBox_Track_Bids"] = false,
-		["RR_RankPriority"] = false,
-		["RR_RollCheckBox_GuildAnnounce_Officer"] = false,
-		["RR_RollCheckBox_Enable_Alt_Mode"] = false,
-		["RR_RollCheckBox_Track_EPGPSays"] = false,
-		["RR_RollCheckBox_Num_Not_Req"] = false,
-		["RR_Show_Ranks"] = false,
-		["RR_ShowGroupNumber"] = false,
-		["RR_EPGP_Priority"] = false,
-		["RR_ExtraWidth"] = 0,
-	},
-	["Mayicurse"] = {
-		["RR_RollCheckBox_Auto_Close"] = false,
-		["Raid_Roll_SetMsg1_EditBox"] = "Roll [Item] Main Spec",
-		["RR_AutoOpenLootWindow"] = true,
-		["RR_RollCheckBox_No_countdown"] = false,
-		["RR_Roll_Tracking_Enabled"] = true,
-		["Time_Offset"] = 0,
-		["Raid_Roll_SetMsg3_EditBox"] = "Roll [Item] Off Spec",
-		["Raid_Roll_SetMsg2_EditBox"] = "Roll [Item] Off Spec",
-		["RR_AllowExtraRolls"] = false,
-		["RR_RollCheckBox_GuildAnnounce"] = false,
-		["RR_Frame_WotLK_Dung_Only"] = false,
-		["RR_Accept_All_Rolls"] = false,
-		["RR_ReceiveGuildMessages"] = false,
-		["RR_Track_Unannounced_Rolls"] = false,
-		["RR_NameMark"] = {
-			["nemasmisal"] = {
-			},
-			["holyred"] = {
-			},
-			["welexy"] = {
-			},
-			["lickmyfish"] = {
-			},
-			["pspectre"] = {
-			},
-			["biglee"] = {
-			},
-			["johta"] = {
-			},
-			["bathrael"] = {
-			},
-			["hesam"] = {
-			},
-			["ramoonya"] = {
-			},
-			["aegwyn"] = {
-			},
-			["gubby"] = {
-			},
-			["hocupicku"] = {
-			},
-			["cutesmile"] = {
-			},
-			["reakcia"] = {
-			},
-			["boberkurvaa"] = {
-			},
-			["newmate"] = {
-			},
-			["razvalisa"] = {
-			},
-			["rayedudu"] = {
-			},
-			["srdruid"] = {
-			},
-			["magicbomm"] = {
-			},
-			["dartriox"] = {
-			},
-			["cakeqt"] = {
-			},
-			["lilpumpy"] = {
-			},
-			["nezikoo"] = {
-			},
-			["smoker"] = {
-			},
-			["angelofmercy"] = {
-			},
-			["holyarc"] = {
-			},
-			["kunjo"] = {
-			},
-			["fujifuji"] = {
-			},
-			["pepeok"] = {
-			},
-			["blockvalue"] = {
-			},
-			["keloka"] = {
-			},
-			["shyranna"] = {
-			},
-			["everina"] = {
-			},
-			["cajaarequipa"] = {
-			},
-			["epichorner"] = {
-			},
-			["mariestads"] = {
-			},
-			["thorokell"] = {
-			},
-			["nighttmaare"] = {
-			},
-			["askmeificare"] = {
-			},
-			["krayreturn"] = {
-			},
-			["golotinja"] = {
-			},
-			["andduin"] = {
-			},
-			["money"] = {
-			},
-			["umirah"] = {
-			},
-			["soulmain"] = {
-			},
-			["aatroxii"] = {
-			},
-			["ryyppy"] = {
-			},
-			["ayriona"] = {
-			},
-			["ailaara"] = {
-			},
-			["hollysmashh"] = {
-			},
-			["zeratulx"] = {
-			},
-			["bomoboom"] = {
-			},
-			["somnorosu"] = {
-			},
-			["bumsan"] = {
-			},
-			["mzzm"] = {
-			},
-			["megaloman"] = {
-			},
-			["kryv"] = {
-			},
-			["lrl"] = {
-			},
-			["puremed"] = {
-			},
-			["neganovakci"] = {
-			},
-			["payfortank"] = {
-			},
-			["aphelyna"] = {
-			},
-			["serkosaur"] = {
-			},
-			["chaoscythe"] = {
-			},
-			["puritoo"] = {
-			},
-			["duplicitous"] = {
-			},
-			["vatrenoleden"] = {
-			},
-			["evans"] = {
-			},
-			["rynkar"] = {
-			},
-			["stircymetsat"] = {
-			},
-			["lichkxy"] = {
-			},
-			["sotwisted"] = {
-			},
-			["shotwave"] = {
-			},
-			["apsha"] = {
-			},
-			["tratorzim"] = {
-			},
-			["bloodbabym"] = {
-			},
-			["samuru"] = {
-			},
-			["elucid"] = {
-			},
-			["ixirion"] = {
-			},
-			["jamesyboy"] = {
-			},
-			["skoljka"] = {
-			},
-			["doula"] = {
-			},
-			["inuoka"] = {
-			},
-			["hynxx"] = {
-			},
-			["vispell"] = {
-			},
-			["wizap"] = {
-			},
-			["bravesoul"] = {
-			},
-			["blessflash"] = {
-			},
-			["eloquent"] = {
-			},
-			["rippez"] = {
-			},
-			["infernel"] = {
-			},
-			["sunlover"] = {
-			},
-			["lignjoslav"] = {
-			},
-			["pddw"] = {
-			},
-			["sorenshamy"] = {
-			},
-			["bankaij"] = {
-			},
-			["kisangani"] = {
-			},
-			["bariwhite"] = {
-			},
-			["popular"] = {
-			},
-			["hdayda"] = {
-			},
-			["xyleer"] = {
-			},
-			["xxevol"] = {
-			},
-			["lostriderwar"] = {
-			},
-			["ruddess"] = {
-			},
-			["crushera"] = {
-			},
-			["adooshe"] = {
-			},
-			["spankey"] = {
-			},
-			["wam"] = {
-			},
-			["prlnc"] = {
-			},
-			["trinidyti"] = {
-			},
-			["coarse"] = {
-			},
-			["fawzito"] = {
-			},
-			["ghrpsix"] = {
-			},
-			["vakashield"] = {
-			},
-			["menrva"] = {
-			},
-			["castiloo"] = {
-			},
-			["nightblad"] = {
-			},
-			["kathh"] = {
-			},
-			["gingerfairy"] = {
-			},
-			["honeyeater"] = {
-			},
-			["woef"] = {
-			},
-			["illmatic"] = {
-			},
-			["aleeraa"] = {
-			},
-			["dingning"] = {
-			},
-			["ilusive"] = {
-			},
-			["windred"] = {
-			},
-			["darthvanq"] = {
-			},
-			["fruiteh"] = {
-			},
-			["hinterx"] = {
-			},
-			["talrindan"] = {
-			},
-			["nuuana"] = {
-			},
-			["rammsttein"] = {
-			},
-			["akukaracza"] = {
-			},
-			["kelod"] = {
-			},
-			["zelux"] = {
-			},
-			["topkek"] = {
-			},
-			["priestytute"] = {
-			},
-			["mayijudge"] = {
-			},
-			["mayicurse"] = {
-			},
-			["deforce"] = {
-			},
-			["kwgl"] = {
-			},
-			["arynelle"] = {
-			},
-			["koletzki"] = {
-			},
-			["megyekinni"] = {
-			},
-			["burakwarrior"] = {
-			},
-			["elyie"] = {
-			},
-			["caryppotter"] = {
-			},
-			["warriorski"] = {
-			},
-			["ketflix"] = {
-			},
-			["iliqna"] = {
-			},
-			[""] = {
-			},
-			["elanthe"] = {
-			},
-			["kykyfelnika"] = {
-			},
-			["greenhax"] = {
-			},
-			["adventcirno"] = {
-			},
-			["konjslon"] = {
-			},
-			["nevermorekhv"] = {
-			},
-			["stormistika"] = {
-			},
-			["tanksum"] = {
-			},
-			["imfat"] = {
-			},
-		},
-		["RR_RollCheckBox_Multi_Rollers"] = false,
-		["RR_Enable3Messages"] = false,
-		["RR_ShowClassColors"] = true,
-		["RR_EPGP_Enabled"] = false,
-		["RR_RollCheckBox_Auto_Announce"] = false,
-		["RR_RollCheckBox_Track_Bids"] = false,
-		["RR_RankPriority"] = false,
-		["RR_RollCheckBox_GuildAnnounce_Officer"] = false,
-		["RR_RollCheckBox_Enable_Alt_Mode"] = false,
-		["RR_RollCheckBox_Track_EPGPSays"] = false,
-		["RR_RollCheckBox_Num_Not_Req"] = false,
-		["RR_Show_Ranks"] = false,
-		["RR_ShowGroupNumber"] = false,
-		["RR_EPGP_Priority"] = false,
-		["RR_ExtraWidth"] = 0,
-	},
-	["Casette"] = {
-		["RR_RollCheckBox_Auto_Close"] = false,
-		["RR_AutoOpenLootWindow"] = true,
-		["RR_AllowExtraRolls"] = false,
-		["RR_Roll_Tracking_Enabled"] = true,
-		["RR_EPGP_Priority"] = false,
-		["Raid_Roll_SetMsg1_EditBox"] = "Roll [Item] Main Spec",
-		["Raid_Roll_SetMsg2_EditBox"] = "Roll [Item] Off Spec",
-		["RR_ShowGroupNumber"] = false,
-		["RR_RollCheckBox_GuildAnnounce"] = false,
-		["RR_Show_Ranks"] = false,
-		["RR_RollCheckBox_Num_Not_Req"] = false,
-		["RR_RollCheckBox_Track_EPGPSays"] = false,
-		["RR_Track_Unannounced_Rolls"] = false,
-		["RR_ReceiveGuildMessages"] = false,
-		["RR_RollCheckBox_Multi_Rollers"] = false,
-		["RR_EPGP_Enabled"] = false,
-		["RR_RollCheckBox_Track_Bids"] = false,
-		["RR_Enable3Messages"] = false,
-		["RR_RollCheckBox_Auto_Announce"] = false,
-		["RR_ShowClassColors"] = true,
-		["RR_RankPriority"] = false,
-		["RR_RollCheckBox_GuildAnnounce_Officer"] = false,
-		["RR_RollCheckBox_Enable_Alt_Mode"] = false,
-		["RR_Accept_All_Rolls"] = false,
-		["RR_Frame_WotLK_Dung_Only"] = false,
-		["Raid_Roll_SetMsg3_EditBox"] = "Roll [Item] Off Spec",
-		["Time_Offset"] = 0,
-		["RR_RollCheckBox_No_countdown"] = false,
-		["RR_ExtraWidth"] = 0,
-	},
 	["Mayiascend"] = {
 		["RR_PlayerIconID"] = {
 		},
@@ -12626,9 +19219,9 @@ RaidRoll_DBPC = {
 		["RR_AutoOpenLootWindow"] = true,
 		["Time_Offset"] = 0,
 		["RR_Roll_Tracking_Enabled"] = true,
-		["RR_RollCheckBox_Num_Not_Req"] = false,
+		["Raid_Roll_SetMsg2_EditBox"] = "Roll [Item] Off Spec",
 		["Raid_Roll_SetMsg1_EditBox"] = "Roll [Item] Main Spec",
-		["RR_Accept_All_Rolls"] = false,
+		["RR_RollCheckBox_Num_Not_Req"] = false,
 		["RR_Frame_WotLK_Dung_Only"] = false,
 		["RR_RollCheckBox_GuildAnnounce"] = false,
 		["RR_PlayerIcon"] = {
@@ -12941,13 +19534,13 @@ RaidRoll_DBPC = {
 			},
 			["kilovatio"] = {
 			},
-			["icck"] = {
+			["shammydrigs"] = {
 			},
 			["lexson"] = {
 			},
 			["rocktime"] = {
 			},
-			["opon"] = {
+			["icck"] = {
 			},
 			["pyrodash"] = {
 			},
@@ -12957,7 +19550,7 @@ RaidRoll_DBPC = {
 			},
 			["littlecatt"] = {
 			},
-			["shammydrigs"] = {
+			["opon"] = {
 			},
 			["drochka"] = {
 			},
@@ -13035,12 +19628,12 @@ RaidRoll_DBPC = {
 		["RR_RollCheckBox_Enable_Alt_Mode"] = false,
 		["RR_RollCheckBox_Track_EPGPSays"] = false,
 		["RR_AllowExtraRolls"] = false,
-		["Raid_Roll_SetMsg2_EditBox"] = "Roll [Item] Off Spec",
+		["RR_Accept_All_Rolls"] = false,
 		["RR_ShowGroupNumber"] = false,
 		["RR_EPGP_Priority"] = false,
 		["RR_ExtraWidth"] = 0,
 	},
-	["Analbuster"] = {
+	["Nekimi"] = {
 		["RR_RollCheckBox_Auto_Close"] = false,
 		["RR_AutoOpenLootWindow"] = true,
 		["RR_AllowExtraRolls"] = false,
@@ -13069,6 +19662,875 @@ RaidRoll_DBPC = {
 		["Raid_Roll_SetMsg3_EditBox"] = "Roll [Item] Off Spec",
 		["Time_Offset"] = 0,
 		["RR_RollCheckBox_No_countdown"] = false,
+		["RR_ExtraWidth"] = 0,
+	},
+	["Mayistab"] = {
+		["RR_RollCheckBox_Auto_Close"] = false,
+		["Raid_Roll_SetMsg1_EditBox"] = "Roll [Item] Main Spec",
+		["RR_AutoOpenLootWindow"] = true,
+		["RR_RollCheckBox_No_countdown"] = false,
+		["RR_Roll_Tracking_Enabled"] = true,
+		["Time_Offset"] = 0,
+		["Raid_Roll_SetMsg3_EditBox"] = "Roll [Item] Off Spec",
+		["Raid_Roll_SetMsg2_EditBox"] = "Roll [Item] Off Spec",
+		["RR_AllowExtraRolls"] = false,
+		["RR_RollCheckBox_GuildAnnounce"] = false,
+		["RR_Frame_WotLK_Dung_Only"] = false,
+		["RR_Accept_All_Rolls"] = false,
+		["RR_ReceiveGuildMessages"] = false,
+		["RR_Track_Unannounced_Rolls"] = false,
+		["RR_NameMark"] = {
+			[""] = {
+			},
+			["bigsean"] = {
+			},
+			["ordinix"] = {
+			},
+			["nohealsforyo"] = {
+			},
+			["samill"] = {
+			},
+			["mayistab"] = {
+			},
+			["mangle"] = {
+			},
+			["rumbelti"] = {
+			},
+			["kaykamage"] = {
+			},
+			["makili"] = {
+			},
+			["malika"] = {
+			},
+			["herborist"] = {
+			},
+			["prepodavatel"] = {
+			},
+			["quillava"] = {
+			},
+			["swordk"] = {
+			},
+			["blackmagicqt"] = {
+			},
+			["amaa"] = {
+			},
+			["erratica"] = {
+			},
+			["xenophobic"] = {
+			},
+			["dkbis"] = {
+			},
+			["okducky"] = {
+			},
+			["dyss"] = {
+			},
+			["kaifrey"] = {
+			},
+		},
+		["RR_RollCheckBox_Multi_Rollers"] = false,
+		["RR_Enable3Messages"] = false,
+		["RR_ShowClassColors"] = true,
+		["RR_EPGP_Enabled"] = false,
+		["RR_RollCheckBox_Auto_Announce"] = false,
+		["RR_RollCheckBox_Track_Bids"] = false,
+		["RR_RankPriority"] = false,
+		["RR_RollCheckBox_GuildAnnounce_Officer"] = false,
+		["RR_RollCheckBox_Enable_Alt_Mode"] = false,
+		["RR_RollCheckBox_Track_EPGPSays"] = false,
+		["RR_RollCheckBox_Num_Not_Req"] = false,
+		["RR_Show_Ranks"] = false,
+		["RR_ShowGroupNumber"] = false,
+		["RR_EPGP_Priority"] = false,
+		["RR_ExtraWidth"] = 0,
+	},
+	["Casette"] = {
+		["RR_RollCheckBox_Auto_Close"] = false,
+		["Raid_Roll_SetMsg3_EditBox"] = "Roll [Item] Off Spec",
+		["RR_AutoOpenLootWindow"] = true,
+		["RR_EPGP_Priority"] = false,
+		["RR_Roll_Tracking_Enabled"] = true,
+		["RR_ShowGroupNumber"] = false,
+		["Raid_Roll_SetMsg1_EditBox"] = "Roll [Item] Main Spec",
+		["Raid_Roll_SetMsg2_EditBox"] = "Roll [Item] Off Spec",
+		["RR_Show_Ranks"] = false,
+		["RR_AllowExtraRolls"] = false,
+		["RR_RollCheckBox_Num_Not_Req"] = false,
+		["RR_RollCheckBox_Track_EPGPSays"] = false,
+		["RR_NameMark"] = {
+			[""] = {
+			},
+			["allsaher"] = {
+			},
+			["moronin"] = {
+			},
+			["hexlock"] = {
+			},
+			["balancedudu"] = {
+			},
+			["noshten"] = {
+			},
+			["thawthar"] = {
+			},
+			["krushnug"] = {
+			},
+			["banicka"] = {
+			},
+			["killpacino"] = {
+			},
+			["snakzkatacak"] = {
+			},
+			["feetseller"] = {
+			},
+			["arathorrn"] = {
+			},
+			["casette"] = {
+			},
+			["smokechaos"] = {
+			},
+			["vitinhia"] = {
+			},
+			["hudimd"] = {
+			},
+			["gragon"] = {
+			},
+			["patchata"] = {
+			},
+			["spacefloozy"] = {
+			},
+			["hordeorcdk"] = {
+			},
+			["xkralltr"] = {
+			},
+			["envolol"] = {
+			},
+		},
+		["RR_Track_Unannounced_Rolls"] = false,
+		["RR_ReceiveGuildMessages"] = false,
+		["RR_RollCheckBox_Multi_Rollers"] = false,
+		["RR_EPGP_Enabled"] = false,
+		["RR_RollCheckBox_Track_Bids"] = false,
+		["RR_Enable3Messages"] = false,
+		["RR_RollCheckBox_Auto_Announce"] = false,
+		["RR_ShowClassColors"] = true,
+		["RR_RankPriority"] = false,
+		["RR_RollCheckBox_GuildAnnounce_Officer"] = false,
+		["RR_RollCheckBox_Enable_Alt_Mode"] = false,
+		["RR_Accept_All_Rolls"] = false,
+		["RR_Frame_WotLK_Dung_Only"] = false,
+		["RR_RollCheckBox_GuildAnnounce"] = false,
+		["Time_Offset"] = 0,
+		["RR_RollCheckBox_No_countdown"] = false,
+		["RR_ExtraWidth"] = 0,
+	},
+	["Mayicurse"] = {
+		["RR_RollCheckBox_Auto_Close"] = false,
+		["Raid_Roll_SetMsg1_EditBox"] = "Roll [Item] Main Spec",
+		["RR_AutoOpenLootWindow"] = true,
+		["RR_RollCheckBox_No_countdown"] = false,
+		["RR_Roll_Tracking_Enabled"] = true,
+		["Time_Offset"] = 0,
+		["Raid_Roll_SetMsg3_EditBox"] = "Roll [Item] Off Spec",
+		["Raid_Roll_SetMsg2_EditBox"] = "Roll [Item] Off Spec",
+		["RR_AllowExtraRolls"] = false,
+		["RR_RollCheckBox_GuildAnnounce"] = false,
+		["RR_Frame_WotLK_Dung_Only"] = false,
+		["RR_Accept_All_Rolls"] = false,
+		["RR_ReceiveGuildMessages"] = false,
+		["RR_Track_Unannounced_Rolls"] = false,
+		["RR_NameMark"] = {
+			["nemasmisal"] = {
+			},
+			["holyred"] = {
+			},
+			["welexy"] = {
+			},
+			["lickmyfish"] = {
+			},
+			["pspectre"] = {
+			},
+			["biglee"] = {
+			},
+			["johta"] = {
+			},
+			["bathrael"] = {
+			},
+			["hesam"] = {
+			},
+			["ramoonya"] = {
+			},
+			["aegwyn"] = {
+			},
+			["gubby"] = {
+			},
+			["hocupicku"] = {
+			},
+			["cutesmile"] = {
+			},
+			["reakcia"] = {
+			},
+			["boberkurvaa"] = {
+			},
+			["newmate"] = {
+			},
+			["razvalisa"] = {
+			},
+			["rayedudu"] = {
+			},
+			["srdruid"] = {
+			},
+			["magicbomm"] = {
+			},
+			["dartriox"] = {
+			},
+			["cakeqt"] = {
+			},
+			["lilpumpy"] = {
+			},
+			["nezikoo"] = {
+			},
+			["smoker"] = {
+			},
+			["angelofmercy"] = {
+			},
+			["holyarc"] = {
+			},
+			["kunjo"] = {
+			},
+			["fujifuji"] = {
+			},
+			["pepeok"] = {
+			},
+			["blockvalue"] = {
+			},
+			["keloka"] = {
+			},
+			["shyranna"] = {
+			},
+			["everina"] = {
+			},
+			["pupazadintei"] = {
+			},
+			["cajaarequipa"] = {
+			},
+			["epichorner"] = {
+			},
+			["mariestads"] = {
+			},
+			["thorokell"] = {
+			},
+			["nighttmaare"] = {
+			},
+			["askmeificare"] = {
+			},
+			["strixi"] = {
+			},
+			["krayreturn"] = {
+			},
+			["golotinja"] = {
+			},
+			["andduin"] = {
+			},
+			["money"] = {
+			},
+			["umirah"] = {
+			},
+			["weladis"] = {
+			},
+			["soulmain"] = {
+			},
+			["aatroxii"] = {
+			},
+			["ryyppy"] = {
+			},
+			["ayriona"] = {
+			},
+			["demiox"] = {
+			},
+			["ailaara"] = {
+			},
+			["hollysmashh"] = {
+			},
+			["zeratulx"] = {
+			},
+			["bomoboom"] = {
+			},
+			["somnorosu"] = {
+			},
+			["bumsan"] = {
+			},
+			["mzzm"] = {
+			},
+			["megaloman"] = {
+			},
+			["magodelcaos"] = {
+			},
+			["kryv"] = {
+			},
+			["lrl"] = {
+			},
+			["puremed"] = {
+			},
+			["neganovakci"] = {
+			},
+			["payfortank"] = {
+			},
+			["aphelyna"] = {
+			},
+			["blessflash"] = {
+			},
+			["thurid"] = {
+			},
+			["serkosaur"] = {
+			},
+			["chaoscythe"] = {
+			},
+			["infernel"] = {
+			},
+			["puritoo"] = {
+			},
+			["gaavar"] = {
+			},
+			["thickcrits"] = {
+			},
+			["honeyeater"] = {
+			},
+			["neilya"] = {
+			},
+			["eadrin"] = {
+			},
+			["akathos"] = {
+			},
+			["duplicitous"] = {
+			},
+			["ilonie"] = {
+			},
+			["vatrenoleden"] = {
+			},
+			["slayherold"] = {
+			},
+			["evans"] = {
+			},
+			["trinidyti"] = {
+			},
+			["rynkar"] = {
+			},
+			["supanus"] = {
+			},
+			["myfeetpics"] = {
+			},
+			["orderdk"] = {
+			},
+			["stircymetsat"] = {
+			},
+			["hoso"] = {
+			},
+			["lichkxy"] = {
+			},
+			["iliqna"] = {
+			},
+			["analcarnaval"] = {
+			},
+			["sotwisted"] = {
+			},
+			["warriorski"] = {
+			},
+			["uix"] = {
+			},
+			["shotwave"] = {
+			},
+			["caryppotter"] = {
+			},
+			["lostriderwar"] = {
+			},
+			["apsha"] = {
+			},
+			["tratorzim"] = {
+			},
+			["kykyfelnika"] = {
+			},
+			["bloodbabym"] = {
+			},
+			["samuru"] = {
+			},
+			["elucid"] = {
+			},
+			["ixirion"] = {
+			},
+			["jamesyboy"] = {
+			},
+			["skoljka"] = {
+			},
+			["elanthe"] = {
+			},
+			["spacefloozy"] = {
+			},
+			["talrindan"] = {
+			},
+			["spyork"] = {
+			},
+			["inuoka"] = {
+			},
+			["prlnc"] = {
+			},
+			["tanksum"] = {
+			},
+			["fruiteh"] = {
+			},
+			["hynxx"] = {
+			},
+			["vispell"] = {
+			},
+			["wizap"] = {
+			},
+			["jackthemad"] = {
+			},
+			["nuuana"] = {
+			},
+			[""] = {
+			},
+			["bravesoul"] = {
+			},
+			["elyie"] = {
+			},
+			["pddw"] = {
+			},
+			["akukaracza"] = {
+			},
+			["rippez"] = {
+			},
+			["rammsttein"] = {
+			},
+			["deforce"] = {
+			},
+			["lignjoslav"] = {
+			},
+			["adventcirno"] = {
+			},
+			["sorenshamy"] = {
+			},
+			["bankaij"] = {
+			},
+			["kisangani"] = {
+			},
+			["hdayda"] = {
+			},
+			["xxevol"] = {
+			},
+			["arvales"] = {
+			},
+			["xyleer"] = {
+			},
+			["elidien"] = {
+			},
+			["megyekinni"] = {
+			},
+			["wam"] = {
+			},
+			["crushera"] = {
+			},
+			["adooshe"] = {
+			},
+			["zelux"] = {
+			},
+			["ilusive"] = {
+			},
+			["coarse"] = {
+			},
+			["babakiro"] = {
+			},
+			["mindcontroll"] = {
+			},
+			["menrva"] = {
+			},
+			["kelod"] = {
+			},
+			["diaphragme"] = {
+			},
+			["topkek"] = {
+			},
+			["castiloo"] = {
+			},
+			["lexiahx"] = {
+			},
+			["kathh"] = {
+			},
+			["gingerfairy"] = {
+			},
+			["darthvanq"] = {
+			},
+			["czitex"] = {
+			},
+			["koletzki"] = {
+			},
+			["aleeraa"] = {
+			},
+			["dingning"] = {
+			},
+			["woef"] = {
+			},
+			["windred"] = {
+			},
+			["nightblad"] = {
+			},
+			["ruddess"] = {
+			},
+			["hinterx"] = {
+			},
+			["ghrpsix"] = {
+			},
+			["sososhvili"] = {
+			},
+			["cromaniac"] = {
+			},
+			["tankcavus"] = {
+			},
+			["sunlover"] = {
+			},
+			["illmatic"] = {
+			},
+			["mayijudge"] = {
+			},
+			["priestytute"] = {
+			},
+			["vakashield"] = {
+			},
+			["mayicurse"] = {
+			},
+			["spankey"] = {
+			},
+			["kwgl"] = {
+			},
+			["arynelle"] = {
+			},
+			["doula"] = {
+			},
+			["fawzito"] = {
+			},
+			["burakwarrior"] = {
+			},
+			["hexlock"] = {
+			},
+			["netri"] = {
+			},
+			["wellashamy"] = {
+			},
+			["ketflix"] = {
+			},
+			["jajcarx"] = {
+			},
+			["eloquent"] = {
+			},
+			["popular"] = {
+			},
+			["laranlas"] = {
+			},
+			["greenhax"] = {
+			},
+			["bariwhite"] = {
+			},
+			["konjslon"] = {
+			},
+			["nevermorekhv"] = {
+			},
+			["stormistika"] = {
+			},
+			["bozakrufka"] = {
+			},
+			["imfat"] = {
+			},
+		},
+		["RR_RollCheckBox_Multi_Rollers"] = false,
+		["RR_Enable3Messages"] = false,
+		["RR_ShowClassColors"] = true,
+		["RR_EPGP_Enabled"] = false,
+		["RR_RollCheckBox_Auto_Announce"] = false,
+		["RR_RollCheckBox_Track_Bids"] = false,
+		["RR_RankPriority"] = false,
+		["RR_RollCheckBox_GuildAnnounce_Officer"] = false,
+		["RR_RollCheckBox_Enable_Alt_Mode"] = false,
+		["RR_RollCheckBox_Track_EPGPSays"] = false,
+		["RR_RollCheckBox_Num_Not_Req"] = false,
+		["RR_Show_Ranks"] = false,
+		["RR_ShowGroupNumber"] = false,
+		["RR_EPGP_Priority"] = false,
+		["RR_ExtraWidth"] = 0,
+	},
+	["Mayicrush"] = {
+		["RR_RollCheckBox_Auto_Close"] = false,
+		["Raid_Roll_SetMsg1_EditBox"] = "Roll [Item] Main Spec",
+		["RR_AutoOpenLootWindow"] = true,
+		["RR_RollCheckBox_No_countdown"] = false,
+		["RR_Roll_Tracking_Enabled"] = true,
+		["Time_Offset"] = 0,
+		["Raid_Roll_SetMsg3_EditBox"] = "Roll [Item] Off Spec",
+		["Raid_Roll_SetMsg2_EditBox"] = "Roll [Item] Off Spec",
+		["RR_RollCheckBox_GuildAnnounce"] = false,
+		["RR_AllowExtraRolls"] = false,
+		["RR_Frame_WotLK_Dung_Only"] = false,
+		["RR_Accept_All_Rolls"] = false,
+		["RR_ReceiveGuildMessages"] = false,
+		["RR_Track_Unannounced_Rolls"] = false,
+		["RR_NameMark"] = {
+			[""] = {
+			},
+			["darkzeal"] = {
+			},
+			["zuljissa"] = {
+			},
+			["turbomaina"] = {
+			},
+			["rabbitsham"] = {
+			},
+			["junon"] = {
+			},
+			["zxxzz"] = {
+			},
+			["haskovo"] = {
+			},
+			["glqsvip"] = {
+			},
+			["tugi"] = {
+			},
+			["hunret"] = {
+			},
+			["bladeufazt"] = {
+			},
+			["mousley"] = {
+			},
+			["asylord"] = {
+			},
+			["grujh"] = {
+			},
+			["chainsawz"] = {
+			},
+			["kaleric"] = {
+			},
+			["huntinghawk"] = {
+			},
+			["juventus"] = {
+			},
+			["jikren"] = {
+			},
+			["rizukexgodx"] = {
+			},
+			["secre"] = {
+			},
+			["lexithemoly"] = {
+			},
+			["myokon"] = {
+			},
+			["monocerus"] = {
+			},
+			["interlopers"] = {
+			},
+			["mayicrush"] = {
+			},
+			["papapeon"] = {
+			},
+			["bitterx"] = {
+			},
+			["garbis"] = {
+			},
+			["karakiro"] = {
+			},
+		},
+		["RR_RollCheckBox_Multi_Rollers"] = false,
+		["RR_Enable3Messages"] = false,
+		["RR_ShowClassColors"] = true,
+		["RR_EPGP_Enabled"] = false,
+		["RR_RollCheckBox_Auto_Announce"] = false,
+		["RR_RollCheckBox_Track_Bids"] = false,
+		["RR_RankPriority"] = false,
+		["RR_RollCheckBox_GuildAnnounce_Officer"] = false,
+		["RR_RollCheckBox_Enable_Alt_Mode"] = false,
+		["RR_RollCheckBox_Track_EPGPSays"] = false,
+		["RR_RollCheckBox_Num_Not_Req"] = false,
+		["RR_Show_Ranks"] = false,
+		["RR_ShowGroupNumber"] = false,
+		["RR_EPGP_Priority"] = false,
+		["RR_ExtraWidth"] = 0,
+	},
+	["Mayislash"] = {
+		["RR_RollCheckBox_Auto_Close"] = false,
+		["RR_Show_Ranks"] = false,
+		["RR_AutoOpenLootWindow"] = true,
+		["RR_RollCheckBox_No_countdown"] = false,
+		["RR_Roll_Tracking_Enabled"] = true,
+		["Time_Offset"] = 0,
+		["Raid_Roll_SetMsg1_EditBox"] = "Roll [Item] Main Spec",
+		["Raid_Roll_SetMsg2_EditBox"] = "Roll [Item] Off Spec",
+		["Raid_Roll_SetMsg3_EditBox"] = "Roll [Item] Off Spec",
+		["RR_RollCheckBox_GuildAnnounce"] = false,
+		["RR_Frame_WotLK_Dung_Only"] = false,
+		["RR_Accept_All_Rolls"] = false,
+		["RR_NameMark"] = {
+			[""] = {
+			},
+			["musclelady"] = {
+			},
+			["keepthebeat"] = {
+			},
+			["estimate"] = {
+			},
+			["fortnitee"] = {
+			},
+			["darknigg"] = {
+			},
+			["ramonarogue"] = {
+			},
+			["shallow"] = {
+			},
+			["enkzyolo"] = {
+			},
+			["lghunter"] = {
+			},
+			["kiroman"] = {
+			},
+			["totemcore"] = {
+			},
+			["chutiya"] = {
+			},
+			["riqimaru"] = {
+			},
+			["nightmoore"] = {
+			},
+			["darkelrond"] = {
+			},
+			["healikustrma"] = {
+			},
+			["newyear"] = {
+			},
+			["backkstabber"] = {
+			},
+			["ampush"] = {
+			},
+			["kutukolagibi"] = {
+			},
+			["petriots"] = {
+			},
+			["deaths"] = {
+			},
+			["jurok"] = {
+			},
+			["bearington"] = {
+			},
+			["thoranaar"] = {
+			},
+			["mikuruxd"] = {
+			},
+			["sacrispala"] = {
+			},
+			["mallinka"] = {
+			},
+			["roxxig"] = {
+			},
+			["kumastra"] = {
+			},
+			["adarenni"] = {
+			},
+			["andriona"] = {
+			},
+			["owlfloozy"] = {
+			},
+			["goodsap"] = {
+			},
+			["sellingbl"] = {
+			},
+			["dejanos"] = {
+			},
+			["pemsky"] = {
+			},
+			["juravis"] = {
+			},
+			["members"] = {
+			},
+			["thesoulsteal"] = {
+			},
+			["ivka"] = {
+			},
+			["coinz"] = {
+			},
+			["holywolf"] = {
+			},
+			["windi"] = {
+			},
+			["gous"] = {
+			},
+			["malaz"] = {
+			},
+			["smokechaos"] = {
+			},
+			["fluffytricks"] = {
+			},
+			["xross"] = {
+			},
+			["mahtoro"] = {
+			},
+			["tecekimlik"] = {
+			},
+			["documentary"] = {
+			},
+			["pickumatre"] = {
+			},
+			["ronniedio"] = {
+			},
+			["mayislash"] = {
+			},
+			["xbyz"] = {
+			},
+			["svodnik"] = {
+			},
+			["nhezy"] = {
+			},
+			["soulshammy"] = {
+			},
+			["yanzaga"] = {
+			},
+			["magodefogo"] = {
+			},
+			["sloniu"] = {
+			},
+			["tinysloth"] = {
+			},
+			["dahya"] = {
+			},
+			["slizzerin"] = {
+			},
+			["maggofuego"] = {
+			},
+			["negotiate"] = {
+			},
+			["uesto"] = {
+			},
+			["zeveruz"] = {
+			},
+			["qentaro"] = {
+			},
+			["steel"] = {
+			},
+			["blackwhisper"] = {
+			},
+			["jaelyna"] = {
+			},
+			["sweetyone"] = {
+			},
+		},
+		["RR_Track_Unannounced_Rolls"] = false,
+		["RR_ReceiveGuildMessages"] = false,
+		["RR_RollCheckBox_Multi_Rollers"] = false,
+		["RR_Enable3Messages"] = false,
+		["RR_ShowClassColors"] = true,
+		["RR_EPGP_Enabled"] = false,
+		["RR_RollCheckBox_Auto_Announce"] = false,
+		["RR_RollCheckBox_Track_Bids"] = false,
+		["RR_RankPriority"] = false,
+		["RR_RollCheckBox_GuildAnnounce_Officer"] = false,
+		["RR_RollCheckBox_Enable_Alt_Mode"] = false,
+		["RR_RollCheckBox_Track_EPGPSays"] = false,
+		["RR_RollCheckBox_Num_Not_Req"] = false,
+		["RR_AllowExtraRolls"] = false,
+		["RR_ShowGroupNumber"] = false,
+		["RR_EPGP_Priority"] = false,
 		["RR_ExtraWidth"] = 0,
 	},
 	["Elynass"] = {
@@ -13387,7 +20849,7 @@ RaidRoll_DBPC = {
 			},
 			["wukoe"] = {
 			},
-			["daggerskillz"] = {
+			["kittycandy"] = {
 			},
 			["baroonnoir"] = {
 			},
@@ -13397,7 +20859,7 @@ RaidRoll_DBPC = {
 			},
 			["danilova"] = {
 			},
-			["alppha"] = {
+			["daggerskillz"] = {
 			},
 			["loras"] = {
 			},
@@ -13423,15 +20885,15 @@ RaidRoll_DBPC = {
 			},
 			["hardpower"] = {
 			},
-			["nyankatsu"] = {
+			["craiasazapez"] = {
 			},
 			["moondarkside"] = {
 			},
-			["yukkia"] = {
+			["nyankatsu"] = {
 			},
 			["tpakmopucmka"] = {
 			},
-			["craiasazapez"] = {
+			["yukkia"] = {
 			},
 			["ayoubv"] = {
 			},
@@ -13455,7 +20917,7 @@ RaidRoll_DBPC = {
 			},
 			["delluxemn"] = {
 			},
-			["kittycandy"] = {
+			["alppha"] = {
 			},
 			["lightwellka"] = {
 			},
@@ -13528,35 +20990,35 @@ RaidRoll_DBPC = {
 		["RR_EPGP_Priority"] = false,
 		["RR_ExtraWidth"] = 0,
 	},
-	["Mayislash"] = {
+	["Yaramiem"] = {
 		["RR_RollCheckBox_Auto_Close"] = false,
 		["RR_AutoOpenLootWindow"] = true,
-		["RR_RollCheckBox_GuildAnnounce"] = false,
+		["RR_AllowExtraRolls"] = false,
 		["RR_Roll_Tracking_Enabled"] = true,
-		["RR_RollCheckBox_No_countdown"] = false,
+		["RR_EPGP_Priority"] = false,
 		["Raid_Roll_SetMsg1_EditBox"] = "Roll [Item] Main Spec",
 		["Raid_Roll_SetMsg2_EditBox"] = "Roll [Item] Off Spec",
-		["Time_Offset"] = 0,
-		["RR_AllowExtraRolls"] = false,
-		["Raid_Roll_SetMsg3_EditBox"] = "Roll [Item] Off Spec",
-		["RR_Frame_WotLK_Dung_Only"] = false,
-		["RR_Accept_All_Rolls"] = false,
+		["RR_ShowGroupNumber"] = false,
+		["RR_RollCheckBox_GuildAnnounce"] = false,
+		["RR_Show_Ranks"] = false,
+		["RR_RollCheckBox_Num_Not_Req"] = false,
+		["RR_RollCheckBox_Track_EPGPSays"] = false,
 		["RR_Track_Unannounced_Rolls"] = false,
 		["RR_ReceiveGuildMessages"] = false,
 		["RR_RollCheckBox_Multi_Rollers"] = false,
-		["RR_Enable3Messages"] = false,
-		["RR_ShowClassColors"] = true,
 		["RR_EPGP_Enabled"] = false,
-		["RR_RollCheckBox_Auto_Announce"] = false,
 		["RR_RollCheckBox_Track_Bids"] = false,
+		["RR_Enable3Messages"] = false,
+		["RR_RollCheckBox_Auto_Announce"] = false,
+		["RR_ShowClassColors"] = true,
 		["RR_RankPriority"] = false,
 		["RR_RollCheckBox_GuildAnnounce_Officer"] = false,
 		["RR_RollCheckBox_Enable_Alt_Mode"] = false,
-		["RR_RollCheckBox_Track_EPGPSays"] = false,
-		["RR_RollCheckBox_Num_Not_Req"] = false,
-		["RR_Show_Ranks"] = false,
-		["RR_ShowGroupNumber"] = false,
-		["RR_EPGP_Priority"] = false,
+		["RR_Accept_All_Rolls"] = false,
+		["RR_Frame_WotLK_Dung_Only"] = false,
+		["Raid_Roll_SetMsg3_EditBox"] = "Roll [Item] Off Spec",
+		["Time_Offset"] = 0,
+		["RR_RollCheckBox_No_countdown"] = false,
 		["RR_ExtraWidth"] = 0,
 	},
 }

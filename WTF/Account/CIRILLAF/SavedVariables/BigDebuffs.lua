@@ -5,16 +5,17 @@ BigDebuffsDB = {
 		},
 	},
 	["profileKeys"] = {
+		["Mayishadow - Icecrown"] = "Default",
 		["Mayiride - Icecrown"] = "Default",
 		["Pussfeeder - Onyxia"] = "Default",
 		["Analbasher - Icecrown"] = "Default",
 		["Mayikiss - Icecrown"] = "Default",
 		["Hirobank - Icecrown"] = "Default",
 		["Lapperisey - Lordaeron"] = "Default",
-		["Malescula - Icecrown"] = "Default",
+		["Rosemaryx - Icecrown"] = "Default",
 		["Lunarz - Icecrown"] = "Default",
 		["Itadori - Icecrown"] = "Default",
-		["Rosemaryx - Icecrown"] = "Default",
+		["Malescula - Icecrown"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

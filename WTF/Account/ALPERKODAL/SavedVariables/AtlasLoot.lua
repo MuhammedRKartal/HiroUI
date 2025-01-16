@@ -3,34 +3,46 @@ AtlasLootOptions = nil
 AtlasLootDB = {
 	["profileKeys"] = {
 		["Zubeyr - Icecrown"] = "Zubeyr - Icecrown",
-		["Uzunkazim - Icecrown"] = "Uzunkazim - Icecrown",
-		["Eladiel - Icecrown"] = "Eladiel - Icecrown",
-		["Heheh - Icecrown"] = "Heheh - Icecrown",
-		["Vardendi - Icecrown"] = "Vardendi - Icecrown",
+		["Daemonarc - Icecrown"] = "Daemonarc - Icecrown",
+		["Kilibiksa - Icecrown"] = "Kilibiksa - Icecrown",
+		["Garaambar - Icecrown"] = "Garaambar - Icecrown",
 		["Suleymanpro - Icecrown"] = "Suleymanpro - Icecrown",
+		["Heheh - Icecrown"] = "Heheh - Icecrown",
+		["Eladiel - Icecrown"] = "Eladiel - Icecrown",
+		["Vardendi - Icecrown"] = "Vardendi - Icecrown",
+		["Uzunkazim - Icecrown"] = "Uzunkazim - Icecrown",
 	},
 	["profiles"] = {
 		["Zubeyr - Icecrown"] = {
 			["AtlasType"] = "Unknown",
 		},
-		["Uzunkazim - Icecrown"] = {
+		["Daemonarc - Icecrown"] = {
 			["AtlasType"] = "Unknown",
 		},
-		["Eladiel - Icecrown"] = {
-			["AllLinks"] = false,
-			["AtlasLootVersion"] = "51104",
+		["Kilibiksa - Icecrown"] = {
+			["AtlasType"] = "Unknown",
+		},
+		["Garaambar - Icecrown"] = {
+			["AtlasType"] = "Unknown",
+		},
+		["Suleymanpro - Icecrown"] = {
 			["AtlasType"] = "Unknown",
 		},
 		["Heheh - Icecrown"] = {
 			["AllLinks"] = false,
 			["AtlasLootVersion"] = "51104",
 		},
+		["Eladiel - Icecrown"] = {
+			["AllLinks"] = false,
+			["AtlasLootVersion"] = "51104",
+			["AtlasType"] = "Unknown",
+		},
 		["Vardendi - Icecrown"] = {
 			["AllLinks"] = false,
 			["AtlasLootVersion"] = "51104",
 			["AtlasType"] = "Unknown",
 		},
-		["Suleymanpro - Icecrown"] = {
+		["Uzunkazim - Icecrown"] = {
 			["AtlasType"] = "Unknown",
 		},
 	},
@@ -39,19 +51,12 @@ AtlasLootWishList = {
 	["Shared"] = {
 	},
 	["Options"] = {
-		["Heheh"] = {
+		["Kilibiksa"] = {
 			["AllowShareWishlistInCombat"] = true,
 			["UseDefaultWishlist"] = false,
 			["Mark"] = true,
 			["AllowShareWishlist"] = true,
 			["markInTable"] = "own",
-		},
-		["Eladiel"] = {
-			["AllowShareWishlistInCombat"] = true,
-			["UseDefaultWishlist"] = false,
-			["Mark"] = true,
-			["markInTable"] = "own",
-			["AllowShareWishlist"] = true,
 		},
 		["Suleymanpro"] = {
 			["AllowShareWishlistInCombat"] = true,
@@ -60,7 +65,7 @@ AtlasLootWishList = {
 			["AllowShareWishlist"] = true,
 			["markInTable"] = "own",
 		},
-		["Zubeyr"] = {
+		["Daemonarc"] = {
 			["AllowShareWishlistInCombat"] = true,
 			["UseDefaultWishlist"] = false,
 			["Mark"] = true,
@@ -80,20 +85,54 @@ AtlasLootWishList = {
 			["Mark"] = true,
 			["AllowShareWishlist"] = true,
 			["markInTable"] = "own",
+		},
+		["Heheh"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["AllowShareWishlist"] = true,
+			["markInTable"] = "own",
+		},
+		["Eladiel"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["markInTable"] = "own",
+			["AllowShareWishlist"] = true,
+		},
+		["Zubeyr"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["markInTable"] = "own",
+			["AllowShareWishlist"] = true,
+		},
+		["Garaambar"] = {
+			["AllowShareWishlistInCombat"] = true,
+			["UseDefaultWishlist"] = false,
+			["Mark"] = true,
+			["markInTable"] = "own",
+			["AllowShareWishlist"] = true,
 		},
 	},
 	["Own"] = {
-		["Heheh"] = {
-		},
-		["Eladiel"] = {
+		["Kilibiksa"] = {
 		},
 		["Suleymanpro"] = {
 		},
-		["Zubeyr"] = {
+		["Daemonarc"] = {
 		},
 		["Uzunkazim"] = {
 		},
 		["Vardendi"] = {
+		},
+		["Heheh"] = {
+		},
+		["Eladiel"] = {
+		},
+		["Zubeyr"] = {
+		},
+		["Garaambar"] = {
 		},
 	},
 }

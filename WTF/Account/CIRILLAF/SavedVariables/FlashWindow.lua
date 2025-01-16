@@ -14,13 +14,14 @@ FWDB = {
 		["Plaacebo - Icecrown"] = "Default",
 		["Analbasher - Icecrown"] = "Default",
 		["Mayikiss - Icecrown"] = "Default",
+		["Elynass - Icecrown"] = "Default",
 		["Hirobank - Icecrown"] = "Default",
-		["Fliktah - Icecrown"] = "Default",
+		["Lapperisey - Lordaeron"] = "Default",
 		["Itadori - Icecrown"] = "Default",
 		["Ancaz - Icecrown"] = "Default",
 		["Fareci - Icecrown"] = "Default",
-		["Lapperisey - Lordaeron"] = "Default",
-		["Elynass - Icecrown"] = "Default",
+		["Fliktah - Icecrown"] = "Default",
+		["Mayishadow - Icecrown"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

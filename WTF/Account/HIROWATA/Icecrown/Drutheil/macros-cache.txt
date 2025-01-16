@@ -5,21 +5,21 @@ MACRO 16777223 "Berserker Stance" INV_Misc_QuestionMark
 /equipslot 17 Glorenzelg, High-Blade of the Silver Hand
 /equipslot 18 Fal'inrush, Defender of Quel'thalas 
 END
+MACRO 16777245 "CD" INV_Misc_QuestionMark
+/cast Death Wish
+/cast Berserking
+END
 MACRO 16777238 "Cleave BT" INV_Misc_QuestionMark
-#showtooltip Bloodthirst
 /startattack
-/cast Bloodthirst
+/cast !Bloodthirst
 /cast Cleave(Rank 8)
 /use 10
-/cancelaura Hand of Protection
-/cancelaura Divine Intervation
 END
 MACRO 16777237 "Cleave WW" INV_Misc_QuestionMark
-#showtooltip Whirlwind
+/startattack
 /cast !Whirlwind
-/cast Cleave
-/cancelaura Hand of Protection
-/cancelaura Divine Intervation
+/cast Cleave(Rank 8)
+/use 10
 END
 MACRO 16777219 "Disarm" INV_Misc_QuestionMark
 #showtooltip Disarm
@@ -31,27 +31,23 @@ MACRO 16777241 "Execute" INV_Misc_QuestionMark
 /cast Heroic Strike(Rank 13)
 END
 MACRO 16777240 "Heroic BT" INV_Misc_QuestionMark
-#showtooltip Bloodthirst
 /startattack
-/cast Bloodthirst
+/cast !Bloodthirst
 /cast Heroic Strike(Rank 13)
 /use 10
-/cancelaura Hand of Protecion
-/cancelaura Divine Intervation
 END
 MACRO 16777239 "Heroic WW" INV_Misc_QuestionMark
-#showtooltip Whirlwind
+/startattack
 /cast !Whirlwind
-/cast Heroic Strike
-/cancelaura Hand of Protection
-/cancelaura Divine Intervation
+/cast Heroic Strike(Rank 13)
+/use 10
 END
 MACRO 16777236 "Intercept" INV_Misc_QuestionMark
-#showtooltip Intercept
+#show Intercept
 /cast Berserker Stance
-/cast Intercept
 /equipslot 16 Shadowmourne
 /equipslot 17 Glorenzelg, High-Blade of the Silver Hand
+/cast Intercept
 END
 MACRO 16777242 "Intervene" INV_Misc_QuestionMark
 #showtooltip Intervene

@@ -4,12 +4,15 @@ DressMeSavedLooks = {
 DressMeSettings = {
 	["dressingRoomBackgroundTexture"] = {
 		["Icecrown"] = {
-			["Heheh"] = "deathknight",
-			["Eladiel"] = "draenei",
+			["Kilibiksa"] = "deathknight",
 			["Suleymanpro"] = "troll",
-			["Zubeyr"] = "deathknight",
+			["Daemonarc"] = "deathknight",
 			["Uzunkazim"] = "deathknight",
 			["Vardendi"] = "nightelf",
+			["Heheh"] = "deathknight",
+			["Eladiel"] = "draenei",
+			["Zubeyr"] = "deathknight",
+			["Garaambar"] = "orc",
 		},
 	},
 	["dressingRoomBackgroundColor"] = {

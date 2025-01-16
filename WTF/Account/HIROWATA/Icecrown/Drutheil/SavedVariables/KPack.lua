@@ -1,11 +1,5 @@
 
 KPackCharDB = {
-	["Automate"] = {
-		["groundmount"] = "",
-		["sets"] = {
-		},
-		["flyingmount"] = "",
-	},
 	["Tooltip"] = {
 		["spell"] = false,
 		["point"] = "RIGHT",
@@ -13,10 +7,16 @@ KPackCharDB = {
 		["yOfs"] = -100,
 		["class"] = false,
 		["unit"] = false,
-		["scale"] = 1,
+		["petspell"] = false,
 		["xOfs"] = 0,
 		["enhance"] = true,
-		["petspell"] = false,
+		["scale"] = 1,
+	},
+	["Automate"] = {
+		["groundmount"] = "",
+		["sets"] = {
+		},
+		["flyingmount"] = "",
 	},
 	["Postal"] = {
 		["BlackBook"] = {
@@ -27,25 +27,27 @@ KPackCharDB = {
 			},
 			["AutoCompleteAlts"] = true,
 			["AutoCompleteGuild"] = true,
-			["AutoCompleteFriends"] = true,
-			["AutoCompleteRecent"] = true,
+			["recent"] = {
+				"Mayifire", -- [1]
+				"Elziash", -- [2]
+				"Hirobank", -- [3]
+			},
 			["alts"] = {
 				"Drutheil|Icecrown|Alliance", -- [1]
+				"Drutheil|Icecrown|Horde", -- [2]
 			},
+			["AutoCompleteRecent"] = true,
 			["AutoCompleteContacts"] = true,
 			["DisableBlizzardAutoComplete"] = false,
-			["recent"] = {
-				"Elziash", -- [1]
-				"Hirobank", -- [2]
-			},
+			["AutoCompleteFriends"] = true,
 		},
 	},
 	["LFR"] = {
 		["currentset"] = "active",
 		["raidsets"] = {
-			["Primary"] = {
-			},
 			["Secondary"] = {
+			},
+			["Primary"] = {
 			},
 		},
 	},

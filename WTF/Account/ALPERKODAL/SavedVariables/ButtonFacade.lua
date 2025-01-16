@@ -2,6 +2,7 @@
 ButtonFacadeDB = {
 	["profileKeys"] = {
 		["Mayiascend - Icecrown"] = "Default",
+		["Daemonarc - Icecrown"] = "Default",
 		["Cezzarged - Icecrown"] = "Default",
 		["Enkz - Blackrock [PvP only]"] = "Default",
 		["Mayistab - Icecrown"] = "Default",
@@ -11,13 +12,15 @@ ButtonFacadeDB = {
 		["Dumbcuntt - Blackrock [PvP only]"] = "Default",
 		["Zubeyr - Icecrown"] = "Default",
 		["Plaacebo - Icecrown"] = "Default",
-		["Cezzarged - Blackrock [PvP only]"] = "Default",
-		["Yaramiem - Blackrock [PvP only]"] = "Default",
 		["Uzunkazim - Icecrown"] = "Default",
 		["Vardendi - Icecrown"] = "Default",
+		["Garaambar - Icecrown"] = "Default",
+		["Yaramiem - Blackrock [PvP only]"] = "Default",
+		["Cezzarged - Blackrock [PvP only]"] = "Default",
+		["Elynass - Icecrown"] = "Default",
 		["Fareci - Icecrown"] = "Default",
 		["Analbuster - Onyxia"] = "Default",
-		["Elynass - Icecrown"] = "Default",
+		["Kilibiksa - Icecrown"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

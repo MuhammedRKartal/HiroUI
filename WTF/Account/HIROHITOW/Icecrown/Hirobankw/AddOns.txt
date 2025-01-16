@@ -1,0 +1,6 @@
+WeakAurasCompanion: enabled
+WeakAurasArchive: enabled
+XPerl_TeamSpeak: disabled
+XPerl_Options: enabled
+TellMeWhen: disabled
+Bagnon_GuildBank: disabled

@@ -5,8 +5,19 @@ AtlasLootCharDB = {
 	["WishList"] = {
 	},
 	["AtlasLootVersion"] = "51104",
+	["LastSearchedText"] = "worldstorm",
 	["AutoQuery"] = false,
 	["SearchResult"] = {
+		{
+			2, -- [1]
+			29976, -- [2]
+			"", -- [3]
+			"=q4=Worldstorm Gauntlets", -- [4]
+			"High Astromancer Solarian", -- [5]
+			"", -- [6]
+			"", -- [7]
+			"TKEyeSolarian|\"\"", -- [8]
+		}, -- [1]
 	},
 }
 AtlasLootFilterDB = {
@@ -16,22 +27,18 @@ AtlasLootFilterDB = {
 		["Sigils"] = true,
 		["Totem"] = true,
 	},
-	["WeaponsMeele"] = {
-		["Axe"] = true,
-		["Shield"] = true,
-		["Held in Off-Hand"] = true,
-		["Staff"] = true,
-		["Dagger"] = true,
-		["Mace"] = true,
-		["Fist Weapon"] = true,
-		["Polearm"] = true,
-		["Sword"] = true,
+	["WeaponsRanged"] = {
+		["Crossbow"] = true,
+		["Thrown"] = true,
+		["Gun"] = true,
+		["Bow"] = true,
+		["Wand"] = true,
 	},
 	["Armor"] = {
 		["Leather"] = true,
 		["Plate"] = true,
-		["Cloth"] = true,
 		["Mail"] = true,
+		["Cloth"] = true,
 	},
 	["WeaponsMeeleTwoHand"] = {
 		["Mace"] = true,
@@ -44,11 +51,15 @@ AtlasLootFilterDB = {
 		["Ring"] = true,
 		["Back"] = true,
 	},
-	["WeaponsRanged"] = {
-		["Crossbow"] = true,
-		["Wand"] = true,
-		["Gun"] = true,
-		["Bow"] = true,
-		["Thrown"] = true,
+	["WeaponsMeele"] = {
+		["Axe"] = true,
+		["Shield"] = true,
+		["Held in Off-Hand"] = true,
+		["Staff"] = true,
+		["Dagger"] = true,
+		["Mace"] = true,
+		["Fist Weapon"] = true,
+		["Polearm"] = true,
+		["Sword"] = true,
 	},
 }

@@ -6,12 +6,13 @@ BigDebuffsDB = {
 	},
 	["profileKeys"] = {
 		["Fokzeynep - Icecrown"] = "Default",
-		["Itadori - Icecrown"] = "Default",
-		["Haydutkadri - Icecrown"] = "Default",
 		["Cezzarpala - Icecrown"] = "Default",
 		["Dumbcuntt - Icecrown"] = "Default",
 		["Yildiiztilbe - Icecrown"] = "Default",
+		["Erkeksikici - Icecrown"] = "Default",
+		["Itadori - Icecrown"] = "Default",
 		["Imansiz - Icecrown"] = "Default",
+		["Haydutkadri - Icecrown"] = "Default",
 		["Ballkaymak - Icecrown"] = "Default",
 	},
 	["profiles"] = {

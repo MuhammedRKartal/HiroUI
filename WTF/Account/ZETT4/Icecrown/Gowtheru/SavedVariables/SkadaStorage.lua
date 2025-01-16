@@ -28,12 +28,14 @@ SkadaStorageDB = {
 				},
 				["id"] = "0xF14034296D0318FA",
 				["class"] = "PET",
-				["enemy"] = true,
 				["damage"] = 8341,
+				["enemy"] = true,
 			},
 			["Gowtheru"] = {
-				["last"] = 89835.14,
 				["role"] = "DAMAGER",
+				["last"] = 89835.14,
+				["id"] = "0x0700000000527229",
+				["spec"] = 62,
 				["damagedspells"] = {
 					["6603.1"] = {
 						["c_amt"] = 2211,
@@ -47,10 +49,10 @@ SkadaStorageDB = {
 						},
 						["c_min"] = 1102,
 						["amount"] = 4797,
-						["count"] = 6,
 						["n_amt"] = 2586,
-						["n_num"] = 4,
 						["n_min"] = 630,
+						["n_num"] = 4,
+						["count"] = 6,
 					},
 					["-55095.16"] = {
 						["sources"] = {
@@ -77,10 +79,10 @@ SkadaStorageDB = {
 						},
 						["count"] = 3,
 						["amount"] = 3544,
-						["n_amt"] = 1885,
+						["c_min"] = 1659,
 						["n_min"] = 929,
 						["n_num"] = 2,
-						["c_min"] = 1659,
+						["n_amt"] = 1885,
 					},
 					["50526.32"] = {
 						["sources"] = {
@@ -97,8 +99,6 @@ SkadaStorageDB = {
 					},
 				},
 				["class"] = "MAGE",
-				["id"] = "0x0700000000527229",
-				["spec"] = 62,
 				["damaged"] = 15500,
 				["auras"] = {
 					["43002.64"] = {
@@ -109,14 +109,6 @@ SkadaStorageDB = {
 			},
 			["Rosemaryx"] = {
 				["damagespells"] = {
-					["-55095.16"] = {
-						["targets"] = {
-							["Gowtheru"] = {
-								["amount"] = 6099,
-							},
-						},
-						["amount"] = 6099,
-					},
 					["50526.32"] = {
 						["targets"] = {
 							["Gowtheru"] = {
@@ -125,11 +117,19 @@ SkadaStorageDB = {
 						},
 						["amount"] = 1060,
 					},
+					["-55095.16"] = {
+						["targets"] = {
+							["Gowtheru"] = {
+								["amount"] = 6099,
+							},
+						},
+						["amount"] = 6099,
+					},
 				},
 				["id"] = "0x0700000000547DAE",
 				["class"] = "DEATHKNIGHT",
-				["enemy"] = true,
 				["damage"] = 7159,
+				["enemy"] = true,
 			},
 		},
 		["edamage"] = 15500,

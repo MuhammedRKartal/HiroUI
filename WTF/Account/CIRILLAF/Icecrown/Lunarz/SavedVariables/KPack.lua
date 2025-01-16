@@ -28,11 +28,14 @@ KPackCharDB = {
 			["AutoCompleteAlts"] = true,
 			["AutoCompleteGuild"] = true,
 			["recent"] = {
-				"Elziash", -- [1]
-				"Mayiascend", -- [2]
+				"Mayicrush", -- [1]
+				"Mayifire", -- [2]
+				"Elziash", -- [3]
+				"Mayiascend", -- [4]
 			},
 			["alts"] = {
-				"Mayiride|Icecrown|Alliance", -- [1]
+				"Lunarz|Icecrown|Horde", -- [1]
+				"Mayiride|Icecrown|Alliance", -- [2]
 			},
 			["AutoCompleteRecent"] = true,
 			["AutoCompleteContacts"] = true,

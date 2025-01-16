@@ -5,13 +5,14 @@ BigDebuffsDB = {
 		},
 	},
 	["profileKeys"] = {
+		["Toqtir - Icecrown"] = "Default",
 		["Mayiheal - Icecrown"] = "Default",
-		["Yarramwari - Icecrown"] = "Default",
-		["Enkzaly - Icecrown"] = "Default",
 		["Regens - Icecrown"] = "Default",
 		["Askadras - Icecrown"] = "Default",
-		["Dinozorabbas - Icecrown"] = "Default",
 		["Mayishift - Icecrown"] = "Default",
+		["Yarramwari - Icecrown"] = "Default",
+		["Enkzaly - Icecrown"] = "Default",
+		["Dinozorabbas - Icecrown"] = "Default",
 		["Imacreep - Icecrown"] = "Default",
 	},
 	["profiles"] = {

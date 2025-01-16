@@ -9,20 +9,20 @@ ThreatPlatesDB = {
 			["welcome"] = true,
 		},
 		["Mayiascend - Icecrown"] = {
-			["welcome"] = true,
 			["spec"] = {
 				["primary"] = false,
 			},
+			["welcome"] = true,
 			["specInfo"] = {
-				{
-					13, -- [1]
-					5, -- [2]
-					53, -- [3]
-				}, -- [1]
 				{
 					nil, -- [1]
 					53, -- [2]
 					18, -- [3]
+				}, -- [1]
+				{
+					nil, -- [1]
+					55, -- [2]
+					16, -- [3]
 				}, -- [2]
 			},
 			["specName"] = {
@@ -31,31 +31,15 @@ ThreatPlatesDB = {
 				"Retribution", -- [3]
 			},
 		},
-		["Kathriel - Icecrown"] = {
-			["welcome"] = true,
-			["spec"] = {
-				["primary"] = false,
-			},
-		},
-		["Plaacebo - Icecrown"] = {
+		["Durrozdor - Icecrown"] = {
 			["spec"] = {
 				["primary"] = false,
 			},
 			["welcome"] = true,
-			["specInfo"] = {
-				{
-					14, -- [1]
-					[3] = 57,
-				}, -- [1]
-				{
-					18, -- [1]
-					53, -- [2]
-				}, -- [2]
-			},
 			["specName"] = {
-				"Discipline", -- [1]
-				"Holy", -- [2]
-				"Shadow", -- [3]
+				"Arcane", -- [1]
+				"Fire", -- [2]
+				"Frost", -- [3]
 			},
 		},
 		["Cezzarged - Icecrown"] = {
@@ -63,6 +47,21 @@ ThreatPlatesDB = {
 				["primary"] = false,
 			},
 			["welcome"] = true,
+			["specInfo"] = {
+				{
+					18, -- [1]
+					53, -- [2]
+				}, -- [1]
+				{
+					57, -- [1]
+					14, -- [2]
+				}, -- [2]
+			},
+			["specName"] = {
+				"Arms", -- [1]
+				"Fury", -- [2]
+				"Protection", -- [3]
+			},
 		},
 		["Mayistab - Icecrown"] = {
 			["welcome"] = true,
@@ -86,33 +85,34 @@ ThreatPlatesDB = {
 				"Subtlety", -- [3]
 			},
 		},
-		["Quennel - Icecrown"] = {
+		["Elynass - Icecrown"] = {
 			["welcome"] = true,
 			["spec"] = {
 				["primary"] = false,
 			},
 			["specInfo"] = {
 				{
-					20, -- [1]
-					51, -- [2]
+					7, -- [1]
+					54, -- [2]
+					10, -- [3]
 				}, -- [1]
 				{
-					11, -- [1]
-					3, -- [2]
-					57, -- [3]
+					nil, -- [1]
+					19, -- [2]
+					52, -- [3]
 				}, -- [2]
 			},
 			["specName"] = {
-				"Assassination", -- [1]
-				"Combat", -- [2]
-				"Subtlety", -- [3]
+				"Beast Mastery", -- [1]
+				"Marksmanship", -- [2]
+				"Survival", -- [3]
 			},
 		},
-		["Fareci - Icecrown"] = {
+		["Mayibite - Icecrown"] = {
+			["welcome"] = true,
 			["spec"] = {
 				["primary"] = false,
 			},
-			["welcome"] = true,
 			["specInfo"] = {
 				{
 					nil, -- [1]
@@ -135,12 +135,109 @@ ThreatPlatesDB = {
 			["spec"] = {
 				["primary"] = false,
 			},
+			["specInfo"] = {
+				{
+					nil, -- [1]
+					54, -- [2]
+					17, -- [3]
+				}, -- [1]
+				{
+					55, -- [1]
+					nil, -- [2]
+					16, -- [3]
+				}, -- [2]
+			},
+			["specName"] = {
+				"Affliction", -- [1]
+				"Demonology", -- [2]
+				"Destruction", -- [3]
+			},
 		},
-		["Fatalfire - Icecrown"] = {
+		["Morellonomi - Icecrown"] = {
+			["welcome"] = true,
+		},
+		["Kathriel - Icecrown"] = {
+			["welcome"] = true,
+			["spec"] = {
+				["primary"] = false,
+			},
+		},
+		["Mayicrush - Icecrown"] = {
+			["welcome"] = true,
+			["spec"] = {
+				["primary"] = false,
+			},
+			["specInfo"] = {
+				{
+					11, -- [1]
+					5, -- [2]
+					55, -- [3]
+				}, -- [1]
+				{
+					nil, -- [1]
+					55, -- [2]
+					16, -- [3]
+				}, -- [2]
+			},
+			["specName"] = {
+				"Holy", -- [1]
+				"Protection", -- [2]
+				"Retribution", -- [3]
+			},
+		},
+		["Plaacebo - Icecrown"] = {
+			["welcome"] = true,
+			["spec"] = {
+				["primary"] = false,
+			},
+			["specInfo"] = {
+				{
+					14, -- [1]
+					[3] = 57,
+				}, -- [1]
+				{
+					18, -- [1]
+					53, -- [2]
+				}, -- [2]
+			},
+			["specName"] = {
+				"Discipline", -- [1]
+				"Holy", -- [2]
+				"Shadow", -- [3]
+			},
+		},
+		["Mayislash - Icecrown"] = {
 			["spec"] = {
 				["primary"] = false,
 			},
 			["welcome"] = true,
+			["specInfo"] = {
+				{
+					18, -- [1]
+					53, -- [2]
+				}, -- [1]
+				{
+					18, -- [1]
+					53, -- [2]
+				}, -- [2]
+			},
+			["specName"] = {
+				"Arms", -- [1]
+				"Fury", -- [2]
+				"Protection", -- [3]
+			},
+		},
+		["Mayihunt - Icecrown"] = {
+			["spec"] = {
+				["primary"] = false,
+			},
+			["welcome"] = true,
+		},
+		["Mayifire - Icecrown"] = {
+			["welcome"] = true,
+			["spec"] = {
+				["primary"] = false,
+			},
 			["specInfo"] = {
 				{
 					57, -- [1]
@@ -158,18 +255,94 @@ ThreatPlatesDB = {
 				"Frost", -- [3]
 			},
 		},
+		["Casette - Icecrown"] = {
+			["welcome"] = true,
+			["spec"] = {
+				["primary"] = false,
+			},
+			["specInfo"] = {
+				{
+					14, -- [1]
+					[3] = 57,
+				}, -- [1]
+				{
+					18, -- [1]
+					53, -- [2]
+				}, -- [2]
+			},
+			["specName"] = {
+				"Discipline", -- [1]
+				"Holy", -- [2]
+				"Shadow", -- [3]
+			},
+		},
+		["Nekimi - Icecrown"] = {
+			["spec"] = {
+				["primary"] = false,
+			},
+			["welcome"] = true,
+			["specName"] = {
+				"Arms", -- [1]
+				"Fury", -- [2]
+				"Protection", -- [3]
+			},
+		},
+		["Fareci - Icecrown"] = {
+			["welcome"] = true,
+			["spec"] = {
+				["primary"] = false,
+			},
+			["specInfo"] = {
+				{
+					nil, -- [1]
+					55, -- [2]
+					16, -- [3]
+				}, -- [1]
+				{
+					58, -- [1]
+					[3] = 13,
+				}, -- [2]
+			},
+			["specName"] = {
+				"Balance", -- [1]
+				"Feral Combat", -- [2]
+				"Restoration", -- [3]
+			},
+		},
+		["Analbuster - Onyxia"] = {
+			["welcome"] = true,
+			["spec"] = {
+				["primary"] = false,
+			},
+		},
+		["Gowtheru - Icecrown"] = {
+			["welcome"] = true,
+			["spec"] = {
+				["primary"] = false,
+			},
+		},
 	},
 	["profileKeys"] = {
 		["Kertenkele - Icecrown"] = "Default",
 		["Mayiascend - Icecrown"] = "Default",
-		["Kathriel - Icecrown"] = "Default",
-		["Plaacebo - Icecrown"] = "Default",
+		["Durrozdor - Icecrown"] = "Default",
 		["Cezzarged - Icecrown"] = "Default",
 		["Mayistab - Icecrown"] = "Default",
-		["Quennel - Icecrown"] = "Default",
-		["Fareci - Icecrown"] = "Default",
+		["Elynass - Icecrown"] = "Default",
+		["Mayibite - Icecrown"] = "Default",
 		["Mayicurse - Icecrown"] = "Default",
-		["Fatalfire - Icecrown"] = "Default",
+		["Morellonomi - Icecrown"] = "Default",
+		["Kathriel - Icecrown"] = "Default",
+		["Mayicrush - Icecrown"] = "Default",
+		["Plaacebo - Icecrown"] = "Default",
+		["Mayislash - Icecrown"] = "Default",
+		["Mayihunt - Icecrown"] = "Default",
+		["Mayifire - Icecrown"] = "Default",
+		["Casette - Icecrown"] = "Default",
+		["Nekimi - Icecrown"] = "Default",
+		["Fareci - Icecrown"] = "Default",
+		["Analbuster - Onyxia"] = "Default",
+		["Gowtheru - Icecrown"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -216,7 +389,15 @@ ThreatPlatesDB = {
 				nil, -- [26]
 				nil, -- [27]
 				nil, -- [28]
-				nil, -- [29]
+				{
+					["color"] = {
+						["b"] = 1,
+						["g"] = 1,
+						["r"] = 1,
+					},
+					["scale"] = 0.7000000000000001,
+					["useColor"] = false,
+				}, -- [29]
 				nil, -- [30]
 				{
 					["color"] = {
@@ -258,11 +439,30 @@ ThreatPlatesDB = {
 					["name"] = "Auctioneer Chilton",
 					["scale"] = 1.4,
 				}, -- [35]
-				nil, -- [36]
 				{
+					["color"] = {
+						["g"] = 0,
+						["b"] = 0.7686274509803921,
+					},
+					["name"] = "Reginald Arcfire",
+					["scale"] = 1.4,
+				}, -- [36]
+				{
+					["scale"] = 1.3,
+					["name"] = "Raging Spirit",
 				}, -- [37]
-				nil, -- [38]
 				{
+					["color"] = {
+						["b"] = 0.8470588235294118,
+						["r"] = 0,
+					},
+					["name"] = "Raging Ghoul",
+					["scale"] = 0.35,
+				}, -- [38]
+				{
+					["scale"] = 1.4,
+					["name"] = "Lich King",
+					["useColor"] = false,
 				}, -- [39]
 				{
 				}, -- [40]
@@ -315,10 +515,10 @@ ThreatPlatesDB = {
 					"Auctioneer Jaxon", -- [33]
 					"Auctioneer Fitch", -- [34]
 					"Auctioneer Chilton", -- [35]
-					"", -- [36]
-					"", -- [37]
-					"", -- [38]
-					"", -- [39]
+					"Reginald Arcfire", -- [36]
+					"Raging Spirit", -- [37]
+					"Raging Ghoul", -- [38]
+					"Lich King", -- [39]
 					"", -- [40]
 					"", -- [41]
 					"", -- [42]
@@ -332,23 +532,39 @@ ThreatPlatesDB = {
 					"", -- [50]
 				},
 			},
+			["text"] = {
+				["full"] = true,
+			},
 			["cache"] = {
 			},
 			["settings"] = {
-				["customtext"] = {
-					["typeface"] = "Expressway",
-					["flags"] = "OUTLINE",
-					["size"] = 7,
+				["tank"] = {
+					["threatcolor"] = {
+						["LOW"] = {
+							["b"] = 0.00392156862745098,
+							["g"] = 1,
+							["r"] = 0,
+						},
+						["HIGH"] = {
+							["b"] = 0.00392156862745098,
+							["g"] = 0,
+							["r"] = 1,
+						},
+					},
 				},
 				["highlight"] = {
 					["height"] = 64,
 					["width"] = 260,
+					["texture"] = "Empty",
 				},
 				["eliteicon"] = {
 					["theme"] = "skullandcross",
 				},
+				["target"] = {
+					["texture"] = "Empty",
+				},
 				["level"] = {
-					["y"] = 1,
+					["y"] = 7,
 					["vertical"] = "CENTER",
 					["typeface"] = "Expressway",
 					["flags"] = "OUTLINE",
@@ -366,12 +582,19 @@ ThreatPlatesDB = {
 					["height"] = 64,
 					["width"] = 260,
 				},
-				["castborder"] = {
+				["name"] = {
+					["y"] = 11,
+					["typeface"] = "Expressway",
+					["flags"] = "OUTLINE",
+					["size"] = 6,
+				},
+				["healthborder"] = {
 					["height"] = 64,
+					["texture"] = "TP_HealthBarOverlayThin",
 					["width"] = 260,
 				},
-				["name"] = {
-					["y"] = 12,
+				["customtext"] = {
+					["y"] = 0,
 					["typeface"] = "Expressway",
 					["flags"] = "OUTLINE",
 					["size"] = 7,
@@ -380,9 +603,8 @@ ThreatPlatesDB = {
 					["height"] = 30,
 					["width"] = 124,
 				},
-				["healthborder"] = {
+				["castborder"] = {
 					["height"] = 64,
-					["texture"] = "TP_HealthBarOverlayThin",
 					["width"] = 260,
 				},
 				["castnostop"] = {
@@ -390,15 +612,15 @@ ThreatPlatesDB = {
 					["width"] = 260,
 				},
 			},
-			["friendlyClassIcon"] = true,
 			["targetWidget"] = {
 				["width"] = 17,
-				["theme"] = "arrow9",
 				["inverted"] = false,
+				["ON"] = false,
+				["theme"] = "arrow54",
 			},
 			["cacheClass"] = true,
 			["blizzFade"] = {
-				["amount"] = -0.7,
+				["amount"] = -0.2999999999999999,
 			},
 			["totemSettings"] = {
 				["A3"] = {
@@ -417,18 +639,27 @@ ThreatPlatesDB = {
 					false, -- [1]
 				},
 			},
-			["friendlyClass"] = true,
 			["classWidget"] = {
 				["y"] = 0,
 				["x"] = -71,
 				["scale"] = 18,
 			},
 			["friendlyClickThrough"] = true,
+			["friendlyClass"] = true,
 			["threatWidget"] = {
 				["ON"] = true,
 			},
-			["text"] = {
-				["full"] = true,
+			["threat"] = {
+				["tank"] = {
+					["scale"] = {
+						["LOW"] = 0.8,
+						["HIGH"] = 1.25,
+					},
+					["alpha"] = {
+						["MEDIUM"] = 1,
+						["HIGH"] = 1,
+					},
+				},
 			},
 		},
 	},

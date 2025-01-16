@@ -10,6 +10,9 @@ MACRO 14 "Dungeon" INV_Misc_QuestionMark
 /click LFDRoleCheckPopupAcceptButton
 /click LFDDungeonReadyDialogEnterDungeonButton
 END
+MACRO 16 "Flay" INV_Misc_QuestionMark
+/cast Mind Flay
+END
 MACRO 3 "Focus Fear" INV_Misc_QuestionMark
 /cast [@focus, exists, nodead] [] Fear
 END

@@ -1,11 +1,5 @@
 
 KPackCharDB = {
-	["Automate"] = {
-		["groundmount"] = "",
-		["sets"] = {
-		},
-		["flyingmount"] = "",
-	},
 	["Postal"] = {
 		["BlackBook"] = {
 			["ExcludeRandoms"] = true,
@@ -15,17 +9,27 @@ KPackCharDB = {
 			},
 			["AutoCompleteAlts"] = true,
 			["AutoCompleteGuild"] = true,
-			["AutoCompleteFriends"] = true,
-			["AutoCompleteRecent"] = true,
-			["alts"] = {
-				"Rosemaryx|Icecrown|Alliance", -- [1]
+			["recent"] = {
+				"Drutheil", -- [1]
+				"Mayicrush", -- [2]
+				"Lunarz", -- [3]
+				"Mayiread", -- [4]
 			},
+			["alts"] = {
+				"Analbasher|Icecrown|Horde", -- [1]
+				"Rosemaryx|Icecrown|Alliance", -- [2]
+			},
+			["AutoCompleteRecent"] = true,
 			["AutoCompleteContacts"] = true,
 			["DisableBlizzardAutoComplete"] = false,
-			["recent"] = {
-				"Mayiread", -- [1]
-			},
+			["AutoCompleteFriends"] = true,
 		},
+	},
+	["Automate"] = {
+		["groundmount"] = "",
+		["sets"] = {
+		},
+		["flyingmount"] = "",
 	},
 	["Tooltip"] = {
 		["spell"] = false,
@@ -34,17 +38,17 @@ KPackCharDB = {
 		["yOfs"] = -100,
 		["class"] = false,
 		["unit"] = false,
-		["scale"] = 1,
+		["petspell"] = false,
 		["xOfs"] = 0,
 		["enhance"] = true,
-		["petspell"] = false,
+		["scale"] = 1,
 	},
 	["LFR"] = {
 		["currentset"] = "active",
 		["raidsets"] = {
-			["Primary"] = {
-			},
 			["Secondary"] = {
+			},
+			["Primary"] = {
 			},
 		},
 	},

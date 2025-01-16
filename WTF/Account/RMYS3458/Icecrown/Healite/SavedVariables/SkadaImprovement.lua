@@ -121,38 +121,6 @@ SkadaImprovementDB = {
 			}, -- [1]
 		},
 	},
-	["Lady Deathwhisper"] = {
-		["count"] = 1,
-		["encounters"] = {
-			{
-				["starttime"] = 1678029394,
-				["data"] = {
-					["Deaths"] = 1,
-					["Overhealing"] = 6209934,
-					["ActiveTime"] = 207.3799999999999,
-					["Fails"] = 1,
-					["Healing"] = 1662254,
-					["DamageTaken"] = 178760,
-					["Damage"] = 64863,
-				},
-			}, -- [1]
-		},
-	},
-	["Professor Putricide"] = {
-		["count"] = 1,
-		["encounters"] = {
-			{
-				["starttime"] = 1678032096,
-				["data"] = {
-					["Overhealing"] = 8393788,
-					["ActiveTime"] = 278.27,
-					["Healing"] = 2239525,
-					["DamageTaken"] = 283926,
-					["Damage"] = 57661,
-				},
-			}, -- [1]
-		},
-	},
 	["The Lich King"] = {
 		["count"] = 3,
 		["encounters"] = {
@@ -175,12 +143,44 @@ SkadaImprovementDB = {
 			{
 				["starttime"] = 1678037766,
 				["data"] = {
-					["ActiveTime"] = 41,
+					["Damage"] = 9939,
 					["Healing"] = 0,
 					["Overhealing"] = 395534,
-					["Damage"] = 9939,
+					["ActiveTime"] = 41,
 				},
 			}, -- [3]
+		},
+	},
+	["Professor Putricide"] = {
+		["count"] = 1,
+		["encounters"] = {
+			{
+				["starttime"] = 1678032096,
+				["data"] = {
+					["Overhealing"] = 8393788,
+					["ActiveTime"] = 278.27,
+					["Healing"] = 2239525,
+					["DamageTaken"] = 283926,
+					["Damage"] = 57661,
+				},
+			}, -- [1]
+		},
+	},
+	["Lady Deathwhisper"] = {
+		["count"] = 1,
+		["encounters"] = {
+			{
+				["starttime"] = 1678029394,
+				["data"] = {
+					["Deaths"] = 1,
+					["Overhealing"] = 6209934,
+					["ActiveTime"] = 207.3799999999999,
+					["Fails"] = 1,
+					["Healing"] = 1662254,
+					["DamageTaken"] = 178760,
+					["Damage"] = 64863,
+				},
+			}, -- [1]
 		},
 	},
 }

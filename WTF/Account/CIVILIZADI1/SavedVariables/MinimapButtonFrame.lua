@@ -10,6 +10,7 @@ MBFDB = {
 		["Mayijudge - Icecrown"] = "Default",
 		["Mayicurse - Icecrown"] = "Default",
 		["Imacreep - Icecrown"] = "Default",
+		["Toqtir - Icecrown"] = "Default",
 		["Aegwyn - Icecrown"] = "Default",
 		["Gelkucama - Icecrown"] = "Default",
 		["Askadras - Icecrown"] = "Default",
@@ -24,14 +25,6 @@ MBFDB = {
 		["Tokatlarim - Icecrown"] = "Default",
 	},
 	["profiles"] = {
-		["Mayiascend - Icecrown"] = {
-			["MBF_FrameLocation"] = {
-				nil, -- [1]
-				nil, -- [2]
-				-298.9563601192701, -- [3]
-				-185.4165782020735, -- [4]
-			},
-		},
 		["Main"] = {
 			["MBF_FrameLocation"] = {
 				nil, -- [1]
@@ -41,11 +34,6 @@ MBFDB = {
 			},
 			["GrowUp"] = false,
 			["sort_by_rows"] = true,
-			["mbfHidden"] = true,
-			["minimapButton"] = {
-				["minimapPos"] = 231.5698387710189,
-				["hide"] = false,
-			},
 			["customChildren"] = {
 				"MinimapButtonFrameDragButton", -- [1]
 				"MiniMapMailFrameDisabled", -- [2]
@@ -61,6 +49,11 @@ MBFDB = {
 				"FuBarPluginAtlasLootFuFrameMinimapButton", -- [12]
 				"LibDBIcon10_TidyPlatesIcon", -- [13]
 			},
+			["minimapButton"] = {
+				["minimapPos"] = 231.5698387710189,
+				["hide"] = false,
+			},
+			["mbfHidden"] = true,
 		},
 		["Default"] = {
 			["addonScale"] = 0.6,
@@ -114,6 +107,14 @@ MBFDB = {
 				"sydicmbcatpaulyhyprr", -- [26]
 			},
 			["disabledMail"] = false,
+		},
+		["Mayiascend - Icecrown"] = {
+			["MBF_FrameLocation"] = {
+				nil, -- [1]
+				nil, -- [2]
+				-298.9563601192701, -- [3]
+				-185.4165782020735, -- [4]
+			},
 		},
 	},
 }

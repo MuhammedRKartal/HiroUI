@@ -2305,6 +2305,69 @@ function HealBot_configClassHoT(class, race)
     else
         HealBot_Watch_HoT[HEALBOT_ENRAGED_REGEN]=nil
     end
+    if hbClassHoTwatch[HEALBOT_DEATH_WISH]==3 then
+        HealBot_Watch_HoT[HEALBOT_DEATH_WISH]="A"
+    elseif hbClassHoTwatch[HEALBOT_DEATH_WISH]==2 and class==HealBot_Class_En[HEALBOT_WARRIOR] then
+        HealBot_Watch_HoT[HEALBOT_DEATH_WISH]="C"
+    else
+        HealBot_Watch_HoT[HEALBOT_DEATH_WISH]=nil
+    end
+    if hbClassHoTwatch[HEALBOT_METAMORPHOSIS]==3 then
+        HealBot_Watch_HoT[HEALBOT_METAMORPHOSIS]="A"
+    elseif hbClassHoTwatch[HEALBOT_METAMORPHOSIS]==2 and class==HealBot_Class_En[HEALBOT_WARLOCK] then
+        HealBot_Watch_HoT[HEALBOT_METAMORPHOSIS]="C"
+    else
+        HealBot_Watch_HoT[HEALBOT_METAMORPHOSIS]=nil
+    end
+    if hbClassHoTwatch[HEALBOT_DEVIOUS_MINDS]==3 then
+        HealBot_Watch_HoT[HEALBOT_DEVIOUS_MINDS]="A"
+    elseif hbClassHoTwatch[HEALBOT_DEVIOUS_MINDS]==2 and class==HealBot_Class_En[HEALBOT_WARLOCK] then
+        HealBot_Watch_HoT[HEALBOT_DEVIOUS_MINDS]="C"
+    else
+        HealBot_Watch_HoT[HEALBOT_DEVIOUS_MINDS]=nil
+    end
+    if hbClassHoTwatch[HEALBOT_ENRAGE]==3 then
+        HealBot_Watch_HoT[HEALBOT_ENRAGE]="A"
+    elseif hbClassHoTwatch[HEALBOT_ENRAGE]==2 and class==HealBot_Class_En[HEALBOT_WARRIOR] then
+        HealBot_Watch_HoT[HEALBOT_ENRAGE]="C"
+    else
+        HealBot_Watch_HoT[HEALBOT_ENRAGE]=nil
+    end
+    if hbClassHoTwatch[HEALBOT_OWLKIN_FRENZY]==3 then
+        HealBot_Watch_HoT[HEALBOT_OWLKIN_FRENZY]="A"
+    elseif hbClassHoTwatch[HEALBOT_OWLKIN_FRENZY]==2 and class==HealBot_Class_En[HEALBOT_DRUID] then
+        HealBot_Watch_HoT[HEALBOT_OWLKIN_FRENZY]="C"
+    else
+        HealBot_Watch_HoT[HEALBOT_OWLKIN_FRENZY]=nil
+    end
+    if hbClassHoTwatch[HEALBOT_AVENGING_WRATH]==3 then
+        HealBot_Watch_HoT[HEALBOT_AVENGING_WRATH]="A"
+    elseif hbClassHoTwatch[HEALBOT_AVENGING_WRATH]==2 and class==HealBot_Class_En[HEALBOT_PALADIN] then
+        HealBot_Watch_HoT[HEALBOT_AVENGING_WRATH]="C"
+    else
+        HealBot_Watch_HoT[HEALBOT_AVENGING_WRATH]=nil
+    end
+    if hbClassHoTwatch[HEALBOT_HYSTERIA]==3 then
+        HealBot_Watch_HoT[HEALBOT_HYSTERIA]="A"
+    elseif hbClassHoTwatch[HEALBOT_HYSTERIA]==2 then
+        HealBot_Watch_HoT[HEALBOT_HYSTERIA]="C"
+    else
+        HealBot_Watch_HoT[HEALBOT_HYSTERIA]=nil
+    end
+    if hbClassHoTwatch[HEALBOT_SIPHONED_POWER]==3 then
+        HealBot_Watch_HoT[HEALBOT_SIPHONED_POWER]="A"
+    elseif hbClassHoTwatch[HEALBOT_SIPHONED_POWER]==2 and (class==HealBot_Class_En[HEALBOT_MAGE] or class==HealBot_Class_En[HEALBOT_WARLOCK]) then
+        HealBot_Watch_HoT[HEALBOT_SIPHONED_POWER]="C"
+    else
+        HealBot_Watch_HoT[HEALBOT_SIPHONED_POWER]=nil
+    end
+    if hbClassHoTwatch[HEALBOT_DIVINE_GUARDIAN]==3 then
+        HealBot_Watch_HoT[HEALBOT_DIVINE_GUARDIAN]="A"
+    elseif hbClassHoTwatch[HEALBOT_DIVINE_GUARDIAN]==2 then
+        HealBot_Watch_HoT[HEALBOT_DIVINE_GUARDIAN]="C"
+    else
+        HealBot_Watch_HoT[HEALBOT_DIVINE_GUARDIAN]=nil
+    end
     if hbClassHoTwatch[HEALBOT_ICEBOUND_FORTITUDE]==3 then
         HealBot_Watch_HoT[HEALBOT_ICEBOUND_FORTITUDE]="A"
     elseif hbClassHoTwatch[HEALBOT_ICEBOUND_FORTITUDE]==2 and class==HealBot_Class_En[HEALBOT_DEATHKNIGHT] then

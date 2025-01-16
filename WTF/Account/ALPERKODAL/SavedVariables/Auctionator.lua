@@ -2,11 +2,11 @@
 AUCTIONATOR_SAVEDVARS = {
 	["_5000000"] = 10000,
 	["_50000"] = 500,
-	["_200000"] = 1000,
-	["_1000000"] = 2500,
 	["_10000"] = 200,
-	["_500"] = 5,
+	["_1000000"] = 2500,
+	["_200000"] = 1000,
 	["STARTING_DISCOUNT"] = 5,
+	["_500"] = 5,
 	["_2000"] = 100,
 }
 AUCTIONATOR_PRICING_HISTORY = {
@@ -131,34 +131,55 @@ AUCTIONATOR_PRICING_HISTORY = {
 AUCTIONATOR_SHOPPING_LISTS = {
 	{
 		["items"] = {
-			"Eternal Fire", -- [1]
-			"Saronite Ore", -- [2]
-			"Chalcedony", -- [3]
-			"Shadow Crystal", -- [4]
-			"Frozen Orb", -- [5]
-			"Dark jade", -- [6]
-			"Primal might", -- [7]
-			"King's Amber", -- [8]
-			"king ember", -- [9]
-			"king's ember", -- [10]
-			"Eternal Life", -- [11]
-			"Autumn's Glow", -- [12]
-			"scarlet ruby", -- [13]
-			"majestic zircon", -- [14]
-			"saronite bar", -- [15]
-			"Autumn", -- [16]
-			"fractured cardinal ruby", -- [17]
-			"Resplendent Ametrine", -- [18]
-			"Potent Ametrine", -- [19]
-			"AmetrİNE", -- [20]
-			"Bold Cardinal Ruby", -- [21]
-			"Ametrine", -- [22]
-			"cardinal ruby", -- [23]
-			"Icy Dragonscale", -- [24]
-			"Arctic fur", -- [25]
-			"leg armor", -- [26]
-			"skyflare diamond", -- [27]
-			"earthsiege diamond", -- [28]
+			"Mountain Silversage", -- [1]
+			"Pygmy Suckerfish", -- [2]
+			"talandra's rose", -- [3]
+			"Stranglekelp", -- [4]
+			"Felweed", -- [5]
+			"Golden Sansam", -- [6]
+			"Blind", -- [7]
+			"Blindweed", -- [8]
+			"Khadgar's Whisker", -- [9]
+			"Kingsblood", -- [10]
+			"Sungrass", -- [11]
+			"Goldthorn", -- [12]
+			"liferoot", -- [13]
+			"wild steelbloom", -- [14]
+			"Bruise", -- [15]
+			"Bruise weed", -- [16]
+			"mageroyal", -- [17]
+			"Peacebloom", -- [18]
+			"Silverleafm", -- [19]
+			"Silverleaf", -- [20]
+			"earthroot", -- [21]
+			"Eternal Fire", -- [22]
+			"Saronite Ore", -- [23]
+			"Chalcedony", -- [24]
+			"Shadow Crystal", -- [25]
+			"Frozen Orb", -- [26]
+			"Dark jade", -- [27]
+			"Primal might", -- [28]
+			"King's Amber", -- [29]
+			"king ember", -- [30]
+			"king's ember", -- [31]
+			"Eternal Life", -- [32]
+			"Autumn's Glow", -- [33]
+			"scarlet ruby", -- [34]
+			"majestic zircon", -- [35]
+			"saronite bar", -- [36]
+			"Autumn", -- [37]
+			"fractured cardinal ruby", -- [38]
+			"Resplendent Ametrine", -- [39]
+			"Potent Ametrine", -- [40]
+			"AmetrİNE", -- [41]
+			"Bold Cardinal Ruby", -- [42]
+			"Ametrine", -- [43]
+			"cardinal ruby", -- [44]
+			"Icy Dragonscale", -- [45]
+			"Arctic fur", -- [46]
+			"leg armor", -- [47]
+			"skyflare diamond", -- [48]
+			"earthsiege diamond", -- [49]
 		},
 		["isRecents"] = 1,
 		["name"] = "Recent Searches",
@@ -331,33 +352,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 }
 AUCTIONATOR_LAST_SCAN_TIME = nil
 AUCTIONATOR_TOONS = {
-	["Enkz"] = {
-		["firstSeen"] = 1711831842,
-		["firstVersion"] = "2.6.3",
-	},
 	["Analbuster"] = {
 		["firstSeen"] = 1713648511,
 		["firstVersion"] = "2.6.3",
 		["guid"] = "0x0E00000000031025",
 	},
-	["Suleymanpro"] = {
-		["firstSeen"] = 1729721109,
-		["firstVersion"] = "2.6.3",
-	},
-	["Cezzarged"] = {
-		["firstSeen"] = 1711834611,
-		["firstVersion"] = "2.6.3",
-	},
-	["Fareci"] = {
-		["firstSeen"] = 1710266075,
-		["firstVersion"] = "2.6.3",
-	},
-	["Uzunkazim"] = {
-		["firstSeen"] = 1718563292,
-		["firstVersion"] = "2.6.3",
-	},
-	["Zubeyr"] = {
-		["firstSeen"] = 1729721118,
+	["Daemonarc"] = {
+		["firstSeen"] = 1729900375,
 		["firstVersion"] = "2.6.3",
 	},
 	["Vardendi"] = {
@@ -368,12 +369,41 @@ AUCTIONATOR_TOONS = {
 		["firstSeen"] = 1712241993,
 		["firstVersion"] = "2.6.3",
 	},
-	["Eladiel"] = {
-		["firstSeen"] = 1718563319,
-		["firstVersion"] = "2.6.3",
-	},
 	["Mayicurse"] = {
 		["firstSeen"] = 1710263899,
+		["firstVersion"] = "2.6.3",
+	},
+	["Kilibiksa"] = {
+		["firstSeen"] = 1730119705,
+		["firstVersion"] = "2.6.3",
+		["guid"] = "0x0700000000B0A842",
+	},
+	["Yaramiem"] = {
+		["firstSeen"] = 1712497805,
+		["firstVersion"] = "2.6.3",
+	},
+	["Fareci"] = {
+		["firstSeen"] = 1710266075,
+		["firstVersion"] = "2.6.3",
+	},
+	["Uzunkazim"] = {
+		["firstSeen"] = 1718563292,
+		["firstVersion"] = "2.6.3",
+	},
+	["Garaambar"] = {
+		["firstSeen"] = 1732276251,
+		["firstVersion"] = "2.6.3",
+	},
+	["Enkz"] = {
+		["firstSeen"] = 1711831842,
+		["firstVersion"] = "2.6.3",
+	},
+	["Mayiascend"] = {
+		["firstSeen"] = 1710263905,
+		["firstVersion"] = "2.6.3",
+	},
+	["Eladiel"] = {
+		["firstSeen"] = 1718563319,
 		["firstVersion"] = "2.6.3",
 	},
 	["Dumbcuntt"] = {
@@ -381,8 +411,12 @@ AUCTIONATOR_TOONS = {
 		["firstVersion"] = "2.6.3",
 		["guid"] = "0x0A00000000C24A28",
 	},
-	["Mayiascend"] = {
-		["firstSeen"] = 1710263905,
+	["Zubeyr"] = {
+		["firstSeen"] = 1729721118,
+		["firstVersion"] = "2.6.3",
+	},
+	["Cezzarged"] = {
+		["firstSeen"] = 1711834611,
 		["firstVersion"] = "2.6.3",
 	},
 	["Elynass"] = {
@@ -395,8 +429,8 @@ AUCTIONATOR_TOONS = {
 		["firstVersion"] = "2.6.3",
 		["guid"] = "0x07000000000B63E0",
 	},
-	["Yaramiem"] = {
-		["firstSeen"] = 1712497805,
+	["Suleymanpro"] = {
+		["firstSeen"] = 1729721109,
 		["firstVersion"] = "2.6.3",
 	},
 }

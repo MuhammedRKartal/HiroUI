@@ -1,0 +1,9 @@
+
+active = nil
+words = {
+	"wts", -- [1]
+	"wtb", -- [2]
+	"recruting", -- [3]
+	"lfw", -- [4]
+}
+verbose = false

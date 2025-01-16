@@ -4,6 +4,62 @@ ActionBarSaverDB = {
 	["macro"] = false,
 	["sets"] = {
 		["DEATHKNIGHT"] = {
+			["unholy_pvp"] = {
+				"spell|54||Death Strike|Rank 5|49924", -- [1]
+				"macro|2||Scourge|Interface\\Icons\\Spell_DeathKnight_ScourgeStrike|#showtooltip/n/cast Scourge Strike/n/petdefensive/n/petautocaston Claw", -- [2]
+				"spell|51||Death Coil|Rank 5|49895", -- [3]
+				"spell|24||Blood Strike|Rank 6|49930", -- [4]
+				"spell|60||Summon Gargoyle||49206", -- [5]
+				nil, -- [6]
+				nil, -- [7]
+				nil, -- [8]
+				"macro|9||Exp|Interface\\Icons\\Ability_Creature_Disease_02|#showtooltip Corpse Explosion/n/petstay/n/cast [@pet] Corpse Explosion", -- [9]
+				"spell|39||Mind Freeze||47528", -- [10]
+				"spell|29||Pestilence||50842", -- [11]
+				"spell|53||Death Grip||49576", -- [12]
+				"spell|44||Anti-Magic Shell||48707", -- [13]
+				"spell|48||Bone Shield||49222", -- [14]
+				"macro|15||Self Heal|Interface\\Icons\\Spell_Shadow_DeathCoil|#showtooltip Death Coil/n/cast Lichborne/n/cast [@player] Death Coil", -- [15]
+				nil, -- [16]
+				nil, -- [17]
+				"spell|32||Empower Rune Weapon||47568", -- [18]
+				"macro|19||Target|Interface\\Icons\\Spell_DeathKnight_Gnaw_Ghoul|/petattack/n/cast Gnaw/n/cast Leap/n/cast Gnaw", -- [19]
+				"spell|25||Blood Tap||45529", -- [20]
+				"spell|30||Strangulate||47476", -- [21]
+				nil, -- [22]
+				"companion|3||unholy_pvp|MOUNT|32289", -- [23]
+				"companion|4||unholy_pvp|MOUNT|24252", -- [24]
+				"spell|31||Chains of Ice||45524", -- [25]
+				"spell|56||Plague Strike|Rank 6|49921", -- [26]
+				"spell|37||Icy Touch|Rank 5|49909", -- [27]
+				"macro|28||Focus|Interface\\Icons\\Spell_Shadow_SoulLeech_3|/cast [@focus, exists, nodead] [] Strangulate", -- [28]
+				"macro|29||Focus|Interface\\Icons\\Spell_DeathKnight_MindFreeze|/cast [@focus, exists, nodead] [] Mind Freeze", -- [29]
+				nil, -- [30]
+				"spell|50||Death and Decay|Rank 4|49938", -- [31]
+				"macro|32||Presence|Interface\\Icons\\Spell_Deathknight_UnholyPresence|#showtooltip/n/cast Unholy Presence/n/cast Frost Presence", -- [32]
+				"macro|33||Heal|Interface\\Icons\\Spell_Shadow_DeathPact|#showtooltip/n/cast [@pet,dead][nopet]Raise Dead;Death Pact/n/use Fel Healthstone", -- [33]
+				"macro|34||Callpet|Interface\\Icons\\Ability_Tracking|#showtooltip Track Beasts/n/petfollow/n/petpassive/n/petfollow", -- [34]
+				nil, -- [35]
+				"spell|46||Army of the Dead||42650", -- [36]
+				"spell|45||Anti-Magic Zone|Rank 1|51052", -- [37]
+				"spell|36||Icebound Fortitude||48792", -- [38]
+				"spell|9||Every Man for Himself|Racial|59752", -- [39]
+				nil, -- [40]
+				"spell|35||Horn of Winter|Rank 2|57623", -- [41]
+				nil, -- [42]
+				"macro|43||Lichborne|Interface\\Icons\\Spell_Shadow_RaiseDead|/cast Lichborne/n/cancelaura Lichborne", -- [43]
+				"macro|44||Aoe|Interface\\Icons\\Spell_DeathKnight_BloodBoil|#showtooltip Blood Boil/n/cast Blood Boil/n/cast [target=arena1] Dark Command/n/cast [target=arena2] Dark Command/n/cast [target=arena3] Dark Command/n/cast [target=arenapet1] Dark Command/n/cast [target=arenapet2] Dark Command", -- [44]
+				"macro|45||Stun|Interface\\Icons\\Spell_DeathKnight_Gnaw_Ghoul|#showtooltip Gnaw/n/petautocastoff Claw/n/petattack [@focus, exists, nodead] [@target]/n/cast [@focus,exists, nodead] [@target]Gnaw/n/cast [@focus,exists, nodead] [@target]Leap/n/cast [@focus,exists, nodead] [@target]Gnaw", -- [45]
+				nil, -- [46]
+				nil, -- [47]
+				"spell|26||Dark Command||56222", -- [48]
+				"spell|52||Death Gate||50977", -- [49]
+				[72] = "spell|41||Path of Frost||3714",
+				[60] = "item|47499||Flask of the North",
+				[61] = "item|6948||Hearthstone",
+				[68] = "spell|46||Army of the Dead||42650",
+				[71] = "item|43523||Conjured Mana Strudel",
+			},
 			["unholy_pve"] = {
 				"spell|51||Death Strike|Rank 5|49924", -- [1]
 				"macro|2||Scourge|Interface\\Icons\\Spell_DeathKnight_ScourgeStrike|#showtooltip/n/cast Scourge Strike/n/petdefensive/n/petautocaston Claw", -- [2]
@@ -60,62 +116,6 @@ ActionBarSaverDB = {
 				[61] = "spell|38||Mind Freeze||47528",
 				[55] = "spell|36||Icebound Fortitude||48792",
 				[66] = "spell|47||Death and Decay|Rank 4|49938",
-			},
-			["unholy_pvp"] = {
-				"spell|54||Death Strike|Rank 5|49924", -- [1]
-				"macro|2||Scourge|Interface\\Icons\\Spell_DeathKnight_ScourgeStrike|#showtooltip/n/cast Scourge Strike/n/petdefensive/n/petautocaston Claw", -- [2]
-				"spell|51||Death Coil|Rank 5|49895", -- [3]
-				"spell|24||Blood Strike|Rank 6|49930", -- [4]
-				"spell|60||Summon Gargoyle||49206", -- [5]
-				nil, -- [6]
-				nil, -- [7]
-				nil, -- [8]
-				"macro|9||Exp|Interface\\Icons\\Ability_Creature_Disease_02|#showtooltip Corpse Explosion/n/petstay/n/cast [@pet] Corpse Explosion", -- [9]
-				"spell|39||Mind Freeze||47528", -- [10]
-				"spell|29||Pestilence||50842", -- [11]
-				"spell|53||Death Grip||49576", -- [12]
-				"spell|44||Anti-Magic Shell||48707", -- [13]
-				"spell|48||Bone Shield||49222", -- [14]
-				"macro|15||Self Heal|Interface\\Icons\\Spell_Shadow_DeathCoil|#showtooltip Death Coil/n/cast Lichborne/n/cast [@player] Death Coil", -- [15]
-				nil, -- [16]
-				nil, -- [17]
-				"spell|32||Empower Rune Weapon||47568", -- [18]
-				"macro|19||Target|Interface\\Icons\\Spell_DeathKnight_Gnaw_Ghoul|/petattack/n/cast Gnaw/n/cast Leap/n/cast Gnaw", -- [19]
-				"spell|25||Blood Tap||45529", -- [20]
-				"spell|30||Strangulate||47476", -- [21]
-				nil, -- [22]
-				"companion|3||unholy_pvp|MOUNT|32289", -- [23]
-				"companion|4||unholy_pvp|MOUNT|24252", -- [24]
-				"spell|31||Chains of Ice||45524", -- [25]
-				"spell|56||Plague Strike|Rank 6|49921", -- [26]
-				"spell|37||Icy Touch|Rank 5|49909", -- [27]
-				"macro|28||Focus|Interface\\Icons\\Spell_Shadow_SoulLeech_3|/cast [@focus, exists, nodead] [] Strangulate", -- [28]
-				"macro|29||Focus|Interface\\Icons\\Spell_DeathKnight_MindFreeze|/cast [@focus, exists, nodead] [] Mind Freeze", -- [29]
-				nil, -- [30]
-				"spell|50||Death and Decay|Rank 4|49938", -- [31]
-				"macro|32||Presence|Interface\\Icons\\Spell_Deathknight_UnholyPresence|#showtooltip/n/cast Unholy Presence/n/cast Frost Presence", -- [32]
-				"macro|33||Heal|Interface\\Icons\\Spell_Shadow_DeathPact|#showtooltip/n/cast [@pet,dead][nopet]Raise Dead;Death Pact/n/use Fel Healthstone", -- [33]
-				"macro|34||Callpet|Interface\\Icons\\Ability_Tracking|#showtooltip Track Beasts/n/petfollow/n/petpassive/n/petfollow", -- [34]
-				nil, -- [35]
-				"spell|46||Army of the Dead||42650", -- [36]
-				"spell|45||Anti-Magic Zone|Rank 1|51052", -- [37]
-				"spell|36||Icebound Fortitude||48792", -- [38]
-				"spell|9||Every Man for Himself|Racial|59752", -- [39]
-				nil, -- [40]
-				"spell|35||Horn of Winter|Rank 2|57623", -- [41]
-				nil, -- [42]
-				"macro|43||Lichborne|Interface\\Icons\\Spell_Shadow_RaiseDead|/cast Lichborne/n/cancelaura Lichborne", -- [43]
-				"macro|44||Aoe|Interface\\Icons\\Spell_DeathKnight_BloodBoil|#showtooltip Blood Boil/n/cast Blood Boil/n/cast [target=arena1] Dark Command/n/cast [target=arena2] Dark Command/n/cast [target=arena3] Dark Command/n/cast [target=arenapet1] Dark Command/n/cast [target=arenapet2] Dark Command", -- [44]
-				"macro|45||Stun|Interface\\Icons\\Spell_DeathKnight_Gnaw_Ghoul|#showtooltip Gnaw/n/petautocastoff Claw/n/petattack [@focus, exists, nodead] [@target]/n/cast [@focus,exists, nodead] [@target]Gnaw/n/cast [@focus,exists, nodead] [@target]Leap/n/cast [@focus,exists, nodead] [@target]Gnaw", -- [45]
-				nil, -- [46]
-				nil, -- [47]
-				"spell|26||Dark Command||56222", -- [48]
-				"spell|52||Death Gate||50977", -- [49]
-				[72] = "spell|41||Path of Frost||3714",
-				[60] = "item|47499||Flask of the North",
-				[61] = "item|6948||Hearthstone",
-				[68] = "spell|46||Army of the Dead||42650",
-				[71] = "item|43523||Conjured Mana Strudel",
 			},
 			["unholy_pve_yedek"] = {
 				"spell|51||Death Strike|Rank 5|49924", -- [1]
@@ -233,8 +233,8 @@ ActionBarSaverDB = {
 				[72] = "spell|153||Greater Blessing of Might|Rank 5|48934",
 				[53] = "item|43523||Conjured Mana Strudel",
 				[54] = "item|33445||Honeymint Tea",
-				[87] = "item|15113||Rigid Buckler",
 				[86] = "item|42945||Venerable Dal'Rend's Sacred Charge",
+				[87] = "item|15113||Rigid Buckler",
 			},
 		},
 		["MAGE"] = {
@@ -242,12 +242,12 @@ ActionBarSaverDB = {
 		["PRIEST"] = {
 			["shadow_pve"] = {
 				"spell|241||Vampiric Touch|Rank 5|48160", -- [1]
-				"spell|200||Mind Flay|Rank 9|48156", -- [2]
-				"spell|190||Mind Blast|Rank 13|48127", -- [3]
+				"macro|2||Flay|Interface\\Icons\\Spell_Shadow_SiphonMana|/cast Mind Flay/n/use 10", -- [2]
+				"macro|3||Mind Blast|Interface\\Icons\\Spell_Shadow_UnholyFrenzy|#showtooltio Mind Blast/n/cast Inner Focus/n/cast Mind Blast", -- [3]
 				"spell|221||Shadow Word: Death|Rank 4|48158", -- [4]
-				"item|50722||San'layn Ritualist Gloves", -- [5]
+				"item|51256||Sanctified Crimson Acolyte Handwraps", -- [5]
 				nil, -- [6]
-				nil, -- [7]
+				"item|40211||Potion of Speed", -- [7]
 				nil, -- [8]
 				"macro|9||Dispersion|Interface\\Icons\\Spell_Shadow_Dispersion|/cast Dispersion/n/cancelaura Dispersion", -- [9]
 				"spell|177||Fade||586", -- [10]
@@ -256,146 +256,56 @@ ActionBarSaverDB = {
 				"spell|212||Psychic Scream|Rank 4|10890", -- [13]
 				"spell|59||Power Word: Shield|Rank 14|48066", -- [14]
 				"item|50699||Plague Scientist's Boots", -- [15]
-				nil, -- [16]
+				"macro|16||JC|Interface\\Icons\\INV_Misc_Gem_02|#showtooltip Jewelcrafting/n/cast Jewelcrafting/n/run for i=1,GetNumTradeSkills() do if GetTradeSkillInfo(i)==\"Icy Prism\" then CloseTradeSkill() DoTradeSkill(i) break end end/n/use Icy Prism/n/script OpenAllBags();", -- [16]
 				nil, -- [17]
 				"spell|70||Abolish Disease||552", -- [18]
 				"spell|74||Cure Disease||528", -- [19]
 				"spell|86||Flash Heal|Rank 11|48071", -- [20]
 				"spell|73||Binding Heal|Rank 3|48120", -- [21]
 				nil, -- [22]
-				"companion|16||shadow_pve|MOUNT|32292", -- [23]
-				"companion|17||shadow_pve|MOUNT|23338", -- [24]
-				"macro|25||PI Call|Interface\\Icons\\Spell_Holy_PowerInfusion|#show Power Infusion/n/p Power Infusion", -- [25]
-				"spell|234||Shadowfiend||34433", -- [26]
+				nil, -- [23]
+				"companion|15||shadow_pve|MOUNT|35027", -- [24]
+				"spell|4||Berserking|Racial|26297", -- [25]
+				"spell|202||Mind Sear|Rank 2|53023", -- [26]
 				"spell|17||Dispel Magic|Rank 2|988", -- [27]
 				"spell|119||Holy Nova|Rank 9|48078", -- [28]
 				"spell|24||Fear Ward||6346", -- [29]
 				nil, -- [30]
-				"spell|202||Mind Sear|Rank 2|53023", -- [31]
+				"spell|234||Shadowfiend||34433", -- [31]
 				"spell|133||Prayer of Mending|Rank 3|48113", -- [32]
-				"spell|69||Shackle Undead|Rank 3|10955", -- [33]
-				"spell|37||Mass Dispel||32375", -- [34]
+				"spell|37||Mass Dispel||32375", -- [33]
+				"spell|69||Shackle Undead|Rank 3|10955", -- [34]
 				nil, -- [35]
 				nil, -- [36]
 				"spell|235||Shadowform||15473", -- [37]
 				"spell|236||Vampiric Embrace||15286", -- [38]
 				"spell|33||Inner Fire|Rank 9|48168", -- [39]
-				"spell|8||Every Man for Himself|Racial|59752", -- [40]
+				nil, -- [40]
 				"spell|34||Inner Focus||14751", -- [41]
 				nil, -- [42]
-				nil, -- [43]
+				"macro|43||PI Call|Interface\\Icons\\Spell_Holy_PowerInfusion|#show Power Infusion/n/p Power Infusion", -- [43]
 				"macro|44||Hymn|Interface\\Icons\\Spell_Holy_DivineHymn|#show Divine Hymn/n/cast Inner Focus/n/cast Divine Hymn", -- [44]
 				"spell|35||Levitate||1706", -- [45]
 				"spell|120||Hymn of Hope||64901", -- [46]
 				nil, -- [47]
 				"spell|191||Mind Control||605", -- [48]
-				[60] = "spell|45||Power Word: Fortitude|Rank 8|48161",
-				[73] = "item|40212||Potion of Wild Magic",
-				[55] = "item|43523||Conjured Mana Strudel",
-				[59] = "spell|23||Divine Spirit|Rank 6|48073",
-				[74] = "item|40211||Potion of Speed",
-				[67] = "spell|154||Resurrection|Rank 7|48171",
-				[71] = "spell|66||Prayer of Spirit|Rank 3|48074",
+				nil, -- [49]
+				nil, -- [50]
+				nil, -- [51]
+				nil, -- [52]
+				nil, -- [53]
+				nil, -- [54]
+				"item|43523||Conjured Mana Strudel", -- [55]
+				"item|40212||Potion of Wild Magic", -- [56]
+				nil, -- [57]
+				"spell|217||Shadow Protection|Rank 5|48169", -- [58]
+				"spell|23||Divine Spirit|Rank 6|48073", -- [59]
+				"spell|45||Power Word: Fortitude|Rank 8|48161", -- [60]
+				"macro|61||Inferno|Interface\\Icons\\Spell_Holy_Stoicism|/target Living Inferno/n/cast Vampiric Touch", -- [61]
 				[72] = "spell|63||Prayer of Fortitude|Rank 4|48162",
-				[58] = "spell|217||Shadow Protection|Rank 5|48169",
 				[70] = "spell|208||Prayer of Shadow Protection|Rank 3|48170",
-			},
-			["multibox"] = {
-				[58] = "spell|222||Shadow Protection|Rank 5|48169",
-				[59] = "spell|51||Power Word: Fortitude|Rank 8|48161",
-				[60] = "spell|23||Divine Spirit|Rank 6|48073",
-				[15] = "item|50699||Plague Scientist's Boots",
-				[31] = "macro|31||Dungeon|Interface\\Icons\\INV_Misc_QuestionMark|/click LFDRoleCheckPopupAcceptButton/n/click LFDDungeonReadyDialogEnterDungeonButton/n/run LFGTeleport(IsInLFGDungeon())",
-				[65] = "item|50699||Plague Scientist's Boots",
-				[34] = "companion|17||multibox|MOUNT|23338",
-				[71] = "spell|72||Prayer of Spirit|Rank 3|48074",
-				[73] = "spell|222||Shadow Protection|Rank 5|48169",
-				[75] = "spell|51||Power Word: Fortitude|Rank 8|48161",
-				[39] = "spell|169||Resurrection|Rank 7|48171",
-				[62] = "spell|33||Inner Fire|Rank 9|48168",
-				[43] = "macro|43||Accept|Interface\\Icons\\INV_Misc_QuestionMark|/run AcceptGroup()",
-				[5] = "macro|5||Assist|Interface\\Icons\\Spell_Shadow_DevouringPlague|/assist Mayishift/n/cast Devouring Plague",
-				[44] = "spell|135||Hymn of Hope||64901",
-				[46] = "macro|46||Vehicle|Interface\\Icons\\INV_Misc_QuestionMark|/run VehicleExit()",
-				[49] = "spell|90||Divine Hymn|Rank 1|64843",
-				[70] = "spell|213||Prayer of Shadow Protection|Rank 3|48170",
-				[66] = "spell|17||Dispel Magic|Rank 2|988",
-				[50] = "spell|135||Hymn of Hope||64901",
-				[51] = "spell|75||Shackle Undead|Rank 3|10955",
-				[72] = "spell|69||Prayer of Fortitude|Rank 4|48162",
-				[74] = "spell|23||Divine Spirit|Rank 6|48073",
-				[53] = "item|50722||San'layn Ritualist Gloves",
-				[55] = "item|43523||Conjured Mana Strudel",
-				[56] = "spell|35||Levitate||1706",
-				[61] = "spell|34||Inner Focus||14751",
-			},
-			["discipline_pvp"] = {
-				"spell|162||Renew|Rank 14|48068", -- [1]
-				"spell|65||Power Word: Shield|Rank 14|48066", -- [2]
-				"spell|148||Prayer of Mending|Rank 3|48113", -- [3]
-				"spell|42||Penance|Rank 4|53007", -- [4]
-				"spell|101||Flash Heal|Rank 11|48071", -- [5]
-				"spell|43||Power Infusion||10060", -- [6]
-				nil, -- [7]
-				nil, -- [8]
-				"spell|24||Fear Ward||6346", -- [9]
-				"spell|226||Shadow Word: Death|Rank 4|48158", -- [10]
-				"spell|190||Devouring Plague|Rank 9|48300", -- [11]
-				"spell|238||Shadow Word: Pain|Rank 12|48125", -- [12]
-				"spell|217||Psychic Scream|Rank 4|10890", -- [13]
-				"spell|36||Mana Burn||8129", -- [14]
-				"macro|15||Heal|Interface\\Icons\\inv_jewelcrafting_gem_28|#showtooltip Bauble of True Blood/n/cast Inner Focus/n/use Bauble of True Blood", -- [15]
-				"spell|134||Holy Nova|Rank 9|48078", -- [16]
-				nil, -- [17]
-				"spell|76||Abolish Disease||552", -- [18]
-				"spell|80||Cure Disease||528", -- [19]
-				"spell|204||Mind Blast|Rank 13|48127", -- [20]
-				"spell|35||Levitate||1706", -- [21]
-				nil, -- [22]
-				"companion|16||discipline_pvp|MOUNT|32292", -- [23]
-				"companion|17||discipline_pvp|MOUNT|23338", -- [24]
-				"spell|125||Holy Fire|Rank 11|48135", -- [25]
-				"spell|181||Smite|Rank 12|48123", -- [26]
-				"spell|17||Dispel Magic|Rank 2|988", -- [27]
-				"spell|239||Shadowfiend||34433", -- [28]
-				"spell|208||Mind Soothe||453", -- [29]
-				nil, -- [30]
-				"spell|37||Mass Dispel||32375", -- [31]
-				"macro|32||PS|Interface\\Icons\\Spell_Holy_PainSupression|#showtooltip Pain Suppression/n/cast [target=Mayikiss] Pain Suppression", -- [32]
-				"spell|38||Pain Suppression||33206", -- [33]
-				"spell|75||Shackle Undead|Rank 3|10955", -- [34]
-				nil, -- [35]
-				"spell|207||Mind Sear|Rank 2|53023", -- [36]
-				"macro|37||PI|Interface\\Icons\\Spell_Holy_PowerInfusion|/cast [target=Mayikiss] Power Infusion", -- [37]
-				"macro|38||Self Heal|Interface\\Icons\\Spell_Holy_Restoration|#showtooltip Desperate Prayer/n/cast Inner Focus/n/cast Desperate Prayer", -- [38]
-				"spell|8||Every Man for Himself|Racial|59752", -- [39]
-				nil, -- [40]
-				"spell|33||Inner Fire|Rank 9|48168", -- [41]
-				nil, -- [42]
-				"spell|135||Hymn of Hope||64901", -- [43]
-				"macro|44||Divine|Interface\\Icons\\Spell_Holy_DivineHymn|#showtooltip Divine Hymn/n/cast Inner Focus/n/cast Divine Hymn", -- [44]
-				"spell|205||Mind Control||605", -- [45]
-				"spell|110||Greater Heal|Rank 9|48063", -- [46]
-				nil, -- [47]
-				"spell|34||Inner Focus||14751", -- [48]
-				"item|6948||Hearthstone", -- [49]
-				"item|54452||Ethereal Portal", -- [50]
-				[60] = "spell|222||Shadow Protection|Rank 5|48169",
-				[72] = "spell|213||Prayer of Shadow Protection|Rank 3|48170",
-				[58] = "spell|23||Divine Spirit|Rank 6|48073",
-				[84] = "spell|8||Every Man for Himself|Racial|59752",
-				[59] = "spell|51||Power Word: Fortitude|Rank 8|48161",
-				[55] = "spell|169||Resurrection|Rank 7|48171",
-				[81] = "spell|205||Mind Control||605",
-				[70] = "spell|72||Prayer of Spirit|Rank 3|48074",
-				[74] = "spell|207||Mind Sear|Rank 2|53023",
-				[78] = "spell|238||Shadow Word: Pain|Rank 12|48125",
-				[82] = "spell|239||Shadowfiend||34433",
-				[71] = "spell|69||Prayer of Fortitude|Rank 4|48162",
-				[75] = "spell|204||Mind Blast|Rank 13|48127",
-				[79] = "spell|190||Devouring Plague|Rank 9|48300",
-				[83] = "spell|37||Mass Dispel||32375",
-				[77] = "item|51183||Sanctified Crimson Acolyte Handwraps",
+				[71] = "spell|66||Prayer of Spirit|Rank 3|48074",
+				[67] = "spell|154||Resurrection|Rank 7|48171",
 			},
 			["shadow_pvp"] = {
 				"spell|243||Vampiric Touch|Rank 5|48160", -- [1]
@@ -459,18 +369,188 @@ ActionBarSaverDB = {
 				[67] = "spell|154||Resurrection|Rank 7|48171",
 				[71] = "spell|66||Prayer of Spirit|Rank 3|48074",
 				[75] = "spell|45||Power Word: Fortitude|Rank 8|48161",
-				[74] = "spell|23||Divine Spirit|Rank 6|48073",
-				[58] = "spell|218||Shadow Protection|Rank 5|48169",
 				[72] = "spell|63||Prayer of Fortitude|Rank 4|48162",
+				[58] = "spell|218||Shadow Protection|Rank 5|48169",
+				[74] = "spell|23||Divine Spirit|Rank 6|48073",
+			},
+			["multibox"] = {
+				[58] = "spell|222||Shadow Protection|Rank 5|48169",
+				[59] = "spell|51||Power Word: Fortitude|Rank 8|48161",
+				[60] = "spell|23||Divine Spirit|Rank 6|48073",
+				[15] = "item|50699||Plague Scientist's Boots",
+				[31] = "macro|31||Dungeon|Interface\\Icons\\INV_Misc_QuestionMark|/click LFDRoleCheckPopupAcceptButton/n/click LFDDungeonReadyDialogEnterDungeonButton/n/run LFGTeleport(IsInLFGDungeon())",
+				[65] = "item|50699||Plague Scientist's Boots",
+				[34] = "companion|17||multibox|MOUNT|23338",
+				[71] = "spell|72||Prayer of Spirit|Rank 3|48074",
+				[73] = "spell|222||Shadow Protection|Rank 5|48169",
+				[75] = "spell|51||Power Word: Fortitude|Rank 8|48161",
+				[39] = "spell|169||Resurrection|Rank 7|48171",
+				[61] = "spell|34||Inner Focus||14751",
+				[43] = "macro|43||Accept|Interface\\Icons\\INV_Misc_QuestionMark|/run AcceptGroup()",
+				[5] = "macro|5||Assist|Interface\\Icons\\Spell_Shadow_DevouringPlague|/assist Mayishift/n/cast Devouring Plague",
+				[44] = "spell|135||Hymn of Hope||64901",
+				[46] = "macro|46||Vehicle|Interface\\Icons\\INV_Misc_QuestionMark|/run VehicleExit()",
+				[66] = "spell|17||Dispel Magic|Rank 2|988",
+				[53] = "item|50722||San'layn Ritualist Gloves",
+				[49] = "spell|90||Divine Hymn|Rank 1|64843",
+				[50] = "spell|135||Hymn of Hope||64901",
+				[70] = "spell|213||Prayer of Shadow Protection|Rank 3|48170",
+				[72] = "spell|69||Prayer of Fortitude|Rank 4|48162",
+				[74] = "spell|23||Divine Spirit|Rank 6|48073",
+				[51] = "spell|75||Shackle Undead|Rank 3|10955",
+				[55] = "item|43523||Conjured Mana Strudel",
+				[56] = "spell|35||Levitate||1706",
+				[62] = "spell|33||Inner Fire|Rank 9|48168",
+			},
+			["discipline_pvp"] = {
+				"spell|162||Renew|Rank 14|48068", -- [1]
+				"spell|65||Power Word: Shield|Rank 14|48066", -- [2]
+				"spell|148||Prayer of Mending|Rank 3|48113", -- [3]
+				"spell|42||Penance|Rank 4|53007", -- [4]
+				"spell|101||Flash Heal|Rank 11|48071", -- [5]
+				"spell|43||Power Infusion||10060", -- [6]
+				nil, -- [7]
+				nil, -- [8]
+				"spell|24||Fear Ward||6346", -- [9]
+				"spell|226||Shadow Word: Death|Rank 4|48158", -- [10]
+				"spell|190||Devouring Plague|Rank 9|48300", -- [11]
+				"spell|238||Shadow Word: Pain|Rank 12|48125", -- [12]
+				"spell|217||Psychic Scream|Rank 4|10890", -- [13]
+				"spell|36||Mana Burn||8129", -- [14]
+				"macro|15||Heal|Interface\\Icons\\inv_jewelcrafting_gem_28|#showtooltip Bauble of True Blood/n/cast Inner Focus/n/use Bauble of True Blood", -- [15]
+				"spell|134||Holy Nova|Rank 9|48078", -- [16]
+				nil, -- [17]
+				"spell|76||Abolish Disease||552", -- [18]
+				"spell|80||Cure Disease||528", -- [19]
+				"spell|204||Mind Blast|Rank 13|48127", -- [20]
+				"spell|35||Levitate||1706", -- [21]
+				nil, -- [22]
+				"companion|16||discipline_pvp|MOUNT|32292", -- [23]
+				"companion|17||discipline_pvp|MOUNT|23338", -- [24]
+				"spell|125||Holy Fire|Rank 11|48135", -- [25]
+				"spell|181||Smite|Rank 12|48123", -- [26]
+				"spell|17||Dispel Magic|Rank 2|988", -- [27]
+				"spell|239||Shadowfiend||34433", -- [28]
+				"spell|208||Mind Soothe||453", -- [29]
+				nil, -- [30]
+				"spell|37||Mass Dispel||32375", -- [31]
+				"macro|32||PS|Interface\\Icons\\Spell_Holy_PainSupression|#showtooltip Pain Suppression/n/cast [target=Mayikiss] Pain Suppression", -- [32]
+				"spell|38||Pain Suppression||33206", -- [33]
+				"spell|75||Shackle Undead|Rank 3|10955", -- [34]
+				nil, -- [35]
+				"spell|207||Mind Sear|Rank 2|53023", -- [36]
+				"macro|37||PI|Interface\\Icons\\Spell_Holy_PowerInfusion|/cast [target=Mayikiss] Power Infusion", -- [37]
+				"macro|38||Self Heal|Interface\\Icons\\Spell_Holy_Restoration|#showtooltip Desperate Prayer/n/cast Inner Focus/n/cast Desperate Prayer", -- [38]
+				"spell|8||Every Man for Himself|Racial|59752", -- [39]
+				nil, -- [40]
+				"spell|33||Inner Fire|Rank 9|48168", -- [41]
+				nil, -- [42]
+				"spell|135||Hymn of Hope||64901", -- [43]
+				"macro|44||Divine|Interface\\Icons\\Spell_Holy_DivineHymn|#showtooltip Divine Hymn/n/cast Inner Focus/n/cast Divine Hymn", -- [44]
+				"spell|205||Mind Control||605", -- [45]
+				"spell|110||Greater Heal|Rank 9|48063", -- [46]
+				nil, -- [47]
+				"spell|34||Inner Focus||14751", -- [48]
+				"item|6948||Hearthstone", -- [49]
+				"item|54452||Ethereal Portal", -- [50]
+				[60] = "spell|222||Shadow Protection|Rank 5|48169",
+				[77] = "item|51183||Sanctified Crimson Acolyte Handwraps",
+				[83] = "spell|37||Mass Dispel||32375",
+				[84] = "spell|8||Every Man for Himself|Racial|59752",
+				[70] = "spell|72||Prayer of Spirit|Rank 3|48074",
+				[55] = "spell|169||Resurrection|Rank 7|48171",
+				[81] = "spell|205||Mind Control||605",
+				[59] = "spell|51||Power Word: Fortitude|Rank 8|48161",
+				[74] = "spell|207||Mind Sear|Rank 2|53023",
+				[78] = "spell|238||Shadow Word: Pain|Rank 12|48125",
+				[82] = "spell|239||Shadowfiend||34433",
+				[71] = "spell|69||Prayer of Fortitude|Rank 4|48162",
+				[75] = "spell|204||Mind Blast|Rank 13|48127",
+				[79] = "spell|190||Devouring Plague|Rank 9|48300",
+				[58] = "spell|23||Divine Spirit|Rank 6|48073",
+				[72] = "spell|213||Prayer of Shadow Protection|Rank 3|48170",
+			},
+			["discipline_pve"] = {
+				"spell|65||Power Word: Shield|Rank 14|48066", -- [1]
+				"item|54573||Glowing Twilight Scale", -- [2]
+				"spell|101||Flash Heal|Rank 11|48071", -- [3]
+				"macro|4||Power Infusion|Interface\\Icons\\Spell_Holy_PowerInfusion|/cast [@focus] Power Infusion", -- [4]
+				nil, -- [5]
+				nil, -- [6]
+				"spell|145||Prayer of Healing|Rank 7|48072", -- [7]
+				nil, -- [8]
+				"spell|24||Fear Ward||6346", -- [9]
+				"spell|207||Mind Sear|Rank 2|53023", -- [10]
+				"spell|190||Devouring Plague|Rank 9|48300", -- [11]
+				"spell|226||Shadow Word: Death|Rank 4|48158", -- [12]
+				"spell|42||Penance|Rank 4|53007", -- [13]
+				"spell|79||Binding Heal|Rank 3|48120", -- [14]
+				"item|50699||Plague Scientist's Boots", -- [15]
+				nil, -- [16]
+				nil, -- [17]
+				"spell|76||Abolish Disease||552", -- [18]
+				"spell|80||Cure Disease||528", -- [19]
+				"spell|75||Shackle Undead|Rank 3|10955", -- [20]
+				"spell|205||Mind Control||605", -- [21]
+				nil, -- [22]
+				"companion|16||discipline_pve|MOUNT|32297", -- [23]
+				"companion|13||discipline_pve|MOUNT|35025", -- [24]
+				"spell|162||Renew|Rank 14|48068", -- [25]
+				"spell|148||Prayer of Mending|Rank 3|48113", -- [26]
+				"spell|17||Dispel Magic|Rank 2|988", -- [27]
+				"spell|239||Shadowfiend||34433", -- [28]
+				"spell|35||Levitate||1706", -- [29]
+				nil, -- [30]
+				"spell|37||Mass Dispel||32375", -- [31]
+				"spell|38||Pain Suppression||33206", -- [32]
+				"spell|134||Holy Nova|Rank 9|48078", -- [33]
+				nil, -- [34]
+				nil, -- [35]
+				nil, -- [36]
+				"spell|33||Inner Fire|Rank 9|48168", -- [37]
+				"spell|89||Desperate Prayer|Rank 9|48173", -- [38]
+				nil, -- [39]
+				nil, -- [40]
+				"spell|34||Inner Focus||14751", -- [41]
+				nil, -- [42]
+				"spell|51||Power Word: Fortitude|Rank 8|48161", -- [43]
+				"spell|217||Psychic Scream|Rank 4|10890", -- [44]
+				"macro|45||Hymn|Interface\\Icons\\Spell_Holy_DivineHymn|#show Divine Hymn/n/cast Inner Focus/n/cast Divine Hymn", -- [45]
+				"spell|135||Hymn of Hope||64901", -- [46]
+				nil, -- [47]
+				"spell|238||Shadow Word: Pain|Rank 12|48125", -- [48]
+				"spell|90||Divine Hymn|Rank 1|64843", -- [49]
+				"spell|135||Hymn of Hope||64901", -- [50]
+				"spell|75||Shackle Undead|Rank 3|10955", -- [51]
+				nil, -- [52]
+				"item|50722||San'layn Ritualist Gloves", -- [53]
+				nil, -- [54]
+				nil, -- [55]
+				"spell|35||Levitate||1706", -- [56]
+				nil, -- [57]
+				"spell|222||Shadow Protection|Rank 5|48169", -- [58]
+				"spell|51||Power Word: Fortitude|Rank 8|48161", -- [59]
+				"spell|23||Divine Spirit|Rank 6|48073", -- [60]
+				nil, -- [61]
+				"spell|33||Inner Fire|Rank 9|48168", -- [62]
+				[72] = "spell|69||Prayer of Fortitude|Rank 4|48162",
+				[65] = "item|50699||Plague Scientist's Boots",
+				[73] = "spell|222||Shadow Protection|Rank 5|48169",
+				[66] = "spell|17||Dispel Magic|Rank 2|988",
+				[70] = "spell|213||Prayer of Shadow Protection|Rank 3|48170",
+				[74] = "spell|23||Divine Spirit|Rank 6|48073",
+				[71] = "spell|72||Prayer of Spirit|Rank 3|48074",
+				[75] = "spell|51||Power Word: Fortitude|Rank 8|48161",
+				[68] = "item|43523||Conjured Mana Strudel",
 			},
 			["shadow_pve_yedek"] = {
 				"spell|241||Vampiric Touch|Rank 5|48160", -- [1]
-				"spell|200||Mind Flay|Rank 9|48156", -- [2]
-				"spell|190||Mind Blast|Rank 13|48127", -- [3]
+				"macro|2||Flay|Interface\\Icons\\Spell_Shadow_SiphonMana|/cast Mind Flay/n/use 10", -- [2]
+				"macro|3||Mind Blast|Interface\\Icons\\Spell_Shadow_UnholyFrenzy|#showtooltio Mind Blast/n/cast Inner Focus/n/cast Mind Blast", -- [3]
 				"spell|221||Shadow Word: Death|Rank 4|48158", -- [4]
 				"item|51256||Sanctified Crimson Acolyte Handwraps", -- [5]
 				nil, -- [6]
-				nil, -- [7]
+				"item|40211||Potion of Speed", -- [7]
 				nil, -- [8]
 				"macro|9||Dispersion|Interface\\Icons\\Spell_Shadow_Dispersion|/cast Dispersion/n/cancelaura Dispersion", -- [9]
 				"spell|177||Fade||586", -- [10]
@@ -479,54 +559,61 @@ ActionBarSaverDB = {
 				"spell|212||Psychic Scream|Rank 4|10890", -- [13]
 				"spell|59||Power Word: Shield|Rank 14|48066", -- [14]
 				"item|50699||Plague Scientist's Boots", -- [15]
-				nil, -- [16]
+				"macro|16||JC|Interface\\Icons\\INV_Misc_Gem_02|#showtooltip Jewelcrafting/n/cast Jewelcrafting/n/run for i=1,GetNumTradeSkills() do if GetTradeSkillInfo(i)==\"Icy Prism\" then CloseTradeSkill() DoTradeSkill(i) break end end/n/use Icy Prism/n/script OpenAllBags();", -- [16]
 				nil, -- [17]
 				"spell|70||Abolish Disease||552", -- [18]
 				"spell|74||Cure Disease||528", -- [19]
 				"spell|86||Flash Heal|Rank 11|48071", -- [20]
 				"spell|73||Binding Heal|Rank 3|48120", -- [21]
 				nil, -- [22]
-				"companion|16||shadow_pve_yedek|MOUNT|32292", -- [23]
-				"companion|17||shadow_pve_yedek|MOUNT|23338", -- [24]
-				"macro|25||PI Call|Interface\\Icons\\Spell_Holy_PowerInfusion|#show Power Infusion/n/p Power Infusion", -- [25]
-				"spell|234||Shadowfiend||34433", -- [26]
+				nil, -- [23]
+				"companion|15||shadow_pve_yedek|MOUNT|35027", -- [24]
+				"spell|4||Berserking|Racial|26297", -- [25]
+				"spell|202||Mind Sear|Rank 2|53023", -- [26]
 				"spell|17||Dispel Magic|Rank 2|988", -- [27]
 				"spell|119||Holy Nova|Rank 9|48078", -- [28]
 				"spell|24||Fear Ward||6346", -- [29]
 				nil, -- [30]
-				"spell|202||Mind Sear|Rank 2|53023", -- [31]
+				"spell|234||Shadowfiend||34433", -- [31]
 				"spell|133||Prayer of Mending|Rank 3|48113", -- [32]
-				"spell|69||Shackle Undead|Rank 3|10955", -- [33]
-				"spell|37||Mass Dispel||32375", -- [34]
+				"spell|37||Mass Dispel||32375", -- [33]
+				"spell|69||Shackle Undead|Rank 3|10955", -- [34]
 				nil, -- [35]
 				nil, -- [36]
 				"spell|235||Shadowform||15473", -- [37]
 				"spell|236||Vampiric Embrace||15286", -- [38]
 				"spell|33||Inner Fire|Rank 9|48168", -- [39]
-				"spell|8||Every Man for Himself|Racial|59752", -- [40]
+				nil, -- [40]
 				"spell|34||Inner Focus||14751", -- [41]
 				nil, -- [42]
-				nil, -- [43]
+				"macro|43||PI Call|Interface\\Icons\\Spell_Holy_PowerInfusion|#show Power Infusion/n/p Power Infusion", -- [43]
 				"macro|44||Hymn|Interface\\Icons\\Spell_Holy_DivineHymn|#show Divine Hymn/n/cast Inner Focus/n/cast Divine Hymn", -- [44]
 				"spell|35||Levitate||1706", -- [45]
 				"spell|120||Hymn of Hope||64901", -- [46]
 				nil, -- [47]
 				"spell|191||Mind Control||605", -- [48]
-				[60] = "spell|45||Power Word: Fortitude|Rank 8|48161",
-				[73] = "item|40212||Potion of Wild Magic",
-				[55] = "item|43523||Conjured Mana Strudel",
-				[59] = "spell|23||Divine Spirit|Rank 6|48073",
-				[74] = "item|40211||Potion of Speed",
-				[67] = "spell|154||Resurrection|Rank 7|48171",
-				[71] = "spell|66||Prayer of Spirit|Rank 3|48074",
-				[70] = "spell|208||Prayer of Shadow Protection|Rank 3|48170",
-				[58] = "spell|217||Shadow Protection|Rank 5|48169",
+				nil, -- [49]
+				nil, -- [50]
+				nil, -- [51]
+				nil, -- [52]
+				nil, -- [53]
+				nil, -- [54]
+				"item|43523||Conjured Mana Strudel", -- [55]
+				"item|40212||Potion of Wild Magic", -- [56]
+				nil, -- [57]
+				"spell|217||Shadow Protection|Rank 5|48169", -- [58]
+				"spell|23||Divine Spirit|Rank 6|48073", -- [59]
+				"spell|45||Power Word: Fortitude|Rank 8|48161", -- [60]
+				"macro|61||Inferno|Interface\\Icons\\Spell_Holy_Stoicism|/target Living Inferno/n/cast Vampiric Touch", -- [61]
 				[72] = "spell|63||Prayer of Fortitude|Rank 4|48162",
+				[70] = "spell|208||Prayer of Shadow Protection|Rank 3|48170",
+				[71] = "spell|66||Prayer of Spirit|Rank 3|48074",
+				[67] = "spell|154||Resurrection|Rank 7|48171",
 			},
 		},
 		["WARLOCK"] = {
 		},
-		["ROGUE"] = {
+		["HUNTER"] = {
 		},
 		["DRUID"] = {
 			["balance_pve_aoe"] = {
@@ -608,17 +695,17 @@ ActionBarSaverDB = {
 				[86] = "spell|128||Pounce|Rank 5|49803",
 				[102] = "spell|125||Lacerate|Rank 3|48568",
 				[118] = "item|36892||Fel Healthstone",
-				[108] = "spell|117||Demoralizing Roar|Rank 8|48560",
+				[114] = "spell|56||Moonfire|Rank 14|48463",
 				[87] = "spell|130||Rake|Rank 7|48574",
 				[103] = "spell|124||Growl||6795",
 				[119] = "macro|119||rebirth|Interface\\Icons\\INV_Misc_QuestionMark|#showtooltip /n/use [@mouseover, help] Rebirth",
-				[60] = "spell|216||Revive|Rank 7|50763",
+				[120] = "spell|12||Shadowmeld|Racial|58984",
 				[88] = "spell|135||Shred|Rank 9|48572",
 				[104] = "spell|123||Frenzied Regeneration||22842",
-				[120] = "spell|12||Shadowmeld|Racial|58984",
+				[60] = "spell|216||Revive|Rank 7|50763",
 				[110] = "spell|83||Starfire|Rank 10|48465",
 				[89] = "spell|116||Dash|Rank 3|33357",
-				[114] = "spell|56||Moonfire|Rank 14|48463",
+				[108] = "spell|117||Demoralizing Roar|Rank 8|48560",
 			},
 			["mbox"] = {
 				"macro|1||MB2|Interface\\Icons\\Spell_Nature_StarFall|#showtooltip Moonfire/n/assist Mayiascend/n/cast Moonfire", -- [1]
@@ -702,15 +789,15 @@ ActionBarSaverDB = {
 				[86] = "spell|128||Pounce|Rank 5|49803",
 				[118] = "item|36892||Fel Healthstone",
 				[87] = "spell|130||Rake|Rank 7|48574",
-				[114] = "spell|56||Moonfire|Rank 14|48463",
+				[108] = "spell|117||Demoralizing Roar|Rank 8|48560",
 				[119] = "macro|119||rebirth|Interface\\Icons\\INV_Misc_QuestionMark|#showtooltip /n/use [@mouseover, help] Rebirth",
 				[110] = "spell|83||Starfire|Rank 10|48465",
 				[88] = "spell|135||Shred|Rank 9|48572",
-				[120] = "spell|12||Shadowmeld|Racial|58984",
 				[60] = "spell|216||Revive|Rank 7|50763",
+				[120] = "spell|12||Shadowmeld|Racial|58984",
 				[73] = "spell|92||Thorns|Rank 8|53307",
 				[89] = "spell|116||Dash|Rank 3|33357",
-				[108] = "spell|117||Demoralizing Roar|Rank 8|48560",
+				[114] = "spell|56||Moonfire|Rank 14|48463",
 			},
 			["balance_pve"] = {
 				"spell|83||Starfire|Rank 10|48465", -- [1]
@@ -794,15 +881,15 @@ ActionBarSaverDB = {
 				[86] = "spell|128||Pounce|Rank 5|49803",
 				[118] = "item|36892||Fel Healthstone",
 				[87] = "spell|130||Rake|Rank 7|48574",
-				[114] = "spell|56||Moonfire|Rank 14|48463",
+				[108] = "spell|117||Demoralizing Roar|Rank 8|48560",
 				[119] = "macro|119||rebirth|Interface\\Icons\\INV_Misc_QuestionMark|#showtooltip /n/use [@mouseover, help] Rebirth",
 				[110] = "spell|83||Starfire|Rank 10|48465",
 				[88] = "spell|135||Shred|Rank 9|48572",
-				[120] = "spell|12||Shadowmeld|Racial|58984",
 				[60] = "spell|216||Revive|Rank 7|50763",
+				[120] = "spell|12||Shadowmeld|Racial|58984",
 				[73] = "spell|92||Thorns|Rank 8|53307",
 				[89] = "spell|116||Dash|Rank 3|33357",
-				[108] = "spell|117||Demoralizing Roar|Rank 8|48560",
+				[114] = "spell|56||Moonfire|Rank 14|48463",
 			},
 			["balance_pve_yedek"] = {
 				"spell|83||Starfire|Rank 10|48465", -- [1]
@@ -883,17 +970,17 @@ ActionBarSaverDB = {
 				[86] = "spell|123||Pounce|Rank 5|49803",
 				[102] = "spell|120||Lacerate|Rank 3|48568",
 				[118] = "item|36892||Fel Healthstone",
-				[108] = "spell|112||Demoralizing Roar|Rank 8|48560",
+				[114] = "spell|56||Moonfire|Rank 14|48463",
 				[87] = "spell|125||Rake|Rank 7|48574",
 				[103] = "spell|119||Growl||6795",
 				[119] = "macro|119||rebirth|Interface\\Icons\\INV_Misc_QuestionMark|#showtooltip /n/use [@mouseover, help] Rebirth",
-				[60] = "spell|211||Revive|Rank 7|50763",
+				[120] = "spell|12||Shadowmeld|Racial|58984",
 				[88] = "spell|130||Shred|Rank 9|48572",
 				[104] = "spell|118||Frenzied Regeneration||22842",
-				[120] = "spell|12||Shadowmeld|Racial|58984",
+				[60] = "spell|211||Revive|Rank 7|50763",
 				[110] = "spell|83||Starfire|Rank 10|48465",
 				[89] = "spell|111||Dash|Rank 3|33357",
-				[114] = "spell|56||Moonfire|Rank 14|48463",
+				[108] = "spell|112||Demoralizing Roar|Rank 8|48560",
 			},
 			["multibox"] = {
 				[105] = "spell|113||Challenging Roar||5209",
@@ -912,33 +999,33 @@ ActionBarSaverDB = {
 				[78] = "spell|132||Rip|Rank 9|49800",
 				[110] = "spell|83||Starfire|Rank 10|48465",
 				[95] = "spell|129||Prowl||5215",
-				[97] = "spell|123||Frenzied Regeneration||22842",
+				[54] = "item|40211||Potion of Speed",
 				[40] = "spell|146||Gift of the Wild|Rank 4|48470",
 				[48] = "spell|35||Innervate||29166",
 				[112] = "spell|109||Wrath|Rank 12|48461",
-				[57] = "item|43523||Conjured Mana Strudel",
+				[114] = "spell|56||Moonfire|Rank 14|48463",
 				[81] = "spell|129||Prowl||5215",
-				[24] = "spell|73||Starfall|Rank 4|53201",
+				[97] = "spell|123||Frenzied Regeneration||22842",
 				[113] = "spell|15||Barkskin||22812",
 				[66] = "item|33445||Honeymint Tea",
 				[82] = "spell|134||Savage Roar|Rank 1|52610",
 				[98] = "spell|124||Growl||6795",
-				[114] = "spell|56||Moonfire|Rank 14|48463",
-				[101] = "spell|120||Faerie Fire (Feral)||16857",
+				[57] = "item|43523||Conjured Mana Strudel",
+				[86] = "spell|128||Pounce|Rank 5|49803",
 				[83] = "spell|56||Moonfire|Rank 14|48463",
 				[99] = "spell|125||Lacerate|Rank 3|48568",
-				[60] = "spell|216||Revive|Rank 7|50763",
+				[120] = "spell|12||Shadowmeld|Racial|58984",
 				[34] = "macro|34||Vehicle|Interface\\Icons\\INV_Misc_QuestionMark|/run VehicleExit()",
 				[84] = "spell|120||Faerie Fire (Feral)||16857",
 				[100] = "spell|127||Maul|Rank 10|48480",
 				[116] = "spell|25||Faerie Fire||770",
 				[69] = "item|33448||Runic Mana Potion",
 				[85] = "spell|131||Ravage|Rank 7|48579",
-				[25] = "macro|25||Lootpass|Interface\\Icons\\INV_Misc_QuestionMark|/run CloseLoot()",
+				[101] = "spell|120||Faerie Fire (Feral)||16857",
 				[117] = "spell|16||Cyclone||33786",
 				[70] = "item|33447||Runic Healing Potion",
 				[43] = "macro|43||Accept|Interface\\Icons\\INV_Misc_QuestionMark|/run AcceptGroup()",
-				[29] = "macro|29||Dungeon|Interface\\Icons\\INV_Misc_QuestionMark|/click LFDRoleCheckPopupAcceptButton/n/click LFDDungeonReadyDialogEnterDungeonButton",
+				[55] = "item|40212||Potion of Wild Magic",
 				[118] = "item|36892||Fel Healthstone",
 				[96] = "spell|129||Prowl||5215",
 				[87] = "spell|130||Rake|Rank 7|48574",
@@ -946,16 +1033,16 @@ ActionBarSaverDB = {
 				[119] = "macro|119||rebirth|Interface\\Icons\\INV_Misc_QuestionMark|#showtooltip /n/use [@mouseover, help] Rebirth",
 				[72] = "spell|216||Revive|Rank 7|50763",
 				[88] = "spell|135||Shred|Rank 9|48572",
-				[55] = "item|40212||Potion of Wild Magic",
-				[120] = "spell|12||Shadowmeld|Racial|58984",
-				[86] = "spell|128||Pounce|Rank 5|49803",
+				[29] = "macro|29||Dungeon|Interface\\Icons\\INV_Misc_QuestionMark|/click LFDRoleCheckPopupAcceptButton/n/click LFDDungeonReadyDialogEnterDungeonButton",
+				[60] = "spell|216||Revive|Rank 7|50763",
+				[25] = "macro|25||Lootpass|Interface\\Icons\\INV_Misc_QuestionMark|/run CloseLoot()",
 				[89] = "spell|116||Dash|Rank 3|33357",
-				[54] = "item|40211||Potion of Speed",
+				[24] = "spell|73||Starfall|Rank 4|53201",
 			},
 		},
 		["SHAMAN"] = {
 		},
-		["HUNTER"] = {
+		["ROGUE"] = {
 		},
 	},
 	["spellSubs"] = {

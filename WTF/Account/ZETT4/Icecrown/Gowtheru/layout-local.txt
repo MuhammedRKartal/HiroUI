@@ -2,8 +2,8 @@ Version: 1
 Frame: HealBot_Action
 FrameLevel: 12
 Anchor: LEFT
-X: 396
-Y: -236
+X: 369
+Y: -258
 W: 105
 H: 88
 Frame: XPerl_Party_Anchor
@@ -39,7 +39,7 @@ FrameLevel: 1
 Anchor: TOP
 X: 532
 Y: 0
-W: 220
+W: 128
 H: 60
 Frame: XPerl_TargetTarget
 FrameLevel: 1
@@ -48,13 +48,6 @@ X: -520
 Y: -233
 W: 160
 H: 60
-Frame: _NPCScanButton
-FrameLevel: 1
-Anchor: BOTTOM
-X: 0
-Y: 128
-W: 150
-H: 42
 Frame: AfkFrame
 FrameLevel: 0
 Anchor: CENTER

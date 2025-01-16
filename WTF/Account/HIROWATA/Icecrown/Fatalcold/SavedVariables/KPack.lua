@@ -9,9 +9,12 @@ KPackCharDB = {
 			},
 			["AutoCompleteAlts"] = true,
 			["AutoCompleteGuild"] = true,
-			["recent"] = {
-			},
 			["alts"] = {
+				"Fatalcold|Icecrown|Alliance", -- [1]
+			},
+			["recent"] = {
+				"Zuzula", -- [1]
+				"Elziash", -- [2]
 			},
 			["AutoCompleteRecent"] = true,
 			["AutoCompleteContacts"] = true,

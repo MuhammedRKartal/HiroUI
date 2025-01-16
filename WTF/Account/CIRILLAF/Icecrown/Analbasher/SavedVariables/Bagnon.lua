@@ -8,6 +8,7 @@ BagnonFrameSettings = {
 			["y"] = -343.6655169176011,
 			["x"] = -669.6666164476371,
 			["point"] = "TOPRIGHT",
+			["dataBrokerObject"] = "Bartender4",
 		},
 		["bank"] = {
 			["y"] = 195.0000705072439,

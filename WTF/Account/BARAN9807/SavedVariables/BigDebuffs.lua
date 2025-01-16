@@ -11,10 +11,10 @@ BigDebuffsDB = {
 		["Koboldminer - Icecrown"] = "Default",
 		["Cezzarged - Icecrown"] = "Default",
 		["Canubet - Icecrown"] = "Default",
-		["Enayi - Icecrown"] = "Default",
+		["Mayiascend - Icecrown"] = "Default",
 		["Ramozan - Icecrown"] = "Default",
 		["Ilkkan - Icecrown"] = "Default",
-		["Mayiascend - Icecrown"] = "Default",
+		["Enayi - Icecrown"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

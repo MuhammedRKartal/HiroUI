@@ -1,21 +1,34 @@
 
 ToC_AssignmentsDB = {
 	["profileKeys"] = {
+		["Mayicrush - Icecrown"] = "Mayicrush - Icecrown",
 		["Mayiascend - Icecrown"] = "Mayiascend - Icecrown",
+		["Durrozdor - Icecrown"] = "Durrozdor - Icecrown",
+		["Analbuster - Onyxia"] = "Analbuster - Onyxia",
 		["Plaacebo - Icecrown"] = "Plaacebo - Icecrown",
+		["Casette - Icecrown"] = "Casette - Icecrown",
 		["Cezzarged - Icecrown"] = "Cezzarged - Icecrown",
 		["Mayislash - Icecrown"] = "Mayislash - Icecrown",
 		["Mayistab - Icecrown"] = "Mayistab - Icecrown",
-		["Elynass - Icecrown"] = "Elynass - Icecrown",
-		["Casette - Icecrown"] = "Casette - Icecrown",
+		["Nekimi - Icecrown"] = "Nekimi - Icecrown",
+		["Mayibite - Icecrown"] = "Mayibite - Icecrown",
+		["Mayihunt - Icecrown"] = "Mayihunt - Icecrown",
 		["Fareci - Icecrown"] = "Fareci - Icecrown",
-		["Analbuster - Onyxia"] = "Analbuster - Onyxia",
 		["Mayicurse - Icecrown"] = "Mayicurse - Icecrown",
+		["Elynass - Icecrown"] = "Elynass - Icecrown",
 	},
 	["profiles"] = {
+		["Mayicrush - Icecrown"] = {
+		},
 		["Mayiascend - Icecrown"] = {
 		},
+		["Durrozdor - Icecrown"] = {
+		},
+		["Analbuster - Onyxia"] = {
+		},
 		["Plaacebo - Icecrown"] = {
+		},
+		["Casette - Icecrown"] = {
 		},
 		["Cezzarged - Icecrown"] = {
 		},
@@ -23,15 +36,17 @@ ToC_AssignmentsDB = {
 		},
 		["Mayistab - Icecrown"] = {
 		},
-		["Elynass - Icecrown"] = {
+		["Nekimi - Icecrown"] = {
 		},
-		["Casette - Icecrown"] = {
+		["Mayibite - Icecrown"] = {
+		},
+		["Mayihunt - Icecrown"] = {
 		},
 		["Fareci - Icecrown"] = {
 		},
-		["Analbuster - Onyxia"] = {
-		},
 		["Mayicurse - Icecrown"] = {
+		},
+		["Elynass - Icecrown"] = {
 		},
 	},
 }

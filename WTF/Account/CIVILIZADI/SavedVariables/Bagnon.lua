@@ -2,7 +2,7 @@
 BagnonGlobalSettings = {
 	["autoDisplayEvents"] = {
 		["inventory"] = {
-			["craft"] = true,
+			["trade"] = true,
 		},
 	},
 	["version"] = "2.13.3",

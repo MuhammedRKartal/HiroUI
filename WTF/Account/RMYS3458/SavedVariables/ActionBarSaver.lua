@@ -105,31 +105,31 @@ ActionBarSaverDB = {
 				[61] = "spell|8||Engineering|Grand Master|51306",
 				[63] = "spell|15||Runeforging||53428",
 			},
-			["unholy_pve"] = {
-				"spell|46||Death Strike|Rank 5|49924", -- [1]
-				"macro|2||Scourge|Interface\\Icons\\Spell_DeathKnight_ScourgeStrike|#showtooltip/n/cast Scourge Strike/n/petdefensive/n/petautocaston Claw", -- [2]
+			["unholy_pve_yedek"] = {
+				"spell|19||Blood Strike|Rank 6|49930", -- [1]
+				"macro|2||Scourge|Interface\\Icons\\Spell_DeathKnight_ScourgeStrike|#showtooltip/n/cast Scourge Strike/n/use 10/n/startattack", -- [2]
 				"spell|43||Death Coil|Rank 5|49895", -- [3]
-				"spell|19||Blood Strike|Rank 6|49930", -- [4]
+				"spell|36||Rune Strike||56815", -- [4]
 				"spell|51||Summon Gargoyle||49206", -- [5]
 				nil, -- [6]
-				nil, -- [7]
+				"item|22828||Insane Strength Potion", -- [7]
 				nil, -- [8]
-				nil, -- [9]
+				"spell|46||Death Strike|Rank 5|49924", -- [9]
 				"spell|33||Mind Freeze||47528", -- [10]
 				"spell|24||Pestilence||50842", -- [11]
 				"spell|45||Death Grip||49576", -- [12]
 				"spell|38||Anti-Magic Shell||48707", -- [13]
 				"spell|41||Bone Shield||49222", -- [14]
-				"macro|15||Focus|Interface\\Icons\\Spell_DeathKnight_Gnaw_Ghoul|#showtooltip Gnaw/n/petautocastoff Claw/n/petattack [@focus, exists, nodead] [@target]/n/cast [@focus,exists, nodead] [@target]Gnaw/n/cast [@focus,exists, nodead] [@target]Leap/n/cast [@focus,exists, nodead] [@target]Gnaw", -- [15]
+				"item|53125||Apocalypse's Advance", -- [15]
 				nil, -- [16]
 				nil, -- [17]
 				"spell|27||Empower Rune Weapon||47568", -- [18]
-				"macro|19||Target|Interface\\Icons\\Spell_DeathKnight_Gnaw_Ghoul|/petattack/n/cast Gnaw/n/cast Leap/n/cast Gnaw", -- [19]
+				nil, -- [19]
 				"spell|20||Blood Tap||45529", -- [20]
 				"spell|25||Strangulate||47476", -- [21]
 				nil, -- [22]
 				nil, -- [23]
-				"companion|28||unholy_pve|MOUNT|72286", -- [24]
+				"companion|31||unholy_pve_yedek|MOUNT|72286", -- [24]
 				"spell|26||Chains of Ice||45524", -- [25]
 				"spell|47||Plague Strike|Rank 6|49921", -- [26]
 				"spell|32||Icy Touch|Rank 5|49909", -- [27]
@@ -137,79 +137,167 @@ ActionBarSaverDB = {
 				"macro|29||Mind Freeze|Interface\\Icons\\Spell_DeathKnight_MindFreeze|/cast [@focus, exists, nodead] [] Mind Freeze", -- [29]
 				nil, -- [30]
 				"spell|42||Death and Decay|Rank 4|49938", -- [31]
-				"macro|32||Presence Blood|Interface\\Icons\\Spell_Deathknight_BloodPresence|#showtooltip/n/cast Blood Presence/n/cast Frost Presence", -- [32]
+				"spell|18||Blood Presence||48266", -- [32]
 				"macro|33||Heal|Interface\\Icons\\Spell_Shadow_DeathPact|#showtooltip/n/cast [@pet,dead][nopet]Raise Dead;Death Pact/n/use Fel Healthstone", -- [33]
-				"macro|34||Callpet|Interface\\Icons\\INV_Misc_QuestionMark|#showtooltip Track Beasts/n/petfollow/n/petpassive/n/petfollow", -- [34]
+				"macro|34||Callpet|Interface\\Icons\\Ability_Tracking|#showtooltip Track Beasts/n/petfollow", -- [34]
 				nil, -- [35]
-				"spell|39||Army of the Dead||42650", -- [36]
-				"macro|37||Presence Blood|Interface\\Icons\\Spell_Deathknight_BloodPresence|#showtooltip/n/cast Blood Presence/n/cast Frost Presence", -- [37]
+				"item|40211||Potion of Speed", -- [36]
+				"spell|5||Blood Fury|Racial|20572", -- [37]
 				"spell|31||Icebound Fortitude||48792", -- [38]
-				nil, -- [39]
+				"macro|39||Presence Blood|Interface\\Icons\\Spell_Deathknight_BloodPresence|#showtooltip/n/cast Blood Presence/n/cast Frost Presence", -- [39]
 				nil, -- [40]
 				"spell|30||Horn of Winter|Rank 2|57623", -- [41]
 				nil, -- [42]
-				"macro|43||Lichborne|Interface\\Icons\\INV_Misc_QuestionMark|/cast Lichborne/n/cancelaura Lichborne", -- [43]
-				"macro|44||Aoe|Interface\\Icons\\Spell_DeathKnight_BloodBoil|#showtooltip Blood Boil/n/cast Blood Boil/n/cast [target=arena1] Dark Command/n/cast [target=arena2] Dark Command/n/cast [target=arena3] Dark Command/n/cast [target=arenapet1] Dark Command/n/cast [target=arenapet2] Dark Command", -- [44]
-				"macro|45||Heal|Interface\\Icons\\Spell_Shadow_DeathCoil|#showtooltip Death Coil/n/cast Lichborne/n/cast [@player] Death Coil", -- [45]
-				[49] = "spell|44||Death Gate||50977",
+				"item|49278||Goblin Rocket Pack", -- [43]
+				"spell|17||Blood Boil|Rank 4|49941", -- [44]
+				"macro|45||Petattack|Interface\\Icons\\Ability_GhoulFrenzy|/petattack", -- [45]
+				"spell|21||Dark Command||56222", -- [46]
+				nil, -- [47]
+				"spell|39||Army of the Dead||42650", -- [48]
+				"spell|44||Death Gate||50977", -- [49]
+				[57] = "spell|35||Path of Frost||3714",
 				[61] = "item|6948||Hearthstone",
-				[48] = "spell|21||Dark Command||56222",
+				[72] = "item|46377||Flask of Endless Rage",
 			},
-			["frost_pve"] = {
+			["frost_pve_yedek"] = {
 				"spell|19||Blood Strike|Rank 6|49930", -- [1]
-				"spell|30||Frost Strike|Rank 6|55268", -- [2]
-				"spell|37||Obliterate|Rank 4|51425", -- [3]
-				"spell|46||Death Coil|Rank 5|49895", -- [4]
-				"spell|49||Death Strike|Rank 5|49924", -- [5]
+				"spell|37||Obliterate|Rank 4|51425", -- [2]
+				"spell|30||Frost Strike|Rank 6|55268", -- [3]
+				"spell|32||Howling Blast|Rank 4|51411", -- [4]
+				nil, -- [5]
 				nil, -- [6]
-				"spell|21||Dark Command||56222", -- [7]
+				nil, -- [7]
 				nil, -- [8]
-				"spell|17||Blood Boil|Rank 4|49941", -- [9]
+				"spell|49||Death Strike|Rank 5|49924", -- [9]
 				"spell|36||Mind Freeze||47528", -- [10]
 				"spell|24||Pestilence||50842", -- [11]
 				"spell|48||Death Grip||49576", -- [12]
-				"spell|42||Anti-Magic Shell||48707", -- [13]
-				"spell|41||Unbreakable Armor||51271", -- [14]
-				nil, -- [15]
+				"spell|41||Unbreakable Armor||51271", -- [13]
+				"spell|5||Blood Fury|Racial|20572", -- [14]
+				"item|50625||Grinning Skull Greatboots", -- [15]
 				nil, -- [16]
 				nil, -- [17]
 				"spell|27||Empower Rune Weapon||47568", -- [18]
-				"spell|32||Howling Blast|Rank 4|51411", -- [19]
+				"spell|39||Rune Strike||56815", -- [19]
 				"spell|20||Blood Tap||45529", -- [20]
 				nil, -- [21]
 				nil, -- [22]
 				nil, -- [23]
-				"companion|28||frost_pve|MOUNT|72286", -- [24]
-				"spell|26||Chains of Ice||45524", -- [25]
-				"macro|26||Plague Strike|Interface\\Icons\\Spell_DeathKnight_EmpowerRuneBlade|#showtooltip Plague Strike/n/cast Plague Strike/n/cancelaura Hand of Protection/n/cancelaura Divine Intervene", -- [26]
-				"macro|27||Icy Touch|Interface\\Icons\\Spell_DeathKnight_IceTouch|#showtooltip Icy Touch/n/cast Icy Touch/n/cancelaura Hand of Protection/n/cancelaura Divine Intervene", -- [27]
+				"companion|31||frost_pve_yedek|MOUNT|72286", -- [24]
+				"spell|46||Death Coil|Rank 5|49895", -- [25]
+				"spell|50||Plague Strike|Rank 6|49921", -- [26]
+				"spell|34||Icy Touch|Rank 5|49909", -- [27]
 				"spell|25||Strangulate||47476", -- [28]
-				"spell|12||Gift of the Naaru|Racial|59545", -- [29]
+				"spell|26||Chains of Ice||45524", -- [29]
 				nil, -- [30]
 				"spell|45||Death and Decay|Rank 4|49938", -- [31]
 				"spell|18||Blood Presence||48266", -- [32]
-				"macro|33||Heal|Interface\\Icons\\Spell_Shadow_AnimateDead|#showtooltip/n/cast [@pet,dead][nopet]Raise Dead;Death Pact/n/use Fel Healthstone", -- [33]
-				nil, -- [34]
+				[76] = "spell|43||Army of the Dead||42650",
+				[36] = "item|40093||Indestructible Potion",
+				[38] = "spell|33||Icebound Fortitude||48792",
+				[44] = "spell|17||Blood Boil|Rank 4|49941",
+				[61] = "item|6948||Hearthstone",
+				[48] = "item|40211||Potion of Speed",
+				[37] = "spell|42||Anti-Magic Shell||48707",
+				[75] = "spell|21||Dark Command||56222",
+				[41] = "spell|31||Horn of Winter|Rank 2|57623",
+			},
+			["unholy_pve"] = {
+				"spell|19||Blood Strike|Rank 6|49930", -- [1]
+				"macro|2||Scourge|Interface\\Icons\\Spell_DeathKnight_ScourgeStrike|#showtooltip/n/cast Scourge Strike/n/use 10/n/startattack", -- [2]
+				"spell|43||Death Coil|Rank 5|49895", -- [3]
+				"spell|36||Rune Strike||56815", -- [4]
+				"spell|51||Summon Gargoyle||49206", -- [5]
+				nil, -- [6]
+				"item|22828||Insane Strength Potion", -- [7]
+				nil, -- [8]
+				"spell|46||Death Strike|Rank 5|49924", -- [9]
+				"spell|33||Mind Freeze||47528", -- [10]
+				"spell|24||Pestilence||50842", -- [11]
+				"spell|45||Death Grip||49576", -- [12]
+				"spell|38||Anti-Magic Shell||48707", -- [13]
+				"spell|41||Bone Shield||49222", -- [14]
+				"item|53125||Apocalypse's Advance", -- [15]
+				nil, -- [16]
+				nil, -- [17]
+				"spell|27||Empower Rune Weapon||47568", -- [18]
+				nil, -- [19]
+				"spell|20||Blood Tap||45529", -- [20]
+				"spell|25||Strangulate||47476", -- [21]
+				nil, -- [22]
+				nil, -- [23]
+				"companion|31||unholy_pve|MOUNT|72286", -- [24]
+				"spell|26||Chains of Ice||45524", -- [25]
+				"spell|47||Plague Strike|Rank 6|49921", -- [26]
+				"spell|32||Icy Touch|Rank 5|49909", -- [27]
+				"macro|28||Focus Strang|Interface\\Icons\\Spell_Shadow_SoulLeech_3|/cast [@focus, exists, nodead] [] Strangulate", -- [28]
+				"macro|29||Mind Freeze|Interface\\Icons\\Spell_DeathKnight_MindFreeze|/cast [@focus, exists, nodead] [] Mind Freeze", -- [29]
+				nil, -- [30]
+				"spell|42||Death and Decay|Rank 4|49938", -- [31]
+				"spell|18||Blood Presence||48266", -- [32]
+				"macro|33||Heal|Interface\\Icons\\Spell_Shadow_DeathPact|#showtooltip/n/cast [@pet,dead][nopet]Raise Dead;Death Pact/n/use Fel Healthstone", -- [33]
+				"macro|34||Callpet|Interface\\Icons\\Ability_Tracking|#showtooltip Track Beasts/n/petfollow", -- [34]
 				nil, -- [35]
-				nil, -- [36]
-				"spell|33||Icebound Fortitude||48792", -- [37]
-				nil, -- [38]
-				nil, -- [39]
+				"item|40211||Potion of Speed", -- [36]
+				"spell|5||Blood Fury|Racial|20572", -- [37]
+				"spell|31||Icebound Fortitude||48792", -- [38]
+				"macro|39||Presence Blood|Interface\\Icons\\Spell_Deathknight_BloodPresence|#showtooltip/n/cast Blood Presence/n/cast Frost Presence", -- [39]
 				nil, -- [40]
-				"spell|31||Horn of Winter|Rank 2|57623", -- [41]
+				"spell|30||Horn of Winter|Rank 2|57623", -- [41]
 				nil, -- [42]
-				nil, -- [43]
-				nil, -- [44]
-				"item|40093||Indestructible Potion", -- [45]
-				nil, -- [46]
+				"item|49278||Goblin Rocket Pack", -- [43]
+				"spell|17||Blood Boil|Rank 4|49941", -- [44]
+				"macro|45||Petattack|Interface\\Icons\\Ability_GhoulFrenzy|/petattack", -- [45]
+				"spell|21||Dark Command||56222", -- [46]
 				nil, -- [47]
-				"spell|38||Path of Frost||3714", -- [48]
-				"spell|3||Blacksmithing|Grand Master|51300", -- [49]
-				nil, -- [50]
-				"spell|47||Death Gate||50977", -- [51]
-				"item|6948||Hearthstone", -- [52]
-				[61] = "spell|8||Engineering|Grand Master|51306",
-				[63] = "spell|15||Runeforging||53428",
+				"spell|39||Army of the Dead||42650", -- [48]
+				"spell|44||Death Gate||50977", -- [49]
+				[57] = "spell|35||Path of Frost||3714",
+				[61] = "item|6948||Hearthstone",
+				[72] = "item|46377||Flask of Endless Rage",
+			},
+			["frost_pve"] = {
+				"spell|19||Blood Strike|Rank 6|49930", -- [1]
+				"spell|37||Obliterate|Rank 4|51425", -- [2]
+				"spell|30||Frost Strike|Rank 6|55268", -- [3]
+				"spell|32||Howling Blast|Rank 4|51411", -- [4]
+				nil, -- [5]
+				nil, -- [6]
+				nil, -- [7]
+				nil, -- [8]
+				"spell|49||Death Strike|Rank 5|49924", -- [9]
+				"spell|36||Mind Freeze||47528", -- [10]
+				"spell|24||Pestilence||50842", -- [11]
+				"spell|48||Death Grip||49576", -- [12]
+				"spell|41||Unbreakable Armor||51271", -- [13]
+				"spell|5||Blood Fury|Racial|20572", -- [14]
+				"item|50625||Grinning Skull Greatboots", -- [15]
+				nil, -- [16]
+				nil, -- [17]
+				"spell|27||Empower Rune Weapon||47568", -- [18]
+				"spell|39||Rune Strike||56815", -- [19]
+				"spell|20||Blood Tap||45529", -- [20]
+				nil, -- [21]
+				nil, -- [22]
+				nil, -- [23]
+				"companion|31||frost_pve|MOUNT|72286", -- [24]
+				"spell|46||Death Coil|Rank 5|49895", -- [25]
+				"spell|50||Plague Strike|Rank 6|49921", -- [26]
+				"spell|34||Icy Touch|Rank 5|49909", -- [27]
+				"spell|25||Strangulate||47476", -- [28]
+				"spell|26||Chains of Ice||45524", -- [29]
+				nil, -- [30]
+				"spell|45||Death and Decay|Rank 4|49938", -- [31]
+				"spell|18||Blood Presence||48266", -- [32]
+				[76] = "spell|43||Army of the Dead||42650",
+				[36] = "item|40093||Indestructible Potion",
+				[38] = "spell|33||Icebound Fortitude||48792",
+				[44] = "spell|17||Blood Boil|Rank 4|49941",
+				[61] = "item|6948||Hearthstone",
+				[48] = "item|40211||Potion of Speed",
+				[37] = "spell|42||Anti-Magic Shell||48707",
+				[75] = "spell|21||Dark Command||56222",
+				[41] = "spell|31||Horn of Winter|Rank 2|57623",
 			},
 			["grabuh2"] = {
 				"spell|24||Blood Strike|Rank 6|49930", -- [1]
@@ -336,61 +424,63 @@ ActionBarSaverDB = {
 		},
 		["PALADIN"] = {
 			["holy_pve"] = {
-				"spell|77||Holy Light|Rank 13|48782", -- [1]
-				"spell|59||Flash of Light|Rank 9|48785", -- [2]
-				"spell|103||Sacred Shield|Rank 1|53601", -- [3]
-				"spell|19||Beacon of Light||53563", -- [4]
+				"spell|74||Holy Light|Rank 13|48782", -- [1]
+				"spell|56||Flash of Light|Rank 9|48785", -- [2]
+				"spell|100||Sacred Shield|Rank 1|53601", -- [3]
+				"spell|16||Beacon of Light||53563", -- [4]
 				nil, -- [5]
 				nil, -- [6]
 				nil, -- [7]
 				nil, -- [8]
-				"spell|89||Holy Wrath|Rank 5|48817", -- [9]
-				"spell|38||Consecration|Rank 8|48819", -- [10]
-				"spell|159||Judgement of Light||20271", -- [11]
-				"spell|157||Hammer of Wrath|Rank 6|48806", -- [12]
-				"spell|121||Hammer of Justice|Rank 4|10308", -- [13]
+				"spell|86||Holy Wrath|Rank 5|48817", -- [9]
+				"spell|35||Consecration|Rank 8|48819", -- [10]
+				"spell|156||Judgement of Light||20271", -- [11]
+				"spell|154||Hammer of Wrath|Rank 6|48806", -- [12]
+				"spell|118||Hammer of Justice|Rank 4|10308", -- [13]
 				"macro|14||Cancelaura|Interface\\Icons\\spell_holy_powerwordbarrier|#showtooltip/n/cast Divine Sacrifice/n/cancelaura Divine Sacrifice", -- [14]
 				"item|54586||Foreshadow Steps", -- [15]
-				"spell|94||Lay on Hands|Rank 5|48788", -- [16]
+				"spell|91||Lay on Hands|Rank 5|48788", -- [16]
 				nil, -- [17]
-				"spell|112||Divine Protection||498", -- [18]
-				"spell|114||Divine Shield||642", -- [19]
-				"spell|158||Judgement of Justice||53407", -- [20]
-				"spell|160||Judgement of Wisdom||53408", -- [21]
+				"spell|109||Divine Protection||498", -- [18]
+				"spell|111||Divine Shield||642", -- [19]
+				"spell|155||Judgement of Justice||53407", -- [20]
+				"spell|157||Judgement of Wisdom||53408", -- [21]
 				nil, -- [22]
-				"companion|2||holy_pve|MOUNT|43927", -- [23]
-				"companion|3||holy_pve|MOUNT|23214", -- [24]
-				"spell|122||Hand of Freedom||1044", -- [25]
-				"spell|84||Holy Shock|Rank 7|48825", -- [26]
-				"spell|29||Cleanse||4987", -- [27]
-				"spell|127||Hand of Sacrifice||6940", -- [28]
-				"spell|128||Hand of Salvation||1038", -- [29]
+				"companion|3||holy_pve|MOUNT|43927", -- [23]
+				"companion|6||holy_pve|MOUNT|34767", -- [24]
+				"spell|119||Hand of Freedom||1044", -- [25]
+				"spell|81||Holy Shock|Rank 7|48825", -- [26]
+				"spell|26||Cleanse||4987", -- [27]
+				"spell|124||Hand of Sacrifice||6940", -- [28]
+				"spell|125||Hand of Salvation||1038", -- [29]
 				nil, -- [30]
-				"spell|125||Hand of Protection|Rank 3|10278", -- [31]
-				"spell|106||Seal of Wisdom||20166", -- [32]
+				"spell|122||Hand of Protection|Rank 3|10278", -- [31]
+				"spell|103||Seal of Wisdom||20166", -- [32]
 				"item|50650||Fallen Lord's Handguards", -- [33]
-				"spell|40||Divine Illumination||31842", -- [34]
+				"spell|37||Divine Illumination||31842", -- [34]
 				nil, -- [35]
-				"spell|104||Seal of Light||20165", -- [36]
-				"macro|37||Mana 2|Interface\\Icons\\Achievement_Dungeon_UlduarRaid_Misc_04|/use Meteorite Crystal/n/use Talisman of Resurgence/n/cast Divine Illumination", -- [37]
+				"spell|101||Seal of Light||20165", -- [36]
+				"macro|37||Mana 2|Interface\\Icons\\Achievement_Dungeon_UlduarRaid_Misc_04|/use Meteorite Crystal/n/cast Divine Illumination", -- [37]
 				"macro|38||Mana|Interface\\Icons\\Spell_Holy_AvengineWrath|/cast Avenging Wrath/n/cast Divine Plea", -- [38]
-				"spell|9||Every Man for Himself|Racial|59752", -- [39]
-				"spell|18||Aura Mastery||31821", -- [40]
-				"spell|41||Divine Plea||54428", -- [41]
+				"spell|2||Arcane Torrent|Racial|28730", -- [39]
+				"spell|15||Aura Mastery||31821", -- [40]
+				"spell|38||Divine Plea||54428", -- [41]
 				nil, -- [42]
 				"macro|43||All In|Interface\\Icons\\Spell_Holy_AvengineWrath|/cast Avenging Wrath/n/cast Talisman of Resurgence/n/cast Divine Illumination/n/use 10", -- [43]
-				"spell|109||Blessing of Kings||20217", -- [44]
-				"spell|126||Hand of Reckoning||62124", -- [45]
-				"spell|108||Turn Evil||10326", -- [46]
+				"spell|106||Blessing of Kings||20217", -- [44]
+				"spell|123||Hand of Reckoning||62124", -- [45]
+				"spell|105||Turn Evil||10326", -- [46]
 				nil, -- [47]
 				"item|42545||Runic Mana Injector", -- [48]
-				[70] = "spell|64||Greater Blessing of Wisdom|Rank 5|48938",
-				[72] = "spell|117||Greater Blessing of Kings||25898",
-				[58] = "spell|28||Blessing of Wisdom|Rank 9|48936",
-				[59] = "spell|145||Blessing of Might|Rank 10|48932",
-				[60] = "spell|109||Blessing of Kings||20217",
-				[61] = "spell|111||Divine Intervention||19752",
-				[71] = "spell|151||Greater Blessing of Might|Rank 5|48934",
+				[60] = "spell|106||Blessing of Kings||20217",
+				[65] = "item|33445||Honeymint Tea",
+				[53] = "macro|53||JC|Interface\\Icons\\INV_Misc_Gem_02|#showtooltip Jewelcrafting/n/cast Jewelcrafting/n/run for i=1,GetNumTradeSkills() do if GetTradeSkillInfo(i)==\"Icy Prism\" then CloseTradeSkill() DoTradeSkill(i) break end end/n/use Icy Prism/n/script OpenAllBags();",
+				[59] = "spell|142||Blessing of Might|Rank 10|48932",
+				[61] = "spell|108||Divine Intervention||19752",
+				[71] = "spell|148||Greater Blessing of Might|Rank 5|48934",
+				[70] = "spell|61||Greater Blessing of Wisdom|Rank 5|48938",
+				[58] = "spell|25||Blessing of Wisdom|Rank 9|48936",
+				[72] = "spell|114||Greater Blessing of Kings||25898",
 			},
 			["itadoritank1"] = {
 				"spell|129||Holy Shield|Rank 6|48952", -- [1]
@@ -588,61 +678,63 @@ ActionBarSaverDB = {
 				[70] = "spell|61||Greater Blessing of Wisdom|Rank 5|48938",
 			},
 			["holy_pve_yedek"] = {
-				"spell|77||Holy Light|Rank 13|48782", -- [1]
-				"spell|59||Flash of Light|Rank 9|48785", -- [2]
-				"spell|103||Sacred Shield|Rank 1|53601", -- [3]
-				"spell|19||Beacon of Light||53563", -- [4]
+				"spell|74||Holy Light|Rank 13|48782", -- [1]
+				"spell|56||Flash of Light|Rank 9|48785", -- [2]
+				"spell|100||Sacred Shield|Rank 1|53601", -- [3]
+				"spell|16||Beacon of Light||53563", -- [4]
 				nil, -- [5]
 				nil, -- [6]
 				nil, -- [7]
 				nil, -- [8]
-				"spell|89||Holy Wrath|Rank 5|48817", -- [9]
-				"spell|38||Consecration|Rank 8|48819", -- [10]
-				"spell|159||Judgement of Light||20271", -- [11]
-				"spell|157||Hammer of Wrath|Rank 6|48806", -- [12]
-				"spell|121||Hammer of Justice|Rank 4|10308", -- [13]
+				"spell|86||Holy Wrath|Rank 5|48817", -- [9]
+				"spell|35||Consecration|Rank 8|48819", -- [10]
+				"spell|156||Judgement of Light||20271", -- [11]
+				"spell|154||Hammer of Wrath|Rank 6|48806", -- [12]
+				"spell|118||Hammer of Justice|Rank 4|10308", -- [13]
 				"macro|14||Cancelaura|Interface\\Icons\\spell_holy_powerwordbarrier|#showtooltip/n/cast Divine Sacrifice/n/cancelaura Divine Sacrifice", -- [14]
 				"item|54586||Foreshadow Steps", -- [15]
-				"spell|94||Lay on Hands|Rank 5|48788", -- [16]
+				"spell|91||Lay on Hands|Rank 5|48788", -- [16]
 				nil, -- [17]
-				"spell|112||Divine Protection||498", -- [18]
-				"spell|114||Divine Shield||642", -- [19]
-				"spell|158||Judgement of Justice||53407", -- [20]
-				"spell|160||Judgement of Wisdom||53408", -- [21]
+				"spell|109||Divine Protection||498", -- [18]
+				"spell|111||Divine Shield||642", -- [19]
+				"spell|155||Judgement of Justice||53407", -- [20]
+				"spell|157||Judgement of Wisdom||53408", -- [21]
 				nil, -- [22]
-				"companion|2||holy_pve_yedek|MOUNT|43927", -- [23]
-				"companion|3||holy_pve_yedek|MOUNT|23214", -- [24]
-				"spell|122||Hand of Freedom||1044", -- [25]
-				"spell|84||Holy Shock|Rank 7|48825", -- [26]
-				"spell|29||Cleanse||4987", -- [27]
-				"spell|127||Hand of Sacrifice||6940", -- [28]
-				"spell|128||Hand of Salvation||1038", -- [29]
+				"companion|3||holy_pve_yedek|MOUNT|43927", -- [23]
+				"companion|6||holy_pve_yedek|MOUNT|34767", -- [24]
+				"spell|119||Hand of Freedom||1044", -- [25]
+				"spell|81||Holy Shock|Rank 7|48825", -- [26]
+				"spell|26||Cleanse||4987", -- [27]
+				"spell|124||Hand of Sacrifice||6940", -- [28]
+				"spell|125||Hand of Salvation||1038", -- [29]
 				nil, -- [30]
-				"spell|125||Hand of Protection|Rank 3|10278", -- [31]
-				"spell|106||Seal of Wisdom||20166", -- [32]
+				"spell|122||Hand of Protection|Rank 3|10278", -- [31]
+				"spell|103||Seal of Wisdom||20166", -- [32]
 				"item|50650||Fallen Lord's Handguards", -- [33]
-				"spell|40||Divine Illumination||31842", -- [34]
+				"spell|37||Divine Illumination||31842", -- [34]
 				nil, -- [35]
-				"spell|104||Seal of Light||20165", -- [36]
-				"macro|37||Mana 2|Interface\\Icons\\Achievement_Dungeon_UlduarRaid_Misc_04|/use Meteorite Crystal/n/use Talisman of Resurgence/n/cast Divine Illumination", -- [37]
+				"spell|101||Seal of Light||20165", -- [36]
+				"macro|37||Mana 2|Interface\\Icons\\Achievement_Dungeon_UlduarRaid_Misc_04|/use Meteorite Crystal/n/cast Divine Illumination", -- [37]
 				"macro|38||Mana|Interface\\Icons\\Spell_Holy_AvengineWrath|/cast Avenging Wrath/n/cast Divine Plea", -- [38]
-				"spell|9||Every Man for Himself|Racial|59752", -- [39]
-				"spell|18||Aura Mastery||31821", -- [40]
-				"spell|41||Divine Plea||54428", -- [41]
+				"spell|2||Arcane Torrent|Racial|28730", -- [39]
+				"spell|15||Aura Mastery||31821", -- [40]
+				"spell|38||Divine Plea||54428", -- [41]
 				nil, -- [42]
 				"macro|43||All In|Interface\\Icons\\Spell_Holy_AvengineWrath|/cast Avenging Wrath/n/cast Talisman of Resurgence/n/cast Divine Illumination/n/use 10", -- [43]
-				"spell|109||Blessing of Kings||20217", -- [44]
-				"spell|126||Hand of Reckoning||62124", -- [45]
-				"spell|108||Turn Evil||10326", -- [46]
+				"spell|106||Blessing of Kings||20217", -- [44]
+				"spell|123||Hand of Reckoning||62124", -- [45]
+				"spell|105||Turn Evil||10326", -- [46]
 				nil, -- [47]
 				"item|42545||Runic Mana Injector", -- [48]
-				[70] = "spell|64||Greater Blessing of Wisdom|Rank 5|48938",
-				[72] = "spell|117||Greater Blessing of Kings||25898",
-				[58] = "spell|28||Blessing of Wisdom|Rank 9|48936",
-				[59] = "spell|145||Blessing of Might|Rank 10|48932",
-				[60] = "spell|109||Blessing of Kings||20217",
-				[61] = "spell|111||Divine Intervention||19752",
-				[71] = "spell|151||Greater Blessing of Might|Rank 5|48934",
+				[60] = "spell|106||Blessing of Kings||20217",
+				[65] = "item|33445||Honeymint Tea",
+				[53] = "macro|53||JC|Interface\\Icons\\INV_Misc_Gem_02|#showtooltip Jewelcrafting/n/cast Jewelcrafting/n/run for i=1,GetNumTradeSkills() do if GetTradeSkillInfo(i)==\"Icy Prism\" then CloseTradeSkill() DoTradeSkill(i) break end end/n/use Icy Prism/n/script OpenAllBags();",
+				[59] = "spell|142||Blessing of Might|Rank 10|48932",
+				[61] = "spell|108||Divine Intervention||19752",
+				[71] = "spell|148||Greater Blessing of Might|Rank 5|48934",
+				[70] = "spell|61||Greater Blessing of Wisdom|Rank 5|48938",
+				[58] = "spell|25||Blessing of Wisdom|Rank 9|48936",
+				[72] = "spell|114||Greater Blessing of Kings||25898",
 			},
 		},
 		["MAGE"] = {
@@ -716,7 +808,90 @@ ActionBarSaverDB = {
 				[71] = "item|43569||Endless Healing Potion",
 				[66] = "spell|79||Conjure Refreshment|Rank 2|42956",
 			},
+			["portalmeister"] = {
+				"spell|120||Portal: Dalaran||53142", -- [1]
+				"spell|121||Portal: Darnassus||11419", -- [2]
+				"spell|122||Portal: Exodar||32266", -- [3]
+				"spell|123||Portal: Ironforge||11416", -- [4]
+				"spell|124||Portal: Shattrath||33691", -- [5]
+				"spell|125||Portal: Stormwind||10059", -- [6]
+				"spell|126||Portal: Theramore||49360", -- [7]
+				[24] = "companion|12||portalmeister|MOUNT|72286",
+			},
 			["fire_pve"] = {
+				"spell|171||Fireball|Rank 16|42833", -- [1]
+				"item|51280||Sanctified Bloodmage Gloves", -- [2]
+				"spell|200||Pyroblast|Rank 12|42891", -- [3]
+				"spell|137||Combustion||11129", -- [4]
+				"macro|5||CD|Interface\\Icons\\Spell_Magic_LesserInvisibilty|/cast Mirror Image/n/cast Berserking", -- [5]
+				nil, -- [6]
+				"item|22788||Flame Cap", -- [7]
+				nil, -- [8]
+				"spell|237||Frost Nova|Rank 6|42917", -- [9]
+				"spell|61||Blink||1953", -- [10]
+				"spell|185||Living Bomb|Rank 3|55360", -- [11]
+				"spell|148||Fire Blast|Rank 11|42873", -- [12]
+				"spell|180||Flamestrike|Rank 9|42926", -- [13]
+				"macro|14||Rank 8|Interface\\Icons\\Spell_Fire_SelfDestruct|/cast Flamestrike(Rank 8)", -- [14]
+				"item|50699||Plague Scientist's Boots", -- [15]
+				"spell|112||Mana Shield|Rank 9|43020", -- [16]
+				nil, -- [17]
+				"spell|260||Frostbolt|Rank 16|42842", -- [18]
+				"spell|211||Scorch|Rank 11|42859", -- [19]
+				"spell|155||Fire Ward|Rank 7|43010", -- [20]
+				"spell|244||Frost Ward|Rank 7|43012", -- [21]
+				nil, -- [22]
+				"spell|128||Slow Fall||130", -- [23]
+				"companion|8||fire_pve|MOUNT|72286", -- [24]
+				"macro|25||PI|Interface\\Icons\\Spell_Holy_PowerInfusion|/w Quidisc Power Infusion/n/p Power Infusion Please", -- [25]
+				"spell|125||Remove Curse||475", -- [26]
+				"spell|129||Spellsteal||30449", -- [27]
+				"macro|28||Focus|Interface\\Icons\\Spell_Frost_IceShock|/cast [@focus, exists, nodead] [] Counterspell", -- [28]
+				"spell|220||Blizzard|Rank 9|42940", -- [29]
+				nil, -- [30]
+				"spell|40||Arcane Explosion|Rank 10|42921", -- [31]
+				"spell|188||Molten Armor|Rank 3|43046", -- [32]
+				"spell|270||Ice Lance|Rank 3|42914", -- [33]
+				"spell|228||Cone of Cold|Rank 8|42931", -- [34]
+				nil, -- [35]
+				"item|38466||Sulfuron Slammer", -- [36]
+				"spell|95||Evocation||12051", -- [37]
+				"macro|38||Ice|Interface\\Icons\\Spell_Frost_Frost|/cast Ice Block/n/cancelaura Ice Block", -- [38]
+				"spell|4||Berserking|Racial|26297", -- [39]
+				"item|36892||Fel Healthstone", -- [40]
+				"item|33312||Mana Sapphire", -- [41]
+				nil, -- [42]
+				"macro|43||Sheep|Interface\\Icons\\Spell_Nature_Polymorph|/cast [@focus, exists, nodead] [] Polymorph", -- [43]
+				"spell|47||Arcane Intellect|Rank 7|42995", -- [44]
+				"spell|96||Focus Magic||54646", -- [45]
+				"spell|97||Invisibility||66", -- [46]
+				nil, -- [47]
+				"spell|30||Arcane Brilliance|Rank 3|43002", -- [48]
+				nil, -- [49]
+				nil, -- [50]
+				nil, -- [51]
+				"spell|94||Dampen Magic|Rank 7|43015", -- [52]
+				nil, -- [53]
+				nil, -- [54]
+				"item|43523||Conjured Mana Strudel", -- [55]
+				nil, -- [56]
+				nil, -- [57]
+				nil, -- [58]
+				"item|47499||Flask of the North", -- [59]
+				"spell|127||Ritual of Refreshment|Rank 2|58659", -- [60]
+				"spell|118||Portal: Dalaran||53142", -- [61]
+				nil, -- [62]
+				nil, -- [63]
+				"spell|23||Amplify Magic|Rank 7|43017", -- [64]
+				"spell|130||Teleport: Dalaran||53140", -- [65]
+				nil, -- [66]
+				"spell|77||Conjure Refreshment|Rank 2|42956", -- [67]
+				[71] = "item|43569||Endless Healing Potion",
+				[72] = "spell|75||Conjure Mana Gem|Rank 6|42985",
+				[73] = "item|40212||Potion of Wild Magic",
+				[75] = "item|40211||Potion of Speed",
+			},
+			["mage_pve_yedek"] = {
 				"spell|171||Fireball|Rank 16|42833", -- [1]
 				"item|51280||Sanctified Bloodmage Gloves", -- [2]
 				"spell|200||Pyroblast|Rank 12|42891", -- [3]
@@ -740,7 +915,7 @@ ActionBarSaverDB = {
 				"spell|244||Frost Ward|Rank 7|43012", -- [21]
 				nil, -- [22]
 				"spell|128||Slow Fall||130", -- [23]
-				"companion|12||fire_pve|MOUNT|72286", -- [24]
+				"companion|8||mage_pve_yedek|MOUNT|72286", -- [24]
 				"macro|25||PI|Interface\\Icons\\Spell_Holy_PowerInfusion|/w Blanna Power Infusion", -- [25]
 				"macro|26||Salvation|Interface\\Icons\\Spell_Holy_GreaterBlessingofSalvation|Salvation Me Please!", -- [26]
 				"spell|129||Spellsteal||30449", -- [27]
@@ -755,7 +930,7 @@ ActionBarSaverDB = {
 				"item|38466||Sulfuron Slammer", -- [36]
 				"spell|95||Evocation||12051", -- [37]
 				"macro|38||Ice|Interface\\Icons\\Spell_Frost_Frost|/cast Ice Block/n/cancelaura Ice Block", -- [38]
-				"spell|8||Every Man for Himself|Racial|59752", -- [39]
+				"spell|4||Berserking|Racial|26297", -- [39]
 				"item|36892||Fel Healthstone", -- [40]
 				"item|33312||Mana Sapphire", -- [41]
 				nil, -- [42]
@@ -765,11 +940,11 @@ ActionBarSaverDB = {
 				"spell|97||Invisibility||66", -- [46]
 				nil, -- [47]
 				"spell|30||Arcane Brilliance|Rank 3|43002", -- [48]
-				"spell|123||Portal: Stormwind||10059", -- [49]
+				nil, -- [49]
 				nil, -- [50]
 				nil, -- [51]
 				"spell|94||Dampen Magic|Rank 7|43015", -- [52]
-				"spell|135||Teleport: Stormwind||3561", -- [53]
+				nil, -- [53]
 				nil, -- [54]
 				"item|43523||Conjured Mana Strudel", -- [55]
 				nil, -- [56]
@@ -789,10 +964,82 @@ ActionBarSaverDB = {
 				nil, -- [70]
 				"item|43569||Endless Healing Potion", -- [71]
 				"spell|75||Conjure Mana Gem|Rank 6|42985", -- [72]
-				"item|43570||Endless Mana Potion", -- [73]
-				"item|40211||Potion of Speed", -- [74]
-				"item|40212||Potion of Wild Magic", -- [75]
-				"spell|125||Remove Curse||475", -- [76]
+				[75] = "item|40212||Potion of Wild Magic",
+				[76] = "spell|125||Remove Curse||475",
+				[74] = "item|40211||Potion of Speed",
+			},
+			["fire_pve_yede"] = {
+				"spell|171||Fireball|Rank 16|42833", -- [1]
+				"item|51280||Sanctified Bloodmage Gloves", -- [2]
+				"spell|200||Pyroblast|Rank 12|42891", -- [3]
+				"spell|137||Combustion||11129", -- [4]
+				"macro|5||CD|Interface\\Icons\\Spell_Magic_LesserInvisibilty|/cast Mirror Image/n/cast Berserking", -- [5]
+				nil, -- [6]
+				"item|22788||Flame Cap", -- [7]
+				nil, -- [8]
+				"spell|237||Frost Nova|Rank 6|42917", -- [9]
+				"spell|61||Blink||1953", -- [10]
+				"spell|185||Living Bomb|Rank 3|55360", -- [11]
+				"spell|148||Fire Blast|Rank 11|42873", -- [12]
+				"spell|180||Flamestrike|Rank 9|42926", -- [13]
+				"macro|14||Rank 8|Interface\\Icons\\Spell_Fire_SelfDestruct|/cast Flamestrike(Rank 8)", -- [14]
+				"item|50699||Plague Scientist's Boots", -- [15]
+				"spell|112||Mana Shield|Rank 9|43020", -- [16]
+				nil, -- [17]
+				"spell|260||Frostbolt|Rank 16|42842", -- [18]
+				"spell|211||Scorch|Rank 11|42859", -- [19]
+				"spell|155||Fire Ward|Rank 7|43010", -- [20]
+				"spell|244||Frost Ward|Rank 7|43012", -- [21]
+				nil, -- [22]
+				"spell|128||Slow Fall||130", -- [23]
+				"companion|8||fire_pve_yede|MOUNT|72286", -- [24]
+				"macro|25||PI|Interface\\Icons\\Spell_Holy_PowerInfusion|/w Quidisc Power Infusion/n/p Power Infusion Please", -- [25]
+				"spell|125||Remove Curse||475", -- [26]
+				"spell|129||Spellsteal||30449", -- [27]
+				"macro|28||Focus|Interface\\Icons\\Spell_Frost_IceShock|/cast [@focus, exists, nodead] [] Counterspell", -- [28]
+				"spell|220||Blizzard|Rank 9|42940", -- [29]
+				nil, -- [30]
+				"spell|40||Arcane Explosion|Rank 10|42921", -- [31]
+				"spell|188||Molten Armor|Rank 3|43046", -- [32]
+				"spell|270||Ice Lance|Rank 3|42914", -- [33]
+				"spell|228||Cone of Cold|Rank 8|42931", -- [34]
+				nil, -- [35]
+				"item|38466||Sulfuron Slammer", -- [36]
+				"spell|95||Evocation||12051", -- [37]
+				"macro|38||Ice|Interface\\Icons\\Spell_Frost_Frost|/cast Ice Block/n/cancelaura Ice Block", -- [38]
+				"spell|4||Berserking|Racial|26297", -- [39]
+				"item|36892||Fel Healthstone", -- [40]
+				"item|33312||Mana Sapphire", -- [41]
+				nil, -- [42]
+				"macro|43||Sheep|Interface\\Icons\\Spell_Nature_Polymorph|/cast [@focus, exists, nodead] [] Polymorph", -- [43]
+				"spell|47||Arcane Intellect|Rank 7|42995", -- [44]
+				"spell|96||Focus Magic||54646", -- [45]
+				"spell|97||Invisibility||66", -- [46]
+				nil, -- [47]
+				"spell|30||Arcane Brilliance|Rank 3|43002", -- [48]
+				nil, -- [49]
+				nil, -- [50]
+				nil, -- [51]
+				"spell|94||Dampen Magic|Rank 7|43015", -- [52]
+				nil, -- [53]
+				nil, -- [54]
+				"item|43523||Conjured Mana Strudel", -- [55]
+				nil, -- [56]
+				nil, -- [57]
+				nil, -- [58]
+				"item|47499||Flask of the North", -- [59]
+				"spell|127||Ritual of Refreshment|Rank 2|58659", -- [60]
+				"spell|118||Portal: Dalaran||53142", -- [61]
+				nil, -- [62]
+				nil, -- [63]
+				"spell|23||Amplify Magic|Rank 7|43017", -- [64]
+				"spell|130||Teleport: Dalaran||53140", -- [65]
+				nil, -- [66]
+				"spell|77||Conjure Refreshment|Rank 2|42956", -- [67]
+				[71] = "item|43569||Endless Healing Potion",
+				[72] = "spell|75||Conjure Mana Gem|Rank 6|42985",
+				[73] = "item|40212||Potion of Wild Magic",
+				[75] = "item|40211||Potion of Speed",
 			},
 			["mage_pvp"] = {
 				"spell|248||Frostbolt|Rank 16|42842", -- [1]
@@ -871,6 +1118,79 @@ ActionBarSaverDB = {
 				"item|51280||Sanctified Bloodmage Gloves", -- [2]
 				"spell|200||Pyroblast|Rank 12|42891", -- [3]
 				"spell|137||Combustion||11129", -- [4]
+				"macro|5||CD|Interface\\Icons\\Spell_Magic_LesserInvisibilty|/cast Mirror Image/n/cast Berserking", -- [5]
+				nil, -- [6]
+				"item|22788||Flame Cap", -- [7]
+				nil, -- [8]
+				"spell|237||Frost Nova|Rank 6|42917", -- [9]
+				"spell|61||Blink||1953", -- [10]
+				"spell|185||Living Bomb|Rank 3|55360", -- [11]
+				"spell|148||Fire Blast|Rank 11|42873", -- [12]
+				"spell|180||Flamestrike|Rank 9|42926", -- [13]
+				"macro|14||Rank 8|Interface\\Icons\\Spell_Fire_SelfDestruct|/cast Flamestrike(Rank 8)", -- [14]
+				"item|50699||Plague Scientist's Boots", -- [15]
+				"spell|112||Mana Shield|Rank 9|43020", -- [16]
+				nil, -- [17]
+				"spell|260||Frostbolt|Rank 16|42842", -- [18]
+				"spell|211||Scorch|Rank 11|42859", -- [19]
+				"spell|155||Fire Ward|Rank 7|43010", -- [20]
+				"spell|244||Frost Ward|Rank 7|43012", -- [21]
+				nil, -- [22]
+				"spell|128||Slow Fall||130", -- [23]
+				"companion|8||fire_pve_yedek|MOUNT|72286", -- [24]
+				"macro|25||PI|Interface\\Icons\\Spell_Holy_PowerInfusion|/w Quidisc Power Infusion/n/p Power Infusion Please", -- [25]
+				"spell|125||Remove Curse||475", -- [26]
+				"spell|129||Spellsteal||30449", -- [27]
+				"macro|28||Focus|Interface\\Icons\\Spell_Frost_IceShock|/cast [@focus, exists, nodead] [] Counterspell", -- [28]
+				"spell|220||Blizzard|Rank 9|42940", -- [29]
+				nil, -- [30]
+				"spell|40||Arcane Explosion|Rank 10|42921", -- [31]
+				"spell|188||Molten Armor|Rank 3|43046", -- [32]
+				"spell|270||Ice Lance|Rank 3|42914", -- [33]
+				"spell|228||Cone of Cold|Rank 8|42931", -- [34]
+				nil, -- [35]
+				"item|38466||Sulfuron Slammer", -- [36]
+				"spell|95||Evocation||12051", -- [37]
+				"macro|38||Ice|Interface\\Icons\\Spell_Frost_Frost|/cast Ice Block/n/cancelaura Ice Block", -- [38]
+				"spell|4||Berserking|Racial|26297", -- [39]
+				"item|36892||Fel Healthstone", -- [40]
+				"item|33312||Mana Sapphire", -- [41]
+				nil, -- [42]
+				"macro|43||Sheep|Interface\\Icons\\Spell_Nature_Polymorph|/cast [@focus, exists, nodead] [] Polymorph", -- [43]
+				"spell|47||Arcane Intellect|Rank 7|42995", -- [44]
+				"spell|96||Focus Magic||54646", -- [45]
+				"spell|97||Invisibility||66", -- [46]
+				nil, -- [47]
+				"spell|30||Arcane Brilliance|Rank 3|43002", -- [48]
+				nil, -- [49]
+				nil, -- [50]
+				nil, -- [51]
+				"spell|94||Dampen Magic|Rank 7|43015", -- [52]
+				nil, -- [53]
+				nil, -- [54]
+				"item|43523||Conjured Mana Strudel", -- [55]
+				nil, -- [56]
+				nil, -- [57]
+				nil, -- [58]
+				"item|47499||Flask of the North", -- [59]
+				"spell|127||Ritual of Refreshment|Rank 2|58659", -- [60]
+				"spell|118||Portal: Dalaran||53142", -- [61]
+				nil, -- [62]
+				nil, -- [63]
+				"spell|23||Amplify Magic|Rank 7|43017", -- [64]
+				"spell|130||Teleport: Dalaran||53140", -- [65]
+				nil, -- [66]
+				"spell|77||Conjure Refreshment|Rank 2|42956", -- [67]
+				[71] = "item|43569||Endless Healing Potion",
+				[72] = "spell|75||Conjure Mana Gem|Rank 6|42985",
+				[73] = "item|40212||Potion of Wild Magic",
+				[75] = "item|40211||Potion of Speed",
+			},
+			["mage_pve"] = {
+				"spell|171||Fireball|Rank 16|42833", -- [1]
+				"item|51280||Sanctified Bloodmage Gloves", -- [2]
+				"spell|200||Pyroblast|Rank 12|42891", -- [3]
+				"spell|137||Combustion||11129", -- [4]
 				"spell|113||Mirror Image||55342", -- [5]
 				nil, -- [6]
 				"item|22788||Flame Cap", -- [7]
@@ -890,7 +1210,7 @@ ActionBarSaverDB = {
 				"spell|244||Frost Ward|Rank 7|43012", -- [21]
 				nil, -- [22]
 				"spell|128||Slow Fall||130", -- [23]
-				"companion|12||fire_pve_yedek|MOUNT|72286", -- [24]
+				"companion|8||mage_pve|MOUNT|72286", -- [24]
 				"macro|25||PI|Interface\\Icons\\Spell_Holy_PowerInfusion|/w Blanna Power Infusion", -- [25]
 				"macro|26||Salvation|Interface\\Icons\\Spell_Holy_GreaterBlessingofSalvation|Salvation Me Please!", -- [26]
 				"spell|129||Spellsteal||30449", -- [27]
@@ -905,7 +1225,7 @@ ActionBarSaverDB = {
 				"item|38466||Sulfuron Slammer", -- [36]
 				"spell|95||Evocation||12051", -- [37]
 				"macro|38||Ice|Interface\\Icons\\Spell_Frost_Frost|/cast Ice Block/n/cancelaura Ice Block", -- [38]
-				"spell|8||Every Man for Himself|Racial|59752", -- [39]
+				"spell|4||Berserking|Racial|26297", -- [39]
 				"item|36892||Fel Healthstone", -- [40]
 				"item|33312||Mana Sapphire", -- [41]
 				nil, -- [42]
@@ -915,11 +1235,11 @@ ActionBarSaverDB = {
 				"spell|97||Invisibility||66", -- [46]
 				nil, -- [47]
 				"spell|30||Arcane Brilliance|Rank 3|43002", -- [48]
-				"spell|123||Portal: Stormwind||10059", -- [49]
+				nil, -- [49]
 				nil, -- [50]
 				nil, -- [51]
 				"spell|94||Dampen Magic|Rank 7|43015", -- [52]
-				"spell|135||Teleport: Stormwind||3561", -- [53]
+				nil, -- [53]
 				nil, -- [54]
 				"item|43523||Conjured Mana Strudel", -- [55]
 				nil, -- [56]
@@ -939,20 +1259,9 @@ ActionBarSaverDB = {
 				nil, -- [70]
 				"item|43569||Endless Healing Potion", -- [71]
 				"spell|75||Conjure Mana Gem|Rank 6|42985", -- [72]
-				"item|43570||Endless Mana Potion", -- [73]
-				"item|40211||Potion of Speed", -- [74]
-				"item|40212||Potion of Wild Magic", -- [75]
-				"spell|125||Remove Curse||475", -- [76]
-			},
-			["portalmeister"] = {
-				"spell|120||Portal: Dalaran||53142", -- [1]
-				"spell|121||Portal: Darnassus||11419", -- [2]
-				"spell|122||Portal: Exodar||32266", -- [3]
-				"spell|123||Portal: Ironforge||11416", -- [4]
-				"spell|124||Portal: Shattrath||33691", -- [5]
-				"spell|125||Portal: Stormwind||10059", -- [6]
-				"spell|126||Portal: Theramore||49360", -- [7]
-				[24] = "companion|12||portalmeister|MOUNT|72286",
+				[75] = "item|40212||Potion of Wild Magic",
+				[76] = "spell|125||Remove Curse||475",
+				[74] = "item|40211||Potion of Speed",
 			},
 		},
 		["PRIEST"] = {
@@ -1076,79 +1385,79 @@ ActionBarSaverDB = {
 			},
 		},
 		["WARLOCK"] = {
-			["warlock_pve"] = {
-				"macro|1||Demo|Interface\\Icons\\Spell_Shadow_ShadowBolt|#showtooltip Shadow Bolt(Rank 13)/n/cast Shadow Cleave(Demon)/n/cast Shadow Bolt(Rank 13)/n/cast Demonic Empowerment/n/use Sanctified Dark Coven Gloves/n/petattack", -- [1]
-				"spell|194||Immolate|Rank 11|47811", -- [2]
-				"spell|198||Incinerate|Rank 4|47838", -- [3]
+			["demonology_pve"] = {
+				"macro|1||Demo|Interface\\Icons\\Spell_Shadow_ShadowBolt|#showtooltip Shadow Bolt(Rank 13)/n/cast Shadow Cleave(Demon)/n/cast Shadow Bolt(Rank 13)/n/cast Demonic Empowerment/n/use 10", -- [1]
+				"spell|193||Immolate|Rank 11|47811", -- [2]
+				"macro|3||Incinerate|Interface\\Icons\\Spell_Fire_Burnout|#showtooltip Incinerate/n/cast Shadow Cleave(Demon)/n/cast Incinerate/n/cast Demonic Empowerment/n/use 10", -- [3]
 				"macro|4||Soul Fire|Interface\\Icons\\Spell_Fire_Fireball02|#showtooltip Soul Fire(Rank 6)/n/cast Shadow Cleave(Demon)/n/cast Soul Fire(Rank 6)/n/cast Demonic Empowerment/n/use 10", -- [4]
-				nil, -- [5]
+				"spell|4||Blood Fury|Racial|33702", -- [5]
 				nil, -- [6]
-				"spell|96||Challenging Howl|Demon|59671", -- [7]
+				"item|22788||Flame Cap", -- [7]
 				nil, -- [8]
-				"spell|82||Howl of Terror|Rank 2|17928", -- [9]
-				"spell|230||Shadowflame|Rank 2|61290", -- [10]
-				"spell|27||Corruption|Rank 10|47813", -- [11]
-				"spell|39||Curse of Doom|Rank 3|47867", -- [12]
-				"spell|80||Fear|Rank 3|6215", -- [13]
-				"spell|133||Demon Charge|Demon|54785", -- [14]
-				"spell|165||Shadow Cleave|Demon|50581", -- [15]
+				"spell|92||Seed of Corruption|Rank 3|47836", -- [9]
+				"spell|229||Shadowflame|Rank 2|61290", -- [10]
+				"spell|26||Corruption|Rank 10|47813", -- [11]
+				"spell|38||Curse of Doom|Rank 3|47867", -- [12]
+				"spell|79||Fear|Rank 3|6215", -- [13]
+				"spell|132||Demon Charge|Demon|54785", -- [14]
+				"item|50699||Plague Scientist's Boots", -- [15]
 				nil, -- [16]
 				nil, -- [17]
-				"macro|18||Seed|Interface\\Icons\\Spell_Shadow_SeedOfDestruction|/targetenemy/n/cast Seed of Corruption", -- [18]
-				"macro|19||Pet Attack|Interface\\Icons\\Spell_Shadow_SummonImp|/petattack", -- [19]
-				"spell|55||Curse of Weakness|Rank 9|50511", -- [20]
-				"spell|44||Curse of the Elements|Rank 5|47865", -- [21]
+				"spell|43||Curse of the Elements|Rank 5|47865", -- [18]
+				"macro|19||Rank 1|Interface\\Icons\\Spell_Shadow_ShadowBolt|/cast Shadow Bolt(Rank 1)", -- [19]
+				"spell|54||Curse of Weakness|Rank 9|50511", -- [20]
+				"spell|45||Curse of Tongues|Rank 2|11719", -- [21]
 				nil, -- [22]
-				"companion|5||warlock_pve|MOUNT|72808", -- [23]
-				"companion|1||warlock_pve|MOUNT|43688", -- [24]
-				"spell|90||Life Tap|Rank 8|57946", -- [25]
-				"spell|137||Demonic Circle: Teleport||48020", -- [26]
-				"spell|77||Drain Soul|Rank 6|47855", -- [27]
-				"spell|61||Death Coil|Rank 6|47860", -- [28]
-				"spell|95||Banish|Rank 2|18647", -- [29]
+				nil, -- [23]
+				"companion|14||demonology_pve|MOUNT|72286", -- [24]
+				"spell|89||Life Tap|Rank 8|57946", -- [25]
+				"spell|136||Demonic Circle: Teleport||48020", -- [26]
+				"macro|27||Follow|Interface\\Icons\\Ability_Tracking|/petfollow", -- [27]
+				"spell|76||Drain Soul|Rank 6|47855", -- [28]
+				"spell|182||Hellfire|Rank 5|47823", -- [29]
 				nil, -- [30]
-				"spell|205||Rain of Fire|Rank 7|47820", -- [31]
-				"macro|32||Armor|Interface\\Icons\\Spell_Shadow_RagingScream|/castsequence Fel Armor, Demon Armor", -- [32]
-				"spell|173||Soulshatter||29858", -- [33]
-				"macro|34||Follow|Interface\\Icons\\Ability_Creature_Poison_06|/petfollow", -- [34]
+				"spell|94||Banish|Rank 2|18647", -- [31]
+				"spell|158||Immolation Aura|Demon|50589", -- [32]
+				"spell|172||Soulshatter||29858", -- [33]
+				"spell|60||Death Coil|Rank 6|47860", -- [34]
 				nil, -- [35]
-				"spell|172||Soul Link||19028", -- [36]
+				"item|40212||Potion of Wild Magic", -- [36]
 				"macro|37||Demo|Interface\\Icons\\Spell_Shadow_DemonForm|#showtooltip Metamorphosis/n/cast Metamorphosis/n/cast Immolation Aura(Demon)/n/cast Blood Fury(Racial)/n/use 10", -- [37]
-				"spell|136||Demonic Circle: Summon||48018", -- [38]
-				"spell|171||Shadow Ward|Rank 6|47891", -- [39]
+				"spell|135||Demonic Circle: Summon||48018", -- [38]
+				"spell|170||Shadow Ward|Rank 6|47891", -- [39]
 				nil, -- [40]
-				"spell|90||Life Tap|Rank 8|57946", -- [41]
+				"spell|147||Fel Armor|Rank 4|47893", -- [41]
 				nil, -- [42]
-				"spell|46||Curse of Tongues|Rank 2|11719", -- [43]
-				"spell|36||Curse of Agony|Rank 9|47864", -- [44]
+				"macro|43||Pet Attack|Interface\\Icons\\Ability_GhoulFrenzy|/petattack", -- [43]
+				"spell|35||Curse of Agony|Rank 9|47864", -- [44]
 				nil, -- [45]
-				"spell|158||Health Funnel|Rank 9|47856", -- [46]
+				nil, -- [46]
 				nil, -- [47]
-				"macro|48||Pet Summon|Interface\\Icons\\Spell_Nature_RemoveCurse|/cast Fel Domination/n/cast Summon Felguard", -- [48]
-				nil, -- [49]
+				"item|40211||Potion of Speed", -- [48]
+				"spell|157||Health Funnel|Rank 9|47856", -- [49]
 				nil, -- [50]
-				nil, -- [51]
+				"item|50732||Bloodsurge, Kel'Thuzad's Blade of Agony", -- [51]
 				"item|41196||Grand Spellstone", -- [52]
-				"item|50732||Bloodsurge, Kel'Thuzad's Blade of Agony", -- [53]
-				nil, -- [54]
+				nil, -- [53]
+				"spell|214||Searing Pain|Rank 10|47815", -- [54]
 				nil, -- [55]
-				"spell|159||Immolation Aura|Demon|50589", -- [56]
-				nil, -- [57]
-				nil, -- [58]
+				nil, -- [56]
+				"spell|117||Create Soulstone|Rank 7|47884", -- [57]
+				"item|36895||Demonic Soulstone", -- [58]
 				nil, -- [59]
-				"spell|162||Ritual of Souls|Rank 2|58887", -- [60]
-				"item|6948||Hearthstone", -- [61]
+				nil, -- [60]
+				nil, -- [61]
 				nil, -- [62]
-				nil, -- [63]
-				"spell|124||Create Spellstone|Rank 6|47888", -- [64]
-				"spell|103||Create Firestone|Rank 7|60220", -- [65]
-				nil, -- [66]
-				nil, -- [67]
-				"spell|163||Ritual of Summoning||698", -- [68]
-				nil, -- [69]
-				nil, -- [70]
-				"spell|111||Create Healthstone|Rank 8|47878", -- [71]
-				"spell|118||Create Soulstone|Rank 7|47884", -- [72]
+				"spell|123||Create Spellstone|Rank 6|47888", -- [63]
+				"spell|138||Detect Invisibility||132", -- [64]
+				[70] = "spell|161||Ritual of Souls|Rank 2|58887",
+				[72] = "item|6948||Hearthstone",
+				[74] = "spell|171||Soul Link||19028",
+				[76] = "macro|76||Seed|Interface\\Icons\\Spell_Shadow_SeedOfDestruction|/targetenemy/n/cast Seed of Corruption",
+				[71] = "spell|110||Create Healthstone|Rank 8|47878",
+				[73] = "macro|73||Pet Summon|Interface\\Icons\\Spell_Nature_RemoveCurse|/cast Fel Domination/n/cast Summon Felguard",
+				[69] = "spell|143||Eye of Kilrogg|Summon|126",
+				[66] = "spell|162||Ritual of Summoning||698",
 			},
 			["demo_pve"] = {
 				"macro|1||Demo|Interface\\Icons\\Spell_Shadow_ShadowBolt|#showtooltip Shadow Bolt(Rank 13)/n/cast Shadow Cleave(Demon)/n/cast Shadow Bolt(Rank 13)/n/cast Demonic Empowerment/n/use Sanctified Dark Coven Gloves/n/petattack", -- [1]
@@ -1262,6 +1571,276 @@ ActionBarSaverDB = {
 				[38] = "spell|143||Demonic Circle: Summon||48018",
 				[72] = "spell|126||Create Soulstone|Rank 7|47884",
 			},
+			["warlock_pve"] = {
+				"macro|1||Demo|Interface\\Icons\\Spell_Shadow_ShadowBolt|#showtooltip Shadow Bolt(Rank 13)/n/cast Shadow Cleave(Demon)/n/cast Shadow Bolt(Rank 13)/n/cast Demonic Empowerment/n/use Sanctified Dark Coven Gloves/n/petattack", -- [1]
+				"spell|194||Immolate|Rank 11|47811", -- [2]
+				"spell|198||Incinerate|Rank 4|47838", -- [3]
+				"macro|4||Soul Fire|Interface\\Icons\\Spell_Fire_Fireball02|#showtooltip Soul Fire(Rank 6)/n/cast Shadow Cleave(Demon)/n/cast Soul Fire(Rank 6)/n/cast Demonic Empowerment/n/use 10", -- [4]
+				nil, -- [5]
+				nil, -- [6]
+				"spell|96||Challenging Howl|Demon|59671", -- [7]
+				nil, -- [8]
+				"spell|82||Howl of Terror|Rank 2|17928", -- [9]
+				"spell|230||Shadowflame|Rank 2|61290", -- [10]
+				"spell|27||Corruption|Rank 10|47813", -- [11]
+				"spell|39||Curse of Doom|Rank 3|47867", -- [12]
+				"spell|80||Fear|Rank 3|6215", -- [13]
+				"spell|133||Demon Charge|Demon|54785", -- [14]
+				"spell|165||Shadow Cleave|Demon|50581", -- [15]
+				nil, -- [16]
+				nil, -- [17]
+				"macro|18||Seed|Interface\\Icons\\Spell_Shadow_SeedOfDestruction|/targetenemy/n/cast Seed of Corruption", -- [18]
+				"macro|19||Pet Attack|Interface\\Icons\\Spell_Shadow_SummonImp|/petattack", -- [19]
+				"spell|55||Curse of Weakness|Rank 9|50511", -- [20]
+				"spell|44||Curse of the Elements|Rank 5|47865", -- [21]
+				nil, -- [22]
+				"companion|5||warlock_pve|MOUNT|72808", -- [23]
+				"companion|1||warlock_pve|MOUNT|43688", -- [24]
+				"spell|90||Life Tap|Rank 8|57946", -- [25]
+				"spell|137||Demonic Circle: Teleport||48020", -- [26]
+				"spell|77||Drain Soul|Rank 6|47855", -- [27]
+				"spell|61||Death Coil|Rank 6|47860", -- [28]
+				"spell|95||Banish|Rank 2|18647", -- [29]
+				nil, -- [30]
+				"spell|205||Rain of Fire|Rank 7|47820", -- [31]
+				"macro|32||Armor|Interface\\Icons\\Spell_Shadow_RagingScream|/castsequence Fel Armor, Demon Armor", -- [32]
+				"spell|173||Soulshatter||29858", -- [33]
+				"macro|34||Follow|Interface\\Icons\\Ability_Creature_Poison_06|/petfollow", -- [34]
+				nil, -- [35]
+				"spell|172||Soul Link||19028", -- [36]
+				"macro|37||Demo|Interface\\Icons\\Spell_Shadow_DemonForm|#showtooltip Metamorphosis/n/cast Metamorphosis/n/cast Immolation Aura(Demon)/n/cast Blood Fury(Racial)/n/use 10", -- [37]
+				"spell|136||Demonic Circle: Summon||48018", -- [38]
+				"spell|171||Shadow Ward|Rank 6|47891", -- [39]
+				nil, -- [40]
+				"spell|90||Life Tap|Rank 8|57946", -- [41]
+				nil, -- [42]
+				"spell|46||Curse of Tongues|Rank 2|11719", -- [43]
+				"spell|36||Curse of Agony|Rank 9|47864", -- [44]
+				nil, -- [45]
+				"spell|158||Health Funnel|Rank 9|47856", -- [46]
+				nil, -- [47]
+				"macro|48||Pet Summon|Interface\\Icons\\Spell_Nature_RemoveCurse|/cast Fel Domination/n/cast Summon Felguard", -- [48]
+				nil, -- [49]
+				nil, -- [50]
+				nil, -- [51]
+				"item|41196||Grand Spellstone", -- [52]
+				"item|50732||Bloodsurge, Kel'Thuzad's Blade of Agony", -- [53]
+				nil, -- [54]
+				nil, -- [55]
+				"spell|159||Immolation Aura|Demon|50589", -- [56]
+				nil, -- [57]
+				nil, -- [58]
+				nil, -- [59]
+				"spell|162||Ritual of Souls|Rank 2|58887", -- [60]
+				"item|6948||Hearthstone", -- [61]
+				nil, -- [62]
+				nil, -- [63]
+				"spell|124||Create Spellstone|Rank 6|47888", -- [64]
+				"spell|103||Create Firestone|Rank 7|60220", -- [65]
+				nil, -- [66]
+				nil, -- [67]
+				"spell|163||Ritual of Summoning||698", -- [68]
+				nil, -- [69]
+				nil, -- [70]
+				"spell|111||Create Healthstone|Rank 8|47878", -- [71]
+				"spell|118||Create Soulstone|Rank 7|47884", -- [72]
+			},
+			["affliction_pve"] = {
+				"spell|227||Shadow Bolt|Rank 13|47809", -- [1]
+				"spell|83||Haunt|Rank 4|59164", -- [2]
+				"macro|3||Unstable Afflict|Interface\\Icons\\Spell_Shadow_UnstableAffliction_3|/cast Unstable Affliction/n/cast Blood Fury/n/use 10", -- [3]
+				"spell|76||Drain Soul|Rank 6|47855", -- [4]
+				"item|51230||Sanctified Dark Coven Gloves", -- [5]
+				nil, -- [6]
+				"item|40212||Potion of Wild Magic", -- [7]
+				nil, -- [8]
+				"macro|9||Seed|Interface\\Icons\\Spell_Shadow_SeedOfDestruction|/targetenemy/n/cast Seed of Corruption", -- [9]
+				"spell|229||Shadowflame|Rank 2|61290", -- [10]
+				"spell|26||Corruption|Rank 10|47813", -- [11]
+				"spell|35||Curse of Agony|Rank 9|47864", -- [12]
+				"spell|79||Fear|Rank 3|6215", -- [13]
+				"spell|85||Howl of Terror|Rank 2|17928", -- [14]
+				"item|50699||Plague Scientist's Boots", -- [15]
+				nil, -- [16]
+				nil, -- [17]
+				"spell|43||Curse of the Elements|Rank 5|47865", -- [18]
+				"macro|19||Rank 1|Interface\\Icons\\Spell_Shadow_ShadowBolt|/cast Shadow Bolt(Rank 1)", -- [19]
+				"spell|54||Curse of Weakness|Rank 9|50511", -- [20]
+				"spell|45||Curse of Tongues|Rank 2|11719", -- [21]
+				nil, -- [22]
+				nil, -- [23]
+				"companion|14||affliction_pve|MOUNT|72286", -- [24]
+				"spell|93||Life Tap|Rank 8|57946", -- [25]
+				"spell|143||Demonic Circle: Teleport||48020", -- [26]
+				"spell|76||Drain Soul|Rank 6|47855", -- [27]
+				"spell|182||Hellfire|Rank 5|47823", -- [28]
+				"spell|103||Banish|Rank 2|18647", -- [29]
+				nil, -- [30]
+				nil, -- [31]
+				"spell|204||Rain of Fire|Rank 7|47820", -- [32]
+				"spell|173||Soulshatter||29858", -- [33]
+				"macro|34||Follow|Interface\\Icons\\Ability_Tracking|/petfollow", -- [34]
+				nil, -- [35]
+				"spell|162||Health Funnel|Rank 9|47856", -- [36]
+				"spell|172||Shadow Ward|Rank 6|47891", -- [37]
+				"spell|142||Demonic Circle: Summon||48018", -- [38]
+				"spell|4||Blood Fury|Racial|33702", -- [39]
+				"item|36892||Fel Healthstone", -- [40]
+				"spell|153||Fel Armor|Rank 4|47893", -- [41]
+				nil, -- [42]
+				"macro|43||Pet Attack|Interface\\Icons\\Ability_GhoulFrenzy|/petattack", -- [43]
+				"spell|35||Curse of Agony|Rank 9|47864", -- [44]
+				"spell|162||Health Funnel|Rank 9|47856", -- [45]
+				"spell|60||Death Coil|Rank 6|47860", -- [46]
+				nil, -- [47]
+				"macro|48||Felhunter|Interface\\Icons\\Spell_Shadow_SummonFelHunter|#showtooltip Summon Felhunter/n/cast Fel Domination/n/cast Summon Felhunter", -- [48]
+				"item|6948||Hearthstone", -- [49]
+				[60] = "spell|214||Searing Pain|Rank 10|47815",
+				[76] = "item|46376||Flask of the Frost Wyrm",
+				[65] = "item|41196||Grand Spellstone",
+				[69] = "spell|165||Ritual of Summoning||698",
+				[53] = "item|50732||Bloodsurge, Kel'Thuzad's Blade of Agony",
+				[57] = "spell|164||Ritual of Souls|Rank 2|58887",
+				[61] = "spell|131||Create Spellstone|Rank 6|47888",
+				[71] = "item|36895||Demonic Soulstone",
+				[72] = "spell|125||Create Soulstone|Rank 7|47884",
+				[73] = "item|40211||Potion of Speed",
+			},
+			["demonology_pve_yedek"] = {
+				"macro|1||Demo|Interface\\Icons\\Spell_Shadow_ShadowBolt|#showtooltip Shadow Bolt(Rank 13)/n/cast Shadow Cleave(Demon)/n/cast Shadow Bolt(Rank 13)/n/cast Demonic Empowerment/n/use 10", -- [1]
+				"spell|193||Immolate|Rank 11|47811", -- [2]
+				"macro|3||Incinerate|Interface\\Icons\\Spell_Fire_Burnout|#showtooltip Incinerate/n/cast Shadow Cleave(Demon)/n/cast Incinerate/n/cast Demonic Empowerment/n/use 10", -- [3]
+				"macro|4||Soul Fire|Interface\\Icons\\Spell_Fire_Fireball02|#showtooltip Soul Fire(Rank 6)/n/cast Shadow Cleave(Demon)/n/cast Soul Fire(Rank 6)/n/cast Demonic Empowerment/n/use 10", -- [4]
+				"spell|4||Blood Fury|Racial|33702", -- [5]
+				nil, -- [6]
+				"item|22788||Flame Cap", -- [7]
+				nil, -- [8]
+				"spell|92||Seed of Corruption|Rank 3|47836", -- [9]
+				"spell|229||Shadowflame|Rank 2|61290", -- [10]
+				"spell|26||Corruption|Rank 10|47813", -- [11]
+				"spell|38||Curse of Doom|Rank 3|47867", -- [12]
+				"spell|79||Fear|Rank 3|6215", -- [13]
+				"spell|132||Demon Charge|Demon|54785", -- [14]
+				"item|50699||Plague Scientist's Boots", -- [15]
+				nil, -- [16]
+				nil, -- [17]
+				"spell|43||Curse of the Elements|Rank 5|47865", -- [18]
+				"macro|19||Rank 1|Interface\\Icons\\Spell_Shadow_ShadowBolt|/cast Shadow Bolt(Rank 1)", -- [19]
+				"spell|54||Curse of Weakness|Rank 9|50511", -- [20]
+				"spell|45||Curse of Tongues|Rank 2|11719", -- [21]
+				nil, -- [22]
+				nil, -- [23]
+				"companion|14||demonology_pve_yedek|MOUNT|72286", -- [24]
+				"spell|89||Life Tap|Rank 8|57946", -- [25]
+				"spell|136||Demonic Circle: Teleport||48020", -- [26]
+				"macro|27||Follow|Interface\\Icons\\Ability_Tracking|/petfollow", -- [27]
+				"spell|76||Drain Soul|Rank 6|47855", -- [28]
+				"spell|182||Hellfire|Rank 5|47823", -- [29]
+				nil, -- [30]
+				"spell|94||Banish|Rank 2|18647", -- [31]
+				"spell|158||Immolation Aura|Demon|50589", -- [32]
+				"spell|172||Soulshatter||29858", -- [33]
+				"spell|60||Death Coil|Rank 6|47860", -- [34]
+				nil, -- [35]
+				"item|40212||Potion of Wild Magic", -- [36]
+				"macro|37||Demo|Interface\\Icons\\Spell_Shadow_DemonForm|#showtooltip Metamorphosis/n/cast Metamorphosis/n/cast Immolation Aura(Demon)/n/cast Blood Fury(Racial)/n/use 10", -- [37]
+				"spell|135||Demonic Circle: Summon||48018", -- [38]
+				"spell|170||Shadow Ward|Rank 6|47891", -- [39]
+				nil, -- [40]
+				"spell|147||Fel Armor|Rank 4|47893", -- [41]
+				nil, -- [42]
+				"macro|43||Pet Attack|Interface\\Icons\\Ability_GhoulFrenzy|/petattack", -- [43]
+				"spell|35||Curse of Agony|Rank 9|47864", -- [44]
+				nil, -- [45]
+				nil, -- [46]
+				nil, -- [47]
+				"item|40211||Potion of Speed", -- [48]
+				"spell|157||Health Funnel|Rank 9|47856", -- [49]
+				nil, -- [50]
+				"item|50732||Bloodsurge, Kel'Thuzad's Blade of Agony", -- [51]
+				"item|41196||Grand Spellstone", -- [52]
+				nil, -- [53]
+				"spell|214||Searing Pain|Rank 10|47815", -- [54]
+				nil, -- [55]
+				nil, -- [56]
+				"spell|117||Create Soulstone|Rank 7|47884", -- [57]
+				"item|36895||Demonic Soulstone", -- [58]
+				nil, -- [59]
+				nil, -- [60]
+				nil, -- [61]
+				nil, -- [62]
+				"spell|123||Create Spellstone|Rank 6|47888", -- [63]
+				"spell|138||Detect Invisibility||132", -- [64]
+				[70] = "spell|161||Ritual of Souls|Rank 2|58887",
+				[72] = "item|6948||Hearthstone",
+				[74] = "spell|171||Soul Link||19028",
+				[76] = "macro|76||Seed|Interface\\Icons\\Spell_Shadow_SeedOfDestruction|/targetenemy/n/cast Seed of Corruption",
+				[71] = "spell|110||Create Healthstone|Rank 8|47878",
+				[73] = "macro|73||Pet Summon|Interface\\Icons\\Spell_Nature_RemoveCurse|/cast Fel Domination/n/cast Summon Felguard",
+				[69] = "spell|143||Eye of Kilrogg|Summon|126",
+				[66] = "spell|162||Ritual of Summoning||698",
+			},
+			["affliction_pve_yedek"] = {
+				"spell|227||Shadow Bolt|Rank 13|47809", -- [1]
+				"spell|83||Haunt|Rank 4|59164", -- [2]
+				"macro|3||Unstable Afflict|Interface\\Icons\\Spell_Shadow_UnstableAffliction_3|/cast Unstable Affliction/n/cast Blood Fury/n/use 10", -- [3]
+				"spell|76||Drain Soul|Rank 6|47855", -- [4]
+				"item|51230||Sanctified Dark Coven Gloves", -- [5]
+				nil, -- [6]
+				"item|40212||Potion of Wild Magic", -- [7]
+				nil, -- [8]
+				"macro|9||Seed|Interface\\Icons\\Spell_Shadow_SeedOfDestruction|/targetenemy/n/cast Seed of Corruption", -- [9]
+				"spell|229||Shadowflame|Rank 2|61290", -- [10]
+				"spell|26||Corruption|Rank 10|47813", -- [11]
+				"spell|35||Curse of Agony|Rank 9|47864", -- [12]
+				"spell|79||Fear|Rank 3|6215", -- [13]
+				"spell|85||Howl of Terror|Rank 2|17928", -- [14]
+				"item|50699||Plague Scientist's Boots", -- [15]
+				nil, -- [16]
+				nil, -- [17]
+				"spell|43||Curse of the Elements|Rank 5|47865", -- [18]
+				"macro|19||Rank 1|Interface\\Icons\\Spell_Shadow_ShadowBolt|/cast Shadow Bolt(Rank 1)", -- [19]
+				"spell|54||Curse of Weakness|Rank 9|50511", -- [20]
+				"spell|45||Curse of Tongues|Rank 2|11719", -- [21]
+				nil, -- [22]
+				nil, -- [23]
+				"companion|14||affliction_pve_yedek|MOUNT|72286", -- [24]
+				"spell|93||Life Tap|Rank 8|57946", -- [25]
+				"spell|143||Demonic Circle: Teleport||48020", -- [26]
+				"spell|76||Drain Soul|Rank 6|47855", -- [27]
+				"spell|182||Hellfire|Rank 5|47823", -- [28]
+				"spell|103||Banish|Rank 2|18647", -- [29]
+				nil, -- [30]
+				nil, -- [31]
+				"spell|204||Rain of Fire|Rank 7|47820", -- [32]
+				"spell|173||Soulshatter||29858", -- [33]
+				"macro|34||Follow|Interface\\Icons\\Ability_Tracking|/petfollow", -- [34]
+				nil, -- [35]
+				"spell|162||Health Funnel|Rank 9|47856", -- [36]
+				"spell|172||Shadow Ward|Rank 6|47891", -- [37]
+				"spell|142||Demonic Circle: Summon||48018", -- [38]
+				"spell|4||Blood Fury|Racial|33702", -- [39]
+				"item|36892||Fel Healthstone", -- [40]
+				"spell|153||Fel Armor|Rank 4|47893", -- [41]
+				nil, -- [42]
+				"macro|43||Pet Attack|Interface\\Icons\\Ability_GhoulFrenzy|/petattack", -- [43]
+				"spell|35||Curse of Agony|Rank 9|47864", -- [44]
+				"spell|162||Health Funnel|Rank 9|47856", -- [45]
+				"spell|60||Death Coil|Rank 6|47860", -- [46]
+				nil, -- [47]
+				"macro|48||Felhunter|Interface\\Icons\\Spell_Shadow_SummonFelHunter|#showtooltip Summon Felhunter/n/cast Fel Domination/n/cast Summon Felhunter", -- [48]
+				"item|6948||Hearthstone", -- [49]
+				[60] = "spell|214||Searing Pain|Rank 10|47815",
+				[76] = "item|46376||Flask of the Frost Wyrm",
+				[65] = "item|41196||Grand Spellstone",
+				[69] = "spell|165||Ritual of Summoning||698",
+				[53] = "item|50732||Bloodsurge, Kel'Thuzad's Blade of Agony",
+				[57] = "spell|164||Ritual of Souls|Rank 2|58887",
+				[61] = "spell|131||Create Spellstone|Rank 6|47888",
+				[71] = "item|36895||Demonic Soulstone",
+				[72] = "spell|125||Create Soulstone|Rank 7|47884",
+				[73] = "item|40211||Potion of Speed",
+			},
 		},
 		["HUNTER"] = {
 		},
@@ -1317,7 +1896,7 @@ ActionBarSaverDB = {
 				[83] = "spell|119||Swipe (Cat)|Rank 1|62078",
 				[74] = "spell|111||Rake|Rank 7|48574",
 				[50] = "spell|2||Basic Campfire||818",
-				[68] = "item|43523||Conjured Mana Strudel",
+				[34] = "spell|191||Remove Curse||2782",
 				[42] = "spell|55||Nature's Grasp|Rank 8|53312",
 				[100] = "spell|118||Swipe (Bear)|Rank 8|48562",
 				[58] = "item|33447||Runic Healing Potion",
@@ -1336,7 +1915,7 @@ ActionBarSaverDB = {
 				[72] = "spell|198||Revive|Rank 7|50763",
 				[44] = "item|33448||Runic Mana Potion",
 				[52] = "spell|7||Engineering|Grand Master|51306",
-				[34] = "spell|191||Remove Curse||2782",
+				[68] = "item|43523||Conjured Mana Strudel",
 				[73] = "spell|97||Dash|Rank 3|33357",
 				[89] = "spell|97||Dash|Rank 3|33357",
 				[105] = "spell|94||Challenging Roar||5209",
@@ -1403,7 +1982,7 @@ ActionBarSaverDB = {
 				[63] = "macro|63||a|Interface\\Icons\\Ability_Creature_Disease_04|/run local f = CreateFrame(\"frame\",nil,UIParent); f:SetScript(\"OnUpdate\",CombatLogClearEntries);",
 				[95] = "spell|123||Prowl||5215",
 				[108] = "spell|111||Demoralizing Roar|Rank 8|48560",
-				[96] = "spell|123||Prowl||5215",
+				[48] = "spell|34||Innervate||29166",
 				[112] = "spell|103||Wrath|Rank 12|48461",
 				[65] = "item|50665||Boots of Unnatural Growth",
 				[81] = "spell|132||Swipe (Cat)|Rank 1|62078",
@@ -1439,7 +2018,7 @@ ActionBarSaverDB = {
 				[120] = "spell|11||Shadowmeld|Racial|58984",
 				[73] = "spell|110||Dash|Rank 3|33357",
 				[89] = "spell|110||Dash|Rank 3|33357",
-				[48] = "spell|34||Innervate||29166",
+				[96] = "spell|123||Prowl||5215",
 			},
 		},
 		["SHAMAN"] = {
@@ -1495,6 +2074,98 @@ ActionBarSaverDB = {
 				[67] = "spell|11||Jewelcrafting|Grand Master|51311",
 				[75] = "spell|28||Garrote|Rank 10|48676",
 				[41] = "spell|54||Vanish|Rank 3|26889",
+			},
+			["rs_rogue"] = {
+				"spell|42||Sinister Strike|Rank 12|48638", -- [1]
+				"spell|27||Eviscerate|Rank 12|48668", -- [2]
+				"spell|32||Slice and Dice|Rank 2|6774", -- [3]
+				"spell|31||Rupture|Rank 9|48672", -- [4]
+				"macro|5||Cold Blood|Interface\\Icons\\Spell_Ice_Lament|/cast Cold Blood/n/cast Berserking", -- [5]
+				[26] = "macro|26||Mouse|Interface\\Icons\\Ability_Rogue_TricksOftheTrade|/cast [@mouseover] Tricks of the Trade",
+				[37] = "spell|35||Blade Flurry||13877",
+				[45] = "spell|25||Dismantle||51722",
+				[61] = "spell|52||Stealth||1784",
+				[75] = "spell|22||Cheap Shot||1833",
+				[9] = "spell|37||Fan of Knives||51723",
+				[11] = "macro|11||Tot|Interface\\Icons\\Ability_Rogue_TricksOftheTrade|/cast [target=focus] Tricks of the Trade",
+				[13] = "spell|43||Sprint|Rank 3|11305",
+				[15] = "item|50607||Frostbitten Fur Boots",
+				[19] = "item|50675||Aldriana's Gloves of Secrecy",
+				[23] = "companion|2||rs_rogue|MOUNT|71342",
+				[27] = "spell|45||Cloak of Shadows||31224",
+				[31] = "spell|36||Evasion|Rank 2|26669",
+				[39] = "spell|3||Berserking|Racial|26297",
+				[64] = "spell|28||Expose Armor||8647",
+				[56] = "item|36892||Fel Healthstone",
+				[81] = "spell|37||Fan of Knives||51723",
+				[24] = "companion|26||rs_rogue|MOUNT|24252",
+				[41] = "spell|54||Vanish|Rank 3|26889",
+				[49] = "item|6948||Hearthstone",
+				[67] = "spell|30||Kidney Shot|Rank 2|8643",
+				[68] = "spell|39||Gouge||1776",
+				[10] = "spell|40||Kick||1766",
+				[12] = "spell|52||Stealth||1784",
+				[85] = "spell|21||Ambush|Rank 10|48691",
+				[86] = "spell|29||Garrote|Rank 10|48676",
+				[84] = "macro|84|||Interface\\Icons\\INV_Misc_QuestionMark|/cast Shadowstep/n/cast Sap",
+				[38] = "spell|33||Adrenaline Rush||13750",
+				[71] = "item|43233||Deadly Poison IX",
+				[87] = "spell|22||Cheap Shot||1833",
+				[54] = "item|50470||Recovered Scarlet Onslaught Cape",
+				[44] = "spell|38||Feint|Rank 8|48659",
+				[72] = "item|43231||Instant Poison IX",
+				[88] = "spell|51||Sap|Rank 4|51724",
+				[43] = "spell|44||Blind||2094",
+				[74] = "spell|29||Garrote|Rank 10|48676",
+				[73] = "spell|21||Ambush|Rank 10|48691",
+				[78] = "spell|43||Sprint|Rank 3|11305",
+				[76] = "spell|51||Sap|Rank 4|51724",
+			},
+			["rs_rogue_yedek"] = {
+				"spell|42||Sinister Strike|Rank 12|48638", -- [1]
+				"spell|27||Eviscerate|Rank 12|48668", -- [2]
+				"spell|32||Slice and Dice|Rank 2|6774", -- [3]
+				"spell|31||Rupture|Rank 9|48672", -- [4]
+				"macro|5||Cold Blood|Interface\\Icons\\Spell_Ice_Lament|/cast Cold Blood/n/cast Berserking", -- [5]
+				[26] = "macro|26||Mouse|Interface\\Icons\\Ability_Rogue_TricksOftheTrade|/cast [@mouseover] Tricks of the Trade",
+				[37] = "spell|35||Blade Flurry||13877",
+				[45] = "spell|25||Dismantle||51722",
+				[61] = "spell|52||Stealth||1784",
+				[75] = "spell|22||Cheap Shot||1833",
+				[9] = "spell|37||Fan of Knives||51723",
+				[11] = "macro|11||Tot|Interface\\Icons\\Ability_Rogue_TricksOftheTrade|/cast [target=focus] Tricks of the Trade",
+				[13] = "spell|43||Sprint|Rank 3|11305",
+				[15] = "item|50607||Frostbitten Fur Boots",
+				[19] = "item|50675||Aldriana's Gloves of Secrecy",
+				[23] = "companion|2||rs_rogue_yedek|MOUNT|71342",
+				[27] = "spell|45||Cloak of Shadows||31224",
+				[31] = "spell|36||Evasion|Rank 2|26669",
+				[39] = "spell|3||Berserking|Racial|26297",
+				[64] = "spell|28||Expose Armor||8647",
+				[56] = "item|36892||Fel Healthstone",
+				[81] = "spell|37||Fan of Knives||51723",
+				[24] = "companion|26||rs_rogue_yedek|MOUNT|24252",
+				[41] = "spell|54||Vanish|Rank 3|26889",
+				[49] = "item|6948||Hearthstone",
+				[67] = "spell|30||Kidney Shot|Rank 2|8643",
+				[68] = "spell|39||Gouge||1776",
+				[10] = "spell|40||Kick||1766",
+				[12] = "spell|52||Stealth||1784",
+				[85] = "spell|21||Ambush|Rank 10|48691",
+				[86] = "spell|29||Garrote|Rank 10|48676",
+				[84] = "macro|84|||Interface\\Icons\\INV_Misc_QuestionMark|/cast Shadowstep/n/cast Sap",
+				[38] = "spell|33||Adrenaline Rush||13750",
+				[71] = "item|43233||Deadly Poison IX",
+				[87] = "spell|22||Cheap Shot||1833",
+				[54] = "item|50470||Recovered Scarlet Onslaught Cape",
+				[44] = "spell|38||Feint|Rank 8|48659",
+				[72] = "item|43231||Instant Poison IX",
+				[88] = "spell|51||Sap|Rank 4|51724",
+				[43] = "spell|44||Blind||2094",
+				[74] = "spell|29||Garrote|Rank 10|48676",
+				[73] = "spell|21||Ambush|Rank 10|48691",
+				[78] = "spell|43||Sprint|Rank 3|11305",
+				[76] = "spell|51||Sap|Rank 4|51724",
 			},
 		},
 	},

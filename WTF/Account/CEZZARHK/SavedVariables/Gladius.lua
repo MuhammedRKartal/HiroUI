@@ -3,18 +3,29 @@ GladiusDB = {
 	["profileKeys"] = {
 		["Fokzeynep - Icecrown"] = "Fokzeynep - Icecrown",
 		["Imansiz - Icecrown"] = "Imansiz - Icecrown",
-		["Yildiiztilbe - Icecrown"] = "Yildiiztilbe - Icecrown",
-		["Haydutkadri - Icecrown"] = "Haydutkadri - Icecrown",
 		["Ballkaymak - Icecrown"] = "Ballkaymak - Icecrown",
+		["Erkeksikici - Icecrown"] = "Erkeksikici - Icecrown",
+		["Haydutkadri - Icecrown"] = "Haydutkadri - Icecrown",
+		["Yildiiztilbe - Icecrown"] = "Yildiiztilbe - Icecrown",
 	},
 	["profiles"] = {
 		["Fokzeynep - Icecrown"] = {
 			["y"] = 480.0000266488927,
 			["x"] = 947.1995996239314,
 		},
+		["Ballkaymak - Icecrown"] = {
+			["y"] = 480.0000266488927,
+			["x"] = 947.1995996239314,
+		},
 		["Default"] = {
 		},
-		["Yildiiztilbe - Icecrown"] = {
+		["Erkeksikici - Icecrown"] = {
+		},
+		["Main"] = {
+			["y"] = 480.0000266488927,
+			["x"] = 947.1995996239314,
+		},
+		["Imansiz - Icecrown"] = {
 			["y"] = 480.0000266488927,
 			["x"] = 947.1995996239314,
 		},
@@ -25,15 +36,7 @@ GladiusDB = {
 			},
 			["x"] = 947.1995996239314,
 		},
-		["Imansiz - Icecrown"] = {
-			["y"] = 480.0000266488927,
-			["x"] = 947.1995996239314,
-		},
-		["Main"] = {
-			["y"] = 480.0000266488927,
-			["x"] = 947.1995996239314,
-		},
-		["Ballkaymak - Icecrown"] = {
+		["Yildiiztilbe - Icecrown"] = {
 			["y"] = 480.0000266488927,
 			["x"] = 947.1995996239314,
 		},

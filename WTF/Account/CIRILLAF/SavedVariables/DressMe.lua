@@ -36,21 +36,22 @@ DressMeSettings = {
 			["Malescula"] = "human",
 			["Cezzarged"] = "human",
 			["Erindan"] = "deathknight",
-			["Hirobank"] = "human",
+			["Mayishadow"] = "troll",
+			["Mayiride"] = "nightelf",
 			["Fatnkz"] = "orc",
 			["Mayiascend"] = "human",
 			["Mayigrab"] = "deathknight",
 			["Plaacebo"] = "human",
-			["Mayiride"] = "nightelf",
+			["Hirobank"] = "human",
 		},
 		["Blackrock [PvP only]"] = {
 			["Weabo"] = "draenei",
 		},
-		["Lordaeron"] = {
-			["Lapperisey"] = "gnome",
-		},
 		["Onyxia"] = {
 			["Pussfeeder"] = "nightelf",
+		},
+		["Lordaeron"] = {
+			["Lapperisey"] = "gnome",
 		},
 	},
 	["dressingRoomBackgroundColor"] = {
@@ -64,7 +65,7 @@ DressMeSettings = {
 	["showShortcutsInTooltip"] = true,
 	["hideHairOnCloakPreview"] = false,
 	["showDressMeButton"] = true,
-	["announceAppearanceReceiving"] = true,
-	["previewSetup"] = "classic",
 	["hideHairBeardOnChestPreview"] = false,
+	["previewSetup"] = "classic",
+	["announceAppearanceReceiving"] = true,
 }

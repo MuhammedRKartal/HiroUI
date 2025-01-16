@@ -37,6 +37,7 @@ END
 MACRO 16777230 "Nature" INV_Misc_QuestionMark
 /cast Nature's Swiftness
 /cast Tidal Force
+/cast Blood Fury
 END
 MACRO 16777219 "Pull" Ability_BullRush
 /dbm pull 15

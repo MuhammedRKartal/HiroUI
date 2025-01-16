@@ -3,3 +3,10 @@ MACRO 57 "Alch" INV_Misc_QuestionMark
 /run local skills = {"Transmute: Cardinal Ruby", "Transmute: King's Amber", "Transmute: Ametrine"} for i=1,GetNumTradeSkills() do if tContains(skills, GetTradeSkillInfo(i)) then DoTradeSkill(i) end end
 /script OpenAllBags()
 END
+MACRO 58 "JC" INV_Misc_QuestionMark
+#show Jewelcrafting
+/cast Jewelcrafting
+/run for i=1,GetNumTradeSkills() do if GetTradeSkillInfo(i)=="Icy Prism" then CloseTradeSkill() DoTradeSkill(i) break end end
+/use Icy Prism
+/script OpenAllBags();
+END

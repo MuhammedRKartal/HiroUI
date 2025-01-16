@@ -9,13 +9,13 @@ SkadaCharDB = {
 				["class"] = "PRIEST",
 				["spec"] = 256,
 				["overkill"] = 223686,
-				["role"] = "HEALER",
 				["totaldamage"] = 224768,
+				["heal"] = 13702,
 				["name"] = "Reiila",
 				["time"] = 68.52000000000001,
 				["flag"] = 132369,
 				["totaldamagetaken"] = 2450,
-				["heal"] = 13702,
+				["role"] = "HEALER",
 				["damage"] = 224768,
 			}, -- [1]
 		},
@@ -37,17 +37,14 @@ SkadaCharDB = {
 			["type"] = "none",
 			["damage"] = 17368,
 			["etotaldamagetaken"] = 17368,
-			["overkill"] = 17318,
-			["heal"] = 0,
-			["time"] = 17,
 			["enemies"] = {
 				{
 					["name"] = "Master's Training Dummy",
 					["damagetaken"] = 10661,
-					["id"] = "0xF130007F9B001C0C",
 					["flag"] = 68136,
-					["class"] = "MONSTER",
+					["id"] = "0xF130007F9B001C0C",
 					["totaldamagetaken"] = 10661,
+					["class"] = "MONSTER",
 					["damagetakenspells"] = {
 						[6603] = {
 							["sources"] = {
@@ -93,10 +90,10 @@ SkadaCharDB = {
 				{
 					["name"] = "Grandmaster's Training Dummy",
 					["damagetaken"] = 6707,
-					["id"] = "0xF1300079A8001C03",
 					["flag"] = 2600,
-					["class"] = "MONSTER",
+					["id"] = "0xF1300079A8001C03",
 					["totaldamagetaken"] = 6707,
+					["class"] = "MONSTER",
 					["damagetakenspells"] = {
 						[6603] = {
 							["sources"] = {
@@ -140,8 +137,11 @@ SkadaCharDB = {
 					},
 				}, -- [2]
 			},
-			["edamagetaken"] = 17368,
 			["totaldamage"] = 17368,
+			["time"] = 17,
+			["overkill"] = 17318,
+			["edamagetaken"] = 17368,
+			["heal"] = 0,
 			["name"] = "Master's Training Dummy",
 			["mobname"] = "Master's Training Dummy",
 			["players"] = {
@@ -225,8 +225,8 @@ SkadaCharDB = {
 					},
 					["last"] = 597339.699,
 					["overheal"] = 660,
-					["id"] = "0x070000000074BE8D",
 					["flag"] = 132369,
+					["id"] = "0x070000000074BE8D",
 					["class"] = "PRIEST",
 					["healspells"] = {
 						[48300] = {
@@ -284,12 +284,12 @@ SkadaCharDB = {
 						},
 					},
 					["spec"] = 256,
-					["role"] = "HEALER",
-					["name"] = "Reiila",
+					["totaldamage"] = 17368,
+					["time"] = 0,
 					["overkill"] = 17318,
 					["heal"] = 0,
-					["time"] = 0,
-					["totaldamage"] = 17368,
+					["name"] = "Reiila",
+					["role"] = "HEALER",
 					["damage"] = 17368,
 				}, -- [1]
 			},
@@ -302,17 +302,14 @@ SkadaCharDB = {
 			["type"] = "none",
 			["damage"] = 16330,
 			["etotaldamagetaken"] = 16330,
-			["overkill"] = 16272,
-			["heal"] = 0,
-			["time"] = 18,
 			["enemies"] = {
 				{
 					["name"] = "Grandmaster's Training Dummy",
 					["damagetaken"] = 12454,
-					["id"] = "0xF1300079A8001C03",
 					["flag"] = 68136,
-					["class"] = "MONSTER",
+					["id"] = "0xF1300079A8001C03",
 					["totaldamagetaken"] = 12454,
+					["class"] = "MONSTER",
 					["damagetakenspells"] = {
 						[6603] = {
 							["sources"] = {
@@ -371,10 +368,10 @@ SkadaCharDB = {
 				{
 					["name"] = "Master's Training Dummy",
 					["damagetaken"] = 3876,
-					["id"] = "0xF130007F9B001C0C",
 					["flag"] = 68136,
-					["class"] = "MONSTER",
+					["id"] = "0xF130007F9B001C0C",
 					["totaldamagetaken"] = 3876,
+					["class"] = "MONSTER",
 					["damagetakenspells"] = {
 						[6603] = {
 							["sources"] = {
@@ -418,8 +415,11 @@ SkadaCharDB = {
 					},
 				}, -- [2]
 			},
-			["edamagetaken"] = 16330,
 			["totaldamage"] = 16330,
+			["time"] = 18,
+			["overkill"] = 16272,
+			["edamagetaken"] = 16330,
+			["heal"] = 0,
 			["name"] = "Grandmaster's Training Dummy (8)",
 			["mobname"] = "Grandmaster's Training Dummy",
 			["players"] = {
@@ -466,13 +466,13 @@ SkadaCharDB = {
 								},
 							},
 							["overkill"] = 345,
-							["hit"] = 1,
-							["criticalmax"] = 236,
-							["count"] = 2,
 							["amount"] = 350,
+							["criticalmax"] = 236,
+							["critical"] = 1,
+							["hit"] = 1,
 							["school"] = 1,
 							["hitmax"] = 114,
-							["critical"] = 1,
+							["count"] = 2,
 							["hitamount"] = 114,
 						},
 						["Holy Fire (DoT)"] = {
@@ -544,9 +544,9 @@ SkadaCharDB = {
 							["hitamount"] = 5622,
 						},
 					},
-					["flag"] = 132369,
 					["id"] = "0x070000000074BE8D",
-					["class"] = "PRIEST",
+					["flag"] = 132369,
+					["spec"] = 256,
 					["healspells"] = {
 						[48300] = {
 							["overheal"] = 660,
@@ -563,28 +563,6 @@ SkadaCharDB = {
 						},
 					},
 					["auras"] = {
-						[67696] = {
-							["school"] = 1,
-							["type"] = "BUFF",
-							["count"] = 2,
-							["uptime"] = 18,
-						},
-						[48300] = {
-							["type"] = "DEBUFF",
-							["count"] = 2,
-							["school"] = 32,
-							["targets"] = {
-								["Grandmaster's Training Dummy"] = {
-									["uptime"] = 9,
-									["count"] = 1,
-								},
-								["Master's Training Dummy"] = {
-									["uptime"] = 8,
-									["count"] = 1,
-								},
-							},
-							["uptime"] = 17,
-						},
 						[48125] = {
 							["type"] = "DEBUFF",
 							["count"] = 2,
@@ -613,14 +591,36 @@ SkadaCharDB = {
 							},
 							["uptime"] = 7,
 						},
+						[67696] = {
+							["school"] = 1,
+							["type"] = "BUFF",
+							["count"] = 2,
+							["uptime"] = 18,
+						},
+						[48300] = {
+							["type"] = "DEBUFF",
+							["count"] = 2,
+							["school"] = 32,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["uptime"] = 9,
+									["count"] = 1,
+								},
+								["Master's Training Dummy"] = {
+									["uptime"] = 8,
+									["count"] = 1,
+								},
+							},
+							["uptime"] = 17,
+						},
 					},
-					["totaldamage"] = 16330,
 					["role"] = "HEALER",
+					["heal"] = 0,
 					["time"] = 0,
 					["name"] = "Reiila",
 					["overkill"] = 16272,
-					["heal"] = 0,
-					["spec"] = 256,
+					["totaldamage"] = 16330,
+					["class"] = "PRIEST",
 					["damage"] = 16330,
 				}, -- [1]
 			},
@@ -633,17 +633,14 @@ SkadaCharDB = {
 			["type"] = "none",
 			["damage"] = 9965,
 			["etotaldamagetaken"] = 9965,
-			["overkill"] = 9951,
-			["heal"] = 0,
-			["time"] = 16,
 			["enemies"] = {
 				{
 					["name"] = "Expert's Training Dummy",
 					["damagetaken"] = 9965,
-					["id"] = "0xF130007F9A001C0A",
 					["flag"] = 68136,
-					["class"] = "MONSTER",
+					["id"] = "0xF130007F9A001C0A",
 					["totaldamagetaken"] = 9965,
+					["class"] = "MONSTER",
 					["damagetakenspells"] = {
 						[6603] = {
 							["sources"] = {
@@ -700,8 +697,11 @@ SkadaCharDB = {
 					},
 				}, -- [1]
 			},
-			["edamagetaken"] = 9965,
 			["totaldamage"] = 9965,
+			["time"] = 16,
+			["overkill"] = 9951,
+			["edamagetaken"] = 9965,
+			["heal"] = 0,
 			["name"] = "Expert's Training Dummy",
 			["mobname"] = "Expert's Training Dummy",
 			["players"] = {
@@ -806,9 +806,9 @@ SkadaCharDB = {
 							["hitamount"] = 1874,
 						},
 					},
-					["flag"] = 132369,
 					["id"] = "0x070000000074BE8D",
-					["class"] = "PRIEST",
+					["flag"] = 132369,
+					["spec"] = 256,
 					["healspells"] = {
 						[48300] = {
 							["overheal"] = 264,
@@ -873,13 +873,13 @@ SkadaCharDB = {
 							["uptime"] = 6,
 						},
 					},
-					["totaldamage"] = 9965,
 					["role"] = "HEALER",
+					["heal"] = 0,
 					["time"] = 0,
 					["name"] = "Reiila",
 					["overkill"] = 9951,
-					["heal"] = 0,
-					["spec"] = 256,
+					["totaldamage"] = 9965,
+					["class"] = "PRIEST",
 					["damage"] = 9965,
 				}, -- [1]
 			},
@@ -892,17 +892,14 @@ SkadaCharDB = {
 			["type"] = "none",
 			["damage"] = 1766,
 			["etotaldamagetaken"] = 1766,
-			["overkill"] = 1760,
-			["heal"] = 0,
-			["time"] = 9,
 			["enemies"] = {
 				{
 					["name"] = "Grandmaster's Training Dummy",
 					["damagetaken"] = 1766,
-					["id"] = "0xF1300079A8001C07",
 					["flag"] = 68136,
-					["class"] = "MONSTER",
+					["id"] = "0xF1300079A8001C07",
 					["totaldamagetaken"] = 1766,
+					["class"] = "MONSTER",
 					["damagetakenspells"] = {
 						[48300] = {
 							["sources"] = {
@@ -920,8 +917,11 @@ SkadaCharDB = {
 					},
 				}, -- [1]
 			},
-			["edamagetaken"] = 1766,
 			["totaldamage"] = 1766,
+			["time"] = 9,
+			["overkill"] = 1760,
+			["edamagetaken"] = 1766,
+			["heal"] = 0,
 			["name"] = "Grandmaster's Training Dummy (7)",
 			["mobname"] = "Grandmaster's Training Dummy",
 			["players"] = {
@@ -949,9 +949,9 @@ SkadaCharDB = {
 							["hitamount"] = 1766,
 						},
 					},
-					["flag"] = 132369,
 					["id"] = "0x070000000074BE8D",
-					["class"] = "PRIEST",
+					["flag"] = 132369,
+					["spec"] = 256,
 					["healspells"] = {
 						[48300] = {
 							["overheal"] = 264,
@@ -986,13 +986,13 @@ SkadaCharDB = {
 							["uptime"] = 7,
 						},
 					},
-					["totaldamage"] = 1766,
 					["role"] = "HEALER",
+					["heal"] = 0,
 					["time"] = 0,
 					["name"] = "Reiila",
 					["overkill"] = 1760,
-					["heal"] = 0,
-					["spec"] = 256,
+					["totaldamage"] = 1766,
+					["class"] = "PRIEST",
 					["damage"] = 1766,
 				}, -- [1]
 			},
@@ -1081,20 +1081,14 @@ SkadaCharDB = {
 			["endtime"] = 1654951836,
 			["last_action"] = 1654951835,
 			["starttime"] = 1654951830,
-			["overkill"] = 5705,
-			["edamagetaken"] = 5723,
-			["totaldamage"] = 5723,
-			["name"] = "Grandmaster's Training Dummy (6)",
-			["mobname"] = "Grandmaster's Training Dummy",
-			["time"] = 6,
 			["enemies"] = {
 				{
 					["name"] = "Grandmaster's Training Dummy",
 					["damagetaken"] = 5723,
-					["id"] = "0xF1300079A8001C07",
 					["flag"] = 68136,
-					["class"] = "MONSTER",
+					["id"] = "0xF1300079A8001C07",
 					["totaldamagetaken"] = 5723,
+					["class"] = "MONSTER",
 					["damagetakenspells"] = {
 						[48135] = {
 							["sources"] = {
@@ -1112,6 +1106,12 @@ SkadaCharDB = {
 					},
 				}, -- [1]
 			},
+			["edamagetaken"] = 5723,
+			["totaldamage"] = 5723,
+			["name"] = "Grandmaster's Training Dummy (6)",
+			["mobname"] = "Grandmaster's Training Dummy",
+			["time"] = 6,
+			["overkill"] = 5705,
 			["etotaldamagetaken"] = 5723,
 			["damage"] = 5723,
 		}, -- [5]
@@ -1196,20 +1196,14 @@ SkadaCharDB = {
 			["endtime"] = 1654951825,
 			["last_action"] = 1654951824,
 			["starttime"] = 1654951818,
-			["overkill"] = 4023,
-			["edamagetaken"] = 4044,
-			["totaldamage"] = 4044,
-			["name"] = "Grandmaster's Training Dummy (5)",
-			["mobname"] = "Grandmaster's Training Dummy",
-			["time"] = 7,
 			["enemies"] = {
 				{
 					["name"] = "Grandmaster's Training Dummy",
 					["damagetaken"] = 4044,
-					["id"] = "0xF1300079A8001C07",
 					["flag"] = 68136,
-					["class"] = "MONSTER",
+					["id"] = "0xF1300079A8001C07",
 					["totaldamagetaken"] = 4044,
+					["class"] = "MONSTER",
 					["damagetakenspells"] = {
 						[48135] = {
 							["sources"] = {
@@ -1227,6 +1221,12 @@ SkadaCharDB = {
 					},
 				}, -- [1]
 			},
+			["edamagetaken"] = 4044,
+			["totaldamage"] = 4044,
+			["name"] = "Grandmaster's Training Dummy (5)",
+			["mobname"] = "Grandmaster's Training Dummy",
+			["time"] = 7,
+			["overkill"] = 4023,
 			["etotaldamagetaken"] = 4044,
 			["damage"] = 4044,
 		}, -- [6]
@@ -1311,20 +1311,14 @@ SkadaCharDB = {
 			["endtime"] = 1654951796,
 			["last_action"] = 1654951795,
 			["starttime"] = 1654951790,
-			["overkill"] = 3883,
-			["edamagetaken"] = 3901,
-			["totaldamage"] = 3901,
-			["name"] = "Grandmaster's Training Dummy (4)",
-			["mobname"] = "Grandmaster's Training Dummy",
-			["time"] = 6,
 			["enemies"] = {
 				{
 					["name"] = "Grandmaster's Training Dummy",
 					["damagetaken"] = 3901,
-					["id"] = "0xF1300079A8001C07",
 					["flag"] = 68136,
-					["class"] = "MONSTER",
+					["id"] = "0xF1300079A8001C07",
 					["totaldamagetaken"] = 3901,
+					["class"] = "MONSTER",
 					["damagetakenspells"] = {
 						[48135] = {
 							["sources"] = {
@@ -1342,6 +1336,12 @@ SkadaCharDB = {
 					},
 				}, -- [1]
 			},
+			["edamagetaken"] = 3901,
+			["totaldamage"] = 3901,
+			["name"] = "Grandmaster's Training Dummy (4)",
+			["mobname"] = "Grandmaster's Training Dummy",
+			["time"] = 6,
+			["overkill"] = 3883,
 			["etotaldamagetaken"] = 3901,
 			["damage"] = 3901,
 		}, -- [7]
@@ -1350,10 +1350,10 @@ SkadaCharDB = {
 				{
 					["name"] = "Grandmaster's Training Dummy",
 					["damagetaken"] = 133891,
-					["id"] = "0xF1300079A8001C04",
 					["flag"] = 68136,
-					["class"] = "MONSTER",
+					["id"] = "0xF1300079A8001C04",
 					["totaldamagetaken"] = 133891,
+					["class"] = "MONSTER",
 					["damagetakenspells"] = {
 						[48158] = {
 							["sources"] = {
@@ -1434,18 +1434,6 @@ SkadaCharDB = {
 					["flag"] = 132369,
 					["class"] = "PRIEST",
 					["auras"] = {
-						[48135] = {
-							["type"] = "DEBUFF",
-							["count"] = 1,
-							["school"] = 2,
-							["targets"] = {
-								["Grandmaster's Training Dummy"] = {
-									["uptime"] = 7,
-									["count"] = 1,
-								},
-							},
-							["uptime"] = 7,
-						},
 						[48300] = {
 							["type"] = "DEBUFF",
 							["count"] = 4,
@@ -1460,11 +1448,17 @@ SkadaCharDB = {
 							},
 							["uptime"] = 160,
 						},
-						[67696] = {
-							["school"] = 1,
-							["type"] = "BUFF",
-							["count"] = 10,
-							["uptime"] = 245,
+						[48135] = {
+							["type"] = "DEBUFF",
+							["count"] = 1,
+							["school"] = 2,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["uptime"] = 7,
+									["count"] = 1,
+								},
+							},
+							["uptime"] = 7,
 						},
 						[48125] = {
 							["type"] = "DEBUFF",
@@ -1477,6 +1471,12 @@ SkadaCharDB = {
 								},
 							},
 							["uptime"] = 108,
+						},
+						[67696] = {
+							["school"] = 1,
+							["type"] = "BUFF",
+							["count"] = 10,
+							["uptime"] = 245,
 						},
 					},
 					["totaldamage"] = 133891,
@@ -1667,17 +1667,14 @@ SkadaCharDB = {
 			["type"] = "none",
 			["damage"] = 21917,
 			["etotaldamagetaken"] = 21917,
-			["overkill"] = 21803,
-			["heal"] = 10864,
-			["time"] = 45,
 			["enemies"] = {
 				{
 					["name"] = "Grandmaster's Training Dummy",
 					["damagetaken"] = 21917,
-					["id"] = "0xF1300079A8001C07",
 					["flag"] = 68136,
-					["class"] = "MONSTER",
+					["id"] = "0xF1300079A8001C07",
 					["totaldamagetaken"] = 21917,
+					["class"] = "MONSTER",
 					["damagetakenspells"] = {
 						[6603] = {
 							["sources"] = {
@@ -1721,8 +1718,11 @@ SkadaCharDB = {
 					},
 				}, -- [1]
 			},
-			["edamagetaken"] = 21917,
 			["totaldamage"] = 21917,
+			["time"] = 45,
+			["overkill"] = 21803,
+			["edamagetaken"] = 21917,
+			["heal"] = 10864,
 			["name"] = "Grandmaster's Training Dummy (2)",
 			["mobname"] = "Grandmaster's Training Dummy",
 			["players"] = {
@@ -1796,9 +1796,9 @@ SkadaCharDB = {
 							["hitamount"] = 9370,
 						},
 					},
-					["flag"] = 132369,
 					["id"] = "0x070000000074BE8D",
-					["class"] = "PRIEST",
+					["flag"] = 132369,
+					["spec"] = 256,
 					["healspells"] = {
 						[48300] = {
 							["overheal"] = 1056,
@@ -1864,13 +1864,13 @@ SkadaCharDB = {
 							["uptime"] = 16,
 						},
 					},
-					["totaldamage"] = 21917,
 					["role"] = "HEALER",
+					["heal"] = 10864,
 					["time"] = 3.5,
 					["name"] = "Reiila",
 					["overkill"] = 21803,
-					["heal"] = 10864,
-					["spec"] = 256,
+					["totaldamage"] = 21917,
+					["class"] = "PRIEST",
 					["damage"] = 21917,
 				}, -- [1]
 			},
@@ -1883,17 +1883,14 @@ SkadaCharDB = {
 			["type"] = "none",
 			["damage"] = 9863,
 			["etotaldamagetaken"] = 9863,
-			["overkill"] = 9818,
-			["heal"] = 388,
-			["time"] = 18,
 			["enemies"] = {
 				{
 					["name"] = "Grandmaster's Training Dummy",
 					["damagetaken"] = 9863,
-					["id"] = "0xF1300079A8001C07",
 					["flag"] = 68136,
-					["class"] = "MONSTER",
+					["id"] = "0xF1300079A8001C07",
 					["totaldamagetaken"] = 9863,
+					["class"] = "MONSTER",
 					["damagetakenspells"] = {
 						[6603] = {
 							["sources"] = {
@@ -1950,8 +1947,11 @@ SkadaCharDB = {
 					},
 				}, -- [1]
 			},
-			["edamagetaken"] = 9863,
 			["totaldamage"] = 9863,
+			["time"] = 18,
+			["overkill"] = 9818,
+			["edamagetaken"] = 9863,
+			["heal"] = 388,
 			["name"] = "Grandmaster's Training Dummy",
 			["mobname"] = "Grandmaster's Training Dummy",
 			["players"] = {
@@ -1994,12 +1994,12 @@ SkadaCharDB = {
 								},
 							},
 							["overkill"] = 489,
-							["critical"] = 1,
-							["criticalmax"] = 232,
 							["hitmax"] = 159,
-							["hit"] = 2,
-							["school"] = 1,
+							["criticalmax"] = 232,
+							["critical"] = 1,
 							["amount"] = 498,
+							["school"] = 1,
+							["hit"] = 2,
 							["MISS"] = 1,
 							["hitamount"] = 266,
 						},
@@ -2061,9 +2061,9 @@ SkadaCharDB = {
 							["hitamount"] = 2116,
 						},
 					},
-					["flag"] = 132369,
 					["id"] = "0x070000000074BE8D",
-					["class"] = "PRIEST",
+					["flag"] = 132369,
+					["spec"] = 256,
 					["healspells"] = {
 						[48300] = {
 							["overheal"] = 0,
@@ -2081,18 +2081,6 @@ SkadaCharDB = {
 						},
 					},
 					["auras"] = {
-						[48135] = {
-							["type"] = "DEBUFF",
-							["count"] = 1,
-							["school"] = 2,
-							["targets"] = {
-								["Grandmaster's Training Dummy"] = {
-									["uptime"] = 6,
-									["count"] = 1,
-								},
-							},
-							["uptime"] = 6,
-						},
 						[48300] = {
 							["type"] = "DEBUFF",
 							["count"] = 1,
@@ -2105,11 +2093,17 @@ SkadaCharDB = {
 							},
 							["uptime"] = 9,
 						},
-						[67696] = {
-							["school"] = 1,
-							["type"] = "BUFF",
+						[48135] = {
+							["type"] = "DEBUFF",
 							["count"] = 1,
-							["uptime"] = 10,
+							["school"] = 2,
+							["targets"] = {
+								["Grandmaster's Training Dummy"] = {
+									["uptime"] = 6,
+									["count"] = 1,
+								},
+							},
+							["uptime"] = 6,
 						},
 						[48125] = {
 							["type"] = "DEBUFF",
@@ -2123,14 +2117,20 @@ SkadaCharDB = {
 							},
 							["uptime"] = 7,
 						},
+						[67696] = {
+							["school"] = 1,
+							["type"] = "BUFF",
+							["count"] = 1,
+							["uptime"] = 10,
+						},
 					},
-					["totaldamage"] = 9863,
 					["role"] = "HEALER",
+					["heal"] = 388,
 					["time"] = 6.55,
 					["name"] = "Reiila",
 					["overkill"] = 9818,
-					["heal"] = 388,
-					["spec"] = 256,
+					["totaldamage"] = 9863,
+					["class"] = "PRIEST",
 					["damage"] = 9863,
 				}, -- [1]
 			},

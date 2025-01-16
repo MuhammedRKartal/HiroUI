@@ -1,3 +1,8 @@
+MACRO 16777249 "Affli" INV_Misc_QuestionMark
+#showtooltip Unstable Affliction
+/cast Blood Fury
+/cast Unstable Affliction
+END
 MACRO 16777241 "Chaos" INV_Misc_QuestionMark
 /cast Chaos Bolt
 /use Relentless Gladiator's Felweave Handguards
@@ -23,13 +28,14 @@ MACRO 16777244 "Felhunter" INV_Misc_QuestionMark
 /cast Fel Domination
 /cast Summon Felhunter
 END
-MACRO 16777242 "Fire Shield" INV_Misc_QuestionMark
-/cast Fire Shield
+MACRO 16777250 "Last Target" INV_Misc_QuestionMark
+/targetlasttarget
 END
 MACRO 16777247 "Metamorphosis" INV_Misc_QuestionMark
 /cast Metamorphosis
 /cast Immolation Aura(Demon)
 /cast Shadow Cleave(Demon)
+/cast Blood Fury
 END
 MACRO 16777228 "Pet Attack" Ability_GhoulFrenzy
 /petattack
@@ -58,9 +64,6 @@ MACRO 16777227 "Seed" INV_Misc_QuestionMark
 END
 MACRO 16777225 "sham" INV_Misc_QuestionMark
 /cast [target=Shambling Horror] Curse of Weakness
-END
-MACRO 16777246 "Silence" INV_Misc_QuestionMark
-/cast Spell Lock
 END
 MACRO 16777221 "Soul Fire" INV_Misc_QuestionMark
 #showtooltip Soul Fire(Rank 6)

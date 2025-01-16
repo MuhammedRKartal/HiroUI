@@ -4,6 +4,7 @@ FWDB = {
 		["Lodfarmwarr - Icecrown"] = "Default",
 		["Mayiascend - Icecrown"] = "Default",
 		["Theedgar - Icecrown"] = "Default",
+		["Spectia - Icecrown"] = "Default",
 		["Fliktah - Icecrown"] = "Default",
 		["Mayiswallow - Icecrown"] = "Default",
 		["Cezzarged - Icecrown"] = "Default",

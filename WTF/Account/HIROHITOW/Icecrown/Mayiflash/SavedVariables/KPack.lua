@@ -1,5 +1,11 @@
 
 KPackCharDB = {
+	["Automate"] = {
+		["groundmount"] = "",
+		["sets"] = {
+		},
+		["flyingmount"] = "",
+	},
 	["Postal"] = {
 		["BlackBook"] = {
 			["ExcludeRandoms"] = true,
@@ -9,27 +15,23 @@ KPackCharDB = {
 			},
 			["AutoCompleteAlts"] = true,
 			["AutoCompleteGuild"] = true,
-			["recent"] = {
-				"Mayiascend", -- [1]
-				"Babaco", -- [2]
-				"Fodth", -- [3]
-				"Elziash", -- [4]
-			},
+			["AutoCompleteFriends"] = true,
+			["AutoCompleteRecent"] = true,
 			["alts"] = {
 				"Mayiflash|Icecrown|Alliance", -- [1]
-				"Mayilick|Icecrown|Alliance", -- [2]
+				"Mayiflash|Icecrown|Horde", -- [2]
+				"Mayilick|Icecrown|Alliance", -- [3]
 			},
-			["AutoCompleteRecent"] = true,
 			["AutoCompleteContacts"] = true,
 			["DisableBlizzardAutoComplete"] = false,
-			["AutoCompleteFriends"] = true,
+			["recent"] = {
+				"Mayicrush", -- [1]
+				"Mayiascend", -- [2]
+				"Babaco", -- [3]
+				"Fodth", -- [4]
+				"Elziash", -- [5]
+			},
 		},
-	},
-	["Automate"] = {
-		["groundmount"] = "",
-		["sets"] = {
-		},
-		["flyingmount"] = "",
 	},
 	["Tooltip"] = {
 		["spell"] = false,
@@ -38,17 +40,17 @@ KPackCharDB = {
 		["yOfs"] = -100,
 		["class"] = false,
 		["unit"] = false,
-		["petspell"] = false,
+		["scale"] = 1,
 		["xOfs"] = 0,
 		["enhance"] = true,
-		["scale"] = 1,
+		["petspell"] = false,
 	},
 	["LFR"] = {
 		["currentset"] = "active",
 		["raidsets"] = {
-			["Secondary"] = {
-			},
 			["Primary"] = {
+			},
+			["Secondary"] = {
 			},
 		},
 	},

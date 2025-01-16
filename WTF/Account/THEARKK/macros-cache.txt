@@ -1,6 +1,12 @@
 MACRO 8 "Accept" INV_Misc_QuestionMark
 /run AcceptGroup()
 END
+MACRO 12 "Alch" INV_Misc_QuestionMark
+#show Alchemy
+/cast Alchemy
+/run local skills = {"Transmute: Cardinal Ruby", "Transmute: King's Amber", "Transmute: Ametrine"} for i=1,GetNumTradeSkills() do if tContains(skills, GetTradeSkillInfo(i)) then DoTradeSkill(i) end end
+/script OpenAllBags()
+END
 MACRO 1 "div" INV_Misc_QuestionMark
 /cast Divine Illumination
 /cast Meteorite Crystal

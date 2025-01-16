@@ -1,11 +1,5 @@
 
 KPackCharDB = {
-	["Automate"] = {
-		["groundmount"] = "",
-		["sets"] = {
-		},
-		["flyingmount"] = "",
-	},
 	["Tooltip"] = {
 		["spell"] = false,
 		["point"] = "RIGHT",
@@ -13,10 +7,16 @@ KPackCharDB = {
 		["yOfs"] = -100,
 		["class"] = false,
 		["unit"] = false,
-		["scale"] = 1,
+		["petspell"] = false,
 		["xOfs"] = 0,
 		["enhance"] = true,
-		["petspell"] = false,
+		["scale"] = 1,
+	},
+	["Automate"] = {
+		["groundmount"] = "",
+		["sets"] = {
+		},
+		["flyingmount"] = "",
 	},
 	["Postal"] = {
 		["BlackBook"] = {
@@ -27,23 +27,23 @@ KPackCharDB = {
 			},
 			["AutoCompleteAlts"] = true,
 			["AutoCompleteGuild"] = true,
-			["AutoCompleteFriends"] = true,
-			["AutoCompleteRecent"] = true,
-			["recent"] = {
-			},
-			["AutoCompleteContacts"] = true,
-			["DisableBlizzardAutoComplete"] = false,
 			["alts"] = {
 				"Lodfarmwarr|Icecrown|Alliance", -- [1]
 			},
+			["recent"] = {
+			},
+			["AutoCompleteRecent"] = true,
+			["AutoCompleteContacts"] = true,
+			["DisableBlizzardAutoComplete"] = false,
+			["AutoCompleteFriends"] = true,
 		},
 	},
 	["LFR"] = {
 		["currentset"] = "active",
 		["raidsets"] = {
-			["Primary"] = {
-			},
 			["Secondary"] = {
+			},
+			["Primary"] = {
 			},
 		},
 	},

@@ -3,22 +3,26 @@ CliqueDB = {
 	["char"] = {
 	},
 	["profileKeys"] = {
+		["Cezzarged - Icecrown"] = "Cezzarged - Icecrown",
+		["Analbuster - Onyxia"] = "Analbuster - Onyxia",
 		["Mayiascend - Icecrown"] = "Holy Paladin",
-		["Cezzarged - Blackrock [PvP only]"] = "Cezzarged - Blackrock [PvP only]",
+		["Mayiblast - Icecrown"] = "Mayiblast - Icecrown",
 		["Yaramiemm - Blackrock [PvP only]"] = "Yaramiemm - Blackrock [PvP only]",
 		["Plaacebo - Icecrown"] = "Plaacebo - Icecrown",
-		["Mayicurse - Icecrown"] = "Mayicurse - Icecrown",
-		["Cezzarged - Icecrown"] = "Cezzarged - Icecrown",
+		["Elynass - Icecrown"] = "Elynass - Icecrown",
+		["Yaramdk - Icecrown"] = "Yaramdk - Icecrown",
 		["Enkz - Blackrock [PvP only]"] = "Enkz - Blackrock [PvP only]",
 		["Mayistab - Icecrown"] = "Mayistab - Icecrown",
-		["Elynass - Icecrown"] = "Elynass - Icecrown",
 		["Yaramiem - Blackrock [PvP only]"] = "Yaramiem - Blackrock [PvP only]",
 		["Ancaz - Icecrown"] = "Ancaz - Icecrown",
+		["Cezzarged - Blackrock [PvP only]"] = "Cezzarged - Blackrock [PvP only]",
 		["Fareci - Icecrown"] = "Fareci - Icecrown",
-		["Analbuster - Onyxia"] = "Analbuster - Onyxia",
+		["Mayicurse - Icecrown"] = "Mayicurse - Icecrown",
 		["Dumbcuntt - Blackrock [PvP only]"] = "Dumbcuntt - Blackrock [PvP only]",
 	},
 	["profiles"] = {
+		["Cezzarged - Icecrown"] = {
+		},
 		["Holy Paladin"] = {
 			["clicksets"] = {
 				["Default"] = {
@@ -117,32 +121,34 @@ CliqueDB = {
 				["XPerl_Focus"] = true,
 				["XPerl_partypet4"] = true,
 				["TargetFrame"] = true,
-				["XPerl_FocusnameFrame"] = true,
+				["PartyMemberFrame3PetFrame"] = true,
 				["XPerl_partypet2nameFrame"] = true,
 				["XPerl_partypet1nameFrame"] = true,
-				["XPerl_Player_PetnameFrame"] = true,
+				["PartyMemberFrame2"] = true,
 				["XPerl_TargetTargetnameFrame"] = true,
 				["XPerl_FocusTargetnameFrame"] = true,
-				["XPerl_partypet4nameFrame"] = true,
+				["XPerl_party4targetFrame"] = true,
 				["XPerl_Player"] = true,
 				["XPerl_party1"] = true,
-				["XPerl_partypet3"] = true,
+				["PartyMemberFrame1"] = true,
 				["XPerl_partypet3nameFrame"] = true,
 				["XPerl_Player_Pet"] = true,
-				["XPerl_party1targetFrame"] = true,
+				["XPerl_TargetnameFrame"] = true,
 				["XPerl_party2nameFrame"] = true,
 				["XPerl_party1nameFrame"] = true,
 				["XPerl_party4"] = true,
 				["XPerl_party2"] = true,
 				["PartyMemberFrame1PetFrame"] = true,
-				["XPerl_TargetnameFrame"] = true,
-				["PartyMemberFrame1"] = true,
-				["XPerl_party4targetFrame"] = true,
-				["PartyMemberFrame2"] = true,
-				["PartyMemberFrame3PetFrame"] = true,
+				["XPerl_party1targetFrame"] = true,
+				["XPerl_partypet3"] = true,
+				["XPerl_partypet4nameFrame"] = true,
+				["XPerl_Player_PetnameFrame"] = true,
+				["XPerl_FocusnameFrame"] = true,
 			},
 		},
-		["Cezzarged - Blackrock [PvP only]"] = {
+		["Analbuster - Onyxia"] = {
+		},
+		["Mayiblast - Icecrown"] = {
 		},
 		["Yaramiemm - Blackrock [PvP only]"] = {
 		},
@@ -201,14 +207,6 @@ CliqueDB = {
 						["arg1"] = "Greater Heal",
 						["texture"] = "Interface\\Icons\\Spell_Holy_GreaterHeal",
 					},
-					["Alt-1"] = {
-						["type"] = "spell",
-						["modifier"] = "Alt-",
-						["button"] = "1",
-						["delete"] = true,
-						["arg1"] = "Prayer of Healing",
-						["texture"] = "Interface\\Icons\\Spell_Holy_PrayerOfHealing02",
-					},
 					["Shift-1"] = {
 						["type"] = "spell",
 						["modifier"] = "Shift-",
@@ -216,6 +214,14 @@ CliqueDB = {
 						["delete"] = true,
 						["arg1"] = "Flash Heal",
 						["texture"] = "Interface\\Icons\\Spell_Holy_FlashHeal",
+					},
+					["Alt-1"] = {
+						["type"] = "spell",
+						["modifier"] = "Alt-",
+						["button"] = "1",
+						["delete"] = true,
+						["arg1"] = "Prayer of Healing",
+						["texture"] = "Interface\\Icons\\Spell_Holy_PrayerOfHealing02",
 					},
 				},
 				["Out of Combat"] = {
@@ -251,48 +257,48 @@ CliqueDB = {
 				["XPerl_Focus"] = true,
 				["XPerl_partypet4"] = true,
 				["XPerl_party1nameFrame"] = true,
-				["PartyMemberFrame1"] = true,
+				["XPerl_FocusnameFrame"] = true,
 				["XPerl_partypet2nameFrame"] = true,
-				["XPerl_partypet1nameFrame"] = true,
-				["XPerl_party4targetFrame"] = true,
+				["PartyMemberFrame1"] = true,
+				["XPerl_party1targetFrame"] = true,
 				["XPerl_TargetTargetnameFrame"] = true,
 				["XPerl_FocusTargetnameFrame"] = true,
-				["PartyMemberFrame2"] = true,
+				["XPerl_Player_PetnameFrame"] = true,
 				["XPerl_Player"] = true,
 				["XPerl_party1"] = true,
-				["PartyMemberFrame3PetFrame"] = true,
+				["XPerl_partypet3"] = true,
 				["XPerl_partypet3nameFrame"] = true,
 				["XPerl_Player_Pet"] = true,
-				["PetFrame"] = true,
+				["XPerl_FocusTarget"] = true,
 				["XPerl_party2nameFrame"] = true,
 				["TargetFrame"] = true,
 				["XPerl_party4"] = true,
 				["XPerl_party2"] = true,
 				["PartyMemberFrame1PetFrame"] = true,
-				["XPerl_FocusTarget"] = true,
-				["XPerl_partypet3"] = true,
-				["XPerl_Player_PetnameFrame"] = true,
-				["XPerl_party1targetFrame"] = true,
-				["XPerl_FocusnameFrame"] = true,
+				["PetFrame"] = true,
+				["PartyMemberFrame3PetFrame"] = true,
+				["PartyMemberFrame2"] = true,
+				["XPerl_party4targetFrame"] = true,
+				["XPerl_partypet1nameFrame"] = true,
 			},
 		},
-		["Mayicurse - Icecrown"] = {
+		["Elynass - Icecrown"] = {
 		},
-		["Cezzarged - Icecrown"] = {
+		["Yaramdk - Icecrown"] = {
 		},
 		["Enkz - Blackrock [PvP only]"] = {
 		},
 		["Mayistab - Icecrown"] = {
 		},
-		["Elynass - Icecrown"] = {
-		},
 		["Yaramiem - Blackrock [PvP only]"] = {
 		},
 		["Ancaz - Icecrown"] = {
 		},
+		["Cezzarged - Blackrock [PvP only]"] = {
+		},
 		["Fareci - Icecrown"] = {
 		},
-		["Analbuster - Onyxia"] = {
+		["Mayicurse - Icecrown"] = {
 		},
 		["Dumbcuntt - Blackrock [PvP only]"] = {
 		},

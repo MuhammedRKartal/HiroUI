@@ -19,6 +19,7 @@ KPackCharDB = {
 			["AutoCompleteRecent"] = true,
 			["alts"] = {
 				"Itadori|Icecrown|Alliance", -- [1]
+				"Itadori|Icecrown|Horde", -- [2]
 			},
 			["AutoCompleteContacts"] = true,
 			["DisableBlizzardAutoComplete"] = false,

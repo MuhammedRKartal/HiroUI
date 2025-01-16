@@ -1,26 +1,29 @@
 
 ToC_AssignmentsDB = {
 	["profileKeys"] = {
-		["Enkzaly - Icecrown"] = "Enkzaly - Icecrown",
+		["Toqtir - Icecrown"] = "Toqtir - Icecrown",
 		["Mayiheal - Icecrown"] = "Mayiheal - Icecrown",
+		["Enkzaly - Icecrown"] = "Enkzaly - Icecrown",
 		["Regens - Icecrown"] = "Regens - Icecrown",
 		["Askadras - Icecrown"] = "Askadras - Icecrown",
-		["Dinozorabbas - Icecrown"] = "Dinozorabbas - Icecrown",
 		["Mayishift - Icecrown"] = "Mayishift - Icecrown",
+		["Dinozorabbas - Icecrown"] = "Dinozorabbas - Icecrown",
 		["Imacreep - Icecrown"] = "Imacreep - Icecrown",
 	},
 	["profiles"] = {
-		["Enkzaly - Icecrown"] = {
+		["Toqtir - Icecrown"] = {
 		},
 		["Mayiheal - Icecrown"] = {
+		},
+		["Enkzaly - Icecrown"] = {
 		},
 		["Regens - Icecrown"] = {
 		},
 		["Askadras - Icecrown"] = {
 		},
-		["Dinozorabbas - Icecrown"] = {
-		},
 		["Mayishift - Icecrown"] = {
+		},
+		["Dinozorabbas - Icecrown"] = {
 		},
 		["Imacreep - Icecrown"] = {
 		},

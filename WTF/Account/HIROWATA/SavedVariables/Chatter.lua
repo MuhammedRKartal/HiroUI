@@ -234,9 +234,9 @@ ChatterDB = {
 				["Default"] = {
 					["colors"] = {
 						["CHANNEL6"] = {
-							["r"] = 1.000000059138984,
-							["g"] = 0.752941220998764,
-							["b"] = 0.752941220998764,
+							["r"] = 0.8980392687954009,
+							["g"] = 0.8980392687954009,
+							["b"] = 0.8980392687954009,
 						},
 						["Raid Leader"] = {
 							["r"] = 1.000000059138984,
@@ -623,10 +623,10 @@ ChatterDB = {
 							["g"] = 0.8666667179204524,
 							["b"] = 0,
 						},
-						["AFK"] = {
+						["RAID_LEADER"] = {
 							["r"] = 1.000000059138984,
-							["g"] = 0.501960813999176,
-							["b"] = 1.000000059138984,
+							["g"] = 0.2823529578745365,
+							["b"] = 0.03529411973431706,
 						},
 						["Party Leader"] = {
 							["r"] = 0.4627451254054904,
@@ -643,10 +643,10 @@ ChatterDB = {
 							["g"] = 0.752941220998764,
 							["r"] = 1.000000059138984,
 						},
-						["RAID_LEADER"] = {
+						["AFK"] = {
 							["r"] = 1.000000059138984,
-							["g"] = 0.2823529578745365,
-							["b"] = 0.03529411973431706,
+							["g"] = 0.501960813999176,
+							["b"] = 1.000000059138984,
 						},
 						["RESTRICTED"] = {
 							["r"] = 1.000000059138984,
@@ -831,12 +831,7 @@ ChatterDB = {
 							["inset"] = 1,
 						},
 						["FRAME_9"] = {
-							["backgroundColor"] = {
-								["a"] = 0.9200000017881393,
-								["r"] = 0.1411764705882353,
-								["g"] = 0.1411764705882353,
-								["b"] = 0.1411764705882353,
-							},
+							["inset"] = 1,
 							["edgeSize"] = 1,
 							["borderColor"] = {
 								["a"] = 0.9200000017881393,
@@ -845,128 +840,133 @@ ChatterDB = {
 								["b"] = 0.1411764705882353,
 							},
 							["background"] = "Solid",
+							["backgroundColor"] = {
+								["a"] = 0.9200000017881393,
+								["r"] = 0.1411764705882353,
+								["g"] = 0.1411764705882353,
+								["b"] = 0.1411764705882353,
+							},
 							["border"] = "None",
-							["inset"] = 1,
 						},
 						["FRAME_6"] = {
-							["border"] = "None",
+							["inset"] = 1,
 							["edgeSize"] = 1,
 							["borderColor"] = {
 								["a"] = 0,
 							},
 							["background"] = "Solid",
+							["border"] = "None",
 							["backgroundColor"] = {
 								["a"] = 0.9200000017881393,
 								["r"] = 0.1411764705882353,
 								["g"] = 0.1411764705882353,
 								["b"] = 0.1411764705882353,
 							},
-							["inset"] = 1,
 						},
 						["FRAME_5"] = {
+							["inset"] = 1,
+							["edgeSize"] = 1,
+							["borderColor"] = {
+								["a"] = 0,
+							},
+							["background"] = "Solid",
 							["backgroundColor"] = {
 								["a"] = 0.9200000017881393,
 								["r"] = 0.1411764705882353,
 								["g"] = 0.1411764705882353,
 								["b"] = 0.1411764705882353,
 							},
-							["edgeSize"] = 1,
-							["borderColor"] = {
-								["a"] = 0,
-							},
-							["background"] = "Solid",
 							["border"] = "None",
-							["inset"] = 1,
 						},
 						["FRAME_8"] = {
+							["inset"] = 1,
+							["edgeSize"] = 1,
+							["borderColor"] = {
+								["a"] = 0,
+							},
+							["background"] = "Solid",
 							["backgroundColor"] = {
 								["a"] = 0.9200000017881393,
 								["r"] = 0.1411764705882353,
 								["g"] = 0.1411764705882353,
 								["b"] = 0.1411764705882353,
 							},
-							["edgeSize"] = 1,
-							["borderColor"] = {
-								["a"] = 0,
-							},
-							["background"] = "Solid",
 							["border"] = "None",
-							["inset"] = 1,
 						},
 						["FRAME_7"] = {
+							["inset"] = 1,
+							["edgeSize"] = 1,
+							["borderColor"] = {
+								["a"] = 0,
+							},
+							["background"] = "Solid",
 							["backgroundColor"] = {
 								["a"] = 0.9200000017881393,
 								["r"] = 0.1411764705882353,
 								["g"] = 0.1411764705882353,
 								["b"] = 0.1411764705882353,
 							},
-							["edgeSize"] = 1,
-							["borderColor"] = {
-								["a"] = 0,
-							},
-							["background"] = "Solid",
 							["border"] = "None",
-							["inset"] = 1,
 						},
 						["FRAME_3"] = {
+							["inset"] = 1,
+							["edgeSize"] = 1,
+							["borderColor"] = {
+								["a"] = 0,
+							},
+							["background"] = "Solid",
 							["backgroundColor"] = {
 								["a"] = 0.9200000017881393,
 								["r"] = 0.1411764705882353,
 								["g"] = 0.1411764705882353,
 								["b"] = 0.1411764705882353,
 							},
-							["edgeSize"] = 1,
-							["borderColor"] = {
-								["a"] = 0,
-							},
-							["background"] = "Solid",
 							["border"] = "None",
-							["inset"] = 1,
 						},
 						["FRAME_4"] = {
+							["inset"] = 1,
+							["edgeSize"] = 1,
+							["borderColor"] = {
+								["a"] = 0,
+							},
+							["background"] = "Solid",
 							["backgroundColor"] = {
 								["a"] = 0.9200000017881393,
 								["r"] = 0.1411764705882353,
 								["g"] = 0.1411764705882353,
 								["b"] = 0.1411764705882353,
 							},
-							["edgeSize"] = 1,
-							["borderColor"] = {
-								["a"] = 0,
-							},
-							["background"] = "Solid",
 							["border"] = "None",
-							["inset"] = 1,
 						},
 						["FRAME_10"] = {
+							["inset"] = 1,
+							["edgeSize"] = 1,
+							["borderColor"] = {
+								["a"] = 0,
+							},
+							["background"] = "Solid",
 							["backgroundColor"] = {
 								["a"] = 0.9200000017881393,
 								["r"] = 0.1411764705882353,
 								["g"] = 0.1411764705882353,
 								["b"] = 0.1411764705882353,
 							},
-							["edgeSize"] = 1,
-							["borderColor"] = {
-								["a"] = 0,
-							},
-							["background"] = "Solid",
 							["border"] = "None",
-							["inset"] = 1,
 						},
 						["FRAME_2"] = {
+							["inset"] = 1,
+							["edgeSize"] = 1,
+							["borderColor"] = {
+								["a"] = 0,
+							},
+							["background"] = "Solid",
 							["backgroundColor"] = {
 								["a"] = 0.9200000017881393,
 								["r"] = 0.1411764705882353,
 								["g"] = 0.1411764705882353,
 								["b"] = 0.1411764705882353,
 							},
-							["edgeSize"] = 1,
-							["borderColor"] = {
-								["a"] = 0,
-							},
-							["background"] = "Solid",
 							["border"] = "None",
-							["inset"] = 1,
 						},
 					},
 				},
@@ -992,24 +992,24 @@ ChatterDB = {
 						}, -- [1]
 						{
 							["point"] = "BOTTOMLEFT",
-							["xOffset"] = 0.002083286129042974,
-							["yOffset"] = 0.06973317436077954,
+							["xOffset"] = 0.001953121922574334,
+							["yOffset"] = 0.06417683325365642,
 							["height"] = 120.0000016412938,
 							["width"] = 429.999983997386,
 						}, -- [2]
 						{
 							["point"] = "BOTTOMLEFT",
 							["xOffset"] = 0,
-							["width"] = 360.8335020332552,
-							["height"] = 129.9994284194526,
-							["yOffset"] = 0.2077881709200442,
+							["width"] = 360.8335370475218,
+							["height"] = 129.9994459265859,
+							["yOffset"] = 0.202232573866098,
 						}, -- [3]
 						{
 							["point"] = "BOTTOMLEFT",
-							["height"] = 120.8333236793347,
-							["width"] = 360.0000924595478,
+							["height"] = 119.9999491198938,
+							["width"] = 360.8333619761888,
 							["xOffset"] = 0,
-							["yOffset"] = 0.1987601068682119,
+							["yOffset"] = 0.2001491228459223,
 						}, -- [4]
 						{
 							["point"] = "BOTTOMLEFT",
@@ -1020,9 +1020,9 @@ ChatterDB = {
 						}, -- [5]
 						{
 							["point"] = "BOTTOMLEFT",
-							["xOffset"] = 0.001953122050800403,
-							["width"] = 429.9999489831193,
-							["height"] = 120.0000016412938,
+							["xOffset"] = 0.001953121922574334,
+							["width"] = 429.999983997386,
+							["height"] = 120.0000103948604,
 							["yOffset"] = 0.06417683325365642,
 						}, -- [6]
 						{
@@ -1058,8 +1058,8 @@ ChatterDB = {
 		["Timestamps"] = {
 			["profiles"] = {
 				["Default"] = {
-					["colorByChannel"] = false,
 					["format"] = "%M:%S",
+					["colorByChannel"] = false,
 				},
 			},
 		},
@@ -1211,6 +1211,7 @@ ChatterDB = {
 		["Ancaz - Icecrown"] = "Default",
 		["Erindan - Icecrown"] = "Default",
 		["Mayicurse - Icecrown"] = "Default",
+		["Demonologic - Icecrown"] = "Default",
 		["Ajjde - Blackrock [PvP only]"] = "Default",
 		["Elziash - Icecrown"] = "Default",
 		["Fliktah - Icecrown"] = "Default",
@@ -1227,6 +1228,7 @@ ChatterDB = {
 		["Dumbcuntt - Blackrock [PvP only]"] = "Default",
 		["Makiio - Icecrown"] = "Default",
 		["Boomeranga - Icecrown"] = "Default",
+		["Devlis - Onyxia"] = "Default",
 		["Thunderjo - Icecrown"] = "Default",
 		["Cezzarged - Blackrock [PvP only]"] = "Default",
 		["Itadori - Icecrown"] = "Default",

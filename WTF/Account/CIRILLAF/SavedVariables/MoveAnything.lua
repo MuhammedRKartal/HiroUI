@@ -34,16 +34,6 @@ MoveAnything_CharacterSettings = {
 				-649.1674090215488, -- [5]
 			},
 		},
-		["GroupLootFrame1"] = {
-			["name"] = "GroupLootFrame1",
-			["pos"] = {
-				"BOTTOM", -- [1]
-				"UIParent", -- [2]
-				"BOTTOM", -- [3]
-				0, -- [4]
-				154.9999999316128, -- [5]
-			},
-		},
 		["UIErrorsFrame"] = {
 			["name"] = "UIErrorsFrame",
 			["scale"] = 0.6516915481099784,
@@ -53,6 +43,16 @@ MoveAnything_CharacterSettings = {
 				"TOP", -- [3]
 				978.2225974888123, -- [4]
 				-446.786105047647, -- [5]
+			},
+		},
+		["GroupLootFrame1"] = {
+			["name"] = "GroupLootFrame1",
+			["pos"] = {
+				"BOTTOM", -- [1]
+				"UIParent", -- [2]
+				"BOTTOM", -- [3]
+				0, -- [4]
+				154.9999999316128, -- [5]
 			},
 		},
 		["LootFrame"] = {

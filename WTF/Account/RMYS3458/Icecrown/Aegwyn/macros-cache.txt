@@ -10,11 +10,9 @@ MACRO 16777217 "Blast" INV_Misc_QuestionMark
 #showtooltip Arcane Blast
 /cast [nochanneling : Arcane Missiles] Arcane Blast(Rank 4) 
 END
-MACRO 16777219 "fireball" INV_Misc_QuestionMark
-/cast Berserking(Racial)
+MACRO 16777233 "CD" INV_Misc_QuestionMark
 /cast Mirror Image
-/cast Combustion
-/cast Fireball
+/cast Berserking
 END
 MACRO 16777224 "Focus" INV_Misc_QuestionMark
 /cast [@focus, exists, nodead] [] Counterspell
@@ -40,7 +38,8 @@ MACRO 16777218 "Missile" INV_Misc_QuestionMark
 /cast [nochanneling:Arcane Missiles] Arcane Missiles(Rank 13)
 END
 MACRO 16777223 "PI" Spell_Holy_PowerInfusion
-/w Blanna Power Infusion
+/w Quidisc Power Infusion
+/p Power Infusion Please
 END
 MACRO 16777230 "Rank 8" INV_Misc_QuestionMark
 /cast Flamestrike(Rank 8)

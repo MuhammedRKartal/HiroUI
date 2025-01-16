@@ -75,12 +75,12 @@ bind TAB TARGETNEARESTENEMY
 bind SHIFT-TAB TARGETPREVIOUSENEMY
 bind CTRL-TAB TARGETNEARESTFRIEND
 bind CTRL-SHIFT-TAB TARGETPREVIOUSFRIEND
-bind F1 CLICK xbouducqdkvnmyelyqrz:LeftButton
+bind F1 CLICK BT4Button37:LeftButton
 bind SHIFT-F1 TARGETPET
-bind F2 CLICK xbouducqdkvnmyelyqrz:RightButton
-bind F3 CLICK xbouducqdkvnmyelyqrz:MiddleButton
-bind F4 CLICK ojmvjkdhtkzmamqrkifo:LeftButton
-bind F5 CLICK ojmvjkdhtkzmamqrkifo:RightButton
+bind F2 CLICK BT4Button38:LeftButton
+bind F3 CLICK BT4Button39:LeftButton
+bind F4 CLICK BT4Button40:LeftButton
+bind F5 TARGETPARTYMEMBER4
 bind SHIFT-F2 TARGETPARTYPET1
 bind SHIFT-F3 TARGETPARTYPET2
 bind SHIFT-F4 TARGETPARTYPET3
@@ -95,9 +95,9 @@ bind SHIFT-T PETATTACK
 bind C CLICK BT4Button19:LeftButton
 bind B TOGGLEBACKPACK
 bind F12 TOGGLEBACKPACK
-bind F8 CLICK jlybvqczzoigyszzmaos:MiddleButton
-bind F9 CLICK thmpgmqkbwksibsldjsc:MiddleButton
-bind F10 CLICK ojmvjkdhtkzmamqrkifo:MiddleButton
+bind F8 TOGGLEBAG1
+bind F9 TOGGLEBAG2
+bind F10 TOGGLEBAG3
 bind F11 TOGGLEBAG4
 bind SHIFT-B OPENALLBAGS
 bind P TOGGLESPELLBOOK
@@ -149,5 +149,3 @@ bind ALT-" CLICK BT4Button43:LeftButton
 bind " CLICK BT4Button44:LeftButton
 bind SHIFT-E CLICK BT4Button45:LeftButton
 bind SHIFT-Q CLICK BT4Button46:LeftButton
-bind F6 CLICK jlybvqczzoigyszzmaos:LeftButton
-bind F7 CLICK jlybvqczzoigyszzmaos:RightButton

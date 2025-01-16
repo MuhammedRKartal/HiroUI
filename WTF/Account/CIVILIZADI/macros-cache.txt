@@ -30,41 +30,44 @@ MACRO 84 "Alchemy" INV_Misc_QuestionMark
 /run local skills = {"Transmute: Cardinal Ruby", "Transmute: King's Amber", "Transmute: Ametrine"} for i=1,GetNumTradeSkills() do if tContains(skills, GetTradeSkillInfo(i)) then DoTradeSkill(i) end end
 /script OpenAllBags()
 END
-MACRO 75 "Alchemy" Spell_Holy_Heroism
-/join global
-/floodchan 5
-/floodmsg WTB ALL |cffffffff|Hitem:36912:0:0:0:0:0:0:0:80|h[Saronite Ore]|h|r and |cff0070dd|Hitem:43102:0:0:0:0:0:0:0:80|h[Frozen Orb]|h|r 
-/flood
-END
 MACRO 55 "Berserker" INV_Misc_QuestionMark
 /cast Berserker Stance
 /equipslot 16 Shadowmourne
 /equipslot 17 Glorenzelg, High-Blade of the Silver Hand
 END
-MACRO 80 "Boost" Spell_Fire_BlueRainOfFire
+MACRO 90 "Boost" Spell_Fire_BlueRainOfFire
 /r Violet Hold Boost, min level required is 71.
 /r 800g per level, as a special offer 71-80 is 7000g.
 /r A full boost period takes around 45m. 
 /r You can stay afk while getting boosted.
 END
-MACRO 79 "Cardinal" Spell_Fire_BlueFireward
-/y WTB ALL
+MACRO 86 "CD" INV_Misc_QuestionMark
+/cast Death Wish
+/cast Berserking
 END
 MACRO 54 "Cleave" INV_Misc_QuestionMark
+/startattack
 /cast !Whirlwind
 /cast Cleave(Rank 8)
 /use 10
 END
 MACRO 53 "Cleave" INV_Misc_QuestionMark
+/startattack
 /cast !Bloodthirst
 /cast Cleave(Rank 8)
 /use 10
+END
+MACRO 89 "disac" INV_Misc_QuestionMark
+#showtooltip
+/cast Divine Sacrifice
+/cancelaura Divine Sacrifice
+/use Juggernaut's Vitality
 END
 MACRO 58 "Execute" INV_Misc_QuestionMark
 /cast Execute(Rank 9)
 /cast Heroic Strike(Rank 13)
 END
-MACRO 81 "Flood" Spell_Fire_BlueFlameRing
+MACRO 91 "Flood" Spell_Fire_BlueFlameRing
 /join global
 /floodmsg WTB 
 /floodchan 5
@@ -80,18 +83,21 @@ MACRO 63 "Heal" INV_Misc_QuestionMark
 /use Runic Healing Potion
 /use Fel Healthstone
 END
+MACRO 85 "Hellfire" INV_Misc_QuestionMark
+/cancelaura Power Word: Shield
+/cast Hellfire
+END
 MACRO 51 "Heroic" INV_Misc_QuestionMark
+/startattack
 /cast !Whirlwind
 /cast Heroic Strike(Rank 13)
 /use 10
 END
 MACRO 52 "Heroic" INV_Misc_QuestionMark
+/startattack
 /cast !Bloodthirst
 /cast Heroic Strike(Rank 13)
 /use 10
-END
-MACRO 76 "Insert Text" Spell_Holy_LastingDefense
-/script MacroFrameText:Insert("")
 END
 MACRO 77 "Intercept" INV_Misc_QuestionMark
 #show Intercept
@@ -112,7 +118,7 @@ MACRO 83 "JC" INV_Misc_QuestionMark
 /use Icy Prism
 /script OpenAllBags();
 END
-MACRO 82 "JewelCraft" Ability_Rogue_Distract
+MACRO 92 "JewelCraft" Ability_Rogue_Distract
 /join global
 /floodchan global
 /floodrate 60
@@ -122,12 +128,20 @@ MACRO 56 "MOInvervene" INV_Misc_QuestionMark
 /cast Defensive Stance
 /cast [@mouseover,exists,help]Intervene; Intervene
 END
+MACRO 87 "Rank1 Sb" Spell_Shadow_ShadowBolt
+/cast [@mouseover] Shadow Bolt(Rank 1)
+END
 MACRO 78 "Rend" INV_Misc_QuestionMark
 #show Rend
 /cast Battle Stance
 /cast Rend
+/cast Berserker Stance
 END
 MACRO 57 "Sunder" INV_Misc_QuestionMark
 /cast Sunder Armor
 /cast Heroic Strike(Rank 13)
+END
+MACRO 88 "Thermal" INV_Misc_QuestionMark
+/cancelaura Power Word: Shield
+/use Global Thermal Sapper Charge
 END

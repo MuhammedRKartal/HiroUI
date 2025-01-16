@@ -1,9 +1,9 @@
 Version: 1
 Frame: HealBot_Action
 FrameLevel: 12
-Anchor: LEFT
-X: 396
-Y: -234
+Anchor: BOTTOMLEFT
+X: 366
+Y: 174
 W: 105
 H: 88
 Frame: PallyPowerFrame
@@ -55,13 +55,6 @@ X: 590
 Y: -12
 W: 160
 H: 60
-Frame: _NPCScanButton
-FrameLevel: 1
-Anchor: BOTTOM
-X: 0
-Y: 128
-W: 150
-H: 42
 Frame: AfkFrame
 FrameLevel: 0
 Anchor: CENTER

@@ -2,6 +2,7 @@
 ButtonFacadeDB = {
 	["profileKeys"] = {
 		["Mayiascend - Icecrown"] = "Default",
+		["Durahun - Icecrown"] = "Default",
 		["Cezzarged - Icecrown"] = "Default",
 		["Enkz - Blackrock [PvP only]"] = "Default",
 		["Mayistab - Icecrown"] = "Default",
@@ -9,24 +10,25 @@ ButtonFacadeDB = {
 		["Bankahc - Icecrown"] = "Default",
 		["Mayicurse - Icecrown"] = "Default",
 		["Dumbcuntt - Blackrock [PvP only]"] = "Default",
+		["Hirobankw - Icecrown"] = "Default",
+		["Babaco - Icecrown"] = "Default",
 		["Yarambank - Icecrown"] = "Default",
-		["Analbuster - Blackrock [PvP only]"] = "Default",
+		["Cezzarged - Blackrock [PvP only]"] = "Default",
 		["Plaacebo - Icecrown"] = "Default",
 		["Mayilick - Icecrown"] = "Default",
 		["Trancemute - Icecrown"] = "Default",
 		["Magny - Icecrown"] = "Default",
-		["Cezzarged - Blackrock [PvP only]"] = "Default",
+		["Analbuster - Blackrock [PvP only]"] = "Default",
 		["Yaramiem - Blackrock [PvP only]"] = "Default",
-		["Kitagawa - Icecrown"] = "Default",
 		["Mayiflash - Icecrown"] = "Default",
+		["Kitagawa - Icecrown"] = "Default",
 		["Fareci - Icecrown"] = "Default",
 		["Analbuster - Onyxia"] = "Default",
-		["Babaco - Icecrown"] = "Default",
+		["Hirohitow - Icecrown"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
 			["Gloss"] = 0.28,
-			["Backdrop"] = true,
 			["Colors"] = {
 				["Pushed"] = {
 					0.2549019607843137, -- [1]
@@ -65,6 +67,7 @@ ButtonFacadeDB = {
 					1, -- [4]
 				},
 			},
+			["Backdrop"] = true,
 			["SkinID"] = "LiteStep XLT",
 		},
 	},

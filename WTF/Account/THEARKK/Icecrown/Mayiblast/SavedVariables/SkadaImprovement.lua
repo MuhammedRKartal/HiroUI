@@ -6,8 +6,8 @@ SkadaImprovementDB = {
 			{
 				["starttime"] = 1679168658,
 				["data"] = {
-					["Damage"] = 709500,
 					["ActiveTime"] = 157,
+					["Damage"] = 709500,
 				},
 			}, -- [1]
 		},
@@ -33,10 +33,10 @@ SkadaImprovementDB = {
 			{
 				["starttime"] = 1679173358,
 				["data"] = {
-					["ActiveTime"] = 145.57,
+					["Damage"] = 1052468,
 					["Interrupts"] = 1,
 					["DamageTaken"] = 23158,
-					["Damage"] = 1052468,
+					["ActiveTime"] = 145.57,
 				},
 			}, -- [1]
 		},
@@ -47,9 +47,9 @@ SkadaImprovementDB = {
 			{
 				["starttime"] = 1679169981,
 				["data"] = {
-					["Damage"] = 2821162,
-					["DamageTaken"] = 202409,
 					["ActiveTime"] = 175.18,
+					["DamageTaken"] = 202409,
+					["Damage"] = 2821162,
 				},
 			}, -- [1]
 		},
@@ -60,9 +60,9 @@ SkadaImprovementDB = {
 			{
 				["starttime"] = 1679168987,
 				["data"] = {
-					["Damage"] = 4115491,
-					["DamageTaken"] = 130036,
 					["ActiveTime"] = 203.69,
+					["DamageTaken"] = 130036,
+					["Damage"] = 4115491,
 				},
 			}, -- [1]
 		},
@@ -82,15 +82,15 @@ SkadaImprovementDB = {
 			}, -- [1]
 		},
 	},
-	["Koralon the Flame Watcher"] = {
+	["Lady Deathwhisper"] = {
 		["count"] = 1,
 		["encounters"] = {
 			{
-				["starttime"] = 1709063447,
+				["starttime"] = 1679168351,
 				["data"] = {
-					["Damage"] = 1142884,
-					["DamageTaken"] = 26113,
-					["ActiveTime"] = 109.6800000000001,
+					["ActiveTime"] = 105.71,
+					["DamageTaken"] = 41662,
+					["Damage"] = 1981171,
 				},
 			}, -- [1]
 		},
@@ -101,9 +101,9 @@ SkadaImprovementDB = {
 			{
 				["starttime"] = 1679168069,
 				["data"] = {
-					["Damage"] = 2321419,
-					["DamageTaken"] = 99709,
 					["ActiveTime"] = 118.75,
+					["DamageTaken"] = 99709,
+					["Damage"] = 2321419,
 				},
 			}, -- [1]
 		},
@@ -115,18 +115,18 @@ SkadaImprovementDB = {
 				["starttime"] = 1679171749,
 				["data"] = {
 					["Fails"] = 1,
-					["ActiveTime"] = 220.2700000000002,
-					["DamageTaken"] = 38162,
 					["Damage"] = 3746053,
+					["DamageTaken"] = 38162,
+					["ActiveTime"] = 220.2700000000002,
 				},
 			}, -- [1]
 			{
 				["starttime"] = 1708447208,
 				["data"] = {
-					["ActiveTime"] = 55.02000000000001,
+					["Damage"] = 935224,
 					["Deaths"] = 1,
 					["DamageTaken"] = 103750,
-					["Damage"] = 935224,
+					["ActiveTime"] = 55.02000000000001,
 				},
 			}, -- [2]
 		},
@@ -137,17 +137,17 @@ SkadaImprovementDB = {
 			{
 				["starttime"] = 1679170828,
 				["data"] = {
-					["Damage"] = 2985975,
-					["DamageTaken"] = 53693,
 					["ActiveTime"] = 183.43,
+					["DamageTaken"] = 53693,
+					["Damage"] = 2985975,
 				},
 			}, -- [1]
 			{
 				["starttime"] = 1708446481,
 				["data"] = {
-					["Damage"] = 3063715,
-					["DamageTaken"] = 234715,
 					["ActiveTime"] = 218.7199999999999,
+					["DamageTaken"] = 234715,
+					["Damage"] = 3063715,
 				},
 			}, -- [2]
 		},
@@ -159,9 +159,9 @@ SkadaImprovementDB = {
 				["starttime"] = 1679174987,
 				["data"] = {
 					["Fails"] = 1,
-					["ActiveTime"] = 369.4700000000001,
-					["DamageTaken"] = 114157,
 					["Damage"] = 5986955,
+					["DamageTaken"] = 114157,
+					["ActiveTime"] = 369.4700000000001,
 				},
 			}, -- [1]
 			{
@@ -172,8 +172,8 @@ SkadaImprovementDB = {
 			{
 				["starttime"] = 1679175535,
 				["data"] = {
-					["Damage"] = 336637,
 					["ActiveTime"] = 21.06,
+					["Damage"] = 336637,
 				},
 			}, -- [3]
 		},
@@ -184,25 +184,25 @@ SkadaImprovementDB = {
 			{
 				["starttime"] = 1708445648,
 				["data"] = {
-					["Damage"] = 828873,
-					["DamageTaken"] = 110905,
 					["ActiveTime"] = 85.02000000000002,
+					["DamageTaken"] = 110905,
+					["Damage"] = 828873,
 				},
 			}, -- [1]
 			{
 				["starttime"] = 1708450212,
 				["data"] = {
-					["ActiveTime"] = 168.0700000000001,
-					["DamageTaken"] = 132803,
 					["Damage"] = 2182393,
+					["DamageTaken"] = 132803,
+					["ActiveTime"] = 168.0700000000001,
 				},
 			}, -- [2]
 			{
 				["starttime"] = 1709063813,
 				["data"] = {
-					["Damage"] = 1815843,
-					["DamageTaken"] = 83911,
 					["ActiveTime"] = 144.18,
+					["DamageTaken"] = 83911,
+					["Damage"] = 1815843,
 				},
 			}, -- [3]
 			{
@@ -217,15 +217,15 @@ SkadaImprovementDB = {
 			}, -- [4]
 		},
 	},
-	["Lady Deathwhisper"] = {
+	["Koralon the Flame Watcher"] = {
 		["count"] = 1,
 		["encounters"] = {
 			{
-				["starttime"] = 1679168351,
+				["starttime"] = 1709063447,
 				["data"] = {
-					["Damage"] = 1981171,
-					["DamageTaken"] = 41662,
-					["ActiveTime"] = 105.71,
+					["ActiveTime"] = 109.6800000000001,
+					["DamageTaken"] = 26113,
+					["Damage"] = 1142884,
 				},
 			}, -- [1]
 		},

@@ -6,6 +6,7 @@ CliqueDB = {
 		["Gnomite - Icecrown"] = "Gnomite - Icecrown",
 		["Mayiascend - Icecrown"] = "Holy Paladin",
 		["Yaramiemm - Blackrock [PvP only]"] = "Yaramiemm - Blackrock [PvP only]",
+		["Koboldminer - Icecrown"] = "Koboldminer - Icecrown",
 		["Cezzarged - Icecrown"] = "Cezzarged - Icecrown",
 		["Enkz - Blackrock [PvP only]"] = "Enkz - Blackrock [PvP only]",
 		["Ancaz - Icecrown"] = "Ancaz - Icecrown",
@@ -30,6 +31,8 @@ CliqueDB = {
 		["Ilkkan - Icecrown"] = {
 		},
 		["Yaramiemm - Blackrock [PvP only]"] = {
+		},
+		["Koboldminer - Icecrown"] = {
 		},
 		["Cezzarged - Icecrown"] = {
 		},
@@ -284,9 +287,9 @@ CliqueDB = {
 				["XPerl_party1nameFrame"] = true,
 				["XPerl_FocusnameFrame"] = true,
 				["XPerl_partypet2nameFrame"] = true,
-				["PartyMemberFrame1"] = true,
-				["XPerl_party1targetFrame"] = true,
+				["XPerl_partypet1nameFrame"] = true,
 				["XPerl_TargetTargetnameFrame"] = true,
+				["XPerl_party1targetFrame"] = true,
 				["XPerl_FocusTargetnameFrame"] = true,
 				["XPerl_Player_PetnameFrame"] = true,
 				["XPerl_Player"] = true,
@@ -304,14 +307,14 @@ CliqueDB = {
 				["PartyMemberFrame3PetFrame"] = true,
 				["PartyMemberFrame2"] = true,
 				["XPerl_party4targetFrame"] = true,
-				["XPerl_partypet1nameFrame"] = true,
+				["PartyMemberFrame1"] = true,
 			},
 		},
 		["Sikelet - Icecrown"] = {
 		},
 		["Cezzarged - Blackrock [PvP only]"] = {
 		},
-		["Canubet - Icecrown"] = {
+		["Yaramiem - Blackrock [PvP only]"] = {
 		},
 		["Mayistab - Icecrown"] = {
 		},
@@ -321,7 +324,7 @@ CliqueDB = {
 		},
 		["Analbuster - Onyxia"] = {
 		},
-		["Yaramiem - Blackrock [PvP only]"] = {
+		["Canubet - Icecrown"] = {
 		},
 	},
 }

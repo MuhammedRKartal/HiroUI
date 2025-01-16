@@ -4,8 +4,9 @@ SoundAlerterDB = {
 		["Lodfarmwarr - Icecrown"] = "Default",
 		["Mayiascend - Icecrown"] = "Default",
 		["Theedgar - Icecrown"] = "Default",
-		["Mayiswallow - Icecrown"] = "Default",
 		["Diamondtema - Icecrown"] = "Default",
+		["Mayiswallow - Icecrown"] = "Default",
+		["Spectia - Icecrown"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

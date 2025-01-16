@@ -213,8 +213,8 @@ SkadaStorageDB = {
 						["c_max"] = 520,
 						["c_num"] = 1,
 						["dod_n"] = 3,
-						["mis_n"] = 2,
 						["c_min"] = 520,
+						["mis_n"] = 2,
 						["abs_n"] = 9,
 						["sources"] = {
 							["Grand Warlock Nethekurse"] = {
@@ -234,32 +234,32 @@ SkadaStorageDB = {
 						["n_max"] = 1410,
 					},
 					["30495.32"] = {
-						["r_amt"] = 792,
 						["sources"] = {
 							["Grand Warlock Nethekurse"] = {
 								["amount"] = 3169,
 							},
 						},
+						["r_amt"] = 792,
 						["count"] = 1,
 						["amount"] = 3169,
 						["n_min"] = 3169,
-						["n_max"] = 3169,
-						["n_num"] = 1,
 						["n_amt"] = 3169,
+						["n_num"] = 1,
+						["n_max"] = 3169,
 					},
 					["30478.1"] = {
-						["count"] = 4,
+						["mis_n"] = 1,
 						["sources"] = {
 							["Fel Orc Convert"] = {
 								["amount"] = 853,
 							},
 						},
-						["mis_n"] = 1,
+						["count"] = 4,
 						["amount"] = 853,
 						["n_min"] = 257,
-						["n_max"] = 300,
-						["n_num"] = 3,
 						["n_amt"] = 853,
+						["n_num"] = 3,
+						["n_max"] = 300,
 					},
 				},
 				["totaldamaged"] = 14517,
@@ -353,9 +353,9 @@ SkadaStorageDB = {
 						},
 						["n"] = 1,
 					},
-					["58597.2"] = {
-						["u"] = 5,
-						["n"] = 2,
+					["25898.2"] = {
+						["u"] = 14,
+						["n"] = 1,
 					},
 					["75456.64"] = {
 						["u"] = 5,
@@ -380,9 +380,9 @@ SkadaStorageDB = {
 						["u"] = 14,
 						["n"] = 1,
 					},
-					["25898.2"] = {
-						["u"] = 14,
-						["n"] = 1,
+					["58597.2"] = {
+						["u"] = 5,
+						["n"] = 2,
 					},
 					["20053.1"] = {
 						["u"] = 14,
@@ -392,15 +392,15 @@ SkadaStorageDB = {
 				},
 				["absorbspells"] = {
 					["58597.2"] = {
-						["n_min"] = 42,
+						["n_max"] = 1590,
 						["count"] = 10,
 						["amount"] = 4243,
 						["targets"] = {
 							["Mayiswallow"] = 4243,
 						},
-						["n_amt"] = 4243,
+						["n_min"] = 42,
 						["n_num"] = 10,
-						["n_max"] = 1590,
+						["n_amt"] = 4243,
 					},
 				},
 				["role"] = "DAMAGER",
@@ -408,7 +408,7 @@ SkadaStorageDB = {
 				["damage"] = 159410,
 				["damagespells"] = {
 					["-31803.2"] = {
-						["n_min"] = 747,
+						["n_max"] = 1928,
 						["count"] = 3,
 						["amount"] = 3880,
 						["targets"] = {
@@ -416,12 +416,12 @@ SkadaStorageDB = {
 								["amount"] = 3880,
 							},
 						},
-						["n_amt"] = 3880,
+						["n_min"] = 747,
 						["n_num"] = 3,
-						["n_max"] = 1928,
+						["n_amt"] = 3880,
 					},
 					["-48819.2"] = {
-						["n_min"] = 742,
+						["n_max"] = 857,
 						["count"] = 16,
 						["amount"] = 13597,
 						["targets"] = {
@@ -432,9 +432,9 @@ SkadaStorageDB = {
 								["amount"] = 3313,
 							},
 						},
-						["n_amt"] = 13597,
+						["n_min"] = 742,
 						["n_num"] = 16,
-						["n_max"] = 857,
+						["n_amt"] = 13597,
 					},
 					["35395.1"] = {
 						["c_amt"] = 14549,
@@ -450,7 +450,7 @@ SkadaStorageDB = {
 						["c_num"] = 2,
 					},
 					["48801.2"] = {
-						["n_min"] = 4895,
+						["n_max"] = 4895,
 						["count"] = 1,
 						["amount"] = 4895,
 						["targets"] = {
@@ -458,12 +458,12 @@ SkadaStorageDB = {
 								["amount"] = 4895,
 							},
 						},
-						["n_amt"] = 4895,
+						["n_min"] = 4895,
 						["n_num"] = 1,
-						["n_max"] = 4895,
+						["n_amt"] = 4895,
 					},
 					["-61840.2"] = {
-						["n_min"] = 642,
+						["n_max"] = 1770,
 						["targets"] = {
 							["Grand Warlock Nethekurse"] = {
 								["amount"] = 3540,
@@ -476,12 +476,12 @@ SkadaStorageDB = {
 						["count"] = 3,
 						["amount"] = 4182,
 						["o_amt"] = 314,
-						["n_amt"] = 4182,
+						["n_min"] = 642,
 						["n_num"] = 3,
-						["n_max"] = 1770,
+						["n_amt"] = 4182,
 					},
 					["71904.32"] = {
-						["n_min"] = 528,
+						["n_max"] = 564,
 						["count"] = 5,
 						["amount"] = 2710,
 						["targets"] = {
@@ -492,12 +492,12 @@ SkadaStorageDB = {
 								["amount"] = 2175,
 							},
 						},
-						["n_amt"] = 2710,
+						["n_min"] = 528,
 						["n_num"] = 5,
-						["n_max"] = 564,
+						["n_amt"] = 2710,
 					},
 					["71433.1"] = {
-						["n_min"] = 1566,
+						["n_max"] = 1794,
 						["count"] = 2,
 						["amount"] = 3360,
 						["targets"] = {
@@ -505,9 +505,9 @@ SkadaStorageDB = {
 								["amount"] = 3360,
 							},
 						},
-						["n_amt"] = 3360,
+						["n_min"] = 1566,
 						["n_num"] = 2,
-						["n_max"] = 1794,
+						["n_amt"] = 3360,
 					},
 					["31804.2"] = {
 						["c_amt"] = 7483,
@@ -535,9 +535,9 @@ SkadaStorageDB = {
 						["count"] = 8,
 						["amount"] = 9625,
 						["c_min"] = 770,
-						["n_min"] = 375,
-						["n_num"] = 3,
 						["n_amt"] = 2632,
+						["n_num"] = 3,
+						["n_min"] = 375,
 					},
 					["6603.1"] = {
 						["c_amt"] = 31145,
@@ -553,7 +553,7 @@ SkadaStorageDB = {
 						["c_num"] = 4,
 					},
 					["54043.2"] = {
-						["n_min"] = 286,
+						["n_max"] = 383,
 						["count"] = 18,
 						["amount"] = 6350,
 						["targets"] = {
@@ -564,9 +564,9 @@ SkadaStorageDB = {
 								["amount"] = 5624,
 							},
 						},
-						["n_amt"] = 6350,
+						["n_min"] = 286,
 						["n_num"] = 18,
-						["n_max"] = 383,
+						["n_amt"] = 6350,
 					},
 					["53385.1"] = {
 						["c_amt"] = 38154,
@@ -584,13 +584,13 @@ SkadaStorageDB = {
 								["amount"] = 38694,
 							},
 						},
-						["count"] = 8,
 						["c_min"] = 8307,
+						["count"] = 8,
 						["amount"] = 57634,
 						["o_amt"] = 18412,
-						["n_min"] = 4071,
-						["n_num"] = 4,
 						["n_amt"] = 19480,
+						["n_num"] = 4,
+						["n_min"] = 4071,
 					},
 				},
 				["absorb"] = 4243,
@@ -598,7 +598,7 @@ SkadaStorageDB = {
 				["spec"] = 70,
 				["healspells"] = {
 					["-54172.2"] = {
-						["n_min"] = 3228,
+						["n_max"] = 8783,
 						["targets"] = {
 							["Mayiswallow"] = {
 								["o_amt"] = 1423,
@@ -608,9 +608,9 @@ SkadaStorageDB = {
 						["count"] = 2,
 						["amount"] = 12011,
 						["o_amt"] = 1423,
-						["n_amt"] = 12011,
+						["n_min"] = 3228,
 						["n_num"] = 2,
-						["n_max"] = 8783,
+						["n_amt"] = 12011,
 					},
 				},
 				["overkill"] = 18726,
@@ -618,8 +618,8 @@ SkadaStorageDB = {
 				["manaspells"] = {
 					["31930.2"] = 1098,
 					["-57669.8"] = 96,
-					["-54428.2"] = 936,
 					["-20268.2"] = 609,
+					["-54428.2"] = 936,
 				},
 				["overheal"] = 1423,
 				["class"] = "PALADIN",
@@ -797,12 +797,12 @@ SkadaStorageDB = {
 								["amount"] = 348,
 							},
 						},
-						["count"] = 30,
+						["par_n"] = 3,
 						["amount"] = 2810,
 						["n_amt"] = 2810,
 						["abs_n"] = 7,
 						["n_num"] = 11,
-						["par_n"] = 3,
+						["count"] = 30,
 					},
 					["30494.8"] = {
 						["sources"] = {
@@ -927,15 +927,15 @@ SkadaStorageDB = {
 				},
 				["absorbspells"] = {
 					["58597.2"] = {
-						["n_min"] = 46,
+						["n_max"] = 595,
 						["count"] = 10,
 						["amount"] = 2631,
 						["targets"] = {
 							["Mayiswallow"] = 2631,
 						},
-						["n_amt"] = 2631,
+						["n_min"] = 46,
 						["n_num"] = 10,
-						["n_max"] = 595,
+						["n_amt"] = 2631,
 					},
 				},
 				["role"] = "DAMAGER",
@@ -956,7 +956,7 @@ SkadaStorageDB = {
 						["c_num"] = 1,
 					},
 					["-48819.2"] = {
-						["n_min"] = 550,
+						["n_max"] = 661,
 						["targets"] = {
 							["Creeping Ooze"] = {
 								["amount"] = 13622,
@@ -969,15 +969,15 @@ SkadaStorageDB = {
 						["count"] = 46,
 						["amount"] = 29329,
 						["o_amt"] = 446,
-						["n_amt"] = 29329,
+						["n_min"] = 550,
 						["n_num"] = 46,
-						["n_max"] = 661,
+						["n_amt"] = 29329,
 					},
 					["35395.1"] = {
 						["c_amt"] = 6346,
-						["count"] = 1,
 						["c_max"] = 6346,
-						["c_num"] = 1,
+						["count"] = 1,
+						["amount"] = 6346,
 						["o_amt"] = 5103,
 						["c_min"] = 6346,
 						["targets"] = {
@@ -986,7 +986,7 @@ SkadaStorageDB = {
 								["amount"] = 6346,
 							},
 						},
-						["amount"] = 6346,
+						["c_num"] = 1,
 					},
 					["6603.1"] = {
 						["c_amt"] = 22063,
@@ -1003,13 +1003,13 @@ SkadaStorageDB = {
 								["amount"] = 7362,
 							},
 						},
-						["n_amt"] = 3461,
-						["count"] = 4,
+						["n_min"] = 3461,
+						["c_min"] = 7123,
 						["amount"] = 25524,
 						["o_amt"] = 12151,
-						["n_min"] = 3461,
+						["n_amt"] = 3461,
 						["n_num"] = 1,
-						["c_min"] = 7123,
+						["count"] = 4,
 					},
 					["20424.2"] = {
 						["c_amt"] = 31830,
@@ -1027,16 +1027,16 @@ SkadaStorageDB = {
 								["amount"] = 15286,
 							},
 						},
-						["n_amt"] = 3512,
-						["count"] = 11,
+						["n_min"] = 1705,
+						["c_min"] = 3300,
 						["amount"] = 35342,
 						["o_amt"] = 9538,
-						["n_min"] = 1705,
+						["n_amt"] = 3512,
 						["n_num"] = 2,
-						["c_min"] = 3300,
+						["count"] = 11,
 					},
 					["54043.2"] = {
-						["n_min"] = 299,
+						["n_max"] = 303,
 						["count"] = 11,
 						["amount"] = 3312,
 						["targets"] = {
@@ -1047,9 +1047,9 @@ SkadaStorageDB = {
 								["amount"] = 1804,
 							},
 						},
-						["n_amt"] = 3312,
+						["n_min"] = 299,
 						["n_num"] = 11,
-						["n_max"] = 303,
+						["n_amt"] = 3312,
 					},
 					["53385.1"] = {
 						["c_amt"] = 16176,
@@ -1066,13 +1066,13 @@ SkadaStorageDB = {
 								["amount"] = 19976,
 							},
 						},
-						["count"] = 5,
 						["c_min"] = 7885,
+						["count"] = 5,
 						["amount"] = 28267,
 						["o_amt"] = 9261,
-						["n_min"] = 3880,
-						["n_num"] = 3,
 						["n_amt"] = 12091,
+						["n_num"] = 3,
+						["n_min"] = 3880,
 					},
 				},
 				["absorb"] = 2631,
@@ -1080,7 +1080,7 @@ SkadaStorageDB = {
 				["spec"] = 70,
 				["healspells"] = {
 					["-54172.2"] = {
-						["n_min"] = 2072,
+						["n_max"] = 4994,
 						["count"] = 2,
 						["amount"] = 7066,
 						["targets"] = {
@@ -1088,9 +1088,9 @@ SkadaStorageDB = {
 								["amount"] = 7066,
 							},
 						},
-						["n_amt"] = 7066,
+						["n_min"] = 2072,
 						["n_num"] = 2,
-						["n_max"] = 4994,
+						["n_amt"] = 7066,
 					},
 				},
 				["overkill"] = 36499,
@@ -1335,7 +1335,7 @@ SkadaStorageDB = {
 						["total"] = 1073,
 						["n_max"] = 57,
 						["dod_n"] = 3,
-						["abs_n"] = 7,
+						["n_min"] = 57,
 						["sources"] = {
 							["Creeping Oozeling"] = {
 								["total"] = 417,
@@ -1346,12 +1346,12 @@ SkadaStorageDB = {
 								["amount"] = 0,
 							},
 						},
-						["count"] = 12,
-						["amount"] = 57,
-						["n_min"] = 57,
-						["n_amt"] = 57,
-						["n_num"] = 1,
 						["par_n"] = 1,
+						["amount"] = 57,
+						["n_amt"] = 57,
+						["abs_n"] = 7,
+						["n_num"] = 1,
+						["count"] = 12,
 					},
 				},
 				["class"] = "PALADIN",
@@ -1379,6 +1379,11 @@ SkadaStorageDB = {
 						["r"] = 3,
 						["n"] = 1,
 					},
+					["71432.1"] = {
+						["u"] = 6,
+						["r"] = 2,
+						["n"] = 2,
+					},
 					["-61840.2"] = {
 						["u"] = 2,
 						["t"] = {
@@ -1391,22 +1396,17 @@ SkadaStorageDB = {
 						["r"] = 1,
 						["n"] = 2,
 					},
-					["71432.1"] = {
-						["u"] = 6,
-						["r"] = 2,
-						["n"] = 2,
-					},
 					["20053.1"] = {
 						["u"] = 6,
 						["r"] = 4,
 						["n"] = 1,
 					},
-					["25898.2"] = {
-						["u"] = 6,
-						["n"] = 1,
-					},
 					["58597.2"] = {
 						["u"] = 5,
+						["n"] = 1,
+					},
+					["25898.2"] = {
+						["u"] = 6,
 						["n"] = 1,
 					},
 					["-20186.2"] = {
@@ -1447,15 +1447,15 @@ SkadaStorageDB = {
 				},
 				["absorbspells"] = {
 					["58597.2"] = {
-						["n_min"] = 56,
+						["n_max"] = 656,
 						["count"] = 7,
 						["amount"] = 1016,
 						["targets"] = {
 							["Mayiswallow"] = 1016,
 						},
-						["n_amt"] = 1016,
+						["n_min"] = 56,
 						["n_num"] = 7,
-						["n_max"] = 656,
+						["n_amt"] = 1016,
 					},
 				},
 				["role"] = "DAMAGER",
@@ -1489,19 +1489,19 @@ SkadaStorageDB = {
 								["amount"] = 1579,
 							},
 						},
-						["count"] = 4,
 						["c_min"] = 3182,
+						["count"] = 4,
 						["amount"] = 9722,
 						["o_amt"] = 118,
-						["n_min"] = 1462,
-						["n_num"] = 2,
 						["n_amt"] = 3041,
+						["n_num"] = 2,
+						["n_min"] = 1462,
 					},
 					["35395.1"] = {
 						["c_amt"] = 5302,
-						["count"] = 1,
 						["c_max"] = 5302,
-						["c_num"] = 1,
+						["count"] = 1,
+						["amount"] = 5302,
 						["o_amt"] = 1921,
 						["c_min"] = 5302,
 						["targets"] = {
@@ -1510,10 +1510,10 @@ SkadaStorageDB = {
 								["amount"] = 5302,
 							},
 						},
-						["amount"] = 5302,
+						["c_num"] = 1,
 					},
 					["6603.1"] = {
-						["n_min"] = 3056,
+						["n_max"] = 3056,
 						["count"] = 1,
 						["amount"] = 3056,
 						["targets"] = {
@@ -1521,9 +1521,9 @@ SkadaStorageDB = {
 								["amount"] = 3056,
 							},
 						},
-						["n_amt"] = 3056,
+						["n_min"] = 3056,
 						["n_num"] = 1,
-						["n_max"] = 3056,
+						["n_amt"] = 3056,
 					},
 					["69403.2"] = {
 						["c_amt"] = 3310,
@@ -1536,16 +1536,16 @@ SkadaStorageDB = {
 								["amount"] = 4696,
 							},
 						},
-						["n_amt"] = 1386,
-						["count"] = 2,
+						["n_min"] = 1386,
+						["c_min"] = 3310,
 						["amount"] = 4696,
 						["o_amt"] = 4543,
-						["n_min"] = 1386,
+						["n_amt"] = 1386,
 						["n_num"] = 1,
-						["c_min"] = 3310,
+						["count"] = 2,
 					},
 					["54043.2"] = {
-						["n_min"] = 281,
+						["n_max"] = 281,
 						["targets"] = {
 							["Creeping Oozeling"] = {
 								["o_amt"] = 82,
@@ -1555,9 +1555,9 @@ SkadaStorageDB = {
 						["count"] = 1,
 						["amount"] = 281,
 						["o_amt"] = 82,
-						["n_amt"] = 281,
+						["n_min"] = 281,
 						["n_num"] = 1,
-						["n_max"] = 281,
+						["n_amt"] = 281,
 					},
 					["53385.1"] = {
 						["c_amt"] = 7978,
@@ -1574,13 +1574,13 @@ SkadaStorageDB = {
 								["amount"] = 10533,
 							},
 						},
-						["count"] = 4,
 						["c_min"] = 7978,
+						["count"] = 4,
 						["amount"] = 18511,
 						["o_amt"] = 3088,
-						["n_min"] = 3254,
-						["n_num"] = 3,
 						["n_amt"] = 10533,
+						["n_num"] = 3,
+						["n_min"] = 3254,
 					},
 				},
 				["absorb"] = 1016,
@@ -1588,7 +1588,7 @@ SkadaStorageDB = {
 				["spec"] = 70,
 				["healspells"] = {
 					["-54172.2"] = {
-						["n_min"] = 4627,
+						["n_max"] = 4627,
 						["count"] = 1,
 						["amount"] = 4627,
 						["targets"] = {
@@ -1596,9 +1596,9 @@ SkadaStorageDB = {
 								["amount"] = 4627,
 							},
 						},
-						["n_amt"] = 4627,
+						["n_min"] = 4627,
 						["n_num"] = 1,
-						["n_max"] = 4627,
+						["n_amt"] = 4627,
 					},
 				},
 				["overkill"] = 9752,
@@ -1673,7 +1673,7 @@ SkadaStorageDB = {
 				["last"] = 201954.363,
 				["damagedspells"] = {
 					["6603.1"] = {
-						["n_min"] = 570,
+						["dod_n"] = 1,
 						["sources"] = {
 							["Shattered Hand Brawler"] = {
 								["amount"] = 1903,
@@ -1681,10 +1681,10 @@ SkadaStorageDB = {
 						},
 						["count"] = 4,
 						["amount"] = 1903,
-						["dod_n"] = 1,
-						["n_max"] = 669,
-						["n_num"] = 3,
+						["n_min"] = 570,
 						["n_amt"] = 1903,
+						["n_num"] = 3,
+						["n_max"] = 669,
 					},
 					["36033.1"] = {
 						["sources"] = {
@@ -1694,10 +1694,10 @@ SkadaStorageDB = {
 						},
 						["count"] = 1,
 						["amount"] = 73,
-						["n_min"] = 73,
-						["n_amt"] = 73,
-						["n_num"] = 1,
 						["n_max"] = 73,
+						["n_min"] = 73,
+						["n_num"] = 1,
+						["n_amt"] = 73,
 					},
 				},
 				["mana"] = 1494,
@@ -1771,7 +1771,7 @@ SkadaStorageDB = {
 				["damage"] = 35574,
 				["damagespells"] = {
 					["53385.1"] = {
-						["n_min"] = 3808,
+						["n_max"] = 3987,
 						["count"] = 2,
 						["amount"] = 7795,
 						["targets"] = {
@@ -1779,12 +1779,12 @@ SkadaStorageDB = {
 								["amount"] = 7795,
 							},
 						},
-						["n_amt"] = 7795,
+						["n_min"] = 3808,
 						["n_num"] = 2,
-						["n_max"] = 3987,
+						["n_amt"] = 7795,
 					},
 					["20467.2"] = {
-						["n_min"] = 2449,
+						["n_max"] = 2449,
 						["count"] = 1,
 						["amount"] = 2449,
 						["targets"] = {
@@ -1792,9 +1792,9 @@ SkadaStorageDB = {
 								["amount"] = 2449,
 							},
 						},
-						["n_amt"] = 2449,
+						["n_min"] = 2449,
 						["n_num"] = 1,
-						["n_max"] = 2449,
+						["n_amt"] = 2449,
 					},
 					["20424.2"] = {
 						["c_amt"] = 3248,
@@ -1808,16 +1808,16 @@ SkadaStorageDB = {
 						},
 						["c_min"] = 3248,
 						["amount"] = 4838,
-						["n_amt"] = 1590,
 						["n_min"] = 1590,
+						["n_amt"] = 1590,
 						["n_num"] = 1,
 						["count"] = 2,
 					},
 					["35395.1"] = {
 						["c_amt"] = 5337,
-						["count"] = 1,
 						["c_max"] = 5337,
-						["c_num"] = 1,
+						["count"] = 1,
+						["amount"] = 5337,
 						["o_amt"] = 760,
 						["c_min"] = 5337,
 						["targets"] = {
@@ -1826,7 +1826,7 @@ SkadaStorageDB = {
 								["amount"] = 5337,
 							},
 						},
-						["amount"] = 5337,
+						["c_num"] = 1,
 					},
 					["6603.1"] = {
 						["c_amt"] = 6977,
@@ -1852,16 +1852,16 @@ SkadaStorageDB = {
 								["amount"] = 4972,
 							},
 						},
-						["n_amt"] = 1691,
-						["count"] = 2,
+						["n_min"] = 1691,
+						["c_min"] = 3281,
 						["amount"] = 4972,
 						["o_amt"] = 1288,
-						["n_min"] = 1691,
+						["n_amt"] = 1691,
 						["n_num"] = 1,
-						["c_min"] = 3281,
+						["count"] = 2,
 					},
 					["54043.2"] = {
-						["n_min"] = 300,
+						["n_max"] = 301,
 						["count"] = 3,
 						["amount"] = 901,
 						["targets"] = {
@@ -1869,12 +1869,12 @@ SkadaStorageDB = {
 								["amount"] = 901,
 							},
 						},
-						["n_amt"] = 901,
+						["n_min"] = 300,
 						["n_num"] = 3,
-						["n_max"] = 301,
+						["n_amt"] = 901,
 					},
 					["71904.32"] = {
-						["n_min"] = 1120,
+						["n_max"] = 1185,
 						["count"] = 2,
 						["amount"] = 2305,
 						["targets"] = {
@@ -1882,16 +1882,16 @@ SkadaStorageDB = {
 								["amount"] = 2305,
 							},
 						},
-						["n_amt"] = 2305,
+						["n_min"] = 1120,
 						["n_num"] = 2,
-						["n_max"] = 1185,
+						["n_amt"] = 2305,
 					},
 				},
 				["id"] = "0x0700000000000D41",
 				["spec"] = 70,
 				["healspells"] = {
 					["-54172.2"] = {
-						["n_min"] = 1948,
+						["n_max"] = 1948,
 						["count"] = 1,
 						["amount"] = 1948,
 						["targets"] = {
@@ -1899,9 +1899,9 @@ SkadaStorageDB = {
 								["amount"] = 1948,
 							},
 						},
-						["n_amt"] = 1948,
+						["n_min"] = 1948,
 						["n_num"] = 1,
-						["n_max"] = 1948,
+						["n_amt"] = 1948,
 					},
 				},
 				["overkill"] = 2048,
@@ -2019,11 +2019,11 @@ SkadaStorageDB = {
 		["overkill"] = 2048,
 		["starttime"] = 1717951934,
 		["heal"] = 1948,
-		["name"] = "Shattered Hand Brawler",
+		["time"] = 6,
 		["mobname"] = "Shattered Hand Brawler",
 		["edamaged"] = 35574,
 		["edamage"] = 1976,
-		["time"] = 6,
+		["name"] = "Shattered Hand Brawler",
 		["endtime"] = 1717951940,
 	}, -- [4]
 	{
@@ -2122,18 +2122,18 @@ SkadaStorageDB = {
 					["15587.32"] = {
 						["r_amt"] = 290,
 						["n_max"] = 679,
-						["count"] = 4,
-						["abs_n"] = 2,
+						["mis_n"] = 1,
+						["n_min"] = 679,
 						["sources"] = {
 							["Shadowmoon Acolyte"] = {
 								["total"] = 2109,
 								["amount"] = 679,
 							},
 						},
-						["mis_n"] = 1,
+						["count"] = 4,
 						["amount"] = 679,
-						["n_min"] = 679,
 						["n_amt"] = 679,
+						["abs_n"] = 2,
 						["n_num"] = 1,
 						["total"] = 2109,
 					},
@@ -2146,9 +2146,14 @@ SkadaStorageDB = {
 						["r"] = 5,
 						["n"] = 1,
 					},
-					["71432.1"] = {
-						["u"] = 8,
-						["r"] = 1,
+					["-61840.2"] = {
+						["u"] = 6,
+						["t"] = {
+							["Shadowmoon Acolyte"] = {
+								["u"] = 6,
+								["n"] = 2,
+							},
+						},
 						["n"] = 2,
 					},
 					["53601.2"] = {
@@ -2164,26 +2169,21 @@ SkadaStorageDB = {
 						["u"] = 8,
 						["n"] = 1,
 					},
-					["-61840.2"] = {
-						["u"] = 6,
-						["t"] = {
-							["Shadowmoon Acolyte"] = {
-								["u"] = 6,
-								["n"] = 2,
-							},
-						},
+					["71432.1"] = {
+						["u"] = 8,
+						["r"] = 1,
 						["n"] = 2,
 					},
 					["72412.1"] = {
 						["u"] = 3,
 						["n"] = 1,
 					},
-					["25898.2"] = {
-						["u"] = 8,
-						["n"] = 1,
-					},
 					["58597.2"] = {
 						["u"] = 6,
+						["n"] = 1,
+					},
+					["25898.2"] = {
+						["u"] = 8,
 						["n"] = 1,
 					},
 					["-54499.2"] = {
@@ -2225,15 +2225,15 @@ SkadaStorageDB = {
 				},
 				["absorbspells"] = {
 					["58597.2"] = {
-						["n_min"] = 705,
+						["n_max"] = 725,
 						["count"] = 2,
 						["amount"] = 1430,
 						["targets"] = {
 							["Mayiswallow"] = 1430,
 						},
-						["n_amt"] = 1430,
+						["n_min"] = 705,
 						["n_num"] = 2,
-						["n_max"] = 725,
+						["n_amt"] = 1430,
 					},
 				},
 				["role"] = "DAMAGER",
@@ -2271,7 +2271,7 @@ SkadaStorageDB = {
 						["c_num"] = 1,
 					},
 					["20424.2"] = {
-						["n_min"] = 1775,
+						["n_max"] = 1775,
 						["count"] = 1,
 						["amount"] = 1775,
 						["targets"] = {
@@ -2279,15 +2279,15 @@ SkadaStorageDB = {
 								["amount"] = 1775,
 							},
 						},
-						["n_amt"] = 1775,
+						["n_min"] = 1775,
 						["n_num"] = 1,
-						["n_max"] = 1775,
+						["n_amt"] = 1775,
 					},
 					["35395.1"] = {
 						["c_amt"] = 5617,
-						["count"] = 1,
 						["c_max"] = 5617,
-						["c_num"] = 1,
+						["count"] = 1,
+						["amount"] = 5617,
 						["o_amt"] = 2396,
 						["c_min"] = 5617,
 						["targets"] = {
@@ -2296,10 +2296,10 @@ SkadaStorageDB = {
 								["amount"] = 5617,
 							},
 						},
-						["amount"] = 5617,
+						["c_num"] = 1,
 					},
 					["-61840.2"] = {
-						["n_min"] = 347,
+						["n_max"] = 347,
 						["count"] = 2,
 						["amount"] = 694,
 						["targets"] = {
@@ -2307,9 +2307,9 @@ SkadaStorageDB = {
 								["amount"] = 694,
 							},
 						},
-						["n_amt"] = 694,
+						["n_min"] = 347,
 						["n_num"] = 2,
-						["n_max"] = 347,
+						["n_amt"] = 694,
 					},
 					["6603.1"] = {
 						["c_amt"] = 11813,
@@ -2544,32 +2544,32 @@ SkadaStorageDB = {
 				["last"] = 201929.179,
 				["damagedspells"] = {
 					["12471.32"] = {
-						["r_amt"] = 204,
 						["sources"] = {
 							["Shadowmoon Darkcaster"] = {
 								["amount"] = 478,
 							},
 						},
+						["r_amt"] = 204,
 						["count"] = 1,
 						["amount"] = 478,
 						["n_min"] = 478,
-						["n_max"] = 478,
-						["n_num"] = 1,
 						["n_amt"] = 478,
+						["n_num"] = 1,
+						["n_max"] = 478,
 					},
 					["15496.1"] = {
-						["count"] = 2,
+						["par_n"] = 1,
 						["sources"] = {
 							["Shattered Hand Reaver"] = {
 								["amount"] = 812,
 							},
 						},
-						["par_n"] = 1,
+						["count"] = 2,
 						["amount"] = 812,
 						["n_min"] = 812,
-						["n_max"] = 812,
-						["n_num"] = 1,
 						["n_amt"] = 812,
+						["n_num"] = 1,
+						["n_max"] = 812,
 					},
 					["30478.1"] = {
 						["sources"] = {
@@ -2579,10 +2579,10 @@ SkadaStorageDB = {
 						},
 						["count"] = 2,
 						["amount"] = 592,
-						["n_min"] = 291,
-						["n_amt"] = 592,
-						["n_num"] = 2,
 						["n_max"] = 301,
+						["n_min"] = 291,
+						["n_num"] = 2,
+						["n_amt"] = 592,
 					},
 					["6603.1"] = {
 						["total"] = 7088,
@@ -2608,12 +2608,12 @@ SkadaStorageDB = {
 								["amount"] = 578,
 							},
 						},
-						["count"] = 28,
+						["par_n"] = 3,
 						["amount"] = 3078,
 						["n_amt"] = 3078,
 						["abs_n"] = 7,
 						["n_num"] = 8,
-						["par_n"] = 3,
+						["count"] = 28,
 					},
 					["36023.1"] = {
 						["sources"] = {
@@ -2645,8 +2645,8 @@ SkadaStorageDB = {
 						},
 						["mis_n"] = 3,
 						["amount"] = 756,
-						["n_amt"] = 756,
 						["n_min"] = 756,
+						["n_amt"] = 756,
 						["n_num"] = 1,
 						["count"] = 4,
 					},
@@ -2759,6 +2759,14 @@ SkadaStorageDB = {
 					["-57669.8"] = {
 						["u"] = 12,
 					},
+					["58597.2"] = {
+						["u"] = 5,
+						["n"] = 2,
+					},
+					["75456.64"] = {
+						["u"] = 6,
+						["n"] = 1,
+					},
 					["-54499.2"] = {
 						["u"] = 6,
 						["t"] = {
@@ -2772,14 +2780,6 @@ SkadaStorageDB = {
 							},
 						},
 						["n"] = 2,
-					},
-					["75456.64"] = {
-						["u"] = 6,
-						["n"] = 1,
-					},
-					["25898.2"] = {
-						["u"] = 13,
-						["n"] = 1,
 					},
 					["-31803.2"] = {
 						["u"] = 5,
@@ -2806,9 +2806,9 @@ SkadaStorageDB = {
 						["u"] = 7,
 						["n"] = 1,
 					},
-					["58597.2"] = {
-						["u"] = 5,
-						["n"] = 2,
+					["25898.2"] = {
+						["u"] = 13,
+						["n"] = 1,
 					},
 					["20053.1"] = {
 						["u"] = 13,
@@ -2818,15 +2818,15 @@ SkadaStorageDB = {
 				},
 				["absorbspells"] = {
 					["58597.2"] = {
-						["n_min"] = 13,
+						["n_max"] = 1302,
 						["count"] = 9,
 						["amount"] = 4010,
 						["targets"] = {
 							["Mayiswallow"] = 4010,
 						},
-						["n_amt"] = 4010,
+						["n_min"] = 13,
 						["n_num"] = 9,
-						["n_max"] = 1302,
+						["n_amt"] = 4010,
 					},
 				},
 				["role"] = "DAMAGER",
@@ -2834,7 +2834,7 @@ SkadaStorageDB = {
 				["damage"] = 122630,
 				["damagespells"] = {
 					["-31803.2"] = {
-						["n_min"] = 277,
+						["n_max"] = 277,
 						["count"] = 1,
 						["amount"] = 277,
 						["targets"] = {
@@ -2842,15 +2842,15 @@ SkadaStorageDB = {
 								["amount"] = 277,
 							},
 						},
-						["n_amt"] = 277,
+						["n_min"] = 277,
 						["n_num"] = 1,
-						["n_max"] = 277,
+						["n_amt"] = 277,
 					},
 					["20467.2"] = {
 						["c_amt"] = 5778,
-						["count"] = 1,
 						["c_max"] = 5778,
-						["c_num"] = 1,
+						["count"] = 1,
+						["amount"] = 5778,
 						["o_amt"] = 877,
 						["c_min"] = 5778,
 						["targets"] = {
@@ -2859,10 +2859,10 @@ SkadaStorageDB = {
 								["amount"] = 5778,
 							},
 						},
-						["amount"] = 5778,
+						["c_num"] = 1,
 					},
 					["-48819.2"] = {
-						["n_min"] = 611,
+						["n_max"] = 707,
 						["count"] = 27,
 						["amount"] = 17457,
 						["targets"] = {
@@ -2882,15 +2882,15 @@ SkadaStorageDB = {
 								["amount"] = 5368,
 							},
 						},
-						["n_amt"] = 17457,
+						["n_min"] = 611,
 						["n_num"] = 27,
-						["n_max"] = 707,
+						["n_amt"] = 17457,
 					},
 					["35395.1"] = {
 						["c_amt"] = 11739,
-						["count"] = 2,
 						["c_max"] = 5934,
-						["c_num"] = 2,
+						["count"] = 2,
+						["amount"] = 11739,
 						["o_amt"] = 3602,
 						["c_min"] = 5805,
 						["targets"] = {
@@ -2902,7 +2902,7 @@ SkadaStorageDB = {
 								["amount"] = 5934,
 							},
 						},
-						["amount"] = 11739,
+						["c_num"] = 2,
 					},
 					["-61840.2"] = {
 						["total"] = 5252,
@@ -2923,16 +2923,16 @@ SkadaStorageDB = {
 								["amount"] = 1207,
 							},
 						},
-						["abs_n"] = 1,
+						["n_min"] = 372,
 						["count"] = 10,
 						["amount"] = 4648,
 						["o_amt"] = 307,
-						["n_amt"] = 4648,
+						["abs_n"] = 1,
 						["n_num"] = 9,
-						["n_min"] = 372,
+						["n_amt"] = 4648,
 					},
 					["71904.32"] = {
-						["n_min"] = 316,
+						["n_max"] = 339,
 						["count"] = 7,
 						["amount"] = 2292,
 						["targets"] = {
@@ -2955,9 +2955,9 @@ SkadaStorageDB = {
 								["amount"] = 326,
 							},
 						},
-						["n_amt"] = 2292,
+						["n_min"] = 316,
 						["n_num"] = 7,
-						["n_max"] = 339,
+						["n_amt"] = 2292,
 					},
 					["53385.1"] = {
 						["c_amt"] = 21764,
@@ -2981,9 +2981,9 @@ SkadaStorageDB = {
 						["count"] = 4,
 						["amount"] = 25314,
 						["c_min"] = 6896,
-						["n_min"] = 3550,
-						["n_num"] = 1,
 						["n_amt"] = 3550,
+						["n_num"] = 1,
+						["n_min"] = 3550,
 					},
 					["20424.2"] = {
 						["c_amt"] = 22005,
@@ -3006,13 +3006,13 @@ SkadaStorageDB = {
 								["amount"] = 6434,
 							},
 						},
-						["n_amt"] = 2011,
-						["count"] = 7,
+						["n_min"] = 2011,
+						["c_min"] = 2801,
 						["amount"] = 24016,
 						["o_amt"] = 3414,
-						["n_min"] = 2011,
+						["n_amt"] = 2011,
 						["n_num"] = 1,
-						["c_min"] = 2801,
+						["count"] = 7,
 					},
 					["6603.1"] = {
 						["c_amt"] = 7827,
@@ -3031,13 +3031,13 @@ SkadaStorageDB = {
 								["amount"] = 3586,
 							},
 						},
-						["count"] = 3,
 						["c_min"] = 7827,
+						["count"] = 3,
 						["amount"] = 14946,
 						["o_amt"] = 1178,
-						["n_min"] = 3533,
-						["n_num"] = 2,
 						["n_amt"] = 7119,
+						["n_num"] = 2,
+						["n_min"] = 3533,
 					},
 					["42463.2"] = {
 						["c_amt"] = 2225,
@@ -3069,7 +3069,7 @@ SkadaStorageDB = {
 						["c_num"] = 2,
 					},
 					["54043.2"] = {
-						["n_min"] = 299,
+						["n_max"] = 318,
 						["count"] = 8,
 						["amount"] = 2416,
 						["targets"] = {
@@ -3086,9 +3086,9 @@ SkadaStorageDB = {
 								["amount"] = 300,
 							},
 						},
-						["n_amt"] = 2416,
+						["n_min"] = 299,
 						["n_num"] = 8,
-						["n_max"] = 318,
+						["n_amt"] = 2416,
 					},
 					["31804.2"] = {
 						["c_amt"] = 4822,
@@ -3109,7 +3109,7 @@ SkadaStorageDB = {
 				["spec"] = 70,
 				["healspells"] = {
 					["-54172.2"] = {
-						["n_min"] = 690,
+						["n_max"] = 690,
 						["count"] = 1,
 						["amount"] = 690,
 						["targets"] = {
@@ -3117,17 +3117,17 @@ SkadaStorageDB = {
 								["amount"] = 690,
 							},
 						},
-						["n_amt"] = 690,
+						["n_min"] = 690,
 						["n_num"] = 1,
-						["n_max"] = 690,
+						["n_amt"] = 690,
 					},
 				},
 				["overkill"] = 9378,
 				["heal"] = 690,
 				["manaspells"] = {
 					["-57669.8"] = 144,
-					["-54428.2"] = 624,
 					["-20268.2"] = 348,
+					["-54428.2"] = 624,
 					["31930.2"] = 2196,
 				},
 				["totaldamage"] = 124093,
@@ -3751,10 +3751,10 @@ SkadaStorageDB = {
 						["total"] = 10611,
 						["b_amt"] = 618,
 						["dod_n"] = 4,
-						["n_max"] = 728,
+						["blo_n"] = 1,
 						["n_min"] = 485,
-						["count"] = 25,
 						["par_n"] = 1,
+						["count"] = 25,
 						["sources"] = {
 							["Shattered Hand Reaver"] = {
 								["total"] = 1833,
@@ -3773,7 +3773,7 @@ SkadaStorageDB = {
 						["n_amt"] = 8711,
 						["abs_n"] = 3,
 						["n_num"] = 14,
-						["blo_n"] = 1,
+						["n_max"] = 728,
 					},
 					["30471.1"] = {
 						["sources"] = {
@@ -3797,10 +3797,10 @@ SkadaStorageDB = {
 						},
 						["count"] = 2,
 						["amount"] = 1384,
-						["n_min"] = 648,
-						["n_amt"] = 1384,
-						["n_num"] = 2,
 						["n_max"] = 736,
+						["n_min"] = 648,
+						["n_num"] = 2,
+						["n_amt"] = 1384,
 					},
 				},
 				["totaldamaged"] = 13404,
@@ -3904,9 +3904,15 @@ SkadaStorageDB = {
 						},
 						["n"] = 1,
 					},
-					["58597.2"] = {
+					["-54499.2"] = {
 						["u"] = 3,
-						["n"] = 2,
+						["t"] = {
+							["Shattered Hand Legionnaire"] = {
+								["u"] = 3,
+								["n"] = 1,
+							},
+						},
+						["n"] = 1,
 					},
 					["31801.2"] = {
 						["u"] = 9,
@@ -3925,15 +3931,9 @@ SkadaStorageDB = {
 						["u"] = 8,
 						["n"] = 1,
 					},
-					["-54499.2"] = {
+					["58597.2"] = {
 						["u"] = 3,
-						["t"] = {
-							["Shattered Hand Legionnaire"] = {
-								["u"] = 3,
-								["n"] = 1,
-							},
-						},
-						["n"] = 1,
+						["n"] = 2,
 					},
 					["20053.1"] = {
 						["u"] = 9,
@@ -3943,15 +3943,15 @@ SkadaStorageDB = {
 				},
 				["absorbspells"] = {
 					["58597.2"] = {
-						["n_min"] = 94,
+						["n_max"] = 2019,
 						["count"] = 4,
 						["amount"] = 3309,
 						["targets"] = {
 							["Mayiswallow"] = 3309,
 						},
-						["n_amt"] = 3309,
+						["n_min"] = 94,
 						["n_num"] = 4,
-						["n_max"] = 2019,
+						["n_amt"] = 3309,
 					},
 				},
 				["role"] = "DAMAGER",
@@ -3959,7 +3959,7 @@ SkadaStorageDB = {
 				["damage"] = 158786,
 				["damagespells"] = {
 					["-31803.2"] = {
-						["n_min"] = 801,
+						["n_max"] = 801,
 						["targets"] = {
 							["Shattered Hand Legionnaire"] = {
 								["o_amt"] = 796,
@@ -3969,12 +3969,12 @@ SkadaStorageDB = {
 						["count"] = 1,
 						["amount"] = 801,
 						["o_amt"] = 796,
-						["n_amt"] = 801,
+						["n_min"] = 801,
 						["n_num"] = 1,
-						["n_max"] = 801,
+						["n_amt"] = 801,
 					},
 					["-48819.2"] = {
-						["n_min"] = 541,
+						["n_max"] = 745,
 						["count"] = 37,
 						["amount"] = 25919,
 						["targets"] = {
@@ -3988,15 +3988,15 @@ SkadaStorageDB = {
 								["amount"] = 2126,
 							},
 						},
-						["n_amt"] = 25919,
+						["n_min"] = 541,
 						["n_num"] = 37,
-						["n_max"] = 745,
+						["n_amt"] = 25919,
 					},
 					["35395.1"] = {
 						["c_amt"] = 6779,
-						["count"] = 1,
 						["c_max"] = 6779,
-						["c_num"] = 1,
+						["count"] = 1,
+						["amount"] = 6779,
 						["o_amt"] = 6582,
 						["c_min"] = 6779,
 						["targets"] = {
@@ -4005,10 +4005,10 @@ SkadaStorageDB = {
 								["amount"] = 6779,
 							},
 						},
-						["amount"] = 6779,
+						["c_num"] = 1,
 					},
 					["-61840.2"] = {
-						["n_min"] = 602,
+						["n_max"] = 711,
 						["count"] = 7,
 						["amount"] = 4674,
 						["targets"] = {
@@ -4022,12 +4022,12 @@ SkadaStorageDB = {
 								["amount"] = 3361,
 							},
 						},
-						["n_amt"] = 4674,
+						["n_min"] = 602,
 						["n_num"] = 7,
-						["n_max"] = 711,
+						["n_amt"] = 4674,
 					},
 					["71904.32"] = {
-						["n_min"] = 366,
+						["n_max"] = 398,
 						["count"] = 6,
 						["amount"] = 2282,
 						["targets"] = {
@@ -4041,9 +4041,9 @@ SkadaStorageDB = {
 								["amount"] = 370,
 							},
 						},
-						["n_amt"] = 2282,
+						["n_min"] = 366,
 						["n_num"] = 6,
-						["n_max"] = 398,
+						["n_amt"] = 2282,
 					},
 					["71433.1"] = {
 						["c_amt"] = 7040,
@@ -4101,12 +4101,12 @@ SkadaStorageDB = {
 						["count"] = 2,
 						["amount"] = 11439,
 						["c_min"] = 7786,
-						["n_min"] = 3653,
-						["n_num"] = 1,
 						["n_amt"] = 3653,
+						["n_num"] = 1,
+						["n_min"] = 3653,
 					},
 					["54043.2"] = {
-						["n_min"] = 309,
+						["n_max"] = 326,
 						["count"] = 14,
 						["amount"] = 4455,
 						["targets"] = {
@@ -4120,9 +4120,9 @@ SkadaStorageDB = {
 								["amount"] = 3497,
 							},
 						},
-						["n_amt"] = 4455,
+						["n_min"] = 309,
 						["n_num"] = 14,
-						["n_max"] = 326,
+						["n_amt"] = 4455,
 					},
 					["53385.1"] = {
 						["c_amt"] = 64694,
@@ -4140,13 +4140,13 @@ SkadaStorageDB = {
 								["amount"] = 36782,
 							},
 						},
-						["n_amt"] = 22017,
-						["count"] = 12,
+						["n_min"] = 3965,
+						["c_min"] = 8569,
 						["amount"] = 86711,
 						["o_amt"] = 24455,
-						["n_min"] = 3965,
+						["n_amt"] = 22017,
 						["n_num"] = 5,
-						["c_min"] = 8569,
+						["count"] = 12,
 					},
 				},
 				["absorb"] = 3309,
@@ -4154,7 +4154,7 @@ SkadaStorageDB = {
 				["spec"] = 70,
 				["healspells"] = {
 					["-54172.2"] = {
-						["n_min"] = 666,
+						["n_max"] = 5716,
 						["count"] = 3,
 						["amount"] = 10761,
 						["targets"] = {
@@ -4162,9 +4162,9 @@ SkadaStorageDB = {
 								["amount"] = 10761,
 							},
 						},
-						["n_amt"] = 10761,
+						["n_min"] = 666,
 						["n_num"] = 3,
-						["n_max"] = 5716,
+						["n_amt"] = 10761,
 					},
 				},
 				["overkill"] = 31833,
@@ -4316,10 +4316,10 @@ SkadaStorageDB = {
 						},
 						["count"] = 1,
 						["amount"] = 651,
-						["n_min"] = 651,
-						["n_amt"] = 651,
-						["n_num"] = 1,
 						["n_max"] = 651,
+						["n_min"] = 651,
+						["n_num"] = 1,
+						["n_amt"] = 651,
 					},
 					["30478.1"] = {
 						["par_n"] = 1,
@@ -4361,9 +4361,9 @@ SkadaStorageDB = {
 						["par_n"] = 1,
 						["amount"] = 7073,
 						["count"] = 23,
-						["n_min"] = 217,
-						["n_num"] = 13,
 						["n_amt"] = 7073,
+						["n_num"] = 13,
+						["n_min"] = 217,
 					},
 					["30471.1"] = {
 						["total"] = 1570,
@@ -4378,18 +4378,18 @@ SkadaStorageDB = {
 						},
 					},
 					["12471.32"] = {
-						["r_amt"] = 147,
 						["sources"] = {
 							["Shadowmoon Darkcaster"] = {
 								["amount"] = 591,
 							},
 						},
+						["r_amt"] = 147,
 						["count"] = 1,
 						["amount"] = 591,
 						["n_min"] = 591,
-						["n_max"] = 591,
-						["n_num"] = 1,
 						["n_amt"] = 591,
+						["n_num"] = 1,
+						["n_max"] = 591,
 					},
 				},
 				["class"] = "PALADIN",
@@ -4518,15 +4518,15 @@ SkadaStorageDB = {
 				},
 				["absorbspells"] = {
 					["58597.2"] = {
-						["n_min"] = 18,
+						["n_max"] = 812,
 						["count"] = 8,
 						["amount"] = 4448,
 						["targets"] = {
 							["Mayiswallow"] = 4448,
 						},
-						["n_amt"] = 4448,
+						["n_min"] = 18,
 						["n_num"] = 8,
-						["n_max"] = 812,
+						["n_amt"] = 4448,
 					},
 				},
 				["role"] = "DAMAGER",
@@ -4534,7 +4534,7 @@ SkadaStorageDB = {
 				["damage"] = 125207,
 				["damagespells"] = {
 					["-31803.2"] = {
-						["n_min"] = 350,
+						["n_max"] = 350,
 						["targets"] = {
 							["Shattered Hand Sharpshooter"] = {
 								["o_amt"] = 202,
@@ -4544,12 +4544,12 @@ SkadaStorageDB = {
 						["count"] = 1,
 						["amount"] = 350,
 						["o_amt"] = 202,
-						["n_amt"] = 350,
+						["n_min"] = 350,
 						["n_num"] = 1,
-						["n_max"] = 350,
+						["n_amt"] = 350,
 					},
 					["-48819.2"] = {
-						["n_min"] = 618,
+						["n_max"] = 644,
 						["targets"] = {
 							["Shattered Hand Reaver"] = {
 								["amount"] = 1932,
@@ -4569,9 +4569,9 @@ SkadaStorageDB = {
 						["count"] = 17,
 						["amount"] = 10922,
 						["o_amt"] = 740,
-						["n_amt"] = 10922,
+						["n_min"] = 618,
 						["n_num"] = 17,
-						["n_max"] = 644,
+						["n_amt"] = 10922,
 					},
 					["35395.1"] = {
 						["c_amt"] = 6462,
@@ -4588,13 +4588,13 @@ SkadaStorageDB = {
 						},
 						["c_min"] = 6462,
 						["amount"] = 9283,
-						["n_amt"] = 2821,
 						["n_min"] = 2821,
+						["n_amt"] = 2821,
 						["n_num"] = 1,
 						["count"] = 2,
 					},
 					["-61840.2"] = {
-						["n_min"] = 584,
+						["n_max"] = 1065,
 						["count"] = 7,
 						["amount"] = 4743,
 						["targets"] = {
@@ -4608,12 +4608,12 @@ SkadaStorageDB = {
 								["amount"] = 1342,
 							},
 						},
-						["n_amt"] = 4743,
+						["n_min"] = 584,
 						["n_num"] = 7,
-						["n_max"] = 1065,
+						["n_amt"] = 4743,
 					},
 					["71904.32"] = {
-						["n_min"] = 436,
+						["n_max"] = 471,
 						["count"] = 5,
 						["amount"] = 2268,
 						["targets"] = {
@@ -4630,9 +4630,9 @@ SkadaStorageDB = {
 								["amount"] = 437,
 							},
 						},
-						["n_amt"] = 2268,
+						["n_min"] = 436,
 						["n_num"] = 5,
-						["n_max"] = 471,
+						["n_amt"] = 2268,
 					},
 					["71433.1"] = {
 						["c_amt"] = 10329,
@@ -4684,16 +4684,16 @@ SkadaStorageDB = {
 								["amount"] = 6338,
 							},
 						},
-						["count"] = 4,
 						["c_min"] = 6338,
+						["count"] = 4,
 						["amount"] = 16661,
 						["o_amt"] = 4114,
-						["n_min"] = 3244,
-						["n_num"] = 3,
 						["n_amt"] = 10323,
+						["n_num"] = 3,
+						["n_min"] = 3244,
 					},
 					["42463.2"] = {
-						["n_min"] = 328,
+						["n_max"] = 328,
 						["count"] = 1,
 						["amount"] = 328,
 						["targets"] = {
@@ -4701,12 +4701,12 @@ SkadaStorageDB = {
 								["amount"] = 328,
 							},
 						},
-						["n_amt"] = 328,
+						["n_min"] = 328,
 						["n_num"] = 1,
-						["n_max"] = 328,
+						["n_amt"] = 328,
 					},
 					["54043.2"] = {
-						["n_min"] = 304,
+						["n_max"] = 306,
 						["targets"] = {
 							["Shattered Hand Reaver"] = {
 								["o_amt"] = 126,
@@ -4725,9 +4725,9 @@ SkadaStorageDB = {
 						["count"] = 13,
 						["amount"] = 3973,
 						["o_amt"] = 126,
-						["n_amt"] = 3973,
+						["n_min"] = 304,
 						["n_num"] = 13,
-						["n_max"] = 306,
+						["n_amt"] = 3973,
 					},
 					["53385.1"] = {
 						["c_amt"] = 51966,
@@ -4750,13 +4750,13 @@ SkadaStorageDB = {
 								["amount"] = 12818,
 							},
 						},
-						["n_amt"] = 7963,
-						["count"] = 8,
+						["n_min"] = 3765,
+						["c_min"] = 7566,
 						["amount"] = 59929,
 						["o_amt"] = 2200,
-						["n_min"] = 3765,
+						["n_amt"] = 7963,
 						["n_num"] = 2,
-						["c_min"] = 7566,
+						["count"] = 8,
 					},
 				},
 				["absorb"] = 4448,
@@ -4764,7 +4764,7 @@ SkadaStorageDB = {
 				["spec"] = 70,
 				["healspells"] = {
 					["-54172.2"] = {
-						["n_min"] = 1907,
+						["n_max"] = 6408,
 						["count"] = 3,
 						["amount"] = 11202,
 						["targets"] = {
@@ -4772,9 +4772,9 @@ SkadaStorageDB = {
 								["amount"] = 11202,
 							},
 						},
-						["n_amt"] = 11202,
+						["n_min"] = 1907,
 						["n_num"] = 3,
-						["n_max"] = 6408,
+						["n_amt"] = 11202,
 					},
 				},
 				["overkill"] = 7382,
@@ -4782,8 +4782,8 @@ SkadaStorageDB = {
 				["manaspells"] = {
 					["-57669.8"] = 108,
 					["31930.2"] = 1098,
-					["-20268.2"] = 87,
 					["-54428.2"] = 936,
+					["-20268.2"] = 87,
 				},
 				["mana"] = 2229,
 				["totaldamaged"] = 12763,
@@ -5061,16 +5061,6 @@ SkadaStorageDB = {
 				},
 				["damage"] = 591,
 				["damagedspells"] = {
-					["-48819.2"] = {
-						["o_amt"] = 121,
-						["sources"] = {
-							["Mayiswallow"] = {
-								["o_amt"] = 121,
-								["amount"] = 644,
-							},
-						},
-						["amount"] = 644,
-					},
 					["71433.1"] = {
 						["sources"] = {
 							["Mayiswallow"] = {
@@ -5086,6 +5076,16 @@ SkadaStorageDB = {
 							},
 						},
 						["amount"] = 1342,
+					},
+					["-48819.2"] = {
+						["o_amt"] = 121,
+						["sources"] = {
+							["Mayiswallow"] = {
+								["o_amt"] = 121,
+								["amount"] = 644,
+							},
+						},
+						["amount"] = 644,
 					},
 					["71904.32"] = {
 						["sources"] = {
@@ -5212,24 +5212,24 @@ SkadaStorageDB = {
 						},
 						["count"] = 1,
 						["amount"] = 756,
-						["n_min"] = 756,
-						["n_amt"] = 756,
-						["n_num"] = 1,
 						["n_max"] = 756,
+						["n_min"] = 756,
+						["n_num"] = 1,
+						["n_amt"] = 756,
 					},
 					["30478.1"] = {
-						["n_max"] = 288,
+						["n_min"] = 288,
 						["sources"] = {
 							["Fel Orc Convert"] = {
 								["amount"] = 288,
 							},
 						},
-						["mis_n"] = 2,
+						["count"] = 3,
 						["amount"] = 288,
-						["n_min"] = 288,
+						["n_max"] = 288,
 						["n_amt"] = 288,
 						["n_num"] = 1,
-						["count"] = 3,
+						["mis_n"] = 2,
 					},
 					["30474.1"] = {
 						["sources"] = {
@@ -5239,10 +5239,10 @@ SkadaStorageDB = {
 						},
 						["count"] = 1,
 						["amount"] = 610,
-						["n_min"] = 610,
-						["n_amt"] = 610,
-						["n_num"] = 1,
 						["n_max"] = 610,
+						["n_min"] = 610,
+						["n_num"] = 1,
+						["n_amt"] = 610,
 					},
 					["30471.1"] = {
 						["total"] = 611,
@@ -5259,11 +5259,11 @@ SkadaStorageDB = {
 					["6603.1"] = {
 						["total"] = 9439,
 						["b_amt"] = 888,
-						["n_min"] = 222,
-						["n_max"] = 722,
 						["n_amt"] = 5329,
-						["mis_n"] = 7,
+						["blo_n"] = 2,
+						["abs_n"] = 9,
 						["par_n"] = 2,
+						["mis_n"] = 7,
 						["sources"] = {
 							["Shattered Hand Reaver"] = {
 								["amount"] = 1236,
@@ -5288,9 +5288,9 @@ SkadaStorageDB = {
 						["count"] = 37,
 						["amount"] = 5329,
 						["dod_n"] = 5,
-						["abs_n"] = 9,
+						["n_min"] = 222,
 						["n_num"] = 12,
-						["blo_n"] = 2,
+						["n_max"] = 722,
 					},
 				},
 				["totaldamaged"] = 11704,
@@ -5380,10 +5380,6 @@ SkadaStorageDB = {
 						},
 						["n"] = 1,
 					},
-					["25898.2"] = {
-						["u"] = 16,
-						["n"] = 1,
-					},
 					["-54499.2"] = {
 						["u"] = 2,
 						["t"] = {
@@ -5393,6 +5389,10 @@ SkadaStorageDB = {
 							},
 						},
 						["n"] = 2,
+					},
+					["25898.2"] = {
+						["u"] = 16,
+						["n"] = 1,
 					},
 					["31801.2"] = {
 						["u"] = 16,
@@ -5416,17 +5416,17 @@ SkadaStorageDB = {
 								["u"] = 4,
 								["n"] = 1,
 							},
+							["Shattered Hand Legionnaire"] = {
+								["u"] = 4,
+								["r"] = 1,
+								["n"] = 1,
+							},
 							["Shattered Hand Sharpshooter"] = {
 								["u"] = 1,
 								["n"] = 1,
 							},
 							["Shattered Hand Heathen"] = {
 								["u"] = 1,
-								["n"] = 1,
-							},
-							["Shattered Hand Legionnaire"] = {
-								["u"] = 4,
-								["r"] = 1,
 								["n"] = 1,
 							},
 						},
@@ -5441,15 +5441,15 @@ SkadaStorageDB = {
 				},
 				["absorbspells"] = {
 					["58597.2"] = {
-						["n_min"] = 1,
+						["n_max"] = 831,
 						["count"] = 11,
 						["amount"] = 4153,
 						["targets"] = {
 							["Mayiswallow"] = 4153,
 						},
-						["n_amt"] = 4153,
+						["n_min"] = 1,
 						["n_num"] = 11,
-						["n_max"] = 831,
+						["n_amt"] = 4153,
 					},
 				},
 				["role"] = "DAMAGER",
@@ -5457,7 +5457,7 @@ SkadaStorageDB = {
 				["damage"] = 159951,
 				["damagespells"] = {
 					["-31803.2"] = {
-						["n_min"] = 397,
+						["n_max"] = 397,
 						["count"] = 1,
 						["amount"] = 397,
 						["targets"] = {
@@ -5465,12 +5465,12 @@ SkadaStorageDB = {
 								["amount"] = 397,
 							},
 						},
-						["n_amt"] = 397,
+						["n_min"] = 397,
 						["n_num"] = 1,
-						["n_max"] = 397,
+						["n_amt"] = 397,
 					},
 					["-48819.2"] = {
-						["n_min"] = 600,
+						["n_max"] = 730,
 						["targets"] = {
 							["Shattered Hand Reaver"] = {
 								["o_amt"] = 323,
@@ -5494,9 +5494,9 @@ SkadaStorageDB = {
 						["count"] = 43,
 						["amount"] = 28556,
 						["o_amt"] = 1882,
-						["n_amt"] = 28556,
+						["n_min"] = 600,
 						["n_num"] = 43,
-						["n_max"] = 730,
+						["n_amt"] = 28556,
 					},
 					["35395.1"] = {
 						["c_amt"] = 13857,
@@ -5513,13 +5513,13 @@ SkadaStorageDB = {
 						},
 						["c_min"] = 6746,
 						["amount"] = 16816,
-						["n_amt"] = 2959,
 						["n_min"] = 2959,
+						["n_amt"] = 2959,
 						["n_num"] = 1,
 						["count"] = 3,
 					},
 					["-61840.2"] = {
-						["n_min"] = 682,
+						["n_max"] = 1231,
 						["count"] = 3,
 						["amount"] = 2595,
 						["targets"] = {
@@ -5530,12 +5530,12 @@ SkadaStorageDB = {
 								["amount"] = 1231,
 							},
 						},
-						["n_amt"] = 2595,
+						["n_min"] = 682,
 						["n_num"] = 3,
-						["n_max"] = 1231,
+						["n_amt"] = 2595,
 					},
 					["71904.32"] = {
-						["n_min"] = 436,
+						["n_max"] = 479,
 						["count"] = 4,
 						["amount"] = 1837,
 						["targets"] = {
@@ -5552,9 +5552,9 @@ SkadaStorageDB = {
 								["amount"] = 462,
 							},
 						},
-						["n_amt"] = 1837,
+						["n_min"] = 436,
 						["n_num"] = 4,
-						["n_max"] = 479,
+						["n_amt"] = 1837,
 					},
 					["71433.1"] = {
 						["c_amt"] = 3881,
@@ -5568,16 +5568,16 @@ SkadaStorageDB = {
 						},
 						["c_min"] = 3881,
 						["amount"] = 5802,
-						["n_amt"] = 1921,
 						["n_min"] = 1921,
+						["n_amt"] = 1921,
 						["n_num"] = 1,
 						["count"] = 2,
 					},
 					["31804.2"] = {
 						["c_amt"] = 12456,
-						["count"] = 2,
 						["c_max"] = 6600,
-						["c_num"] = 2,
+						["count"] = 2,
+						["amount"] = 12456,
 						["o_amt"] = 2534,
 						["c_min"] = 5856,
 						["targets"] = {
@@ -5589,7 +5589,7 @@ SkadaStorageDB = {
 								["amount"] = 5856,
 							},
 						},
-						["amount"] = 12456,
+						["c_num"] = 2,
 					},
 					["42463.2"] = {
 						["c_amt"] = 737,
@@ -5610,32 +5610,32 @@ SkadaStorageDB = {
 						["c_num"] = 4,
 						["n_max"] = 3316,
 						["targets"] = {
-							["Shattered Hand Legionnaire"] = {
-								["o_amt"] = 4896,
-								["amount"] = 10258,
+							["Shattered Hand Heathen"] = {
+								["amount"] = 7471,
 							},
 							["Fel Orc Convert"] = {
 								["o_amt"] = 2686,
 								["amount"] = 6416,
 							},
+							["Shattered Hand Legionnaire"] = {
+								["o_amt"] = 4896,
+								["amount"] = 10258,
+							},
 							["Shattered Hand Sharpshooter"] = {
 								["o_amt"] = 2458,
 								["amount"] = 8147,
 							},
-							["Shattered Hand Heathen"] = {
-								["amount"] = 7471,
-							},
 						},
-						["n_amt"] = 3316,
-						["count"] = 5,
+						["n_min"] = 3316,
+						["c_min"] = 6416,
 						["amount"] = 32292,
 						["o_amt"] = 10040,
-						["n_min"] = 3316,
+						["n_amt"] = 3316,
 						["n_num"] = 1,
-						["c_min"] = 6416,
+						["count"] = 5,
 					},
 					["54043.2"] = {
-						["n_min"] = 299,
+						["n_max"] = 323,
 						["count"] = 12,
 						["amount"] = 3714,
 						["targets"] = {
@@ -5655,9 +5655,9 @@ SkadaStorageDB = {
 								["amount"] = 605,
 							},
 						},
-						["n_amt"] = 3714,
+						["n_min"] = 299,
 						["n_num"] = 12,
-						["n_max"] = 323,
+						["n_amt"] = 3714,
 					},
 					["53385.1"] = {
 						["c_amt"] = 36933,
@@ -5684,9 +5684,9 @@ SkadaStorageDB = {
 						["count"] = 8,
 						["amount"] = 54749,
 						["c_min"] = 8839,
-						["n_min"] = 4162,
-						["n_num"] = 4,
 						["n_amt"] = 17816,
+						["n_num"] = 4,
+						["n_min"] = 4162,
 					},
 				},
 				["absorb"] = 4153,
@@ -5694,7 +5694,7 @@ SkadaStorageDB = {
 				["spec"] = 70,
 				["healspells"] = {
 					["-54172.2"] = {
-						["n_min"] = 3390,
+						["n_max"] = 6387,
 						["count"] = 2,
 						["amount"] = 9777,
 						["targets"] = {
@@ -5702,9 +5702,9 @@ SkadaStorageDB = {
 								["amount"] = 9777,
 							},
 						},
-						["n_amt"] = 9777,
+						["n_min"] = 3390,
 						["n_num"] = 2,
-						["n_max"] = 6387,
+						["n_amt"] = 9777,
 					},
 				},
 				["overkill"] = 14456,
@@ -5741,93 +5741,93 @@ SkadaStorageDB = {
 					},
 				},
 			},
-			["Shattered Hand Heathen"] = {
+			["Shattered Hand Legionnaire"] = {
 				["damagespells"] = {
 					["6603.1"] = {
-						["total"] = 1994,
+						["total"] = 2305,
 						["targets"] = {
 							["Mayiswallow"] = {
-								["total"] = 1994,
-								["amount"] = 588,
+								["total"] = 2305,
+								["amount"] = 1008,
 							},
 						},
-						["amount"] = 588,
-					},
-					["30474.1"] = {
-						["targets"] = {
-							["Mayiswallow"] = {
-								["amount"] = 610,
-							},
-						},
-						["amount"] = 610,
+						["amount"] = 1008,
 					},
 				},
-				["totaldamage"] = 2604,
+				["totaldamage"] = 2305,
 				["enemy"] = true,
+				["id"] = "0xF13000413C0000BC",
 				["damagedspells"] = {
-					["71904.32"] = {
+					["-31803.2"] = {
 						["sources"] = {
 							["Mayiswallow"] = {
-								["amount"] = 436,
+								["amount"] = 397,
 							},
 						},
-						["amount"] = 436,
+						["amount"] = 397,
+					},
+					["31804.2"] = {
+						["sources"] = {
+							["Mayiswallow"] = {
+								["amount"] = 6600,
+							},
+						},
+						["amount"] = 6600,
 					},
 					["-48819.2"] = {
-						["o_amt"] = 905,
 						["sources"] = {
 							["Mayiswallow"] = {
-								["o_amt"] = 905,
-								["amount"] = 6900,
+								["amount"] = 3247,
 							},
 						},
-						["amount"] = 6900,
+						["amount"] = 3247,
+					},
+					["-61840.2"] = {
+						["sources"] = {
+							["Mayiswallow"] = {
+								["amount"] = 1231,
+							},
+						},
+						["amount"] = 1231,
 					},
 					["6603.1"] = {
+						["o_amt"] = 4896,
 						["sources"] = {
 							["Mayiswallow"] = {
-								["amount"] = 7471,
+								["o_amt"] = 4896,
+								["amount"] = 10258,
 							},
 						},
-						["amount"] = 7471,
-					},
-					["42463.2"] = {
-						["sources"] = {
-							["Mayiswallow"] = {
-								["amount"] = 737,
-							},
-						},
-						["amount"] = 737,
-					},
-					["71433.1"] = {
-						["sources"] = {
-							["Mayiswallow"] = {
-								["amount"] = 5802,
-							},
-						},
-						["amount"] = 5802,
-					},
-					["54043.2"] = {
-						["sources"] = {
-							["Mayiswallow"] = {
-								["amount"] = 323,
-							},
-						},
-						["amount"] = 323,
+						["amount"] = 10258,
 					},
 					["53385.1"] = {
 						["sources"] = {
 							["Mayiswallow"] = {
-								["amount"] = 18713,
+								["amount"] = 9342,
 							},
 						},
-						["amount"] = 18713,
+						["amount"] = 9342,
+					},
+					["54043.2"] = {
+						["sources"] = {
+							["Mayiswallow"] = {
+								["amount"] = 605,
+							},
+						},
+						["amount"] = 605,
+					},
+					["71904.32"] = {
+						["sources"] = {
+							["Mayiswallow"] = {
+								["amount"] = 462,
+							},
+						},
+						["amount"] = 462,
 					},
 				},
-				["id"] = "0xF13000440C0000BE",
 				["class"] = "MONSTER",
-				["damaged"] = 40382,
-				["damage"] = 1198,
+				["damaged"] = 32142,
+				["damage"] = 1008,
 			},
 			["Fel Orc Convert"] = {
 				["damagespells"] = {
@@ -5921,93 +5921,93 @@ SkadaStorageDB = {
 				["damaged"] = 45090,
 				["damage"] = 1513,
 			},
-			["Shattered Hand Legionnaire"] = {
+			["Shattered Hand Heathen"] = {
 				["damagespells"] = {
 					["6603.1"] = {
-						["total"] = 2305,
+						["total"] = 1994,
 						["targets"] = {
 							["Mayiswallow"] = {
-								["total"] = 2305,
-								["amount"] = 1008,
+								["total"] = 1994,
+								["amount"] = 588,
 							},
 						},
-						["amount"] = 1008,
+						["amount"] = 588,
+					},
+					["30474.1"] = {
+						["targets"] = {
+							["Mayiswallow"] = {
+								["amount"] = 610,
+							},
+						},
+						["amount"] = 610,
 					},
 				},
-				["totaldamage"] = 2305,
+				["totaldamage"] = 2604,
 				["enemy"] = true,
-				["id"] = "0xF13000413C0000BC",
 				["damagedspells"] = {
-					["-31803.2"] = {
+					["71904.32"] = {
 						["sources"] = {
 							["Mayiswallow"] = {
-								["amount"] = 397,
+								["amount"] = 436,
 							},
 						},
-						["amount"] = 397,
-					},
-					["31804.2"] = {
-						["sources"] = {
-							["Mayiswallow"] = {
-								["amount"] = 6600,
-							},
-						},
-						["amount"] = 6600,
+						["amount"] = 436,
 					},
 					["-48819.2"] = {
+						["o_amt"] = 905,
 						["sources"] = {
 							["Mayiswallow"] = {
-								["amount"] = 3247,
+								["o_amt"] = 905,
+								["amount"] = 6900,
 							},
 						},
-						["amount"] = 3247,
-					},
-					["-61840.2"] = {
-						["sources"] = {
-							["Mayiswallow"] = {
-								["amount"] = 1231,
-							},
-						},
-						["amount"] = 1231,
+						["amount"] = 6900,
 					},
 					["6603.1"] = {
-						["o_amt"] = 4896,
 						["sources"] = {
 							["Mayiswallow"] = {
-								["o_amt"] = 4896,
-								["amount"] = 10258,
+								["amount"] = 7471,
 							},
 						},
-						["amount"] = 10258,
+						["amount"] = 7471,
 					},
-					["53385.1"] = {
+					["42463.2"] = {
 						["sources"] = {
 							["Mayiswallow"] = {
-								["amount"] = 9342,
+								["amount"] = 737,
 							},
 						},
-						["amount"] = 9342,
+						["amount"] = 737,
+					},
+					["71433.1"] = {
+						["sources"] = {
+							["Mayiswallow"] = {
+								["amount"] = 5802,
+							},
+						},
+						["amount"] = 5802,
 					},
 					["54043.2"] = {
 						["sources"] = {
 							["Mayiswallow"] = {
-								["amount"] = 605,
+								["amount"] = 323,
 							},
 						},
-						["amount"] = 605,
+						["amount"] = 323,
 					},
-					["71904.32"] = {
+					["53385.1"] = {
 						["sources"] = {
 							["Mayiswallow"] = {
-								["amount"] = 462,
+								["amount"] = 18713,
 							},
 						},
-						["amount"] = 462,
+						["amount"] = 18713,
 					},
 				},
+				["id"] = "0xF13000440C0000BE",
 				["class"] = "MONSTER",
-				["damaged"] = 32142,
-				["damage"] = 1008,
+				["damaged"] = 40382,
+				["damage"] = 1198,
 			},
 			["Shattered Hand Sharpshooter"] = {
 				["damagespells"] = {
@@ -6306,7 +6306,7 @@ SkadaStorageDB = {
 						["par_n"] = 1,
 					},
 					["30474.1"] = {
-						["n_min"] = 299,
+						["dod_n"] = 1,
 						["sources"] = {
 							["Shattered Hand Heathen"] = {
 								["amount"] = 930,
@@ -6314,26 +6314,26 @@ SkadaStorageDB = {
 						},
 						["count"] = 3,
 						["amount"] = 930,
-						["dod_n"] = 1,
-						["n_max"] = 631,
-						["n_num"] = 2,
+						["n_min"] = 299,
 						["n_amt"] = 930,
+						["n_num"] = 2,
+						["n_max"] = 631,
 					},
 					["15587.32"] = {
 						["total"] = 3684,
 						["n_max"] = 756,
-						["count"] = 14,
-						["abs_n"] = 3,
+						["mis_n"] = 7,
+						["n_min"] = 169,
 						["sources"] = {
 							["Shadowmoon Acolyte"] = {
 								["total"] = 3684,
 								["amount"] = 1530,
 							},
 						},
-						["mis_n"] = 7,
+						["count"] = 14,
 						["amount"] = 1530,
-						["n_min"] = 169,
 						["n_amt"] = 1530,
+						["abs_n"] = 3,
 						["n_num"] = 4,
 						["r_amt"] = 502,
 					},
@@ -6348,13 +6348,13 @@ SkadaStorageDB = {
 						},
 						["count"] = 4,
 						["amount"] = 966,
-						["abs_n"] = 1,
-						["n_amt"] = 966,
-						["n_num"] = 3,
 						["n_min"] = 309,
+						["abs_n"] = 1,
+						["n_num"] = 3,
+						["n_amt"] = 966,
 					},
 					["31553.1"] = {
-						["n_min"] = 73,
+						["dod_n"] = 2,
 						["sources"] = {
 							["Shattered Hand Sentry"] = {
 								["amount"] = 190,
@@ -6362,10 +6362,10 @@ SkadaStorageDB = {
 						},
 						["count"] = 4,
 						["amount"] = 190,
-						["dod_n"] = 2,
-						["n_max"] = 117,
-						["n_num"] = 2,
+						["n_min"] = 73,
 						["n_amt"] = 190,
+						["n_num"] = 2,
+						["n_max"] = 117,
 					},
 					["30478.1"] = {
 						["sources"] = {
@@ -6375,51 +6375,10 @@ SkadaStorageDB = {
 						},
 						["count"] = 4,
 						["amount"] = 987,
-						["n_min"] = 151,
-						["n_amt"] = 987,
-						["n_num"] = 4,
 						["n_max"] = 303,
-					},
-					["22911.1"] = {
-						["sources"] = {
-							["Shattered Hand Sentry"] = {
-								["amount"] = 1088,
-							},
-						},
-						["count"] = 2,
-						["amount"] = 1088,
-						["n_min"] = 541,
-						["n_amt"] = 1088,
-						["n_num"] = 2,
-						["n_max"] = 547,
-					},
-					["12471.32"] = {
-						["r_amt"] = 362,
-						["n_max"] = 703,
-						["sources"] = {
-							["Shadowmoon Darkcaster"] = {
-								["total"] = 1801,
-								["amount"] = 1693,
-							},
-						},
-						["count"] = 3,
-						["amount"] = 1693,
-						["total"] = 1801,
-						["n_min"] = 404,
-						["n_num"] = 3,
-						["n_amt"] = 1693,
-					},
-					["-11990.4"] = {
-						["total"] = 93,
-						["count"] = 1,
-						["amount"] = 0,
-						["abs_n"] = 1,
-						["sources"] = {
-							["Shadowmoon Darkcaster"] = {
-								["total"] = 93,
-								["amount"] = 0,
-							},
-						},
+						["n_min"] = 151,
+						["n_num"] = 4,
+						["n_amt"] = 987,
 					},
 					["6603.1"] = {
 						["c_amt"] = 4812,
@@ -6461,6 +6420,47 @@ SkadaStorageDB = {
 						["n_amt"] = 19933,
 						["n_num"] = 57,
 						["abs_n"] = 18,
+					},
+					["12471.32"] = {
+						["r_amt"] = 362,
+						["n_max"] = 703,
+						["sources"] = {
+							["Shadowmoon Darkcaster"] = {
+								["total"] = 1801,
+								["amount"] = 1693,
+							},
+						},
+						["count"] = 3,
+						["amount"] = 1693,
+						["total"] = 1801,
+						["n_amt"] = 1693,
+						["n_num"] = 3,
+						["n_min"] = 404,
+					},
+					["-11990.4"] = {
+						["total"] = 93,
+						["count"] = 1,
+						["amount"] = 0,
+						["abs_n"] = 1,
+						["sources"] = {
+							["Shadowmoon Darkcaster"] = {
+								["total"] = 93,
+								["amount"] = 0,
+							},
+						},
+					},
+					["22911.1"] = {
+						["sources"] = {
+							["Shattered Hand Sentry"] = {
+								["amount"] = 1088,
+							},
+						},
+						["count"] = 2,
+						["amount"] = 1088,
+						["n_max"] = 547,
+						["n_min"] = 541,
+						["n_num"] = 2,
+						["n_amt"] = 1088,
 					},
 				},
 				["mana"] = 6474,
@@ -6558,21 +6558,21 @@ SkadaStorageDB = {
 								["u"] = 10,
 								["n"] = 2,
 							},
-							["Shadowmoon Acolyte"] = {
-								["u"] = 3,
-								["n"] = 1,
-							},
 							["Fel Orc Convert"] = {
 								["u"] = 9,
 								["n"] = 2,
 							},
-							["Shattered Hand Heathen"] = {
-								["u"] = 10,
-								["n"] = 2,
+							["Shadowmoon Acolyte"] = {
+								["u"] = 3,
+								["n"] = 1,
 							},
 							["Shattered Hand Legionnaire"] = {
 								["u"] = 10,
 								["n"] = 1,
+							},
+							["Shattered Hand Heathen"] = {
+								["u"] = 10,
+								["n"] = 2,
 							},
 						},
 						["n"] = 10,
@@ -6630,9 +6630,9 @@ SkadaStorageDB = {
 						["u"] = 2,
 						["n"] = 1,
 					},
-					["58597.2"] = {
-						["u"] = 9,
-						["n"] = 5,
+					["25898.2"] = {
+						["u"] = 31,
+						["n"] = 1,
 					},
 					["-57669.8"] = {
 						["u"] = 29,
@@ -6660,9 +6660,9 @@ SkadaStorageDB = {
 						["u"] = 31,
 						["n"] = 1,
 					},
-					["25898.2"] = {
-						["u"] = 31,
-						["n"] = 1,
+					["58597.2"] = {
+						["u"] = 9,
+						["n"] = 5,
 					},
 					["20053.1"] = {
 						["u"] = 31,
@@ -6672,15 +6672,15 @@ SkadaStorageDB = {
 				},
 				["absorbspells"] = {
 					["58597.2"] = {
-						["n_min"] = 93,
+						["n_max"] = 811,
 						["count"] = 25,
 						["amount"] = 8685,
 						["targets"] = {
 							["Mayiswallow"] = 8685,
 						},
-						["n_amt"] = 8685,
+						["n_min"] = 93,
 						["n_num"] = 25,
-						["n_max"] = 811,
+						["n_amt"] = 8685,
 					},
 				},
 				["role"] = "DAMAGER",
@@ -6688,7 +6688,7 @@ SkadaStorageDB = {
 				["damage"] = 286853,
 				["damagespells"] = {
 					["-31803.2"] = {
-						["n_min"] = 323,
+						["n_max"] = 375,
 						["count"] = 4,
 						["amount"] = 1367,
 						["targets"] = {
@@ -6702,9 +6702,9 @@ SkadaStorageDB = {
 								["amount"] = 375,
 							},
 						},
-						["n_amt"] = 1367,
+						["n_min"] = 323,
 						["n_num"] = 4,
-						["n_max"] = 375,
+						["n_amt"] = 1367,
 					},
 					["-48819.2"] = {
 						["total"] = 46862,
@@ -6717,12 +6717,6 @@ SkadaStorageDB = {
 								["o_amt"] = 648,
 								["amount"] = 11075,
 							},
-							["Shattered Hand Legionnaire"] = {
-								["amount"] = 6550,
-							},
-							["Fel Orc Convert"] = {
-								["amount"] = 5875,
-							},
 							["Shattered Hand Heathen"] = {
 								["total"] = 9050,
 								["amount"] = 8439,
@@ -6730,14 +6724,20 @@ SkadaStorageDB = {
 							["Shadowmoon Acolyte"] = {
 								["amount"] = 1212,
 							},
+							["Shattered Hand Legionnaire"] = {
+								["amount"] = 6550,
+							},
+							["Fel Orc Convert"] = {
+								["amount"] = 5875,
+							},
 						},
-						["abs_n"] = 1,
+						["n_min"] = 601,
 						["count"] = 72,
 						["amount"] = 46251,
 						["o_amt"] = 648,
-						["n_amt"] = 46251,
+						["abs_n"] = 1,
 						["n_num"] = 71,
-						["n_min"] = 601,
+						["n_amt"] = 46251,
 					},
 					["35395.1"] = {
 						["c_amt"] = 6534,
@@ -6757,42 +6757,42 @@ SkadaStorageDB = {
 								["amount"] = 9396,
 							},
 						},
-						["count"] = 4,
 						["c_min"] = 6534,
+						["count"] = 4,
 						["amount"] = 15134,
 						["o_amt"] = 7229,
-						["n_min"] = 2724,
-						["n_num"] = 3,
 						["n_amt"] = 8600,
+						["n_num"] = 3,
+						["n_min"] = 2724,
 					},
 					["-61840.2"] = {
 						["total"] = 8812,
 						["n_max"] = 713,
 						["targets"] = {
-							["Shattered Hand Legionnaire"] = {
-								["o_amt"] = 44,
-								["amount"] = 483,
+							["Shattered Hand Heathen"] = {
+								["total"] = 3558,
+								["amount"] = 2954,
 							},
 							["Fel Orc Convert"] = {
 								["o_amt"] = 216,
 								["amount"] = 1277,
 							},
+							["Shattered Hand Legionnaire"] = {
+								["o_amt"] = 44,
+								["amount"] = 483,
+							},
 							["Shattered Hand Sentry"] = {
 								["o_amt"] = 513,
 								["amount"] = 3494,
 							},
-							["Shattered Hand Heathen"] = {
-								["total"] = 3558,
-								["amount"] = 2954,
-							},
 						},
-						["abs_n"] = 1,
+						["n_min"] = 483,
 						["count"] = 14,
 						["amount"] = 8208,
 						["o_amt"] = 773,
-						["n_amt"] = 8208,
+						["abs_n"] = 1,
 						["n_num"] = 13,
-						["n_min"] = 483,
+						["n_amt"] = 8208,
 					},
 					["71904.32"] = {
 						["total"] = 4505,
@@ -6823,10 +6823,10 @@ SkadaStorageDB = {
 						},
 						["count"] = 15,
 						["amount"] = 4323,
-						["abs_n"] = 1,
-						["n_amt"] = 4323,
-						["n_num"] = 14,
 						["n_min"] = 245,
+						["abs_n"] = 1,
+						["n_num"] = 14,
+						["n_amt"] = 4323,
 					},
 					["71433.1"] = {
 						["c_amt"] = 10205,
@@ -6849,8 +6849,8 @@ SkadaStorageDB = {
 						},
 						["c_min"] = 3075,
 						["amount"] = 13378,
-						["n_amt"] = 3173,
 						["n_min"] = 1550,
+						["n_amt"] = 3173,
 						["n_num"] = 2,
 						["count"] = 5,
 					},
@@ -6886,13 +6886,13 @@ SkadaStorageDB = {
 								["amount"] = 8363,
 							},
 						},
-						["count"] = 15,
 						["c_min"] = 7397,
+						["count"] = 15,
 						["amount"] = 98294,
 						["o_amt"] = 12722,
-						["n_min"] = 3286,
-						["n_num"] = 6,
 						["n_amt"] = 23540,
+						["n_num"] = 6,
+						["n_min"] = 3286,
 					},
 					["42463.2"] = {
 						["c_amt"] = 3555,
@@ -6940,16 +6940,16 @@ SkadaStorageDB = {
 								["amount"] = 13673,
 							},
 						},
-						["count"] = 9,
 						["c_min"] = 6519,
+						["count"] = 9,
 						["amount"] = 52164,
 						["o_amt"] = 6826,
-						["n_min"] = 2915,
-						["n_num"] = 3,
 						["n_amt"] = 9583,
+						["n_num"] = 3,
+						["n_min"] = 2915,
 					},
 					["54043.2"] = {
-						["n_min"] = 234,
+						["n_max"] = 312,
 						["targets"] = {
 							["Shattered Hand Sentry"] = {
 								["amount"] = 3011,
@@ -6971,15 +6971,15 @@ SkadaStorageDB = {
 						["count"] = 66,
 						["amount"] = 19975,
 						["o_amt"] = 74,
-						["n_amt"] = 19975,
+						["n_min"] = 234,
 						["n_num"] = 66,
-						["n_max"] = 312,
+						["n_amt"] = 19975,
 					},
 					["31804.2"] = {
 						["c_amt"] = 24204,
-						["count"] = 4,
 						["c_max"] = 6600,
-						["c_num"] = 4,
+						["count"] = 4,
+						["amount"] = 24204,
 						["o_amt"] = 6818,
 						["c_min"] = 5261,
 						["targets"] = {
@@ -6998,7 +6998,7 @@ SkadaStorageDB = {
 								["amount"] = 5261,
 							},
 						},
-						["amount"] = 24204,
+						["c_num"] = 4,
 					},
 				},
 				["absorb"] = 8685,
@@ -7006,7 +7006,7 @@ SkadaStorageDB = {
 				["spec"] = 70,
 				["healspells"] = {
 					["-54172.2"] = {
-						["n_min"] = 606,
+						["n_max"] = 7846,
 						["count"] = 4,
 						["amount"] = 19395,
 						["targets"] = {
@@ -7014,9 +7014,9 @@ SkadaStorageDB = {
 								["amount"] = 19395,
 							},
 						},
-						["n_amt"] = 19395,
+						["n_min"] = 606,
 						["n_num"] = 4,
-						["n_max"] = 7846,
+						["n_amt"] = 19395,
 					},
 					["48785.2"] = {
 						["c_amt"] = 5008,
@@ -7032,7 +7032,7 @@ SkadaStorageDB = {
 						["c_num"] = 1,
 					},
 					["-54203.2"] = {
-						["n_min"] = 751,
+						["n_max"] = 751,
 						["count"] = 4,
 						["amount"] = 3004,
 						["targets"] = {
@@ -7040,9 +7040,9 @@ SkadaStorageDB = {
 								["amount"] = 3004,
 							},
 						},
-						["n_amt"] = 3004,
+						["n_min"] = 751,
 						["n_num"] = 4,
-						["n_max"] = 751,
+						["n_amt"] = 3004,
 					},
 				},
 				["overkill"] = 35090,
@@ -7050,8 +7050,8 @@ SkadaStorageDB = {
 				["manaspells"] = {
 					["31930.2"] = 4392,
 					["-57669.8"] = 348,
-					["-20268.2"] = 174,
 					["-54428.2"] = 1560,
+					["-20268.2"] = 174,
 				},
 				["totaldamage"] = 288250,
 				["totaldamaged"] = 40814,
@@ -7303,13 +7303,21 @@ SkadaStorageDB = {
 						},
 						["amount"] = 6600,
 					},
-					["71433.1"] = {
+					["-48819.2"] = {
 						["sources"] = {
 							["Mayiswallow"] = {
-								["amount"] = 3526,
+								["amount"] = 1212,
 							},
 						},
-						["amount"] = 3526,
+						["amount"] = 1212,
+					},
+					["6603.1"] = {
+						["sources"] = {
+							["Mayiswallow"] = {
+								["amount"] = 6224,
+							},
+						},
+						["amount"] = 6224,
 					},
 					["35395.1"] = {
 						["o_amt"] = 1038,
@@ -7329,21 +7337,13 @@ SkadaStorageDB = {
 						},
 						["amount"] = 1383,
 					},
-					["6603.1"] = {
+					["71433.1"] = {
 						["sources"] = {
 							["Mayiswallow"] = {
-								["amount"] = 6224,
+								["amount"] = 3526,
 							},
 						},
-						["amount"] = 6224,
-					},
-					["-48819.2"] = {
-						["sources"] = {
-							["Mayiswallow"] = {
-								["amount"] = 1212,
-							},
-						},
-						["amount"] = 1212,
+						["amount"] = 3526,
 					},
 					["71904.32"] = {
 						["sources"] = {
@@ -7489,6 +7489,14 @@ SkadaStorageDB = {
 						},
 						["amount"] = 4625,
 					},
+					["35395.1"] = {
+						["sources"] = {
+							["Mayiswallow"] = {
+								["amount"] = 3014,
+							},
+						},
+						["amount"] = 3014,
+					},
 					["6603.1"] = {
 						["o_amt"] = 6507,
 						["sources"] = {
@@ -7498,14 +7506,6 @@ SkadaStorageDB = {
 							},
 						},
 						["amount"] = 13673,
-					},
-					["35395.1"] = {
-						["sources"] = {
-							["Mayiswallow"] = {
-								["amount"] = 3014,
-							},
-						},
-						["amount"] = 3014,
 					},
 					["42463.2"] = {
 						["sources"] = {
@@ -7602,6 +7602,14 @@ SkadaStorageDB = {
 						},
 						["amount"] = 11868,
 					},
+					["42463.2"] = {
+						["sources"] = {
+							["Mayiswallow"] = {
+								["amount"] = 1529,
+							},
+						},
+						["amount"] = 1529,
+					},
 					["35395.1"] = {
 						["o_amt"] = 2963,
 						["sources"] = {
@@ -7619,14 +7627,6 @@ SkadaStorageDB = {
 							},
 						},
 						["amount"] = 3608,
-					},
-					["42463.2"] = {
-						["sources"] = {
-							["Mayiswallow"] = {
-								["amount"] = 1529,
-							},
-						},
-						["amount"] = 1529,
 					},
 					["54043.2"] = {
 						["sources"] = {
@@ -7656,18 +7656,18 @@ SkadaStorageDB = {
 					["6603.1"] = {
 						["total"] = 2646,
 						["n_max"] = 603,
-						["count"] = 7,
-						["abs_n"] = 3,
+						["mis_n"] = 1,
+						["n_min"] = 35,
 						["sources"] = {
 							["Shattered Hand Sentry"] = {
 								["total"] = 2646,
 								["amount"] = 638,
 							},
 						},
-						["mis_n"] = 1,
+						["count"] = 7,
 						["amount"] = 638,
-						["n_min"] = 35,
 						["n_amt"] = 638,
+						["abs_n"] = 3,
 						["n_num"] = 2,
 						["dod_n"] = 1,
 					},
@@ -7771,15 +7771,15 @@ SkadaStorageDB = {
 				},
 				["absorbspells"] = {
 					["58597.2"] = {
-						["n_min"] = 486,
+						["n_max"] = 520,
 						["count"] = 4,
 						["amount"] = 2008,
 						["targets"] = {
 							["Mayiswallow"] = 2008,
 						},
-						["n_amt"] = 2008,
+						["n_min"] = 486,
 						["n_num"] = 4,
-						["n_max"] = 520,
+						["n_amt"] = 2008,
 					},
 				},
 				["role"] = "DAMAGER",
@@ -7787,7 +7787,7 @@ SkadaStorageDB = {
 				["damage"] = 29832,
 				["damagespells"] = {
 					["-31803.2"] = {
-						["n_min"] = 358,
+						["n_max"] = 358,
 						["count"] = 1,
 						["amount"] = 358,
 						["targets"] = {
@@ -7795,12 +7795,12 @@ SkadaStorageDB = {
 								["amount"] = 358,
 							},
 						},
-						["n_amt"] = 358,
+						["n_min"] = 358,
 						["n_num"] = 1,
-						["n_max"] = 358,
+						["n_amt"] = 358,
 					},
 					["71904.32"] = {
-						["n_min"] = 1098,
+						["n_max"] = 1123,
 						["targets"] = {
 							["Shattered Hand Sentry"] = {
 								["o_amt"] = 483,
@@ -7810,9 +7810,9 @@ SkadaStorageDB = {
 						["count"] = 2,
 						["amount"] = 2221,
 						["o_amt"] = 483,
-						["n_amt"] = 2221,
+						["n_min"] = 1098,
 						["n_num"] = 2,
-						["n_max"] = 1123,
+						["n_amt"] = 2221,
 					},
 					["53385.1"] = {
 						["c_amt"] = 7996,
@@ -7827,37 +7827,9 @@ SkadaStorageDB = {
 						["count"] = 2,
 						["amount"] = 11868,
 						["c_min"] = 7996,
-						["n_min"] = 3872,
-						["n_num"] = 1,
 						["n_amt"] = 3872,
-					},
-					["35395.1"] = {
-						["c_amt"] = 6466,
-						["count"] = 1,
-						["c_max"] = 6466,
-						["c_num"] = 1,
-						["o_amt"] = 2963,
-						["c_min"] = 6466,
-						["targets"] = {
-							["Shattered Hand Sentry"] = {
-								["o_amt"] = 2963,
-								["amount"] = 6466,
-							},
-						},
-						["amount"] = 6466,
-					},
-					["6603.1"] = {
-						["n_min"] = 3608,
-						["count"] = 1,
-						["amount"] = 3608,
-						["targets"] = {
-							["Shattered Hand Sentry"] = {
-								["amount"] = 3608,
-							},
-						},
-						["n_amt"] = 3608,
 						["n_num"] = 1,
-						["n_max"] = 3608,
+						["n_min"] = 3872,
 					},
 					["42463.2"] = {
 						["c_amt"] = 1529,
@@ -7872,8 +7844,36 @@ SkadaStorageDB = {
 						},
 						["c_num"] = 2,
 					},
+					["35395.1"] = {
+						["c_amt"] = 6466,
+						["c_max"] = 6466,
+						["count"] = 1,
+						["amount"] = 6466,
+						["o_amt"] = 2963,
+						["c_min"] = 6466,
+						["targets"] = {
+							["Shattered Hand Sentry"] = {
+								["o_amt"] = 2963,
+								["amount"] = 6466,
+							},
+						},
+						["c_num"] = 1,
+					},
+					["6603.1"] = {
+						["n_max"] = 3608,
+						["count"] = 1,
+						["amount"] = 3608,
+						["targets"] = {
+							["Shattered Hand Sentry"] = {
+								["amount"] = 3608,
+							},
+						},
+						["n_min"] = 3608,
+						["n_num"] = 1,
+						["n_amt"] = 3608,
+					},
 					["54043.2"] = {
-						["n_min"] = 279,
+						["n_max"] = 308,
 						["count"] = 2,
 						["amount"] = 587,
 						["targets"] = {
@@ -7881,12 +7881,12 @@ SkadaStorageDB = {
 								["amount"] = 587,
 							},
 						},
-						["n_amt"] = 587,
+						["n_min"] = 279,
 						["n_num"] = 2,
-						["n_max"] = 308,
+						["n_amt"] = 587,
 					},
 					["31804.2"] = {
-						["n_min"] = 3195,
+						["n_max"] = 3195,
 						["count"] = 1,
 						["amount"] = 3195,
 						["targets"] = {
@@ -7894,9 +7894,9 @@ SkadaStorageDB = {
 								["amount"] = 3195,
 							},
 						},
-						["n_amt"] = 3195,
+						["n_min"] = 3195,
 						["n_num"] = 1,
-						["n_max"] = 3195,
+						["n_amt"] = 3195,
 					},
 				},
 				["absorb"] = 2008,
@@ -7904,7 +7904,7 @@ SkadaStorageDB = {
 				["spec"] = 70,
 				["healspells"] = {
 					["-54172.2"] = {
-						["n_min"] = 603,
+						["n_max"] = 603,
 						["count"] = 1,
 						["amount"] = 603,
 						["targets"] = {
@@ -7912,9 +7912,9 @@ SkadaStorageDB = {
 								["amount"] = 603,
 							},
 						},
-						["n_amt"] = 603,
+						["n_min"] = 603,
 						["n_num"] = 1,
-						["n_max"] = 603,
+						["n_amt"] = 603,
 					},
 				},
 				["overkill"] = 3446,
@@ -7978,8 +7978,8 @@ SkadaStorageDB = {
 					["6603.1"] = {
 						["total"] = 995,
 						["dod_n"] = 3,
-						["mis_n"] = 1,
 						["par_n"] = 1,
+						["mis_n"] = 1,
 						["abs_n"] = 2,
 						["sources"] = {
 							["Shattered Hand Heathen"] = {
@@ -8068,12 +8068,12 @@ SkadaStorageDB = {
 						["r"] = 4,
 						["n"] = 1,
 					},
-					["25898.2"] = {
-						["u"] = 7,
-						["n"] = 1,
-					},
 					["58597.2"] = {
 						["u"] = 5,
+						["n"] = 1,
+					},
+					["25898.2"] = {
+						["u"] = 7,
 						["n"] = 1,
 					},
 					["-57669.8"] = {
@@ -8117,15 +8117,15 @@ SkadaStorageDB = {
 				},
 				["absorbspells"] = {
 					["58597.2"] = {
-						["n_min"] = 222,
+						["n_max"] = 640,
 						["count"] = 3,
 						["amount"] = 1379,
 						["targets"] = {
 							["Mayiswallow"] = 1379,
 						},
-						["n_amt"] = 1379,
+						["n_min"] = 222,
 						["n_num"] = 3,
-						["n_max"] = 640,
+						["n_amt"] = 1379,
 					},
 				},
 				["role"] = "DAMAGER",
@@ -8137,7 +8137,7 @@ SkadaStorageDB = {
 				["spec"] = 70,
 				["healspells"] = {
 					["-54203.2"] = {
-						["n_min"] = 0,
+						["n_max"] = 0,
 						["targets"] = {
 							["Mayiswallow"] = {
 								["o_amt"] = 729,
@@ -8147,12 +8147,12 @@ SkadaStorageDB = {
 						["count"] = 3,
 						["amount"] = 0,
 						["o_amt"] = 729,
-						["n_amt"] = 0,
+						["n_min"] = 0,
 						["n_num"] = 3,
-						["n_max"] = 0,
+						["n_amt"] = 0,
 					},
 					["-54172.2"] = {
-						["n_min"] = 256,
+						["n_max"] = 256,
 						["count"] = 1,
 						["amount"] = 256,
 						["targets"] = {
@@ -8160,9 +8160,9 @@ SkadaStorageDB = {
 								["amount"] = 256,
 							},
 						},
-						["n_amt"] = 256,
+						["n_min"] = 256,
 						["n_num"] = 1,
-						["n_max"] = 256,
+						["n_amt"] = 256,
 					},
 				},
 				["overkill"] = 4320,
@@ -8173,7 +8173,7 @@ SkadaStorageDB = {
 				["totaldamaged"] = 1635,
 				["damagespells"] = {
 					["71904.32"] = {
-						["n_min"] = 2243,
+						["n_max"] = 2243,
 						["count"] = 1,
 						["amount"] = 2243,
 						["targets"] = {
@@ -8181,12 +8181,12 @@ SkadaStorageDB = {
 								["amount"] = 2243,
 							},
 						},
-						["n_amt"] = 2243,
+						["n_min"] = 2243,
 						["n_num"] = 1,
-						["n_max"] = 2243,
+						["n_amt"] = 2243,
 					},
 					["-61840.2"] = {
-						["n_min"] = 643,
+						["n_max"] = 643,
 						["count"] = 1,
 						["amount"] = 643,
 						["targets"] = {
@@ -8194,41 +8194,9 @@ SkadaStorageDB = {
 								["amount"] = 643,
 							},
 						},
+						["n_min"] = 643,
+						["n_num"] = 1,
 						["n_amt"] = 643,
-						["n_num"] = 1,
-						["n_max"] = 643,
-					},
-					["35395.1"] = {
-						["n_min"] = 2575,
-						["count"] = 1,
-						["amount"] = 2575,
-						["targets"] = {
-							["Shattered Hand Heathen"] = {
-								["amount"] = 2575,
-							},
-						},
-						["n_amt"] = 2575,
-						["n_num"] = 1,
-						["n_max"] = 2575,
-					},
-					["42463.2"] = {
-						["c_amt"] = 673,
-						["c_max"] = 673,
-						["c_num"] = 1,
-						["n_max"] = 362,
-						["targets"] = {
-							["Shattered Hand Heathen"] = {
-								["o_amt"] = 436,
-								["amount"] = 1035,
-							},
-						},
-						["n_amt"] = 362,
-						["count"] = 2,
-						["amount"] = 1035,
-						["o_amt"] = 436,
-						["n_min"] = 362,
-						["n_num"] = 1,
-						["c_min"] = 673,
 					},
 					["6603.1"] = {
 						["c_amt"] = 13040,
@@ -8241,16 +8209,48 @@ SkadaStorageDB = {
 								["amount"] = 15893,
 							},
 						},
-						["n_amt"] = 2853,
-						["count"] = 3,
+						["n_min"] = 2853,
+						["c_min"] = 6488,
 						["amount"] = 15893,
 						["o_amt"] = 3884,
-						["n_min"] = 2853,
+						["n_amt"] = 2853,
 						["n_num"] = 1,
-						["c_min"] = 6488,
+						["count"] = 3,
+					},
+					["35395.1"] = {
+						["n_max"] = 2575,
+						["count"] = 1,
+						["amount"] = 2575,
+						["targets"] = {
+							["Shattered Hand Heathen"] = {
+								["amount"] = 2575,
+							},
+						},
+						["n_min"] = 2575,
+						["n_num"] = 1,
+						["n_amt"] = 2575,
+					},
+					["42463.2"] = {
+						["c_amt"] = 673,
+						["c_max"] = 673,
+						["c_num"] = 1,
+						["n_max"] = 362,
+						["targets"] = {
+							["Shattered Hand Heathen"] = {
+								["o_amt"] = 436,
+								["amount"] = 1035,
+							},
+						},
+						["n_min"] = 362,
+						["c_min"] = 673,
+						["amount"] = 1035,
+						["o_amt"] = 436,
+						["n_amt"] = 362,
+						["n_num"] = 1,
+						["count"] = 2,
 					},
 					["54043.2"] = {
-						["n_min"] = 282,
+						["n_max"] = 282,
 						["count"] = 1,
 						["amount"] = 282,
 						["targets"] = {
@@ -8258,9 +8258,9 @@ SkadaStorageDB = {
 								["amount"] = 282,
 							},
 						},
-						["n_amt"] = 282,
+						["n_min"] = 282,
 						["n_num"] = 1,
-						["n_max"] = 282,
+						["n_amt"] = 282,
 					},
 					["53385.1"] = {
 						["c_amt"] = 15896,
@@ -8323,6 +8323,16 @@ SkadaStorageDB = {
 						},
 						["amount"] = 643,
 					},
+					["6603.1"] = {
+						["o_amt"] = 3884,
+						["sources"] = {
+							["Mayiswallow"] = {
+								["o_amt"] = 3884,
+								["amount"] = 15893,
+							},
+						},
+						["amount"] = 15893,
+					},
 					["35395.1"] = {
 						["sources"] = {
 							["Mayiswallow"] = {
@@ -8340,16 +8350,6 @@ SkadaStorageDB = {
 							},
 						},
 						["amount"] = 1035,
-					},
-					["6603.1"] = {
-						["o_amt"] = 3884,
-						["sources"] = {
-							["Mayiswallow"] = {
-								["o_amt"] = 3884,
-								["amount"] = 15893,
-							},
-						},
-						["amount"] = 15893,
 					},
 					["54043.2"] = {
 						["sources"] = {
@@ -8422,29 +8422,29 @@ SkadaStorageDB = {
 						["par_n"] = 2,
 						["abs_n"] = 10,
 						["sources"] = {
-							["Shattered Hand Savage"] = {
-								["total"] = 2109,
-								["amount"] = 472,
+							["Shattered Hand Heathen"] = {
+								["total"] = 787,
+								["amount"] = 519,
 							},
 							["Fel Orc Convert"] = {
 								["total"] = 2123,
 								["amount"] = 1064,
 							},
+							["Shattered Hand Savage"] = {
+								["total"] = 2109,
+								["amount"] = 472,
+							},
 							["Shattered Hand Legionnaire"] = {
 								["total"] = 2604,
 								["amount"] = 1230,
-							},
-							["Shattered Hand Heathen"] = {
-								["total"] = 787,
-								["amount"] = 519,
 							},
 						},
 						["mis_n"] = 4,
 						["amount"] = 3285,
 						["count"] = 31,
-						["n_min"] = 117,
-						["n_num"] = 10,
 						["n_amt"] = 3285,
+						["n_num"] = 10,
+						["n_min"] = 117,
 					},
 					["36023.1"] = {
 						["par_n"] = 1,
@@ -8467,10 +8467,10 @@ SkadaStorageDB = {
 						},
 						["count"] = 2,
 						["amount"] = 256,
-						["abs_n"] = 1,
-						["n_amt"] = 256,
-						["n_num"] = 1,
 						["n_min"] = 256,
+						["abs_n"] = 1,
+						["n_num"] = 1,
+						["n_amt"] = 256,
 					},
 				},
 				["class"] = "PALADIN",
@@ -8548,9 +8548,15 @@ SkadaStorageDB = {
 					["-57669.8"] = {
 						["u"] = 17,
 					},
-					["25898.2"] = {
-						["u"] = 18,
-						["n"] = 1,
+					["-54499.2"] = {
+						["u"] = 2,
+						["t"] = {
+							["Shattered Hand Heathen"] = {
+								["u"] = 2,
+								["n"] = 1,
+							},
+						},
+						["n"] = 2,
 					},
 					["75456.64"] = {
 						["u"] = 15,
@@ -8559,7 +8565,7 @@ SkadaStorageDB = {
 					["-31803.2"] = {
 						["u"] = 10,
 						["t"] = {
-							["Shattered Hand Legionnaire"] = {
+							["Shattered Hand Heathen"] = {
 								["u"] = 2,
 								["n"] = 1,
 							},
@@ -8567,14 +8573,14 @@ SkadaStorageDB = {
 								["u"] = 1,
 								["n"] = 2,
 							},
+							["Shattered Hand Legionnaire"] = {
+								["u"] = 2,
+								["n"] = 1,
+							},
 							["Shattered Hand Savage"] = {
 								["u"] = 5,
 								["r"] = 1,
 								["n"] = 2,
-							},
-							["Shattered Hand Heathen"] = {
-								["u"] = 2,
-								["n"] = 1,
 							},
 						},
 						["r"] = 1,
@@ -8588,15 +8594,9 @@ SkadaStorageDB = {
 						["u"] = 18,
 						["n"] = 1,
 					},
-					["-54499.2"] = {
-						["u"] = 2,
-						["t"] = {
-							["Shattered Hand Heathen"] = {
-								["u"] = 2,
-								["n"] = 1,
-							},
-						},
-						["n"] = 2,
+					["25898.2"] = {
+						["u"] = 18,
+						["n"] = 1,
 					},
 					["20053.1"] = {
 						["u"] = 18,
@@ -8606,15 +8606,15 @@ SkadaStorageDB = {
 				},
 				["absorbspells"] = {
 					["58597.2"] = {
-						["n_min"] = 171,
+						["n_max"] = 1374,
 						["count"] = 13,
 						["amount"] = 4591,
 						["targets"] = {
 							["Mayiswallow"] = 4591,
 						},
-						["n_amt"] = 4591,
+						["n_min"] = 171,
 						["n_num"] = 13,
-						["n_max"] = 1374,
+						["n_amt"] = 4591,
 					},
 				},
 				["role"] = "DAMAGER",
@@ -8623,9 +8623,9 @@ SkadaStorageDB = {
 				["damagespells"] = {
 					["48806.2"] = {
 						["c_amt"] = 13814,
-						["count"] = 2,
 						["c_max"] = 7245,
-						["c_num"] = 2,
+						["count"] = 2,
+						["amount"] = 13814,
 						["o_amt"] = 13169,
 						["c_min"] = 6569,
 						["targets"] = {
@@ -8638,13 +8638,13 @@ SkadaStorageDB = {
 								["amount"] = 6569,
 							},
 						},
-						["amount"] = 13814,
+						["c_num"] = 2,
 					},
 					["35395.1"] = {
 						["c_amt"] = 11791,
-						["count"] = 2,
 						["c_max"] = 6254,
-						["c_num"] = 2,
+						["count"] = 2,
+						["amount"] = 11791,
 						["o_amt"] = 659,
 						["c_min"] = 5537,
 						["targets"] = {
@@ -8653,10 +8653,10 @@ SkadaStorageDB = {
 								["amount"] = 11791,
 							},
 						},
-						["amount"] = 11791,
+						["c_num"] = 2,
 					},
 					["-61840.2"] = {
-						["n_min"] = 483,
+						["n_max"] = 557,
 						["count"] = 4,
 						["amount"] = 2081,
 						["targets"] = {
@@ -8667,12 +8667,12 @@ SkadaStorageDB = {
 								["amount"] = 967,
 							},
 						},
-						["n_amt"] = 2081,
+						["n_min"] = 483,
 						["n_num"] = 4,
-						["n_max"] = 557,
+						["n_amt"] = 2081,
 					},
 					["71904.32"] = {
-						["n_min"] = 730,
+						["n_max"] = 753,
 						["count"] = 2,
 						["amount"] = 1483,
 						["targets"] = {
@@ -8683,12 +8683,12 @@ SkadaStorageDB = {
 								["amount"] = 753,
 							},
 						},
-						["n_amt"] = 1483,
+						["n_min"] = 730,
 						["n_num"] = 2,
-						["n_max"] = 753,
+						["n_amt"] = 1483,
 					},
 					["31804.2"] = {
-						["n_min"] = 3875,
+						["n_max"] = 3875,
 						["targets"] = {
 							["Fel Orc Convert"] = {
 								["o_amt"] = 2190,
@@ -8698,15 +8698,15 @@ SkadaStorageDB = {
 						["count"] = 1,
 						["amount"] = 3875,
 						["o_amt"] = 2190,
-						["n_amt"] = 3875,
+						["n_min"] = 3875,
 						["n_num"] = 1,
-						["n_max"] = 3875,
+						["n_amt"] = 3875,
 					},
 					["71433.1"] = {
 						["c_amt"] = 6877,
-						["count"] = 2,
 						["c_max"] = 3757,
-						["c_num"] = 2,
+						["count"] = 2,
+						["amount"] = 6877,
 						["o_amt"] = 2005,
 						["c_min"] = 3120,
 						["targets"] = {
@@ -8718,10 +8718,10 @@ SkadaStorageDB = {
 								["amount"] = 3757,
 							},
 						},
-						["amount"] = 6877,
+						["c_num"] = 2,
 					},
 					["-31803.2"] = {
-						["n_min"] = 399,
+						["n_max"] = 399,
 						["count"] = 1,
 						["amount"] = 399,
 						["targets"] = {
@@ -8729,9 +8729,9 @@ SkadaStorageDB = {
 								["amount"] = 399,
 							},
 						},
-						["n_amt"] = 399,
+						["n_min"] = 399,
 						["n_num"] = 1,
-						["n_max"] = 399,
+						["n_amt"] = 399,
 					},
 					["6603.1"] = {
 						["c_amt"] = 35209,
@@ -8739,27 +8739,27 @@ SkadaStorageDB = {
 						["c_num"] = 5,
 						["n_max"] = 3565,
 						["targets"] = {
-							["Shattered Hand Legionnaire"] = {
-								["amount"] = 7284,
+							["Shattered Hand Heathen"] = {
+								["amount"] = 5971,
 							},
 							["Fel Orc Convert"] = {
 								["amount"] = 6569,
+							},
+							["Shattered Hand Legionnaire"] = {
+								["amount"] = 7284,
 							},
 							["Shattered Hand Savage"] = {
 								["o_amt"] = 4007,
 								["amount"] = 21954,
 							},
-							["Shattered Hand Heathen"] = {
-								["amount"] = 5971,
-							},
 						},
-						["n_amt"] = 6569,
-						["count"] = 7,
+						["n_min"] = 3004,
+						["c_min"] = 5971,
 						["amount"] = 41778,
 						["o_amt"] = 4007,
-						["n_min"] = 3004,
+						["n_amt"] = 6569,
 						["n_num"] = 2,
-						["c_min"] = 5971,
+						["count"] = 7,
 					},
 					["42463.2"] = {
 						["c_amt"] = 2349,
@@ -8778,26 +8778,26 @@ SkadaStorageDB = {
 						["c_num"] = 3,
 					},
 					["54043.2"] = {
-						["n_min"] = 264,
+						["n_max"] = 309,
 						["count"] = 10,
 						["amount"] = 2981,
 						["targets"] = {
-							["Shattered Hand Legionnaire"] = {
-								["amount"] = 599,
+							["Shattered Hand Heathen"] = {
+								["amount"] = 264,
 							},
 							["Fel Orc Convert"] = {
 								["amount"] = 1518,
 							},
+							["Shattered Hand Legionnaire"] = {
+								["amount"] = 599,
+							},
 							["Shattered Hand Savage"] = {
 								["amount"] = 600,
 							},
-							["Shattered Hand Heathen"] = {
-								["amount"] = 264,
-							},
 						},
-						["n_amt"] = 2981,
+						["n_min"] = 264,
 						["n_num"] = 10,
-						["n_max"] = 309,
+						["n_amt"] = 2981,
 					},
 					["53385.1"] = {
 						["c_amt"] = 22483,
@@ -8806,23 +8806,23 @@ SkadaStorageDB = {
 						["c_num"] = 3,
 						["n_max"] = 4660,
 						["targets"] = {
-							["Shattered Hand Legionnaire"] = {
-								["amount"] = 11672,
+							["Shattered Hand Heathen"] = {
+								["amount"] = 7805,
 							},
 							["Fel Orc Convert"] = {
 								["amount"] = 8906,
 							},
+							["Shattered Hand Legionnaire"] = {
+								["amount"] = 11672,
+							},
 							["Shattered Hand Savage"] = {
 								["amount"] = 7456,
-							},
-							["Shattered Hand Heathen"] = {
-								["amount"] = 7805,
 							},
 						},
 						["c_min"] = 7222,
 						["amount"] = 35839,
-						["n_amt"] = 13356,
 						["n_min"] = 4246,
+						["n_amt"] = 13356,
 						["n_num"] = 3,
 						["count"] = 6,
 					},
@@ -8832,7 +8832,7 @@ SkadaStorageDB = {
 				["spec"] = 70,
 				["healspells"] = {
 					["-54172.2"] = {
-						["n_min"] = 1347,
+						["n_max"] = 2988,
 						["count"] = 2,
 						["amount"] = 4335,
 						["targets"] = {
@@ -8840,9 +8840,9 @@ SkadaStorageDB = {
 								["amount"] = 4335,
 							},
 						},
-						["n_amt"] = 4335,
+						["n_min"] = 1347,
 						["n_num"] = 2,
-						["n_max"] = 2988,
+						["n_amt"] = 4335,
 					},
 				},
 				["overkill"] = 22030,
@@ -8855,10 +8855,10 @@ SkadaStorageDB = {
 				["totaldamaged"] = 8132,
 				["mana"] = 2862,
 				["timespent"] = {
-					["Shattered Hand Legionnaire"] = 2.72,
-					["Fel Orc Convert"] = 4.510000000000001,
-					["Shattered Hand Savage"] = 6.81,
 					["Shattered Hand Heathen"] = 2.11,
+					["Fel Orc Convert"] = 4.510000000000001,
+					["Shattered Hand Legionnaire"] = 2.72,
+					["Shattered Hand Savage"] = 6.81,
 				},
 			},
 			["Sikelet"] = {
@@ -9048,6 +9048,62 @@ SkadaStorageDB = {
 				["damaged"] = 28190,
 				["damage"] = 1320,
 			},
+			["Shattered Hand Heathen"] = {
+				["damagespells"] = {
+					["6603.1"] = {
+						["total"] = 787,
+						["targets"] = {
+							["Mayiswallow"] = {
+								["total"] = 787,
+								["amount"] = 519,
+							},
+						},
+						["amount"] = 519,
+					},
+				},
+				["totaldamage"] = 787,
+				["enemy"] = true,
+				["id"] = "0xF13000440C0000B7",
+				["damagedspells"] = {
+					["6603.1"] = {
+						["sources"] = {
+							["Mayiswallow"] = {
+								["amount"] = 5971,
+							},
+						},
+						["amount"] = 5971,
+					},
+					["71433.1"] = {
+						["o_amt"] = 2005,
+						["sources"] = {
+							["Mayiswallow"] = {
+								["o_amt"] = 2005,
+								["amount"] = 3120,
+							},
+						},
+						["amount"] = 3120,
+					},
+					["54043.2"] = {
+						["sources"] = {
+							["Mayiswallow"] = {
+								["amount"] = 264,
+							},
+						},
+						["amount"] = 264,
+					},
+					["53385.1"] = {
+						["sources"] = {
+							["Mayiswallow"] = {
+								["amount"] = 7805,
+							},
+						},
+						["amount"] = 7805,
+					},
+				},
+				["class"] = "MONSTER",
+				["damaged"] = 17160,
+				["damage"] = 519,
+			},
 			["Shattered Hand Legionnaire"] = {
 				["damagespells"] = {
 					["6603.1"] = {
@@ -9136,62 +9192,6 @@ SkadaStorageDB = {
 				["damaged"] = 34023,
 				["damage"] = 1230,
 			},
-			["Shattered Hand Heathen"] = {
-				["damagespells"] = {
-					["6603.1"] = {
-						["total"] = 787,
-						["targets"] = {
-							["Mayiswallow"] = {
-								["total"] = 787,
-								["amount"] = 519,
-							},
-						},
-						["amount"] = 519,
-					},
-				},
-				["totaldamage"] = 787,
-				["enemy"] = true,
-				["id"] = "0xF13000440C0000B7",
-				["damagedspells"] = {
-					["6603.1"] = {
-						["sources"] = {
-							["Mayiswallow"] = {
-								["amount"] = 5971,
-							},
-						},
-						["amount"] = 5971,
-					},
-					["71433.1"] = {
-						["o_amt"] = 2005,
-						["sources"] = {
-							["Mayiswallow"] = {
-								["o_amt"] = 2005,
-								["amount"] = 3120,
-							},
-						},
-						["amount"] = 3120,
-					},
-					["54043.2"] = {
-						["sources"] = {
-							["Mayiswallow"] = {
-								["amount"] = 264,
-							},
-						},
-						["amount"] = 264,
-					},
-					["53385.1"] = {
-						["sources"] = {
-							["Mayiswallow"] = {
-								["amount"] = 7805,
-							},
-						},
-						["amount"] = 7805,
-					},
-				},
-				["class"] = "MONSTER",
-				["damaged"] = 17160,
-				["damage"] = 519,
-			},
 		},
 		["endtime"] = 1717951723,
 	}, -- [13]
@@ -9272,9 +9272,9 @@ SkadaStorageDB = {
 						["par_n"] = 1,
 						["amount"] = 3097,
 						["count"] = 12,
-						["n_amt"] = 3097,
-						["n_num"] = 5,
 						["abs_n"] = 1,
+						["n_num"] = 5,
+						["n_amt"] = 3097,
 					},
 					["36023.1"] = {
 						["total"] = 1366,
@@ -9287,10 +9287,10 @@ SkadaStorageDB = {
 						},
 						["count"] = 2,
 						["amount"] = 633,
-						["n_min"] = 633,
-						["abs_n"] = 1,
-						["n_num"] = 1,
 						["n_amt"] = 633,
+						["n_min"] = 633,
+						["n_num"] = 1,
+						["abs_n"] = 1,
 					},
 					["36033.1"] = {
 						["sources"] = {
@@ -9300,10 +9300,10 @@ SkadaStorageDB = {
 						},
 						["count"] = 1,
 						["amount"] = 78,
-						["n_min"] = 78,
-						["n_amt"] = 78,
-						["n_num"] = 1,
 						["n_max"] = 78,
+						["n_min"] = 78,
+						["n_num"] = 1,
+						["n_amt"] = 78,
 					},
 					["-36023.1"] = {
 						["sources"] = {
@@ -9313,10 +9313,10 @@ SkadaStorageDB = {
 						},
 						["count"] = 2,
 						["amount"] = 769,
-						["n_min"] = 346,
-						["n_amt"] = 769,
-						["n_num"] = 2,
 						["n_max"] = 423,
+						["n_min"] = 346,
+						["n_num"] = 2,
+						["n_amt"] = 769,
 					},
 				},
 				["mana"] = 270,
@@ -9388,12 +9388,12 @@ SkadaStorageDB = {
 						["r"] = 3,
 						["n"] = 1,
 					},
-					["25898.2"] = {
-						["u"] = 8,
-						["n"] = 1,
-					},
 					["58597.2"] = {
 						["u"] = 1,
+						["n"] = 1,
+					},
+					["25898.2"] = {
+						["u"] = 8,
 						["n"] = 1,
 					},
 					["-57669.8"] = {
@@ -9435,15 +9435,15 @@ SkadaStorageDB = {
 				},
 				["absorbspells"] = {
 					["58597.2"] = {
-						["n_min"] = 28,
+						["n_max"] = 1230,
 						["count"] = 3,
 						["amount"] = 1991,
 						["targets"] = {
 							["Mayiswallow"] = 1991,
 						},
-						["n_amt"] = 1991,
+						["n_min"] = 28,
 						["n_num"] = 3,
-						["n_max"] = 1230,
+						["n_amt"] = 1991,
 					},
 				},
 				["role"] = "DAMAGER",
@@ -9451,7 +9451,7 @@ SkadaStorageDB = {
 				["damage"] = 71195,
 				["damagespells"] = {
 					["71904.32"] = {
-						["n_min"] = 361,
+						["n_max"] = 395,
 						["targets"] = {
 							["Hellfire Training Dummy"] = {
 								["o_amt"] = 937,
@@ -9467,12 +9467,12 @@ SkadaStorageDB = {
 						["count"] = 5,
 						["amount"] = 1887,
 						["o_amt"] = 937,
-						["n_amt"] = 1887,
+						["n_min"] = 361,
 						["n_num"] = 5,
-						["n_max"] = 395,
+						["n_amt"] = 1887,
 					},
 					["54043.2"] = {
-						["n_min"] = 301,
+						["n_max"] = 301,
 						["count"] = 5,
 						["amount"] = 1505,
 						["targets"] = {
@@ -9483,12 +9483,12 @@ SkadaStorageDB = {
 								["amount"] = 602,
 							},
 						},
-						["n_amt"] = 1505,
+						["n_min"] = 301,
 						["n_num"] = 5,
-						["n_max"] = 301,
+						["n_amt"] = 1505,
 					},
 					["71433.1"] = {
-						["n_min"] = 1648,
+						["n_max"] = 1648,
 						["count"] = 1,
 						["amount"] = 1648,
 						["targets"] = {
@@ -9496,9 +9496,27 @@ SkadaStorageDB = {
 								["amount"] = 1648,
 							},
 						},
-						["n_amt"] = 1648,
+						["n_min"] = 1648,
 						["n_num"] = 1,
-						["n_max"] = 1648,
+						["n_amt"] = 1648,
+					},
+					["6603.1"] = {
+						["n_max"] = 3569,
+						["targets"] = {
+							["Shattered Hand Savage"] = {
+								["amount"] = 6063,
+							},
+							["Shattered Hand Brawler"] = {
+								["o_amt"] = 1042,
+								["amount"] = 3569,
+							},
+						},
+						["count"] = 3,
+						["amount"] = 9632,
+						["o_amt"] = 1042,
+						["n_min"] = 3003,
+						["n_num"] = 3,
+						["n_amt"] = 9632,
 					},
 					["35395.1"] = {
 						["c_amt"] = 5743,
@@ -9515,9 +9533,9 @@ SkadaStorageDB = {
 					},
 					["42463.2"] = {
 						["c_amt"] = 2197,
-						["count"] = 3,
 						["c_max"] = 768,
-						["c_num"] = 3,
+						["count"] = 3,
+						["amount"] = 2197,
 						["o_amt"] = 393,
 						["c_min"] = 665,
 						["targets"] = {
@@ -9526,28 +9544,10 @@ SkadaStorageDB = {
 								["amount"] = 2197,
 							},
 						},
-						["amount"] = 2197,
-					},
-					["6603.1"] = {
-						["n_min"] = 3003,
-						["targets"] = {
-							["Shattered Hand Savage"] = {
-								["amount"] = 6063,
-							},
-							["Shattered Hand Brawler"] = {
-								["o_amt"] = 1042,
-								["amount"] = 3569,
-							},
-						},
-						["count"] = 3,
-						["amount"] = 9632,
-						["o_amt"] = 1042,
-						["n_amt"] = 9632,
-						["n_num"] = 3,
-						["n_max"] = 3569,
+						["c_num"] = 3,
 					},
 					["-61840.2"] = {
-						["n_min"] = 400,
+						["n_max"] = 753,
 						["targets"] = {
 							["Hellfire Training Dummy"] = {
 								["o_amt"] = 1396,
@@ -9563,9 +9563,9 @@ SkadaStorageDB = {
 						["count"] = 4,
 						["amount"] = 2550,
 						["o_amt"] = 1396,
-						["n_amt"] = 2550,
+						["n_min"] = 400,
 						["n_num"] = 4,
-						["n_max"] = 753,
+						["n_amt"] = 2550,
 					},
 					["53385.1"] = {
 						["c_amt"] = 42167,
@@ -9585,13 +9585,13 @@ SkadaStorageDB = {
 								["amount"] = 16092,
 							},
 						},
-						["n_amt"] = 3866,
-						["count"] = 6,
+						["n_min"] = 3866,
+						["c_min"] = 7735,
 						["amount"] = 46033,
 						["o_amt"] = 12796,
-						["n_min"] = 3866,
+						["n_amt"] = 3866,
 						["n_num"] = 1,
-						["c_min"] = 7735,
+						["count"] = 6,
 					},
 				},
 				["absorb"] = 1991,
@@ -9599,7 +9599,7 @@ SkadaStorageDB = {
 				["spec"] = 70,
 				["healspells"] = {
 					["-54172.2"] = {
-						["n_min"] = 1940,
+						["n_max"] = 7628,
 						["count"] = 2,
 						["amount"] = 9568,
 						["targets"] = {
@@ -9607,9 +9607,9 @@ SkadaStorageDB = {
 								["amount"] = 9568,
 							},
 						},
-						["n_amt"] = 9568,
+						["n_min"] = 1940,
 						["n_num"] = 2,
-						["n_max"] = 7628,
+						["n_amt"] = 9568,
 					},
 				},
 				["overkill"] = 16564,
@@ -9773,6 +9773,14 @@ SkadaStorageDB = {
 						},
 						["amount"] = 1648,
 					},
+					["6603.1"] = {
+						["sources"] = {
+							["Mayiswallow"] = {
+								["amount"] = 6063,
+							},
+						},
+						["amount"] = 6063,
+					},
 					["35395.1"] = {
 						["sources"] = {
 							["Mayiswallow"] = {
@@ -9790,14 +9798,6 @@ SkadaStorageDB = {
 							},
 						},
 						["amount"] = 2197,
-					},
-					["6603.1"] = {
-						["sources"] = {
-							["Mayiswallow"] = {
-								["amount"] = 6063,
-							},
-						},
-						["amount"] = 6063,
 					},
 					["-61840.2"] = {
 						["sources"] = {
@@ -10055,8 +10055,8 @@ SkadaStorageDB = {
 						["c_max"] = 1620,
 						["c_num"] = 1,
 						["n_max"] = 974,
-						["count"] = 23,
-						["abs_n"] = 2,
+						["c_min"] = 1620,
+						["n_min"] = 606,
 						["sources"] = {
 							["Shattered Hand Gladiator"] = {
 								["total"] = 11014,
@@ -10066,10 +10066,10 @@ SkadaStorageDB = {
 								["amount"] = 2524,
 							},
 						},
-						["c_min"] = 1620,
+						["count"] = 23,
 						["amount"] = 11821,
-						["n_min"] = 606,
 						["n_amt"] = 10201,
+						["abs_n"] = 2,
 						["n_num"] = 14,
 						["dod_n"] = 6,
 					},
@@ -10086,9 +10086,9 @@ SkadaStorageDB = {
 						["count"] = 4,
 						["amount"] = 1371,
 						["n_min"] = 685,
-						["n_amt"] = 1371,
-						["n_num"] = 2,
 						["abs_n"] = 1,
+						["n_num"] = 2,
+						["n_amt"] = 1371,
 					},
 				},
 				["mana"] = 2502,
@@ -10231,15 +10231,15 @@ SkadaStorageDB = {
 				},
 				["absorbspells"] = {
 					["58597.2"] = {
-						["n_min"] = 580,
+						["n_max"] = 1440,
 						["count"] = 5,
 						["amount"] = 4525,
 						["targets"] = {
 							["Mayiswallow"] = 4525,
 						},
-						["n_amt"] = 4525,
+						["n_min"] = 580,
 						["n_num"] = 5,
-						["n_max"] = 1440,
+						["n_amt"] = 4525,
 					},
 				},
 				["role"] = "DAMAGER",
@@ -10247,7 +10247,7 @@ SkadaStorageDB = {
 				["damage"] = 129061,
 				["damagespells"] = {
 					["-31803.2"] = {
-						["n_min"] = 679,
+						["n_max"] = 679,
 						["count"] = 2,
 						["amount"] = 1358,
 						["targets"] = {
@@ -10255,12 +10255,12 @@ SkadaStorageDB = {
 								["amount"] = 1358,
 							},
 						},
-						["n_amt"] = 1358,
+						["n_min"] = 679,
 						["n_num"] = 2,
-						["n_max"] = 679,
+						["n_amt"] = 1358,
 					},
 					["-48819.2"] = {
-						["n_min"] = 625,
+						["n_max"] = 721,
 						["count"] = 24,
 						["amount"] = 15576,
 						["targets"] = {
@@ -10271,9 +10271,9 @@ SkadaStorageDB = {
 								["amount"] = 1875,
 							},
 						},
-						["n_amt"] = 15576,
+						["n_min"] = 625,
 						["n_num"] = 24,
-						["n_max"] = 721,
+						["n_amt"] = 15576,
 					},
 					["35395.1"] = {
 						["c_amt"] = 12559,
@@ -10289,7 +10289,7 @@ SkadaStorageDB = {
 						["c_num"] = 2,
 					},
 					["-61840.2"] = {
-						["n_min"] = 432,
+						["n_max"] = 682,
 						["targets"] = {
 							["Shattered Hand Gladiator"] = {
 								["o_amt"] = 456,
@@ -10302,12 +10302,12 @@ SkadaStorageDB = {
 						["count"] = 12,
 						["amount"] = 6618,
 						["o_amt"] = 456,
-						["n_amt"] = 6618,
+						["n_min"] = 432,
 						["n_num"] = 12,
-						["n_max"] = 682,
+						["n_amt"] = 6618,
 					},
 					["71904.32"] = {
-						["n_min"] = 369,
+						["n_max"] = 394,
 						["count"] = 6,
 						["amount"] = 2305,
 						["targets"] = {
@@ -10318,9 +10318,9 @@ SkadaStorageDB = {
 								["amount"] = 379,
 							},
 						},
-						["n_amt"] = 2305,
+						["n_min"] = 369,
 						["n_num"] = 6,
-						["n_max"] = 394,
+						["n_amt"] = 2305,
 					},
 					["71433.1"] = {
 						["c_amt"] = 3543,
@@ -10350,16 +10350,16 @@ SkadaStorageDB = {
 								["amount"] = 4197,
 							},
 						},
-						["n_amt"] = 15959,
-						["count"] = 8,
+						["n_min"] = 3717,
+						["c_min"] = 7253,
 						["amount"] = 48106,
 						["o_amt"] = 1977,
-						["n_min"] = 3717,
+						["n_amt"] = 15959,
 						["n_num"] = 4,
-						["c_min"] = 7253,
+						["count"] = 8,
 					},
 					["42463.2"] = {
-						["n_min"] = 341,
+						["n_max"] = 341,
 						["count"] = 1,
 						["amount"] = 341,
 						["targets"] = {
@@ -10367,15 +10367,15 @@ SkadaStorageDB = {
 								["amount"] = 341,
 							},
 						},
-						["n_amt"] = 341,
+						["n_min"] = 341,
 						["n_num"] = 1,
-						["n_max"] = 341,
+						["n_amt"] = 341,
 					},
 					["6603.1"] = {
 						["c_amt"] = 21122,
-						["count"] = 3,
 						["c_max"] = 7282,
-						["c_num"] = 3,
+						["count"] = 3,
+						["amount"] = 21122,
 						["o_amt"] = 1068,
 						["c_min"] = 6876,
 						["targets"] = {
@@ -10387,10 +10387,10 @@ SkadaStorageDB = {
 								["amount"] = 7282,
 							},
 						},
-						["amount"] = 21122,
+						["c_num"] = 3,
 					},
 					["54043.2"] = {
-						["n_min"] = 298,
+						["n_max"] = 321,
 						["count"] = 15,
 						["amount"] = 4531,
 						["targets"] = {
@@ -10401,15 +10401,15 @@ SkadaStorageDB = {
 								["amount"] = 903,
 							},
 						},
-						["n_amt"] = 4531,
+						["n_min"] = 298,
 						["n_num"] = 15,
-						["n_max"] = 321,
+						["n_amt"] = 4531,
 					},
 					["31804.2"] = {
 						["c_amt"] = 13002,
-						["count"] = 2,
 						["c_max"] = 7395,
-						["c_num"] = 2,
+						["count"] = 2,
+						["amount"] = 13002,
 						["o_amt"] = 2666,
 						["c_min"] = 5607,
 						["targets"] = {
@@ -10421,7 +10421,7 @@ SkadaStorageDB = {
 								["amount"] = 5607,
 							},
 						},
-						["amount"] = 13002,
+						["c_num"] = 2,
 					},
 				},
 				["absorb"] = 4525,
@@ -10429,7 +10429,7 @@ SkadaStorageDB = {
 				["spec"] = 70,
 				["healspells"] = {
 					["-54203.2"] = {
-						["n_min"] = 360,
+						["n_max"] = 721,
 						["count"] = 3,
 						["amount"] = 1441,
 						["targets"] = {
@@ -10437,12 +10437,12 @@ SkadaStorageDB = {
 								["amount"] = 1441,
 							},
 						},
-						["n_amt"] = 1441,
+						["n_min"] = 360,
 						["n_num"] = 3,
-						["n_max"] = 721,
+						["n_amt"] = 1441,
 					},
 					["-54172.2"] = {
-						["n_min"] = 3525,
+						["n_max"] = 4977,
 						["count"] = 2,
 						["amount"] = 8502,
 						["targets"] = {
@@ -10450,9 +10450,9 @@ SkadaStorageDB = {
 								["amount"] = 8502,
 							},
 						},
-						["n_amt"] = 8502,
+						["n_min"] = 3525,
 						["n_num"] = 2,
-						["n_max"] = 4977,
+						["n_amt"] = 8502,
 					},
 				},
 				["overkill"] = 6167,

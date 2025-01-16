@@ -1,113 +1,18 @@
 
 AUCTIONATOR_SAVEDVARS = {
-	["_5000000"] = 10000,
-	["_50000"] = 500,
 	["_200000"] = 1000,
-	["_1000000"] = 2500,
-	["_10000"] = 200,
-	["_500"] = 5,
+	["_50000"] = 500,
 	["STARTING_DISCOUNT"] = 5,
+	["_1000000"] = 2500,
+	["_5000000"] = 10000,
+	["_500"] = 5,
+	["_10000"] = 200,
 	["_2000"] = 100,
 }
 AUCTIONATOR_PRICING_HISTORY = {
-	["Bold Cardinal Ruby"] = {
-		["8263654"] = "2477500:1",
-		["is"] = "40111:0",
-		["8255520:hd"] = "2367500:4",
-		["8258260"] = "2527500:1",
-		["8258259"] = "2527500:1",
-		["8258507"] = "2527500:1",
-		["8263655"] = "2477500:1",
-		["8276696"] = "2357500:1",
-		["8245440:hd"] = "2397500:3",
-		["8263661"] = "2477500:1",
-		["8273686"] = "2415000:1",
-		["8337017"] = "2572500:1",
-		["8263657"] = "2477500:1",
-		["8266381"] = "2425000:1",
-		["8263659"] = "2477500:1",
-		["8258510"] = "2527500:1",
-		["8276695"] = "2357500:1",
-		["8252640:hd"] = "2382500:1",
-		["8254080:hd"] = "2377500:3",
-		["8257077"] = "2377500:1",
-		["8246880:hd"] = "2297500:1",
-		["8273693"] = "2415000:1",
-		["8257074"] = "2377500:1",
-		["8258165"] = "2457500:1",
-		["8266380"] = "2425000:1",
-		["8263652"] = "2477500:1",
-		["8244000:hd"] = "2309000:5",
-	},
-	["Belt of the Lonely Noble"] = {
-		["is"] = "50451:0",
-		["8291150"] = "999000:1",
-		["8288906"] = "1465000:1",
-	},
-	["Eternal Shadow"] = {
-		["is"] = "35627:0",
-		["8245070"] = "425000:1",
-		["8254797"] = "388000:1",
-	},
-	["Resplendent Ametrine"] = {
-		["8261194"] = "1755000:1",
-		["is"] = "40145:0",
-		["8255520:hd"] = "2006250:2",
-		["8261193"] = "1755000:1",
-		["8254080:hd"] = "2250000:2",
-		["8272297"] = "1877500:1",
-		["8269410"] = "1920000:1",
-		["8258525"] = "1922500:1",
-		["8261192"] = "1755000:1",
-		["8258514"] = "1922500:1",
-		["8259294"] = "1825000:1",
-		["8269409"] = "1920000:1",
-		["8259295"] = "1825000:1",
-	},
-	["Fierce Ametrine"] = {
-		["is"] = "40146:0",
-		["8254137"] = "1897500:1",
-	},
-	["Eternal Earth"] = {
-		["is"] = "35624:0",
-		["8245069"] = "118500:1",
-	},
-	["Dream Shard"] = {
-		["is"] = "34052:0",
-		["8288907"] = "159500:1",
-	},
-	["Eternal Life"] = {
-		["is"] = "35625:0",
-		["8245070"] = "237000:1",
-	},
-	["Fractured Cardinal Ruby"] = {
-		["8273691"] = "2425000:1",
-		["8277140"] = "2527500:1",
-		["8273694"] = "2425000:1",
-		["8279364"] = "2477500:1",
-		["is"] = "40117:0",
-		["8345849"] = "2495000:1",
-	},
-	["Etched Ametrine"] = {
-		["is"] = "40143:0",
-		["8345849"] = "2007500:1",
-	},
-	["Mystic King's Amber"] = {
-		["8335659"] = "2357500:1",
-		["8335660"] = "2357500:1",
-		["8337019"] = "2327500:1",
-		["is"] = "40127:0",
-		["8337018"] = "2327500:1",
-	},
-	["Eternal Fire"] = {
-		["is"] = "36860:0",
-		["8254796"] = "439000:1",
-		["8245069"] = "409000:1",
-	},
-	["Eternal Water"] = {
-		["8245071"] = "108500:1",
-		["is"] = "35622:0",
-		["8245072"] = "108500:1",
+	["Sapphiron's Scale Boots"] = {
+		["is"] = "13070:0",
+		["8566355"] = "5550000:1",
 	},
 	["Potent Ametrine"] = {
 		["8259296"] = "1852500:1",
@@ -127,38 +32,163 @@ AUCTIONATOR_PRICING_HISTORY = {
 		["8259293"] = "1852500:1",
 		["8259295"] = "1852500:1",
 	},
+	["Bold Cardinal Ruby"] = {
+		["8263654"] = "2477500:1",
+		["is"] = "40111:0",
+		["8255520:hd"] = "2367500:4",
+		["8258260"] = "2527500:1",
+		["8258259"] = "2527500:1",
+		["8258507"] = "2527500:1",
+		["8263655"] = "2477500:1",
+		["8276696"] = "2357500:1",
+		["8245440:hd"] = "2397500:3",
+		["8263661"] = "2477500:1",
+		["8337017"] = "2572500:1",
+		["8273686"] = "2415000:1",
+		["8258165"] = "2457500:1",
+		["8246880:hd"] = "2297500:1",
+		["8263659"] = "2477500:1",
+		["8258510"] = "2527500:1",
+		["8276695"] = "2357500:1",
+		["8252640:hd"] = "2382500:1",
+		["8254080:hd"] = "2377500:3",
+		["8257077"] = "2377500:1",
+		["8266381"] = "2425000:1",
+		["8273693"] = "2415000:1",
+		["8257074"] = "2377500:1",
+		["8263657"] = "2477500:1",
+		["8266380"] = "2425000:1",
+		["8263652"] = "2477500:1",
+		["8244000:hd"] = "2309000:5",
+	},
+	["Belt of the Lonely Noble"] = {
+		["is"] = "50451:0",
+		["8291150"] = "999000:1",
+		["8288906"] = "1465000:1",
+	},
+	["Fierce Ametrine"] = {
+		["is"] = "40146:0",
+		["8254137"] = "1897500:1",
+	},
+	["Mystic King's Amber"] = {
+		["8335659"] = "2357500:1",
+		["8335660"] = "2357500:1",
+		["8337019"] = "2327500:1",
+		["is"] = "40127:0",
+		["8337018"] = "2327500:1",
+	},
+	["Resplendent Ametrine"] = {
+		["8261194"] = "1755000:1",
+		["is"] = "40145:0",
+		["8255520:hd"] = "2006250:2",
+		["8261193"] = "1755000:1",
+		["8254080:hd"] = "2250000:2",
+		["8259295"] = "1825000:1",
+		["8269410"] = "1920000:1",
+		["8258525"] = "1922500:1",
+		["8261192"] = "1755000:1",
+		["8258514"] = "1922500:1",
+		["8259294"] = "1825000:1",
+		["8269409"] = "1920000:1",
+		["8272297"] = "1877500:1",
+	},
+	["Eternal Earth"] = {
+		["is"] = "35624:0",
+		["8245069"] = "118500:1",
+	},
+	["Etched Ametrine"] = {
+		["is"] = "40143:0",
+		["8345849"] = "2007500:1",
+	},
+	["Eternal Life"] = {
+		["is"] = "35625:0",
+		["8245070"] = "237000:1",
+	},
+	["Dream Shard"] = {
+		["is"] = "34052:0",
+		["8288907"] = "159500:1",
+	},
+	["Fractured Cardinal Ruby"] = {
+		["8273691"] = "2425000:1",
+		["8277140"] = "2527500:1",
+		["8273694"] = "2425000:1",
+		["8279364"] = "2477500:1",
+		["is"] = "40117:0",
+		["8345849"] = "2495000:1",
+	},
+	["Frostweave Bag"] = {
+		["is"] = "41599:0",
+		["8606432"] = "1758750:1",
+	},
+	["Eternal Fire"] = {
+		["is"] = "36860:0",
+		["8254796"] = "439000:1",
+		["8245069"] = "409000:1",
+	},
+	["Eternal Water"] = {
+		["8245071"] = "108500:1",
+		["8245072"] = "108500:1",
+		["is"] = "35622:0",
+	},
+	["Eternal Shadow"] = {
+		["is"] = "35627:0",
+		["8245070"] = "425000:1",
+		["8254797"] = "388000:1",
+	},
 }
 AUCTIONATOR_SHOPPING_LISTS = {
 	{
 		["items"] = {
-			"Eternal Fire", -- [1]
-			"Saronite Ore", -- [2]
-			"Chalcedony", -- [3]
-			"Shadow Crystal", -- [4]
-			"Frozen Orb", -- [5]
-			"Dark jade", -- [6]
-			"Primal might", -- [7]
-			"King's Amber", -- [8]
-			"king ember", -- [9]
-			"king's ember", -- [10]
-			"Eternal Life", -- [11]
-			"Autumn's Glow", -- [12]
-			"scarlet ruby", -- [13]
-			"majestic zircon", -- [14]
-			"saronite bar", -- [15]
-			"Autumn", -- [16]
-			"fractured cardinal ruby", -- [17]
-			"Resplendent Ametrine", -- [18]
-			"Potent Ametrine", -- [19]
-			"AmetrİNE", -- [20]
-			"Bold Cardinal Ruby", -- [21]
-			"Ametrine", -- [22]
-			"cardinal ruby", -- [23]
-			"Icy Dragonscale", -- [24]
-			"Arctic fur", -- [25]
-			"leg armor", -- [26]
-			"skyflare diamond", -- [27]
-			"earthsiege diamond", -- [28]
+			"Chaotic skyflare diamond", -- [1]
+			"Gnomish army", -- [2]
+			"Moonshroud", -- [3]
+			"Saronite Bar", -- [4]
+			"Crystallized Water", -- [5]
+			"Cobalt Bar", -- [6]
+			"Crystalized water", -- [7]
+			"mote of earth", -- [8]
+			"mote of fire", -- [9]
+			"weak flux", -- [10]
+			"medium leather", -- [11]
+			"Fel Iron Bar", -- [12]
+			"Felsteel bar", -- [13]
+			"thorium bar", -- [14]
+			"Adamantite bar", -- [15]
+			"Steel bar", -- [16]
+			"Runecloth", -- [17]
+			"mageweave cloth", -- [18]
+			"Dense stone", -- [19]
+			"Solid stone", -- [20]
+			"heavy stone", -- [21]
+			"Coarse stone", -- [22]
+			"Rough stone", -- [23]
+			"nightmare ender", -- [24]
+			"netherweave bag", -- [25]
+			"Khadgar's Whisker", -- [26]
+			"Felweed", -- [27]
+			"Stranglekelp", -- [28]
+			"Briarthorn", -- [29]
+			"Peacebloom", -- [30]
+			"Blindweed", -- [31]
+			"Icethorn", -- [32]
+			"Goldclover", -- [33]
+			"Eternal Fire", -- [34]
+			"Saronite Ore", -- [35]
+			"Chalcedony", -- [36]
+			"Shadow Crystal", -- [37]
+			"Frozen Orb", -- [38]
+			"Dark jade", -- [39]
+			"Primal might", -- [40]
+			"King's Amber", -- [41]
+			"king ember", -- [42]
+			"king's ember", -- [43]
+			"Eternal Life", -- [44]
+			"Autumn's Glow", -- [45]
+			"scarlet ruby", -- [46]
+			"majestic zircon", -- [47]
+			"Autumn", -- [48]
+			"fractured cardinal ruby", -- [49]
+			"Resplendent Ametrine", -- [50]
 		},
 		["isRecents"] = 1,
 		["name"] = "Recent Searches",
@@ -269,13 +299,13 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Lustrous Chalcedony"] = 149500,
 		["Jormungar Leg Armor"] = 1727500,
 		["Lucent Ametrine"] = 2168153,
-		["Nethercobra Leg Armor"] = 66660000,
-		["Perfect Balanced Shadow Crystal"] = 59600,
+		["Dark Jade Focusing Lens"] = 46995,
+		["Smooth Autumn's Glow"] = 1807500,
 		["Smooth King's Amber"] = 2364900,
-		["Beaming Earthsiege Diamond"] = 1617500,
-		["Glowing Shadow Crystal"] = 97500,
+		["Bold Cardinal Ruby"] = 2585000,
+		["Empowered Ametrine"] = 2352500,
 		["Perfect Guardian's Shadow Crystal"] = 791000,
-		["Sparkling Majestic Zircon"] = 952000,
+		["Shifting Shadow Crystal"] = 98000,
 		["Delicate Scarlet Ruby"] = 2999900,
 		["Nerubian Leg Armor"] = 1287500,
 		["Cardinal Ruby"] = 2310000,
@@ -283,30 +313,30 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Regal Shadow Crystal"] = 404000,
 		["Perfect Jagged Dark Jade"] = 220000,
 		["Insightful Earthsiege Diamond"] = 900000,
-		["Fractured Cardinal Ruby"] = 2507500,
 		["Carapace of Forgotten Kings"] = 13009899,
+		["Fractured Cardinal Ruby"] = 2507500,
 		["Frozen Orb"] = 847000,
-		["Energized Dark Jade"] = 200000,
+		["Veiled Ametrine"] = 1969999,
 		["Bright Scarlet Ruby"] = 979900,
 		["Mystic Autumn's Glow"] = 1999999,
-		["Perfect Forceful Dark Jade"] = 239000,
-		["Timeless Dark Jade"] = 59000,
+		["Potent Ametrine"] = 1882400,
+		["King's Amber"] = 2127500,
 		["Austere Earthsiege Diamond"] = 849000,
 		["Flashing Scarlet Ruby"] = 1200000,
-		["Durable Ametrine"] = 1900000,
+		["Bold Scarlet Ruby"] = 2070000,
 		["Saronite Ore"] = 59500,
 		["Delicate Cardinal Ruby"] = 2390000,
-		["Design: Beaming Earthsiege Diamond"] = 160000,
+		["Precise Scarlet Ruby"] = 1450000,
 		["Ametrine"] = 1707500,
 		["Thundering Skyflare Diamond"] = 1500000,
-		["Precise Scarlet Ruby"] = 1450000,
-		["Bold Scarlet Ruby"] = 2070000,
+		["Design: Beaming Earthsiege Diamond"] = 160000,
+		["Durable Ametrine"] = 1900000,
 		["Design: Destructive Skyflare Diamond"] = 97011,
 		["Eternal Fire"] = 420000,
-		["King's Amber"] = 2127500,
-		["Potent Ametrine"] = 1882400,
+		["Timeless Dark Jade"] = 59000,
+		["Perfect Forceful Dark Jade"] = 239000,
 		["Primal Might"] = 1985000,
-		["Veiled Ametrine"] = 1969999,
+		["Energized Dark Jade"] = 200000,
 		["Stalwart Ametrine"] = 2500000,
 		["Runed Scarlet Ruby"] = 1989999,
 		["Glimmering Ametrine"] = 2569999,
@@ -315,14 +345,26 @@ AUCTIONATOR_PRICE_DATABASE = {
 		["Design: Thundering Skyflare Diamond"] = 157000,
 		["Destructive Skyflare Diamond"] = 449000,
 		["Wicked Ametrine"] = 1800000,
-		["Shifting Shadow Crystal"] = 98000,
+		["Sparkling Majestic Zircon"] = 952000,
 		["Chaotic Skyflare Diamond"] = 939000,
-		["Empowered Ametrine"] = 2352500,
-		["Bold Cardinal Ruby"] = 2585000,
-		["Smooth Autumn's Glow"] = 1807500,
-		["Dark Jade Focusing Lens"] = 46995,
+		["Glowing Shadow Crystal"] = 97500,
+		["Beaming Earthsiege Diamond"] = 1617500,
+		["Perfect Balanced Shadow Crystal"] = 59600,
+		["Nethercobra Leg Armor"] = 66660000,
 	},
 	["Icecrown_Horde"] = {
+		["Moonshroud"] = 695000,
+		["Titansteel Bar"] = 4700200,
+		["Netherweave Bag"] = 216138,
+		["Nightmare Ender"] = 40500000,
+		["Royal Moonshroud Bracers"] = 14490000,
+		["Felsteel Bar"] = 1180000,
+		["Pattern: Royal Moonshroud Robe"] = 4440000,
+		["Chaotic Skyflare Diamond"] = 1129993,
+		["Frostweave Bag"] = 1690909,
+		["Moonshroud Gloves"] = 4988888,
+		["Royal Moonshroud Robe"] = 48990000,
+		["Sapphiron's Scale Boots"] = 6669900,
 	},
 	["Blackrock [PvP only]_Alliance"] = {
 	},
@@ -331,21 +373,33 @@ AUCTIONATOR_PRICE_DATABASE = {
 }
 AUCTIONATOR_LAST_SCAN_TIME = nil
 AUCTIONATOR_TOONS = {
-	["Fatalfire"] = {
-		["firstSeen"] = 1718555186,
+	["Analbuster"] = {
+		["firstSeen"] = 1713648511,
+		["guid"] = "0x0E00000000031025",
 		["firstVersion"] = "2.6.3",
-		["guid"] = "0x07000000006C2D89",
+	},
+	["Kathriel"] = {
+		["firstSeen"] = 1718555156,
+		["firstVersion"] = "2.6.3",
+	},
+	["Mayistab"] = {
+		["firstSeen"] = 1712241993,
+		["firstVersion"] = "2.6.3",
+	},
+	["Mayifire"] = {
+		["firstSeen"] = 1731608070,
+		["firstVersion"] = "2.6.3",
+	},
+	["Mayicurse"] = {
+		["firstSeen"] = 1710263899,
+		["firstVersion"] = "2.6.3",
 	},
 	["Kertenkele"] = {
 		["firstSeen"] = 1718555206,
 		["firstVersion"] = "2.6.3",
 	},
-	["Enkz"] = {
-		["firstSeen"] = 1711831842,
-		["firstVersion"] = "2.6.3",
-	},
-	["Kathriel"] = {
-		["firstSeen"] = 1718555156,
+	["Yaramiem"] = {
+		["firstSeen"] = 1712497805,
 		["firstVersion"] = "2.6.3",
 	},
 	["Fareci"] = {
@@ -356,12 +410,13 @@ AUCTIONATOR_TOONS = {
 		["firstSeen"] = 1711834611,
 		["firstVersion"] = "2.6.3",
 	},
-	["Mayistab"] = {
-		["firstSeen"] = 1712241993,
+	["Fatalfire"] = {
+		["firstSeen"] = 1718555186,
 		["firstVersion"] = "2.6.3",
 	},
-	["Gowtheru"] = {
-		["firstSeen"] = 1719257722,
+	["Quennel"] = {
+		["firstSeen"] = 1718555102,
+		["guid"] = "0x07000000004FD106",
 		["firstVersion"] = "2.6.3",
 	},
 	["Mayiascend"] = {
@@ -370,65 +425,66 @@ AUCTIONATOR_TOONS = {
 	},
 	["Elynass"] = {
 		["firstSeen"] = 1712269661,
-		["firstVersion"] = "2.6.3",
 		["guid"] = "0x07000000001BC237",
+		["firstVersion"] = "2.6.3",
 	},
-	["Mayicurse"] = {
-		["firstSeen"] = 1710263899,
+	["Morellonomi"] = {
+		["firstSeen"] = 1730129009,
 		["firstVersion"] = "2.6.3",
 	},
 	["Dumbcuntt"] = {
 		["firstSeen"] = 1711831887,
-		["firstVersion"] = "2.6.3",
 		["guid"] = "0x0A00000000C24A28",
-	},
-	["Yaramiem"] = {
-		["firstSeen"] = 1712497805,
 		["firstVersion"] = "2.6.3",
 	},
-	["Quennel"] = {
-		["firstSeen"] = 1718555102,
+	["Hirokhan"] = {
+		["firstSeen"] = 1734094839,
+		["guid"] = "0x07000000004FD106",
 		["firstVersion"] = "2.6.3",
+	},
+	["Gowtheru"] = {
+		["firstSeen"] = 1719257722,
+		["firstVersion"] = "2.6.3",
+		["guid"] = "0x0700000000527229",
 	},
 	["Plaacebo"] = {
 		["firstSeen"] = 1710265996,
-		["firstVersion"] = "2.6.3",
 		["guid"] = "0x07000000000B63E0",
-	},
-	["Analbuster"] = {
-		["firstSeen"] = 1713648511,
 		["firstVersion"] = "2.6.3",
-		["guid"] = "0x0E00000000031025",
+	},
+	["Enkz"] = {
+		["firstSeen"] = 1711831842,
+		["firstVersion"] = "2.6.3",
 	},
 }
 AUCTIONATOR_STACKING_PREFS = {
 	["eternal earth"] = {
-		["numstacks"] = 0,
 		["stacksize"] = 1,
+		["numstacks"] = 0,
 	},
 	["eternal fire"] = {
-		["numstacks"] = 0,
 		["stacksize"] = 1,
+		["numstacks"] = 0,
 	},
 	["eternal life"] = {
-		["numstacks"] = 0,
 		["stacksize"] = 1,
+		["numstacks"] = 0,
 	},
 	["eternal shadow"] = {
+		["stacksize"] = 1,
 		["numstacks"] = 0,
-		["stacksize"] = 1,
-	},
-	["*_gemscut"] = {
-		["numstacks"] = -1,
-		["stacksize"] = 1,
-	},
-	["eternal water"] = {
-		["numstacks"] = 0,
-		["stacksize"] = 1,
 	},
 	["dream shard"] = {
-		["numstacks"] = 0,
 		["stacksize"] = 1,
+		["numstacks"] = 0,
+	},
+	["eternal water"] = {
+		["stacksize"] = 1,
+		["numstacks"] = 0,
+	},
+	["*_gemscut"] = {
+		["stacksize"] = 1,
+		["numstacks"] = -1,
 	},
 }
 AUCTIONATOR_SCAN_MINLEVEL = 3

@@ -3,6 +3,7 @@ Binder_Settings = {
 	["ProfilesCreated"] = 1,
 	["Profiles"] = {
 		{
+			["Name"] = "Druth",
 			["Description"] = "AB5, AB4 Down - SE, SQ Up - Insert Auto Run",
 			["The_Binds"] = {
 				{
@@ -1559,7 +1560,6 @@ Binder_Settings = {
 					["TheAction"] = "TOGGLEBUFFCASTABLE",
 				}, -- [469]
 			},
-			["Name"] = "Druth",
 		}, -- [1]
 	},
 }

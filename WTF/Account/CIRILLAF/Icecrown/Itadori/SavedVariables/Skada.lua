@@ -9,13 +9,13 @@ SkadaCharDB = {
 				["class"] = "PRIEST",
 				["spec"] = 256,
 				["overkill"] = 223686,
-				["heal"] = 13702,
 				["role"] = "HEALER",
+				["totaldamage"] = 224768,
 				["name"] = "Reiila",
 				["time"] = 68.52000000000001,
 				["flag"] = 132369,
 				["totaldamagetaken"] = 2450,
-				["totaldamage"] = 224768,
+				["heal"] = 13702,
 				["damage"] = 224768,
 			}, -- [1]
 			{

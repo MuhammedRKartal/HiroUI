@@ -3,6 +3,7 @@ ButtonFacadeDB = {
 	["profileKeys"] = {
 		["Mayiascend - Icecrown"] = "Default",
 		["Malescula - Icecrown"] = "Default",
+		["Pussfeeder - Onyxia"] = "Default",
 		["Cezzarged - Icecrown"] = "Default",
 		["Enkz - Blackrock [PvP only]"] = "Default",
 		["Mayistab - Icecrown"] = "Default",
@@ -14,18 +15,18 @@ ButtonFacadeDB = {
 		["Plaacebo - Icecrown"] = "Default",
 		["Analbasher - Icecrown"] = "Default",
 		["Mayikiss - Icecrown"] = "Default",
+		["Hirobank - Icecrown"] = "Default",
 		["Itadori - Icecrown"] = "Default",
 		["Yaramiem - Blackrock [PvP only]"] = "Default",
 		["Rosemaryx - Icecrown"] = "Default",
 		["Cezzarged - Blackrock [PvP only]"] = "Default",
 		["Fareci - Icecrown"] = "Default",
 		["Analbuster - Onyxia"] = "Default",
-		["Hirobank - Icecrown"] = "Default",
+		["Mayishadow - Icecrown"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
 			["Gloss"] = 0.28,
-			["Backdrop"] = true,
 			["Colors"] = {
 				["Pushed"] = {
 					0.2549019607843137, -- [1]
@@ -64,6 +65,7 @@ ButtonFacadeDB = {
 					1, -- [4]
 				},
 			},
+			["Backdrop"] = true,
 			["SkinID"] = "LiteStep XLT",
 		},
 	},

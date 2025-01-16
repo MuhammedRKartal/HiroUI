@@ -13,17 +13,55 @@ MBFDB = {
 		["Gelkucama - Icecrown"] = "Default",
 		["Plaacebo - Icecrown"] = "Default",
 		["Koboldminer - Icecrown"] = "Default",
-		["Sikelet - Icecrown"] = "Default",
-		["Ramozan - Icecrown"] = "Default",
+		["Ilkkan - Icecrown"] = "Default",
+		["Fareci - Icecrown"] = "Default",
 		["Zoolock - Icecrown"] = "Default",
 		["Canubet - Icecrown"] = "Default",
 		["Kirikox - Icecrown"] = "Default",
 		["Enayi - Icecrown"] = "Default",
-		["Fareci - Icecrown"] = "Default",
-		["Ilkkan - Icecrown"] = "Default",
+		["Ramozan - Icecrown"] = "Default",
+		["Sikelet - Icecrown"] = "Default",
 		["Tokatlarim - Icecrown"] = "Default",
 	},
 	["profiles"] = {
+		["Mayiascend - Icecrown"] = {
+			["MBF_FrameLocation"] = {
+				nil, -- [1]
+				nil, -- [2]
+				-298.9563601192701, -- [3]
+				-185.4165782020735, -- [4]
+			},
+		},
+		["Main"] = {
+			["MBF_FrameLocation"] = {
+				nil, -- [1]
+				nil, -- [2]
+				-298.9563601192701, -- [3]
+				-185.4165782020735, -- [4]
+			},
+			["GrowUp"] = false,
+			["sort_by_rows"] = true,
+			["customChildren"] = {
+				"MinimapButtonFrameDragButton", -- [1]
+				"MiniMapMailFrameDisabled", -- [2]
+				"LibDBIcon10_Bartender4", -- [3]
+				"LibDBIcon10_DBM", -- [4]
+				"Gatherer_MinimapOptionsButton", -- [5]
+				"HealBot_ButtonFrame", -- [6]
+				"LibDBIcon10_Skinner", -- [7]
+				"LibDBIcon10_WeakAuras", -- [8]
+				"XPerl_MinimapButton_Frame", -- [9]
+				"LibDBIcon10_Skada", -- [10]
+				"LibDBIcon10_KPack", -- [11]
+				"FuBarPluginAtlasLootFuFrameMinimapButton", -- [12]
+				"LibDBIcon10_TidyPlatesIcon", -- [13]
+			},
+			["minimapButton"] = {
+				["minimapPos"] = 231.5698387710189,
+				["hide"] = false,
+			},
+			["mbfHidden"] = true,
+		},
 		["Default"] = {
 			["addonScale"] = 0.6,
 			["locked"] = true,
@@ -93,44 +131,6 @@ MBFDB = {
 				"vkdpxiqkyfgxykwsaqsn", -- [43]
 			},
 			["disabledMail"] = false,
-		},
-		["Mayiascend - Icecrown"] = {
-			["MBF_FrameLocation"] = {
-				nil, -- [1]
-				nil, -- [2]
-				-298.9563601192701, -- [3]
-				-185.4165782020735, -- [4]
-			},
-		},
-		["Main"] = {
-			["MBF_FrameLocation"] = {
-				nil, -- [1]
-				nil, -- [2]
-				-298.9563601192701, -- [3]
-				-185.4165782020735, -- [4]
-			},
-			["GrowUp"] = false,
-			["sort_by_rows"] = true,
-			["mbfHidden"] = true,
-			["minimapButton"] = {
-				["minimapPos"] = 231.5698387710189,
-				["hide"] = false,
-			},
-			["customChildren"] = {
-				"MinimapButtonFrameDragButton", -- [1]
-				"MiniMapMailFrameDisabled", -- [2]
-				"LibDBIcon10_Bartender4", -- [3]
-				"LibDBIcon10_DBM", -- [4]
-				"Gatherer_MinimapOptionsButton", -- [5]
-				"HealBot_ButtonFrame", -- [6]
-				"LibDBIcon10_Skinner", -- [7]
-				"LibDBIcon10_WeakAuras", -- [8]
-				"XPerl_MinimapButton_Frame", -- [9]
-				"LibDBIcon10_Skada", -- [10]
-				"LibDBIcon10_KPack", -- [11]
-				"FuBarPluginAtlasLootFuFrameMinimapButton", -- [12]
-				"LibDBIcon10_TidyPlatesIcon", -- [13]
-			},
 		},
 	},
 }

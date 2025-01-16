@@ -42,6 +42,13 @@ AF_config = {
 		["rate"] = 60,
 		["system"] = "CHANNEL",
 	},
+	["Icecrown-Erkeksikici"] = {
+		["message"] = "AutoFlood 1.1",
+		["channel"] = "1",
+		["idChannel"] = "1",
+		["rate"] = 60,
+		["system"] = "CHANNEL",
+	},
 	["Icecrown-Rosemaryx"] = {
 		["message"] = "AutoFlood 1.1",
 		["channel"] = "1",
@@ -56,7 +63,7 @@ AF_config = {
 		["rate"] = 60,
 		["system"] = "CHANNEL",
 	},
-	["Icecrown-Yildiiztilbe"] = {
+	["Icecrown-Ballkaymak"] = {
 		["message"] = "AutoFlood 1.1",
 		["channel"] = "1",
 		["idChannel"] = "1",
@@ -77,7 +84,7 @@ AF_config = {
 		["rate"] = 60,
 		["system"] = "CHANNEL",
 	},
-	["Icecrown-Ancaz"] = {
+	["Lordaeron-Lapperisey"] = {
 		["message"] = "AutoFlood 1.1",
 		["channel"] = "1",
 		["idChannel"] = "1",
@@ -112,6 +119,13 @@ AF_config = {
 		["rate"] = 60,
 		["system"] = "CHANNEL",
 	},
+	["Icecrown-Mayiride"] = {
+		["message"] = "AutoFlood 1.1",
+		["channel"] = "1",
+		["idChannel"] = "1",
+		["rate"] = 60,
+		["system"] = "CHANNEL",
+	},
 	["Icecrown-Haydutkadri"] = {
 		["message"] = "AutoFlood 1.1",
 		["channel"] = "1",
@@ -133,13 +147,6 @@ AF_config = {
 		["rate"] = 30,
 		["system"] = "CHANNEL",
 	},
-	["Icecrown-Mayiride"] = {
-		["message"] = "AutoFlood 1.1",
-		["channel"] = "1",
-		["idChannel"] = "1",
-		["rate"] = 60,
-		["system"] = "CHANNEL",
-	},
 	["Icecrown-Fokzeynep"] = {
 		["message"] = "AutoFlood 1.1",
 		["channel"] = "1",
@@ -154,14 +161,14 @@ AF_config = {
 		["rate"] = 60,
 		["system"] = "CHANNEL",
 	},
-	["Lordaeron-Lapperisey"] = {
+	["Icecrown-Ancaz"] = {
 		["message"] = "AutoFlood 1.1",
 		["channel"] = "1",
 		["idChannel"] = "1",
 		["rate"] = 60,
 		["system"] = "CHANNEL",
 	},
-	["Icecrown-Ballkaymak"] = {
+	["Icecrown-Yildiiztilbe"] = {
 		["message"] = "AutoFlood 1.1",
 		["channel"] = "1",
 		["idChannel"] = "1",

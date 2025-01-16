@@ -13,14 +13,14 @@ MoveAnything_CharacterSettings = {
 				-1148.333822461666, -- [5]
 			},
 		},
-		["ItemRefTooltip"] = {
-			["name"] = "ItemRefTooltip",
+		["LootFrame"] = {
+			["name"] = "LootFrame",
 			["pos"] = {
-				"BOTTOM", -- [1]
+				"BOTTOMLEFT", -- [1]
 				"UIParent", -- [2]
-				"BOTTOM", -- [3]
-				8.000024619406442, -- [4]
-				189.9999982219318, -- [5]
+				"BOTTOMLEFT", -- [3]
+				961.6667622492317, -- [4]
+				341.9999932980505, -- [5]
 			},
 		},
 		["TimeManagerFrame"] = {
@@ -33,14 +33,14 @@ MoveAnything_CharacterSettings = {
 				-170.0000067019494, -- [5]
 			},
 		},
-		["TokenFramePopup"] = {
-			["name"] = "TokenFramePopup",
+		["ColorPickerFrame"] = {
+			["name"] = "ColorPickerFrame",
 			["pos"] = {
-				"TOPLEFT", -- [1]
-				"TokenFrame", -- [2]
-				"TOPRIGHT", -- [3]
-				-33.00000088903416, -- [4]
-				-27.9999986322553, -- [5]
+				"CENTER", -- [1]
+				"UIParent", -- [2]
+				"CENTER", -- [3]
+				3.50142669357848e-005, -- [4]
+				1.750713329025671e-005, -- [5]
 			},
 		},
 		["GroupLootFrame1"] = {
@@ -53,14 +53,14 @@ MoveAnything_CharacterSettings = {
 				154.9999999316128, -- [5]
 			},
 		},
-		["LootFrame"] = {
-			["name"] = "LootFrame",
+		["ItemRefTooltip"] = {
+			["name"] = "ItemRefTooltip",
 			["pos"] = {
-				"BOTTOMLEFT", -- [1]
+				"BOTTOM", -- [1]
 				"UIParent", -- [2]
-				"BOTTOMLEFT", -- [3]
-				961.6667622492317, -- [4]
-				341.9999932980505, -- [5]
+				"BOTTOM", -- [3]
+				8.000024619406442, -- [4]
+				189.9999982219318, -- [5]
 			},
 		},
 		["PlayerDebuffsMover"] = {
@@ -74,14 +74,15 @@ MoveAnything_CharacterSettings = {
 				501.0340919279054, -- [5]
 			},
 		},
-		["MirrorTimer1"] = {
-			["name"] = "MirrorTimer1",
+		["UIErrorsFrame"] = {
+			["name"] = "UIErrorsFrame",
+			["scale"] = 0.6516915481099784,
 			["pos"] = {
 				"TOP", -- [1]
 				"UIParent", -- [2]
 				"TOP", -- [3]
-				-9.166629954117052, -- [4]
-				-455.1666982045818, -- [5]
+				978.2225974888123, -- [4]
+				-446.786105047647, -- [5]
 			},
 		},
 		["PlayerBuffsMover"] = {
@@ -114,25 +115,24 @@ MoveAnything_CharacterSettings = {
 				302.5000139851905, -- [5]
 			},
 		},
-		["UIErrorsFrame"] = {
-			["name"] = "UIErrorsFrame",
-			["scale"] = 0.6516915481099784,
+		["MirrorTimer1"] = {
+			["name"] = "MirrorTimer1",
 			["pos"] = {
 				"TOP", -- [1]
 				"UIParent", -- [2]
 				"TOP", -- [3]
-				978.2225974888123, -- [4]
-				-446.786105047647, -- [5]
+				-9.166629954117052, -- [4]
+				-455.1666982045818, -- [5]
 			},
 		},
-		["ColorPickerFrame"] = {
-			["name"] = "ColorPickerFrame",
+		["TokenFramePopup"] = {
+			["name"] = "TokenFramePopup",
 			["pos"] = {
-				"CENTER", -- [1]
-				"UIParent", -- [2]
-				"CENTER", -- [3]
-				3.50142669357848e-005, -- [4]
-				1.750713329025671e-005, -- [5]
+				"TOPLEFT", -- [1]
+				"TokenFrame", -- [2]
+				"TOPRIGHT", -- [3]
+				-33.00000088903416, -- [4]
+				-27.9999986322553, -- [5]
 			},
 		},
 		["PVPParentFrame"] = {

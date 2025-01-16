@@ -29,12 +29,13 @@ KPackCharDB = {
 			["AutoCompleteGuild"] = true,
 			["AutoCompleteFriends"] = true,
 			["AutoCompleteRecent"] = true,
-			["alts"] = {
-				"Hirowata|Icecrown|Alliance", -- [1]
+			["recent"] = {
 			},
 			["AutoCompleteContacts"] = true,
 			["DisableBlizzardAutoComplete"] = false,
-			["recent"] = {
+			["alts"] = {
+				"Hirowata|Icecrown|Alliance", -- [1]
+				"Thunderjo|Icecrown|Horde", -- [2]
 			},
 		},
 	},

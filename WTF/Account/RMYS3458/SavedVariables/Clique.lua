@@ -8,19 +8,24 @@ CliqueDB = {
 		["Pussfeeder - Onyxia"] = "Pussfeeder - Onyxia",
 		["Canavi - Icecrown"] = "Canavi - Icecrown",
 		["Mashadow - Icecrown"] = "Mashadow - Icecrown",
+		["Minikserce - Icecrown"] = "Minikserce - Icecrown",
 		["Rosemaryx - Icecrown"] = "Rosemaryx - Icecrown",
 		["Mayijudge - Icecrown"] = "Mayijudge - Icecrown",
+		["Dinsiz - Icecrown"] = "Dinsiz - Icecrown",
 		["Syllisia - Lordaeron"] = "Syllisia - Lordaeron",
 		["Aegwyn - Icecrown"] = "Aegwyn - Icecrown",
 		["Gelkucama - Icecrown"] = "Gelkucama - Icecrown",
 		["Mayiride - Icecrown"] = "Mayiride - Icecrown",
-		["Hirokhan - Blackrock [PvP only]"] = "Hirokhan - Blackrock [PvP only]",
-		["Zoolock - Icecrown"] = "Zoolock - Icecrown",
+		["Sourbang - Icecrown"] = "Sourbang - Icecrown",
 		["Behice - Blackrock [PvP only]"] = "Behice - Blackrock [PvP only]",
-		["Kirikox - Icecrown"] = "Kirikox - Icecrown",
+		["Hirokhan - Blackrock [PvP only]"] = "Hirokhan - Blackrock [PvP only]",
+		["Healite - Icecrown"] = "Healite - Icecrown",
+		["Zoolock - Icecrown"] = "Zoolock - Icecrown",
 		["Itadori - Icecrown"] = "Itadori - Icecrown",
+		["Kirikox - Icecrown"] = "Kirikox - Icecrown",
 		["Mayikiss - Icecrown"] = "Mayikiss - Icecrown",
 		["Diabolicjoe - Icecrown"] = "Diabolicjoe - Icecrown",
+		["Rupturer - Icecrown"] = "Rupturer - Icecrown",
 		["Tokatlarim - Icecrown"] = "Tokatlarim - Icecrown",
 	},
 	["profiles"] = {
@@ -34,9 +39,13 @@ CliqueDB = {
 		},
 		["Mashadow - Icecrown"] = {
 		},
+		["Minikserce - Icecrown"] = {
+		},
 		["Rosemaryx - Icecrown"] = {
 		},
 		["Mayijudge - Icecrown"] = {
+		},
+		["Dinsiz - Icecrown"] = {
 		},
 		["Syllisia - Lordaeron"] = {
 		},
@@ -175,7 +184,7 @@ CliqueDB = {
 				["XPerl_Raid_Grp7UnitButton1"] = true,
 				["XPerl_TargetnameFrame"] = true,
 				["XPerl_party3nameFrame"] = true,
-				["XPerl_Raid_Grp3UnitButton5"] = true,
+				["XPerl_Raid_Grp6UnitButton1"] = true,
 				["XPerl_Raid_Grp3UnitButton3nameFrame"] = true,
 				["TargetFrame"] = true,
 				["XPerl_Raid_Grp4UnitButton4nameFrame"] = true,
@@ -221,7 +230,7 @@ CliqueDB = {
 				["XPerl_Raid_Grp3UnitButton2nameFrame"] = true,
 				["XPerl_party4"] = true,
 				["XPerl_party3targetFrame"] = true,
-				["XPerl_Raid_Grp6UnitButton1"] = true,
+				["XPerl_Raid_Grp3UnitButton5"] = true,
 				["XPerl_party4nameFrame"] = true,
 				["XPerl_partypet1nameFrame"] = true,
 				["XPerl_Raid_Grp5UnitButton3nameFrame"] = true,
@@ -229,15 +238,19 @@ CliqueDB = {
 				["XPerl_Raid_Grp4UnitButton2nameFrame"] = true,
 			},
 		},
-		["Hirokhan - Blackrock [PvP only]"] = {
-		},
-		["Zoolock - Icecrown"] = {
+		["Sourbang - Icecrown"] = {
 		},
 		["Behice - Blackrock [PvP only]"] = {
 		},
-		["Kirikox - Icecrown"] = {
+		["Hirokhan - Blackrock [PvP only]"] = {
+		},
+		["Healite - Icecrown"] = {
+		},
+		["Zoolock - Icecrown"] = {
 		},
 		["Itadori - Icecrown"] = {
+		},
+		["Kirikox - Icecrown"] = {
 		},
 		["Mayikiss - Icecrown"] = {
 			["clicksets"] = {
@@ -369,6 +382,8 @@ CliqueDB = {
 			},
 		},
 		["Diabolicjoe - Icecrown"] = {
+		},
+		["Rupturer - Icecrown"] = {
 		},
 		["Tokatlarim - Icecrown"] = {
 		},

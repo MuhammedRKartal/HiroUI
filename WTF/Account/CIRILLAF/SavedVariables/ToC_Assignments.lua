@@ -1,31 +1,37 @@
 
 ToC_AssignmentsDB = {
 	["profileKeys"] = {
-		["Itadori - Icecrown"] = "Itadori - Icecrown",
-		["Hirobank - Icecrown"] = "Hirobank - Icecrown",
-		["Rosemaryx - Icecrown"] = "Rosemaryx - Icecrown",
-		["Mayiride - Icecrown"] = "Mayiride - Icecrown",
+		["Mayishadow - Icecrown"] = "Mayishadow - Icecrown",
 		["Malescula - Icecrown"] = "Malescula - Icecrown",
-		["Lunarz - Icecrown"] = "Lunarz - Icecrown",
+		["Pussfeeder - Onyxia"] = "Pussfeeder - Onyxia",
 		["Analbasher - Icecrown"] = "Analbasher - Icecrown",
 		["Mayikiss - Icecrown"] = "Mayikiss - Icecrown",
+		["Hirobank - Icecrown"] = "Hirobank - Icecrown",
+		["Rosemaryx - Icecrown"] = "Rosemaryx - Icecrown",
+		["Lunarz - Icecrown"] = "Lunarz - Icecrown",
+		["Mayiride - Icecrown"] = "Mayiride - Icecrown",
+		["Itadori - Icecrown"] = "Itadori - Icecrown",
 	},
 	["profiles"] = {
-		["Itadori - Icecrown"] = {
+		["Mayishadow - Icecrown"] = {
+		},
+		["Malescula - Icecrown"] = {
+		},
+		["Pussfeeder - Onyxia"] = {
+		},
+		["Analbasher - Icecrown"] = {
+		},
+		["Mayikiss - Icecrown"] = {
 		},
 		["Hirobank - Icecrown"] = {
 		},
 		["Rosemaryx - Icecrown"] = {
 		},
-		["Mayiride - Icecrown"] = {
-		},
-		["Malescula - Icecrown"] = {
-		},
 		["Lunarz - Icecrown"] = {
 		},
-		["Analbasher - Icecrown"] = {
+		["Mayiride - Icecrown"] = {
 		},
-		["Mayikiss - Icecrown"] = {
+		["Itadori - Icecrown"] = {
 		},
 	},
 }
